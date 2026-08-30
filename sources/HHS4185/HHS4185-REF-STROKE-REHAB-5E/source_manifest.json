@@ -1,0 +1,46 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+  "title": "Stroke Rehabilitation: A Function-Based Approach, Fifth Edition",
+  "course_code": "HHS4185",
+  "source_role": "additional_source",
+  "source_kind": "book",
+  "added_at_hkt": "2026-08-30T16:53:48+08:00",
+  "package_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
+        "original_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
+        "size_bytes": 24932603,
+        "sha256": "sha256:00364c0402931f94b582f4f9a86adb02742565652907ee4a804c6ec031e206a7",
+        "copied_path": null,
+        "copy_status": "not_requested"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": false
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "structure_and_visual_inventory_generated",
+  "verification_status": "generated_not_verified",
+  "status": "registered",
+  "claims_index": "not_created",
+  "notes": "Additional rehabilitation reference; canonical PDF remains in the VTC study folder. Structure and page-level visual-location inventory are generated; visual contents have not yet been OCRed or reconstructed.",
+  "next_step": "Review visual candidates against source pages, then extract embedded text and selectively reconstruct table contents before changing verification status.",
+  "generated_outputs": [
+    "01 OCR and Layout/stroke_rehab_page_structure_generated.jsonl",
+    "01 OCR and Layout/stroke_rehab_outline_generated.json",
+    "01 OCR and Layout/stroke_rehab_layout_inventory_generated.json",
+    "02 Text and Tables/stroke_rehab_visual_cues_generated.json",
+    "03 Analysis/stroke_rehab_book_structure_generated.json",
+    "03 Analysis/stroke_rehab_visual_structure_generated.json"
+  ]
+}
