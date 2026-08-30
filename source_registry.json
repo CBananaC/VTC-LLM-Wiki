@@ -1,0 +1,68 @@
+{
+  "schema_version": "vtc-llm-wiki.source-registry.v1",
+  "record_type": "source_registry",
+  "project_root": ".",
+  "updated_at": "2026-08-30",
+  "default_new_source_package": "sources/<course-code>/<source-id>/",
+  "verification_policy": {
+    "raw_sources_immutable": true,
+    "generated_default_status": "generated_not_verified",
+    "manual_source_image_check_required_for_exact_quotes": true,
+    "summaries_are_context_only": true,
+    "claims_index_default": "not_created"
+  },
+  "remote_policy": {
+    "github_visibility": "public",
+    "github_status": "pending_repository_owner_and_name_and_publication_review",
+    "google_drive_sharing": "restricted",
+    "google_drive_status": "pending_exact_folder_and_upload_scope"
+  },
+  "sources": [
+    {
+      "source_id": "hhs4185-course-materials",
+      "course_code": "HHS4185",
+      "course_title": "Common Rehabilitation Conditions",
+      "source_role": "course_materials",
+      "source_kind": "lecture_workshop_tutorial_set",
+      "title": "HHS4185 Course Materials",
+      "package_status": "existing_package",
+      "package_path": "HHS4185 Course Materials - LLM Wiki",
+      "original_source_root": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions",
+      "source_manifest_path": "HHS4185 Course Materials - LLM Wiki/(1) Source Inventory/hhs4185_course_source_manifest_generated.json",
+      "retrieval_index_path": "HHS4185 Course Materials - LLM Wiki/(5) Retrieval Index",
+      "query_helper_path": "HHS4185 Course Materials - LLM Wiki/tools/query_hhs4185_retrieval.py",
+      "retrieval_group": "HHS4185-course-first",
+      "priority": 1,
+      "covered_source_types": [
+        "lecture",
+        "lecture_bilingual",
+        "workshop",
+        "tutorial"
+      ],
+      "coverage_status": "partial_course_materials",
+      "coverage_note": "The existing extraction package covers five canonical lecture, workshop, and tutorial PDFs. Official documents, assessment materials, reference materials, media/links, and past papers remain in the VTC study folder for later registration or separate processing.",
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "davidson-25th-edition",
+      "course_code": "HHS4185",
+      "course_title": "Common Rehabilitation Conditions",
+      "source_role": "additional_source",
+      "source_kind": "book",
+      "title": "Davidson's Principles and Practice of Medicine, 25th edition",
+      "package_status": "existing_package",
+      "package_path": "Davidson 25th Edition - LLM Wiki",
+      "original_source_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Davidsons Principles and Practice of Medicine etc.).pdf",
+      "source_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_course_first_manifest.json",
+      "retrieval_index_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index",
+      "query_helper_path": null,
+      "retrieval_group": "HHS4185-course-first",
+      "priority": 2,
+      "retrieval_policy": "Use only to supplement or clarify HHS4185 course material, and label the supplementation.",
+      "coverage_status": "processed_book_package",
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    }
+  ]
+}
