@@ -63,6 +63,31 @@
       "coverage_status": "processed_book_package",
       "verification_status": "generated_not_verified",
       "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+      "course_code": "HHS4185",
+      "source_role": "additional_source",
+      "source_kind": "book",
+      "title": "Stroke Rehabilitation: A Function-Based Approach, Fifth Edition",
+      "package_status": "registered",
+      "package_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E",
+      "source_manifest_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/source_manifest.json",
+      "query_helper_path": null,
+      "priority": 2,
+      "source_files": [
+        {
+          "file_name": "Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
+          "original_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
+          "size_bytes": 24932603,
+          "sha256": "sha256:00364c0402931f94b582f4f9a86adb02742565652907ee4a804c6ec031e206a7",
+          "copied_path": null,
+          "copy_status": "not_requested"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "not_verified",
+      "claims_index": "not_created"
     }
   ]
 }
