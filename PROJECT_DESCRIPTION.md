@@ -14,8 +14,13 @@
 
 ## Scope
 
-- Scope: To be refined with the user after onboarding.
-- Non-goals: Do not infer unrequested features, uploads, deployments, or publication.
+- Scope: Maintain one project-level catalogue and retrieval entry point for VTC course materials and additional study sources across courses and semesters. Preserve each source package's raw, OCR/layout, text/table, analysis, and retrieval layers, while allowing source-specific processors to remain inside their package.
+- Current packages: `HHS4185 Course Materials - LLM Wiki/` and `Davidson 25th Edition - LLM Wiki/`, both moved into this project from the HHS4185 study folder with their files intact.
+- Future package location: `sources/<course-code>/<source-id>/`, created by `tools/register_source.py`.
+- Non-goals: Do not infer unrequested features, uploads, deployments, or publication. Do not treat generated extraction as verified medical or academic evidence.
+- Inputs: VTC lecture/workshop/tutorial slides, official course documents, assessment material, past papers, books, journal or web sources, source metadata, and manually reviewed page images.
+- Outputs: Source manifests, immutable raw-source references or copies, OCR/layout records, structured text and table candidates, analysis summaries, source-linked retrieval indexes, and a formal AI answer contract with provenance.
+- Success criteria: A new source can be registered with one documented command; its hash and provenance are recorded; processing layers stay separate; retrieval returns source IDs and locators; course material is prioritized over supplemental sources where configured; and every generated candidate remains visibly unverified until manual review.
 - Source of truth: This project folder and its project-level `AGENTS.md`.
 
 ## Remote destinations
@@ -28,4 +33,7 @@
 ## Validation and next decision
 
 - Validate generated files, Git state/commits when applicable, and any live remote resource separately.
-- Next decision: Confirm project scope and the required GitHub/Drive destination before external setup.
+- Local status: The two existing wiki directories have been moved here; local Git is initialized; project rules and bootstrap metadata are committed.
+- GitHub: Intended visibility is `public`, but the repository owner/name and any publication-safe file set still need confirmation. Public visibility must not be treated as permission to redistribute copyrighted course/book source material.
+- Google Drive: Intended sharing is `restricted`; exact destination folder and upload scope remain to be confirmed.
+- Next decision: Confirm the GitHub owner/repository name, review what may legally be public, and identify the restricted Drive folder before any remote creation, upload, permission change, or push.
