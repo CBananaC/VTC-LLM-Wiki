@@ -1,0 +1,7 @@
+# Local operating-system metadata and Python bytecode are not source material.
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Keep resumable OCR checkpoints visible for deliberate review; do not ignore
+# *.partial.jsonl files by default.
