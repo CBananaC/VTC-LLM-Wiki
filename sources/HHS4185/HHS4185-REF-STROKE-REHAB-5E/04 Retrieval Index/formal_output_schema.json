@@ -1,0 +1,44 @@
+{
+  "schema_version": "stroke-rehabilitation.formal-answer.v1",
+  "record_type": "formal_answer_schema",
+  "purpose": "Portable answer format for any AI using this retrieval packet.",
+  "required_fields": {
+    "record_type": "formal_answer",
+    "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+    "book_id": "STROKE5",
+    "query": "The user's question",
+    "answer": "A concise synthesis grounded in returned source passages",
+    "source_quotations": "Quotation candidates actually used in the answer",
+    "references": "Matching human-readable references"
+  },
+  "source_quotation_fields": [
+    "evidence_id",
+    "quotation",
+    "source_passage_id",
+    "reference",
+    "in_text_citation",
+    "verification_status"
+  ],
+  "reference_fields": [
+    "source_id",
+    "work_title",
+    "edition",
+    "chapter_number",
+    "chapter_title",
+    "page_number",
+    "page_number_type",
+    "pdf_page",
+    "source_page_id",
+    "section_path",
+    "short_form",
+    "formatted"
+  ],
+  "citation_rule": "Use the printed textbook page as p. or pp. and support each material factual statement with the matching source quotation and reference.",
+  "page_rule": "page_number is the printed textbook page; pdf_page is retained for physical-file navigation.",
+  "summary_rule": "Summaries provide orientation only. Source quotations and source passages are the evidence.",
+  "visual_rule": "Reference tables, figures, charts, and illustrations by name or label, chapter, printed page, and location. Use full reconstructed contents only for tables.",
+  "verification_rule": "Keep status generated_not_verified until the cited source page image has been manually checked.",
+  "claims_index": "not_used",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
