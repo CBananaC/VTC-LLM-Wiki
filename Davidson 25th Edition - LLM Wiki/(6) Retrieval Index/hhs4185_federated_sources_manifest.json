@@ -1,0 +1,53 @@
+{
+  "schema_version": "llm-wiki.federated-source-manifest.v1",
+  "record_type": "federated_source_manifest",
+  "course_code": "HHS4185",
+  "course_title": "Common Rehabilitation Conditions",
+  "federation_name": "HHS4185 course-first supplemental collection",
+  "federation_policy": "Expose the sources through one discovery and retrieval route while keeping every source package, source ID, passage ID, hierarchy, visual record, table record, and verification boundary separate.",
+  "search_order": [
+    {
+      "priority": 1,
+      "source_tier": "primary_course_materials",
+      "source_id": "hhs4185-course-materials",
+      "title": "HHS4185 Course Materials",
+      "package_path": "../../HHS4185 Course Materials - LLM Wiki",
+      "index_root": "../../HHS4185 Course Materials - LLM Wiki/(5) Retrieval Index",
+      "query_helper": "../../HHS4185 Course Materials - LLM Wiki/tools/query_hhs4185_retrieval.py",
+      "citation_locator": "PDF filename and slide number"
+    },
+    {
+      "priority": 2,
+      "source_tier": "supplemental_reference",
+      "source_id": "davidson-25th-edition",
+      "title": "Davidson's Principles and Practice of Medicine, 25th edition",
+      "package_path": "..",
+      "index_root": ".",
+      "query_helper": "../tools/query_davidson_retrieval.py",
+      "citation_locator": "chapter and printed textbook page; retain PDF page for navigation"
+    },
+    {
+      "priority": 2,
+      "source_tier": "supplemental_reference",
+      "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+      "title": "Stroke Rehabilitation: A Function-Based Approach, Fifth Edition",
+      "package_path": "../../sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E",
+      "index_root": "../../sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/04 Retrieval Index",
+      "query_helper": "../../tools/query_stroke_rehab_retrieval.py",
+      "citation_locator": "chapter and printed textbook page; retain PDF page for navigation"
+    }
+  ],
+  "retrieval_entrypoint": {
+    "project_router": "../../tools/query_vtc_wiki.py",
+    "command": "python3 ../../tools/query_vtc_wiki.py --course-code HHS4185 --query \"your question\"",
+    "packet_rule": "Read the course-material packet first, then use Davidson and Stroke Rehabilitation only as separately labelled supplements."
+  },
+  "separation_rules": [
+    "Do not merge the source indexes or copy one source's passages into another source's package.",
+    "Preserve source-specific IDs and citation formats.",
+    "Do not treat a generated summary, quotation, table reconstruction, or visual interpretation as verified without checking the original source page."
+  ],
+  "verification_status": "generated_not_verified",
+  "claims_index": "not_created",
+  "status": "generated_not_verified"
+}
