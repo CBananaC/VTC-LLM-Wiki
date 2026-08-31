@@ -86,6 +86,11 @@ def main() -> None:
         for page in visual_data.get("pages", [])
         if page.get("pdf_page") in chapter_page_numbers
     ]
+    chapter_cross_page_merges = [
+        paragraph
+        for paragraph in chapter_paragraphs
+        if paragraph.get("cross_page_merged")
+    ]
     visual_by_page = {page["pdf_page"]: page for page in chapter_visuals}
 
     outline_sections: list[dict[str, Any]] = []
@@ -189,6 +194,10 @@ def main() -> None:
         "counts": {
             "pages": len(chapter_pages),
             "paragraphs": len(chapter_paragraphs),
+            "paragraphs_before_cross_page_merge": sum(
+                len(paragraph.get("merged_from_paragraph_ids") or [paragraph["paragraph_id"]])
+                for paragraph in chapter_paragraphs
+            ),
             "logical_text_blocks": sum(
                 paragraph.get("content_type") == "logical_text_block" for paragraph in chapter_paragraphs
             ),
@@ -199,6 +208,14 @@ def main() -> None:
             "pages_with_visual_regions": sum(bool(page.get("regions")) for page in chapter_visuals),
             "removed_visual_words": sum(
                 page.get("removed_visual_word_count", 0) for page in chapter_visuals
+            ),
+            "cross_page_merge_operations": sum(
+                len(paragraph.get("merged_from_paragraph_ids") or [paragraph["paragraph_id"]]) - 1
+                for paragraph in chapter_cross_page_merges
+            ),
+            "cross_page_merged_paragraphs": len(chapter_cross_page_merges),
+            "cross_section_merge_operations": sum(
+                1 for paragraph in chapter_cross_page_merges if paragraph.get("section_mapping_warning")
             ),
         },
         "pages": pages_export,
