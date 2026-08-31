@@ -20,6 +20,9 @@ The source manifest is `source_manifest.json`. After processing, add a source-sp
 - The structural map uses PDF page numbers as the stable identifiers and records printed-page labels where visible or conservatively inferred. It records a PDF-tail anomaly: PDF page 784 is an unnumbered continuation of the medications table after the Index pages, although the outline extends the Index entry to the end of the file.
 - Embedded-text cue inventory: 250 table cues, 721 figure cues, 76 box cues, 49 case-study cues, and 1 algorithm cue across 516 pages. These are caption-like cues, not a complete visual inventory.
 - PaddleOCR `PP-DocLayout_plus-L` layout inventory at 120 dpi: all 784 pages processed with no errors; 398 pages contain 999 model-detected visual candidates. It records bounding-box locations and labels only; it does not OCR visual contents.
+- Full embedded-text extraction: 784 pages, 4,763,319 characters, and 45,522 source-layout lines. This is a raw source-preserving layer and may retain text objects that originate inside visual regions.
+- Clean reading-order layer: 784 pages, 5,596 logical paragraphs, 1,385 list items, and 61,460 retained lines. Words inside model-detected visual regions are excluded; bullet and numbered-list structure is retained where present in the embedded text layer.
+- Visual policy for this pass: visual locations are recorded for later selective work, but no visual-content OCR, table reconstruction, chart/graph extraction, or illustration reconstruction was performed.
 
 ## Generated outputs
 
@@ -27,7 +30,12 @@ The source manifest is `source_manifest.json`. After processing, add a source-sp
 - `01 OCR and Layout/stroke_rehab_outline_generated.json` — raw PDF-outline entries.
 - `01 OCR and Layout/stroke_rehab_layout_inventory_generated.json` — page-level PaddleOCR layout boxes and visual candidates.
 - `02 Text and Tables/stroke_rehab_visual_cues_generated.json` — embedded-text table/figure/box/case-study/algorithm cues.
+- `02 Text and Tables/stroke_rehab_embedded_text_full_layout.txt` — complete raw embedded PDF text in Poppler layout order.
+- `02 Text and Tables/stroke_rehab_embedded_text_full_raw.json` — page-level raw embedded text with source-page and printed-page provenance.
+- `02 Text and Tables/stroke_rehab_clean_reading_order_full_generated.jsonl` — page-level clean reading order with visual-region text excluded.
+- `02 Text and Tables/stroke_rehab_sections_paragraphs_full_generated.json` — outline-section and logical-paragraph layer, including preserved list items.
+- `02 Text and Tables/stroke_rehab_visual_exclusion_full_generated.json` — page-level exclusion masks and removed-word counts for the visual-skipping pass.
 - `03 Analysis/stroke_rehab_book_structure_generated.json` — parts, chapters, sections, ranges, page map, and TOC snapshot.
 - `03 Analysis/stroke_rehab_visual_structure_generated.json` — visual candidates grouped by book context and chapter.
 
-All outputs are `generated_not_verified`. No text extraction from visual regions, table reconstruction, summary, keyword extraction, or retrieval index has been created yet.
+All outputs are `generated_not_verified`. The raw embedded-text layer can contain source text objects from visual regions; use the clean reading-order layer for text-only study retrieval. No visual-content OCR, table reconstruction, summary, keyword extraction, or retrieval index has been created yet.
