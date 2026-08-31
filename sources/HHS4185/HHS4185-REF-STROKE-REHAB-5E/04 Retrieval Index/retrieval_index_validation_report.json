@@ -1,0 +1,40 @@
+{
+  "schema_version": "llm-wiki.medical-retrieval-validation.v1",
+  "record_type": "retrieval_index_validation_report",
+  "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+  "course_code": "HHS4185",
+  "book_id": "STROKE5",
+  "checks": {
+    "no_claims_index_requested": true,
+    "concept_ids_unique": true,
+    "occurrence_ids_unique": true,
+    "occurrence_concept_links_resolve": true,
+    "term_concept_links_resolve": true,
+    "term_occurrence_links_resolve": true,
+    "passage_ids_unique": true,
+    "passage_page_ids_resolve": true,
+    "passage_section_links_resolve": true,
+    "occurrence_passage_links_resolve": true,
+    "occurrence_visual_links_resolve": true,
+    "visual_page_numbers_match_source_map": true,
+    "visual_table_links_resolve": true,
+    "non_table_visuals_location_only": true,
+    "node_concept_links_resolve": true,
+    "generated_not_verified_preserved": true
+  },
+  "counts": {
+    "parts": 3,
+    "chapters": 31,
+    "major_sections": 266,
+    "subsections": 1309,
+    "nodes": 1609,
+    "passages": 5224,
+    "concepts": 7292,
+    "occurrences": 23819,
+    "terms": 8085,
+    "visuals": 999,
+    "tables": 190
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
