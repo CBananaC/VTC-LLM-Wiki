@@ -375,6 +375,160 @@ def section_for_page(sections: list[dict[str, Any]], page: int, chapter_number: 
     return max(candidates, key=lambda section: section["pdf_page_start"]) if candidates else None
 
 
+def first_alpha_character(text: str) -> str | None:
+    match = re.search(r"[A-Za-z]", text)
+    return match.group(0) if match else None
+
+
+def is_heading_only_text(text: str) -> bool:
+    stripped = clean_text(text)
+    if not stripped or len(stripped) > 140 or re.search(r"[.!?][\"'’”)]*$", stripped):
+        return False
+    if re.match(r"^(?:BOX|TABLE|FIG(?:URE)?\.?|CASE STUDY|SUMMARY|REFERENCES|REVIEW QUESTIONS)\b", stripped, re.I):
+        return True
+    words = re.findall(r"[A-Za-z][A-Za-z’'\-]*", stripped)
+    if not words or len(words) > 12:
+        return False
+    if stripped.upper() == stripped:
+        return True
+    return all(word[0].isupper() for word in words if word)
+
+
+def starts_with_heading_like_phrase(text: str) -> bool:
+    stripped = clean_text(text)
+    # A PDF text block can contain a short title immediately followed by its
+    # body, for example "Clot Retrieval, Mechanical Thrombectomy Although...".
+    # Treat that as a new block when considering the less certain merge rule.
+    return bool(
+        re.match(
+            r"^(?:[A-Z][A-Za-z’'\-/]*(?:[,;:]?)\s+){2,}[A-Z][a-z]",
+            stripped,
+        )
+    )
+
+
+def is_new_block_start(paragraph: dict[str, Any]) -> bool:
+    text = paragraph.get("text", "").lstrip()
+    if paragraph.get("content_type") == "list_item":
+        return True
+    if re.match(r"^(?:[•▪◦·‣⁃➔➜→]|\d+[.)])\s*", text):
+        return True
+    return is_heading_only_text(text)
+
+
+def ends_sentence(text: str) -> bool:
+    return bool(re.search(r"[.!?][\"'’”)]*$", text.rstrip()))
+
+
+def can_merge_cross_page(current: dict[str, Any], following: dict[str, Any]) -> tuple[bool, str | None]:
+    if str(current.get("chapter_number")) != str(following.get("chapter_number")):
+        return False, None
+    current_end = current.get("pdf_page_end", current.get("pdf_page_start"))
+    following_start = following.get("pdf_page_start")
+    if not isinstance(current_end, int) or not isinstance(following_start, int) or following_start != current_end + 1:
+        return False, None
+    if is_new_block_start(following):
+        return False, None
+    if current.get("content_type") not in {"logical_text_block", "list_item"}:
+        return False, None
+    if following.get("content_type") not in {"logical_text_block", "list_item"}:
+        return False, None
+    if following.get("content_type") == "list_item":
+        return False, None
+    if is_heading_only_text(current.get("text", "")):
+        return False, None
+    first_alpha = first_alpha_character(following.get("text", ""))
+    if first_alpha and first_alpha.islower():
+        return True, "high: following block begins with lowercase continuation text"
+    if current.get("content_type") == "list_item":
+        return False, None
+    if (
+        not ends_sentence(current.get("text", ""))
+        and not starts_with_heading_like_phrase(following.get("text", ""))
+        and len(current.get("text", "")) >= 120
+        and len(following.get("text", "")) >= 100
+    ):
+        return True, "medium: unfinished long block continues at the next page"
+    return False, None
+
+
+def join_cross_page_text(first: str, second: str) -> str:
+    first = first.rstrip()
+    second = second.lstrip()
+    if first.endswith("\u00ad"):
+        return first[:-1] + second
+    if first.endswith("-") and second and second[0].isalpha():
+        return first[:-1] + second
+    return clean_text(f"{first} {second}")
+
+
+def merge_cross_page_paragraphs(
+    paragraphs: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], dict[str, str], dict[str, int]]:
+    merged: list[dict[str, Any]] = []
+    id_map: dict[str, str] = {}
+    merge_count = 0
+    cross_section_merge_count = 0
+    index = 0
+    while index < len(paragraphs):
+        current = dict(paragraphs[index])
+        current_id = current["paragraph_id"]
+        merged_from = list(current.get("merged_from_paragraph_ids") or [current_id])
+        section_ids_spanned = list(dict.fromkeys([current.get("section_id")]))
+        section_titles_spanned = list(dict.fromkeys([current.get("section_title")]))
+        merge_reasons: list[str] = []
+        while index + 1 < len(paragraphs):
+            following = paragraphs[index + 1]
+            can_merge, reason = can_merge_cross_page(current, following)
+            if not can_merge:
+                break
+            following_id = following["paragraph_id"]
+            if current.get("section_id") != following.get("section_id"):
+                cross_section_merge_count += 1
+            section_ids_spanned.append(following.get("section_id"))
+            section_titles_spanned.append(following.get("section_title"))
+            current["text"] = join_cross_page_text(current.get("text", ""), following.get("text", ""))
+            current["source_page_ids"] = list(dict.fromkeys(
+                [*current.get("source_page_ids", []), *following.get("source_page_ids", [])]
+            ))
+            current["pdf_page_end"] = following.get("pdf_page_end", following.get("pdf_page_start"))
+            current["printed_page_end"] = following.get("printed_page_end", following.get("printed_page_start"))
+            current["source_line_ids"] = [*current.get("source_line_ids", []), *following.get("source_line_ids", [])]
+            current["source_line_keys"] = [*current.get("source_line_keys", []), *following.get("source_line_keys", [])]
+            current["visual_content_removed"] = bool(
+                current.get("visual_content_removed") or following.get("visual_content_removed")
+            )
+            merged_from.extend(following.get("merged_from_paragraph_ids") or [following_id])
+            merge_reasons.append(reason or "cross-page continuation")
+            id_map[following_id] = current_id
+            index += 1
+            merge_count += 1
+        if merge_reasons:
+            current["merged_from_paragraph_ids"] = merged_from
+            current["cross_page_merged"] = True
+            current["cross_page_part_count"] = len(merged_from)
+            current["cross_page_merge_reasons"] = merge_reasons
+            section_ids_spanned = list(dict.fromkeys(section_ids_spanned))
+            section_titles_spanned = list(dict.fromkeys(section_titles_spanned))
+            if len(section_ids_spanned) > 1:
+                current["section_ids_spanned"] = section_ids_spanned
+                current["section_titles_spanned"] = section_titles_spanned
+                current["section_mapping_warning"] = "Merged continuation crossed an automatically assigned page-section boundary."
+        else:
+            current["cross_page_merged"] = False
+            current["cross_page_part_count"] = 1
+        id_map[current_id] = current_id
+        merged.append(current)
+        index += 1
+    return merged, id_map, {
+        "merge_operations": merge_count,
+        "merged_paragraphs": sum(1 for paragraph in merged if paragraph.get("cross_page_merged")),
+        "cross_section_merge_operations": cross_section_merge_count,
+        "paragraphs_before_merge": len(paragraphs),
+        "paragraphs_after_merge": len(merged),
+    }
+
+
 def main() -> None:
     args = parse_args()
     source = args.source.expanduser().resolve()
@@ -555,6 +709,21 @@ def main() -> None:
                 page_records.append(page_record)
                 page_stream.write(json.dumps(page_record, ensure_ascii=False) + "\n")
 
+    paragraphs_before_merge = len(all_paragraphs)
+    all_paragraphs, paragraph_id_map, cross_page_merge_stats = merge_cross_page_paragraphs(all_paragraphs)
+    for page_record in page_records:
+        page_record["paragraph_ids"] = list(
+            dict.fromkeys(
+                paragraph_id_map.get(paragraph_id, paragraph_id)
+                for paragraph_id in page_record["paragraph_ids"]
+            )
+        )
+    # Page records were streamed before cross-page IDs were known; rewrite them
+    # with the final merged paragraph references.
+    with page_output_path.open("w", encoding="utf-8") as page_stream:
+        for page_record in page_records:
+            page_stream.write(json.dumps(page_record, ensure_ascii=False) + "\n")
+
     sections_with_ranges: list[dict[str, Any]] = []
     paragraphs_by_section: dict[str | None, list[str]] = defaultdict(list)
     for paragraph in all_paragraphs:
@@ -580,14 +749,19 @@ def main() -> None:
         },
         "hierarchy": ["part", "chapter", "outline_section", "logical_text_block/list_item"],
         "visual_content_policy": "Visual regions are location-mapped but their contents are not OCRed or reconstructed. Table cells, figure labels, diagram text, chart labels, formulas, and captions inside detected regions are excluded from this clean text layer.",
+        "cross_page_reconstruction_policy": "Adjacent page-spanning text blocks are merged when the following block is clear continuation text or an unfinished long block; headings, new numbered points, list starts, boxes, figures, and other likely new blocks remain separate. Original page and source-line provenance is retained.",
         "counts": {
             "pages": len(page_records),
             "paragraphs": len(all_paragraphs),
+            "paragraphs_before_cross_page_merge": paragraphs_before_merge,
             "sections": len(sections_with_ranges),
             "cleaned_lines": cleaned_line_count,
             "removed_visual_words": removed_words_total,
             "pages_with_visual_regions": sum(bool(item["regions"]) for item in exclusion_records),
             "xml_controls_removed": xml_controls_removed,
+            "cross_page_merge_operations": cross_page_merge_stats["merge_operations"],
+            "cross_page_merged_paragraphs": cross_page_merge_stats["merged_paragraphs"],
+            "cross_section_merge_operations": cross_page_merge_stats["cross_section_merge_operations"],
         },
         "sections": sections_with_ranges,
         "paragraphs": all_paragraphs,
