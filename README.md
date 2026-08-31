@@ -44,10 +44,13 @@ python3 tools/query_vtc_wiki.py \
   --query "rehabilitation principles for osteoporosis"
 ```
 
-The current HHS4185 helper searches course materials first and Davidson's
-*Principles and Practice of Medicine*, 25th edition, as a labelled supplement.
-The returned packet is evidence for an AI workflow, not a substitute for
-reading the returned source passages and checking the original page image.
+The current HHS4185 route searches course materials first and then exposes
+Davidson's *Principles and Practice of Medicine*, 25th edition, and *Stroke
+Rehabilitation: A Function-Based Approach*, fifth edition, as separately
+labelled supplemental packets. The returned packet is evidence for an AI
+workflow, not a substitute for reading the returned source passages and
+checking the original page image. The Davidson-side federation manifest is
+`Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json`.
 
 ## Add a source
 
