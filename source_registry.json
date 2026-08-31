@@ -30,6 +30,7 @@
       "original_source_root": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions",
       "source_manifest_path": "HHS4185 Course Materials - LLM Wiki/(1) Source Inventory/hhs4185_course_source_manifest_generated.json",
       "retrieval_index_path": "HHS4185 Course Materials - LLM Wiki/(5) Retrieval Index",
+      "federation_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json",
       "query_helper_path": "HHS4185 Course Materials - LLM Wiki/tools/query_hhs4185_retrieval.py",
       "retrieval_group": "HHS4185-course-first",
       "priority": 1,
@@ -56,6 +57,7 @@
       "original_source_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Davidsons Principles and Practice of Medicine etc.).pdf",
       "source_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_course_first_manifest.json",
       "retrieval_index_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index",
+      "federation_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json",
       "query_helper_path": null,
       "retrieval_group": "HHS4185-course-first",
       "priority": 2,
@@ -74,6 +76,7 @@
       "package_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E",
       "source_manifest_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/source_manifest.json",
       "retrieval_index_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/04 Retrieval Index",
+      "federation_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json",
       "query_helper_path": "tools/query_stroke_rehab_retrieval.py",
       "retrieval_group": "HHS4185-course-first",
       "priority": 2,
@@ -89,7 +92,7 @@
         }
       ],
       "source_urls": [],
-      "verification_status": "not_verified",
+      "verification_status": "generated_not_verified",
       "claims_index": "not_created"
     }
   ]
