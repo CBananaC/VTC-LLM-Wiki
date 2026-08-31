@@ -73,8 +73,11 @@
       "package_status": "registered",
       "package_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E",
       "source_manifest_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/source_manifest.json",
-      "query_helper_path": null,
+      "retrieval_index_path": "sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/04 Retrieval Index",
+      "query_helper_path": "tools/query_stroke_rehab_retrieval.py",
+      "retrieval_group": "HHS4185-course-first",
       "priority": 2,
+      "retrieval_policy": "Use only to supplement or clarify HHS4185 course material, and label the supplementation.",
       "source_files": [
         {
           "file_name": "Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
