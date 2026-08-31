@@ -2,8 +2,8 @@
 """Export one Stroke Rehabilitation chapter as a complete structured JSON.
 
 The export combines the clean page text, full logical paragraphs/list items,
-outline sections, and visual-location records. It does not OCR or reconstruct
-visual contents.
+outline sections, all visual-location records, and (when supplied) the
+selectively reconstructed table layer.
 """
 
 from __future__ import annotations
@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
@@ -30,6 +31,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--page-text", type=Path, required=True)
     parser.add_argument("--paragraphs", type=Path, required=True)
     parser.add_argument("--visual-exclusion", type=Path, required=True)
+    parser.add_argument(
+        "--visual-tables",
+        type=Path,
+        help="Full-book visual-location and reconstructed-table JSON.",
+    )
     parser.add_argument("--chapter", type=str, default="1")
     parser.add_argument("--output", type=Path, required=True)
     return parser.parse_args()
@@ -47,8 +53,12 @@ def main() -> None:
     page_text_path = args.page_text.expanduser().resolve()
     paragraphs_path = args.paragraphs.expanduser().resolve()
     visual_path = args.visual_exclusion.expanduser().resolve()
+    visual_tables_path = args.visual_tables.expanduser().resolve() if args.visual_tables else None
     output_path = args.output.expanduser().resolve()
-    for path in (source, structure_path, page_text_path, paragraphs_path, visual_path):
+    required_paths = [source, structure_path, page_text_path, paragraphs_path, visual_path]
+    if visual_tables_path:
+        required_paths.append(visual_tables_path)
+    for path in required_paths:
         if not path.is_file():
             raise FileNotFoundError(path)
 
@@ -60,6 +70,9 @@ def main() -> None:
     ]
     paragraph_data = json.loads(paragraphs_path.read_text(encoding="utf-8"))
     visual_data = json.loads(visual_path.read_text(encoding="utf-8"))
+    visual_tables_data = (
+        json.loads(visual_tables_path.read_text(encoding="utf-8")) if visual_tables_path else None
+    )
     chapter = args.chapter
     chapter_info: dict[str, Any] | None = None
     part_info: dict[str, Any] | None = None
@@ -81,17 +94,37 @@ def main() -> None:
         for paragraph in paragraph_data.get("paragraphs", [])
         if str(paragraph.get("chapter_number")) == chapter
     ]
-    chapter_visuals = [
+    chapter_visual_exclusion_pages = [
         page
         for page in visual_data.get("pages", [])
         if page.get("pdf_page") in chapter_page_numbers
     ]
+    chapter_visual_locations = (
+        [
+            visual
+            for visual in visual_tables_data.get("visual_locations", [])
+            if visual.get("pdf_page") in chapter_page_numbers
+        ]
+        if visual_tables_data
+        else []
+    )
+    chapter_tables = (
+        [
+            table
+            for table in visual_tables_data.get("tables", [])
+            if table.get("pdf_page") in chapter_page_numbers
+        ]
+        if visual_tables_data
+        else []
+    )
     chapter_cross_page_merges = [
         paragraph
         for paragraph in chapter_paragraphs
         if paragraph.get("cross_page_merged")
     ]
-    visual_by_page = {page["pdf_page"]: page for page in chapter_visuals}
+    visual_by_page = defaultdict(list)
+    for visual in chapter_visual_locations:
+        visual_by_page[visual["pdf_page"]].append(visual)
 
     outline_sections: list[dict[str, Any]] = []
     for section in paragraph_data.get("sections", []):
@@ -133,7 +166,11 @@ def main() -> None:
 
     pages_export: list[dict[str, Any]] = []
     for page in chapter_pages:
-        visual = visual_by_page.get(page["pdf_page"], {})
+        visual = visual_by_page.get(page["pdf_page"], [])
+        legacy_visual_page = next(
+            (item for item in chapter_visual_exclusion_pages if item["pdf_page"] == page["pdf_page"]),
+            {},
+        )
         pages_export.append(
             {
                 "source_page_id": page["source_page_id"],
@@ -145,7 +182,11 @@ def main() -> None:
                 "paragraph_ids": page.get("paragraph_ids", []),
                 "reading_order": page.get("reading_order"),
                 "clean_text": page.get("clean_text", ""),
-                "visual_region_count": len(visual.get("regions", [])),
+                "visual_region_count": len(visual) if visual_tables_data else len(legacy_visual_page.get("regions", [])),
+                "visual_locations": visual if visual_tables_data else [],
+                "table_ids": [item["table_id"] for item in visual if item.get("table_id")]
+                if visual_tables_data
+                else [],
                 "removed_visual_word_count": page.get("removed_visual_word_count", 0),
                 "status": "generated_not_verified",
             }
@@ -204,10 +245,21 @@ def main() -> None:
             "list_items": sum(
                 paragraph.get("content_type") == "list_item" for paragraph in chapter_paragraphs
             ),
-            "visual_regions": sum(len(page.get("regions", [])) for page in chapter_visuals),
-            "pages_with_visual_regions": sum(bool(page.get("regions")) for page in chapter_visuals),
+            "visual_regions": len(chapter_visual_locations) if visual_tables_data else sum(
+                len(page.get("regions", [])) for page in chapter_visual_exclusion_pages
+            ),
+            "table_locations": sum(
+                visual.get("visual_role") == "table" for visual in chapter_visual_locations
+            ) if visual_tables_data else 0,
+            "reconstructed_tables": len(chapter_tables),
+            "non_table_visual_locations": sum(
+                visual.get("visual_role") == "non_table_visual" for visual in chapter_visual_locations
+            ) if visual_tables_data else 0,
+            "pages_with_visual_regions": len(
+                {visual["pdf_page"] for visual in chapter_visual_locations}
+            ) if visual_tables_data else sum(bool(page.get("regions")) for page in chapter_visual_exclusion_pages),
             "removed_visual_words": sum(
-                page.get("removed_visual_word_count", 0) for page in chapter_visuals
+                page.get("removed_visual_word_count", 0) for page in chapter_visual_exclusion_pages
             ),
             "cross_page_merge_operations": sum(
                 len(paragraph.get("merged_from_paragraph_ids") or [paragraph["paragraph_id"]]) - 1
@@ -221,9 +273,10 @@ def main() -> None:
         "pages": pages_export,
         "paragraphs": chapter_paragraphs,
         "full_text": full_text,
-        "visual_locations": chapter_visuals,
+        "visual_locations": chapter_visual_locations if visual_tables_data else chapter_visual_exclusion_pages,
+        "tables": chapter_tables,
         "text_policy": "Clean embedded PDF text in reading order; words inside model-detected visual regions are excluded.",
-        "visual_policy": "Visual locations are retained, but visual contents were not OCRed or reconstructed.",
+        "visual_policy": "All detected visual locations are retained. Table cells/layout are reconstructed from embedded PDF text/geometry; non-table visuals are location-only. All remain generated_not_verified.",
         "structure_limitations": [
             "The current outline mapper is page-based and does not yet split multiple headings that start on the same PDF page.",
             "Smaller within-page headings are retained in the text stream but are not yet assigned explicit heading levels.",
@@ -234,6 +287,7 @@ def main() -> None:
             "page_text": str(page_text_path),
             "paragraphs": str(paragraphs_path),
             "visual_exclusion": str(visual_path),
+            "visual_tables": str(visual_tables_path) if visual_tables_path else None,
         },
     }
     output_path.parent.mkdir(parents=True, exist_ok=True)
