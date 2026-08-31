@@ -29,11 +29,11 @@
     "03": "03 Analysis",
     "04": "04 Retrieval Index"
   },
-  "processing_status": "full_embedded_text_and_visual_exclusion_generated",
+  "processing_status": "full_embedded_text_and_chapter_01_export_generated",
   "verification_status": "generated_not_verified",
   "status": "registered",
   "claims_index": "not_created",
-  "notes": "Additional rehabilitation reference; canonical PDF remains in the VTC study folder. Full embedded PDF text and a clean reading-order layer were generated for all 784 pages. Visual locations are retained as exclusion masks; visual contents have not been OCRed or reconstructed. Raw and derived layers remain generated_not_verified.",
+  "notes": "Additional rehabilitation reference; canonical PDF remains in the VTC study folder. Full embedded PDF text and a clean reading-order layer were generated for all 784 pages. A complete Chapter 1 JSON export was added with page text, logical paragraphs/list items, outline mapping, and visual locations. Visual contents have not been OCRed or reconstructed. Raw and derived layers remain generated_not_verified.",
   "next_step": "Review clean reading-order pages and visual exclusion masks against source pages, then summarize and extract keywords before building the retrieval index.",
   "generated_outputs": [
     "01 OCR and Layout/stroke_rehab_page_structure_generated.jsonl",
@@ -46,6 +46,7 @@
     "02 Text and Tables/stroke_rehab_sections_paragraphs_full_generated.json",
     "02 Text and Tables/stroke_rehab_visual_exclusion_full_generated.json",
     "03 Analysis/stroke_rehab_book_structure_generated.json",
-    "03 Analysis/stroke_rehab_visual_structure_generated.json"
+    "03 Analysis/stroke_rehab_visual_structure_generated.json",
+    "03 Analysis/stroke_rehab_chapter_01_full_text_structure_generated.json"
   ]
 }
