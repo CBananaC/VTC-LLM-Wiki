@@ -35,6 +35,16 @@
       "index_root": "../../sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/04 Retrieval Index",
       "query_helper": "../../tools/query_stroke_rehab_retrieval.py",
       "citation_locator": "chapter and printed textbook page; retain PDF page for navigation"
+    },
+    {
+      "priority": 2,
+      "source_tier": "supplemental_reference",
+      "source_id": "HHS4185-REF-ORTHO-SPECIAL-TESTS",
+      "title": "Special Tests for Orthopedic Examination (Konin, Jeff G)",
+      "package_path": "../../sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS",
+      "index_root": "../../sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/04 Retrieval Index",
+      "query_helper": "../../tools/query_orthopedic_retrieval.py",
+      "citation_locator": "section/test and printed textbook page; retain PDF page for navigation"
     }
   ],
   "retrieval_entrypoint": {

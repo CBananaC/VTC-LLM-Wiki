@@ -14,6 +14,8 @@ Always apply this order:
 2. `davidson-25th-edition` — supplemental medical reference, priority 2.
 3. `HHS4185-REF-STROKE-REHAB-5E` — supplemental stroke-rehabilitation
    reference, priority 2.
+4. `HHS4185-REF-ORTHO-SPECIAL-TESTS` — supplemental orthopedic-examination
+   reference, priority 2.
 
 Use the course materials first. Use Davidson or Stroke Rehabilitation only to
 supplement, clarify, or extend the course evidence. Explicitly label when a
@@ -24,6 +26,8 @@ The source-specific indexes remain separate:
 - Davidson: `.` in this retrieval directory.
 - Stroke Rehabilitation:
   `../../sources/HHS4185/HHS4185-REF-STROKE-REHAB-5E/04 Retrieval Index`.
+- Special Tests for Orthopedic Examination:
+  `../../sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/04 Retrieval Index`.
 - HHS4185 course materials:
   `../../HHS4185 Course Materials - LLM Wiki/(5) Retrieval Index`.
 
@@ -55,6 +59,9 @@ python3 tools/query_stroke_rehab_retrieval.py \
 
 python3 "Davidson 25th Edition - LLM Wiki/tools/query_davidson_retrieval.py" \
   --query "causes of amyloidosis"
+
+python3 tools/query_orthopedic_retrieval.py \
+  --query "Tarsal Twist Test"
 ```
 
 If automatic term matching misses a concept, add explicit terms:
@@ -158,6 +165,8 @@ Keep these identifiers and files independent:
   references.
 - Stroke Rehabilitation: `STROKE5-*` passage/concept/occurrence/visual/table
   IDs and printed-book references.
+- Special Tests for Orthopedic Examination: `ORTHO3-*` passage/concept/
+  occurrence/visual IDs and printed-book references.
 
 The federation layer is a routing and discovery layer only. It must never
 copy, flatten, renumber, or merge source records.

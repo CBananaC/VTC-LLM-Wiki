@@ -1,0 +1,26 @@
+{
+  "schema_version": "vtc-ortho3.formal-answer.v1",
+  "record_type": "formal_answer_contract",
+  "required_sections": [
+    "answer",
+    "source_quotations",
+    "references"
+  ],
+  "answer": {
+    "type": "string",
+    "description": "Concise source-grounded synthesis."
+  },
+  "source_quotations": {
+    "type": "array",
+    "description": "Only returned source-extracted quotation candidates actually used."
+  },
+  "references": {
+    "type": "array",
+    "description": "Matching reference.formatted values; use printed book page as p. and PDF page only for navigation."
+  },
+  "visual_rule": "Cite visual name/type/location; reconstruct contents only for returned tables.",
+  "verification_rule": "Every generated quotation, summary, visual mapping, and reference requires manual source-page verification.",
+  "medical_scope": "Study aid only; not a substitute for clinical judgement or professional advice.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

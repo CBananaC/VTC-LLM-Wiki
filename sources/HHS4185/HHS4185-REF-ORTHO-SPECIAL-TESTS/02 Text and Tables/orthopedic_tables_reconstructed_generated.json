@@ -1,0 +1,34 @@
+{
+  "schema_version": "vtc-orthopedic.tables-reconstructed.v1",
+  "record_type": "full_table_reconstructions",
+  "book_id": "ORTHO3",
+  "source": {
+    "filename": "Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+    "path": "/Users/creamybanana/Downloads/VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+    "sha256": "sha256:9cd1abdaf68dd471d79d0dc44d925d2f91bc96a44d451518e8a223eb0e92bc58"
+  },
+  "derived_from": {
+    "raw_text_json": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/02 Text and Tables/orthopedic_embedded_text_full_raw.json",
+    "chapter_map": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/01 OCR and Layout/orthopedic_structure_generated.json",
+    "layout_inventory": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/01 OCR and Layout/orthopedic_layout_inventory_normalized_generated.json"
+  },
+  "visual_policy": {
+    "tables": "reconstruct full contents and coordinate-preserving row/cell layout",
+    "non_tables": "retain type, name/caption, page, and location only",
+    "raw_source": "immutable",
+    "verification": "generated_not_verified until visual/manual review"
+  },
+  "bbox_xml_sanitization": {
+    "invalid_control_characters_removed": 0,
+    "reason": "Poppler emitted XML-1.0-invalid controls; only temporary bbox parser input was sanitized"
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "counts": {
+    "tables": 0,
+    "content_tables": 0,
+    "tables_with_embedded_text": 0,
+    "tables_needing_visual_ocr": 0
+  },
+  "tables": []
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4185-REF-ORTHO-SPECIAL-TESTS",
+  "title": "Special Tests for Orthopedic Examination (Konin, Jeff G)",
+  "course_code": "HHS4185",
+  "source_role": "additional_source",
+  "source_kind": "book",
+  "added_at_hkt": "2026-09-01T00:54:28+08:00",
+  "package_path": "sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+        "original_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+        "size_bytes": 14277792,
+        "sha256": "sha256:9cd1abdaf68dd471d79d0dc44d925d2f91bc96a44d451518e8a223eb0e92bc58",
+        "copied_path": null,
+        "copy_status": "not_requested"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": false
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Supplemental orthopedic examination reference for HHS4185 Common Rehabilitation Conditions; canonical PDF remains in the course reference-materials folder.",
+  "processing": {
+    "workflow": "structure and layout inventory -> embedded-text extraction -> visual-location inventory -> text reconstruction -> table detection/reconstruction -> multi-level analysis -> retrieval index",
+    "completed_at_hkt": "2026-09-01",
+    "outputs": {
+      "structure": "01 OCR and Layout/orthopedic_structure_generated.json",
+      "layout_inventory": "01 OCR and Layout/orthopedic_layout_inventory_normalized_generated.json",
+      "embedded_text": "02 Text and Tables/orthopedic_embedded_text_full_raw.json",
+      "clean_reading_order_pages": "02 Text and Tables/orthopedic_clean_reading_order_full_generated.json",
+      "clean_text": "02 Text and Tables/orthopedic_sections_paragraphs_full_generated.json",
+      "visuals": "02 Text and Tables/orthopedic_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/orthopedic_tables_reconstructed_generated.json",
+      "analysis": "03 Analysis/orthopedic_paragraph_keyword_extraction_generated.json",
+      "summaries": "03 Analysis/orthopedic_hierarchical_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_orthopedic_retrieval.py"
+    },
+    "counts": {
+      "pdf_pages": 380,
+      "chapters": 12,
+      "tests": 155,
+      "component_subsections": 775,
+      "paragraph_records": 1842,
+      "visual_records": 279,
+      "table_records": 0,
+      "summary_units": 943,
+      "keyword_records": 15233,
+      "retrieval_concepts": 5244,
+      "retrieval_terms": 3667,
+      "retrieval_passages": 1589,
+      "quotation_candidates": 690
+    },
+    "all_derived_status": "generated_not_verified",
+    "table_result": "No table candidates were detected; no table layout or contents were invented."
+  },
+  "next_step": "Manually review representative source pages, especially figure labels, reading order, page-number mapping, and the zero-table result, before changing verification status."
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "vtc-ortho3.retrieval-validation.v1",
+  "record_type": "retrieval_index_validation_report",
+  "book_id": "ORTHO3",
+  "source_id": "HHS4185-REF-ORTHO-SPECIAL-TESTS",
+  "checks": {
+    "concept_occurrence_links": true,
+    "term_concept_links": true,
+    "passage_jsonl_records": 1589,
+    "structure_nodes": 943,
+    "visual_records": 279,
+    "tables": 0,
+    "all_status_generated_not_verified": true
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "valid": true
+}

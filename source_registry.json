@@ -2,7 +2,7 @@
   "schema_version": "vtc-llm-wiki.source-registry.v1",
   "record_type": "source_registry",
   "project_root": ".",
-  "updated_at": "2026-08-31",
+  "updated_at": "2026-09-01",
   "default_new_source_package": "sources/<course-code>/<source-id>/",
   "verification_policy": {
     "raw_sources_immutable": true,
@@ -87,6 +87,35 @@
           "original_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Stroke Rehabilitation A Function-Based Approach, Fifth Edition.pdf",
           "size_bytes": 24932603,
           "sha256": "sha256:00364c0402931f94b582f4f9a86adb02742565652907ee4a804c6ec031e206a7",
+          "copied_path": null,
+          "copy_status": "not_requested"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4185-REF-ORTHO-SPECIAL-TESTS",
+      "course_code": "HHS4185",
+      "source_role": "additional_source",
+      "source_kind": "book",
+      "title": "Special Tests for Orthopedic Examination (Konin, Jeff G)",
+      "package_status": "processed_book_package",
+      "package_path": "sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS",
+      "source_manifest_path": "sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/source_manifest.json",
+      "retrieval_index_path": "sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/04 Retrieval Index",
+      "federation_manifest_path": "Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json",
+      "query_helper_path": "tools/query_orthopedic_retrieval.py",
+      "retrieval_group": "HHS4185-course-first",
+      "retrieval_policy": "Use only to supplement or clarify HHS4185 course material, and label the supplementation.",
+      "priority": 2,
+      "source_files": [
+        {
+          "file_name": "Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+          "original_path": "../VTC/(2) Study/(2) Semester 1/HHS4185 - Common Rehabilitation Conditions/(5) Reference Materials/Special Tests for Orthopedic Examination (Konin, Jeff G).pdf",
+          "size_bytes": 14277792,
+          "sha256": "sha256:9cd1abdaf68dd471d79d0dc44d925d2f91bc96a44d451518e8a223eb0e92bc58",
           "copied_path": null,
           "copy_status": "not_requested"
         }
