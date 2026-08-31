@@ -11,7 +11,7 @@ This source package was created by `tools/register_source.py` and processed with
 
 Processing layers are `00 Source`, `01 OCR and Layout`, `02 Text and Tables`, `03 Analysis`, and `04 Retrieval Index`. Keep the raw source immutable. Label OCR, summaries, tables, quotations, visual interpretations, and retrieval results `generated_not_verified` until manual source review.
 
-The source manifest is `source_manifest.json`. After processing, add a source-specific query helper to the registry when one exists; otherwise this package remains discoverable through its manifest.
+The source manifest is `source_manifest.json`. The registered source-specific helper is `tools/query_stroke_rehab_retrieval.py`; the project router uses the registry priority to keep HHS4185 course material ahead of this supplemental book.
 
 ## Current inventory
 
@@ -26,6 +26,7 @@ The source manifest is `source_manifest.json`. After processing, add a source-sp
 - Selective visual-content pass: all 999 PaddleOCR visual candidates are recorded with PDF/printed page provenance and pixel/point bounding boxes. The 192 table candidates resolve to 190 canonical table records after linking two near-identical nested detections; 188 have reconstructed cell grids and 2 retain embedded-text line fallbacks. Non-table visuals remain location-only, with cue-based names when available.
 - Multi-level extraction pass: the hierarchy is `Part → Chapter → Major section → Subsection → Paragraph`, processed bottom-up as `Subsection → Major section → Chapter → Part`. The PDF outline supplies 235 major sections; 1,450 PaddleOCR paragraph-title anchors supply 1,309 subsections after wrapped-heading cleanup; 31 synthetic chapter-front-matter nodes preserve pre-outline material, including Key Terms and Chapter Objectives.
 - Multi-level results: 5,051 chapter-content paragraphs are assigned to exactly one leaf unit; 364 list groups retain ordered point-form items; 1,895 source-excerpt quotation candidates retain passage/page references; 999 visual records remain linked to page/location metadata, with reconstructed table IDs where available. All derived records remain `generated_not_verified`.
+- Retrieval index: the `04 Retrieval Index` layer contains the hierarchy lookup, 5,224 portable source passages, 7,292 keyword concepts, 23,819 keyword occurrences, 8,085 normalized searchable terms, 999 visual records, 190 table links, a formal answer schema, and a validation report. The index is supplemental for HHS4185 and is intended to be queried only after the HHS4185 course-materials package.
 
 ## Generated outputs
 
@@ -46,5 +47,15 @@ The source manifest is `source_manifest.json`. After processing, add a source-sp
 - `03 Analysis/stroke_rehab_multi_level_extractions_generated.json` — leaf source extraction records, preserved point-form groups, quotation candidates, formal references, and all visual records.
 - `03 Analysis/stroke_rehab_hierarchical_summaries_generated.json` — source-grounded bottom-up summaries; leaf summaries use source sentences and parents merge child summaries only.
 - `03 Analysis/stroke_rehab_keyword_extraction_generated.json` — broad-area/small-area keyword candidates with retrieval terms and source passage/page links.
+- `04 Retrieval Index/stroke_rehab_retrieval_structure_generated.json` — retrieval-ready Part/Chapter/Major-section/Subsection hierarchy.
+- `04 Retrieval Index/structure_lookup.json` — compact hierarchy lookup with source, visual, table, and concept links.
+- `04 Retrieval Index/retrieval_index_manifest.json` — index manifest, course-first policy, file map, and counts.
+- `04 Retrieval Index/concept_index.json` — normalized keyword concepts and source occurrence links.
+- `04 Retrieval Index/occurrence_index.json` — source passage/visual/table occurrences with hierarchy and page provenance.
+- `04 Retrieval Index/term_lookup.json` — exact normalized terms and selected spelling/singular aliases for fast lookup.
+- `04 Retrieval Index/passage_index.jsonl` — portable corrected paragraph evidence with list, cross-page, source-line, and formal reference fields.
+- `04 Retrieval Index/visual_index.json` — all visual locations; table records are linked for full table reconstruction and non-table visuals remain location-only.
+- `04 Retrieval Index/formal_output_schema.json` — portable answer, quotation, and citation contract for any AI.
+- `04 Retrieval Index/retrieval_index_validation_report.json` — link, page, visual-policy, and generated-status checks.
 
-All outputs are `generated_not_verified`. The raw embedded-text layer can contain source text objects from visual regions; use the clean reading-order layer or the multi-level extraction records for text-only study retrieval. Cross-page merges retain all contributing page and source-line IDs. The new hierarchy resolves same-page outline boundaries by matched heading anchors, while four heading-only subsection records remain intentionally source-linked without duplicated paragraph ownership. Table reconstruction uses embedded PDF text and geometry, not visual OCR, and must be checked against rendered source pages. Charts, graphs, illustrations, and other non-table visuals have not been content-reconstructed. Retrieval indexing has not yet been created.
+All outputs are `generated_not_verified`. The raw embedded-text layer can contain source text objects from visual regions; use the clean reading-order layer, the multi-level extraction records, and the retrieval passage index for text-only study retrieval. Cross-page merges retain all contributing page and source-line IDs. The new hierarchy resolves same-page outline boundaries by matched heading anchors, while four heading-only subsection records remain intentionally source-linked without duplicated paragraph ownership. Table reconstruction uses embedded PDF text and geometry, not visual OCR, and must be checked against rendered source pages. Charts, graphs, illustrations, and other non-table visuals have not been content-reconstructed. Use `python3 tools/query_vtc_wiki.py --course-code HHS4185 --query "..."` to route a query; course materials remain priority 1 and this source remains priority 2.
