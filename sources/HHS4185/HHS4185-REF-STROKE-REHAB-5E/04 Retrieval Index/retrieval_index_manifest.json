@@ -1,0 +1,40 @@
+{
+  "schema_version": "vtc-stroke-rehabilitation-5e.retrieval-index.v1",
+  "record_type": "retrieval_index_manifest",
+  "source_id": "HHS4185-REF-STROKE-REHAB-5E",
+  "course_code": "HHS4185",
+  "course_title": "Common Rehabilitation Conditions",
+  "source_role": "additional_source",
+  "book_id": "STROKE5",
+  "title": "Stroke Rehabilitation: A Function-Based Approach, Fifth Edition",
+  "retrieval_group": "HHS4185-course-first",
+  "priority": 2,
+  "course_first_policy": "HHS4185 course materials are searched first; this book supplements or clarifies the course material.",
+  "evidence_policy": "Read returned source passages before answering. Use summaries only for orientation and cite printed textbook pages.",
+  "claims_index": "not_created",
+  "files": {
+    "structure": "structure_lookup.json",
+    "concepts": "concept_index.json",
+    "occurrences": "occurrence_index.json",
+    "terms": "term_lookup.json",
+    "passages": "passage_index.jsonl",
+    "visuals": "visual_index.json",
+    "formal_output_schema": "formal_output_schema.json",
+    "validation": "retrieval_index_validation_report.json"
+  },
+  "counts": {
+    "parts": 3,
+    "chapters": 31,
+    "major_sections": 266,
+    "subsections": 1309,
+    "nodes": 1609,
+    "passages": 5224,
+    "concepts": 7292,
+    "occurrences": 23819,
+    "terms": 8085,
+    "visuals": 999,
+    "tables": 190
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
