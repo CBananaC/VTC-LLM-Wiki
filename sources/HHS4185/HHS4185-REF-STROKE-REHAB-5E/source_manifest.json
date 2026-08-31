@@ -29,12 +29,12 @@
     "03": "03 Analysis",
     "04": "04 Retrieval Index"
   },
-  "processing_status": "full_embedded_text_cross_page_reconstruction_visual_location_catalogue_and_selective_table_reconstruction_generated",
+  "processing_status": "full_embedded_text_cross_page_reconstruction_visual_location_catalogue_selective_table_reconstruction_and_multi_level_extraction_summary_generated",
   "verification_status": "generated_not_verified",
   "status": "registered",
   "claims_index": "not_created",
-  "notes": "Additional rehabilitation reference; canonical PDF remains in the VTC study folder. Full embedded PDF text and a clean reading-order layer were generated for all 784 pages. Clear paragraph continuations across page boundaries were reconstructed with component IDs and page/source-line provenance. A complete Chapter 1 JSON export was added with page text, reconstructed logical paragraphs/list items, outline mapping, all visual locations, and reconstructed Chapter 1 tables. The full visual catalogue retains all 999 layout candidates; 192 table candidates map to 190 canonical table records, with 188 cell-grid reconstructions and 2 embedded-text line fallbacks. Non-table visuals remain location-only. Raw and derived layers remain generated_not_verified.",
-  "next_step": "Review representative reconstructed tables and visual boxes against rendered source pages, then summarize and extract keywords before building the retrieval index.",
+  "notes": "Additional rehabilitation reference; canonical PDF remains in the VTC study folder. Full embedded PDF text and a clean reading-order layer were generated for all 784 pages. Clear paragraph continuations across page boundaries were reconstructed with component IDs and page/source-line provenance. A complete Chapter 1 JSON export was added with page text, reconstructed logical paragraphs/list items, outline mapping, all visual locations, and reconstructed Chapter 1 tables. The full visual catalogue retains all 999 layout candidates; 192 table candidates map to 190 canonical table records, with 188 cell-grid reconstructions and 2 embedded-text line fallbacks. Non-table visuals remain location-only. Multi-level extraction and summary outputs now follow Part to Chapter to Major section to Subsection to Paragraph, with source-linked quotation candidates, preserved list groups, and broad-area/small-area keyword candidates. Raw and derived layers remain generated_not_verified.",
+  "next_step": "Review representative heading boundaries, quotation candidates, tables, and visual boxes against rendered source pages, then build the retrieval index only after this analysis layer is accepted.",
   "generated_outputs": [
     "01 OCR and Layout/stroke_rehab_page_structure_generated.jsonl",
     "01 OCR and Layout/stroke_rehab_outline_generated.json",
@@ -48,6 +48,10 @@
     "02 Text and Tables/stroke_rehab_visual_locations_and_tables_full_generated.json",
     "03 Analysis/stroke_rehab_book_structure_generated.json",
     "03 Analysis/stroke_rehab_visual_structure_generated.json",
-    "03 Analysis/stroke_rehab_chapter_01_full_text_structure_generated.json"
+    "03 Analysis/stroke_rehab_chapter_01_full_text_structure_generated.json",
+    "03 Analysis/stroke_rehab_hierarchical_structure_generated.json",
+    "03 Analysis/stroke_rehab_multi_level_extractions_generated.json",
+    "03 Analysis/stroke_rehab_hierarchical_summaries_generated.json",
+    "03 Analysis/stroke_rehab_keyword_extraction_generated.json"
   ]
 }
