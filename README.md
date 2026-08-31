@@ -49,7 +49,9 @@ Davidson's *Principles and Practice of Medicine*, 25th edition, and *Stroke
 Rehabilitation: A Function-Based Approach*, fifth edition, as separately
 labelled supplemental packets. The returned packet is evidence for an AI
 workflow, not a substitute for reading the returned source passages and
-checking the original page image. The Davidson-side federation manifest is
+checking the original page image. The portable instructions for ChatGPT,
+OpenCode, local models, and other AI systems are in [`AI_USAGE_INSTRUCTIONS.md`](Davidson%2025th%20Edition%20-%20LLM%20Wiki/(6)%20Retrieval%20Index/AI_USAGE_INSTRUCTIONS.md).
+The Davidson-side federation manifest is
 `Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json`.
 
 ## Add a source
