@@ -2,7 +2,7 @@
   "schema_version": "vtc-llm-wiki.source-registry.v1",
   "record_type": "source_registry",
   "project_root": ".",
-  "updated_at": "2026-08-30",
+  "updated_at": "2026-08-31",
   "default_new_source_package": "sources/<course-code>/<source-id>/",
   "verification_policy": {
     "raw_sources_immutable": true,
