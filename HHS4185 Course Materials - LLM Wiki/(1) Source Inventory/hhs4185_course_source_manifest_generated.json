@@ -1,0 +1,69 @@
+{
+  "schema_version": "vtc-hhs4185-course-materials.v1",
+  "record_type": "course_source_manifest",
+  "book_id": "HHS4185",
+  "documents": [
+    {
+      "document_id": "HHS4185-L1",
+      "file_name": "HHS4185_L1.pdf",
+      "source_type": "lecture",
+      "lecture_number": 1,
+      "title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+      "source_path": "(2) Lecture Materials/HHS4185_L1.pdf",
+      "source_sha256": "sha256:38b3ee154ede294d557c153ce55eacca8b636e71acc180a63a54880ea3a931d0",
+      "pdf_page_count": 62,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "document_id": "HHS4185-L2",
+      "file_name": "HHS4185_L2.pdf",
+      "source_type": "lecture",
+      "lecture_number": 2,
+      "title": "Lecture 2 - Bone problems: osteoporosis, fracture and amputation",
+      "source_path": "(2) Lecture Materials/HHS4185_L2.pdf",
+      "source_sha256": "sha256:93f21ba387c71dc31290a481555bfae7a5485ef84e7028faba9cf36603fe5d0f",
+      "pdf_page_count": 83,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "document_id": "HHS4185J-L2",
+      "file_name": "HHS4185J_L2.pdf",
+      "source_type": "lecture_bilingual",
+      "lecture_number": 2,
+      "title": "Lecture 2 bilingual deck - Bone problems: osteoporosis, fracture and amputation",
+      "source_path": "(2) Lecture Materials/HHS4185J_L2.pdf",
+      "source_sha256": "sha256:8daa9e2bed5a8dae4dc06d14a8d04e96dc5a8207c46a36b885a11139c0c09b0d",
+      "pdf_page_count": 126,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "document_id": "HHS4185-WS1",
+      "file_name": "HHS4185_WS1_Equipment.pdf",
+      "source_type": "workshop",
+      "workshop_number": 1,
+      "title": "Workshop 1 - Introduction to rehabilitation equipment",
+      "source_path": "(3) Workshop and Practice Materials/HHS4185_WS1_Equipment.pdf",
+      "source_sha256": "sha256:6f7d548b19d89422c9736b1585c2a1f7148f57eb523e9b1a0e21147ea6da9bb3",
+      "pdf_page_count": 26,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "document_id": "HHS4185-T1-ICF",
+      "file_name": "HHS4185_T1_ICF.pdf",
+      "source_type": "tutorial",
+      "tutorial_number": 1,
+      "title": "Tutorial 1 - ICF",
+      "source_path": "(3) Workshop and Practice Materials/HHS4185_T1_ICF.pdf",
+      "source_sha256": "sha256:fcdfe5cd463b91b3ef26902571fc9e88716933521696cae412e3d228b2e2101f",
+      "pdf_page_count": 16,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

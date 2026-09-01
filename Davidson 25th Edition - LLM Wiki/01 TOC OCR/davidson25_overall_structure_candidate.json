@@ -1,0 +1,331 @@
+{
+  "schema_version": "vtc-davidson25.overall-structure.v1",
+  "record_type": "book_structure_candidate",
+  "book_id": "DAV25",
+  "title": "Davidson’s Principles and Practice of Medicine",
+  "edition": "25th Edition",
+  "publication_year_as_printed": 2027,
+  "source_file": "Davidsons Principles and Practice of Medicine etc.).pdf",
+  "source_sha256": "sha256:48d41eb0bac0b7cd9e4c93645575ba094e01662c7d4b1d0993e1a89d72eb2c8f",
+  "structure_basis": {
+    "toc_ocr_raw": "davidson25_toc_ocr_raw.json",
+    "toc_pdf_pages": [
+      8,
+      9,
+      10
+    ],
+    "bookmarks_present": true,
+    "printed_page_numbers_are_not_pdf_page_numbers": true
+  },
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "FUNDAMENTALS OF MEDICINE",
+      "printed_page_start": 1,
+      "source_page_id": "DAV25-PDF0008",
+      "status": "generated_candidate",
+      "verification_status": "not_verified",
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "title": "Clinical decision-making",
+          "printed_page_start": 1,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 2,
+          "title": "Clinical therapeutics and good prescribing",
+          "printed_page_start": 13,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 3,
+          "title": "Clinical genetics",
+          "printed_page_start": 35,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 4,
+          "title": "Clinical immunology",
+          "printed_page_start": 57,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 5,
+          "title": "Nutritional factors in disease",
+          "printed_page_start": 87,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 6,
+          "title": "Population health and epidemiology",
+          "printed_page_start": 115,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 7,
+          "title": "Principles of infection",
+          "printed_page_start": 125,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 8,
+          "title": "Oncology",
+          "printed_page_start": 157,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 9,
+          "title": "Palliative and supportive care",
+          "printed_page_start": 187,
+          "source_page_id": "DAV25-PDF0008",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "EMERGENCY AND CRITICAL CARE MEDICINE",
+      "printed_page_start": 211,
+      "source_page_id": "DAV25-PDF0008",
+      "status": "generated_candidate",
+      "verification_status": "not_verified",
+      "chapters": [
+        {
+          "chapter_number": 10,
+          "title": "Acute medicine and critical illness",
+          "printed_page_start": 211,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 11,
+          "title": "Poisoning",
+          "printed_page_start": 257,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 12,
+          "title": "Envenomation",
+          "printed_page_start": 277,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 13,
+          "title": "Medicine in austere environments",
+          "printed_page_start": 289,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "title": "CLINICAL MEDICINE",
+      "printed_page_start": 299,
+      "source_page_id": "DAV25-PDF0009",
+      "status": "generated_candidate",
+      "verification_status": "not_verified",
+      "chapters": [
+        {
+          "chapter_number": 14,
+          "title": "Infectious disease",
+          "printed_page_start": 299,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 15,
+          "title": "Sexually transmitted infections",
+          "printed_page_start": 405,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 16,
+          "title": "Cardiology",
+          "printed_page_start": 421,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 17,
+          "title": "Respiratory medicine",
+          "printed_page_start": 517,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 18,
+          "title": "Nephrology and urology",
+          "printed_page_start": 597,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 19,
+          "title": "Clinical biochemistry and metabolic medicine",
+          "printed_page_start": 655,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 20,
+          "title": "Endocrinology",
+          "printed_page_start": 689,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 21,
+          "title": "Diabetes mellitus",
+          "printed_page_start": 745,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 22,
+          "title": "Gastroenterology",
+          "printed_page_start": 799,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 23,
+          "title": "Hepatology",
+          "printed_page_start": 877,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 24,
+          "title": "Haematology and transfusion medicine",
+          "printed_page_start": 941,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 25,
+          "title": "Rheumatology and bone disease",
+          "printed_page_start": 1015,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 26,
+          "title": "Dermatology",
+          "printed_page_start": 1093,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 27,
+          "title": "Neurology and stroke medicine",
+          "printed_page_start": 1149,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 28,
+          "title": "Medical ophthalmology",
+          "printed_page_start": 1245,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 29,
+          "title": "Medical psychiatry",
+          "printed_page_start": 1267,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 30,
+          "title": "Maternal medicine",
+          "printed_page_start": 1299,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 31,
+          "title": "Adolescence, transition and young adult medicine",
+          "printed_page_start": 1317,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 32,
+          "title": "Older adult medicine and frailty",
+          "printed_page_start": 1337,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        },
+        {
+          "chapter_number": 33,
+          "title": "Laboratory reference ranges",
+          "printed_page_start": 1351,
+          "source_page_id": "DAV25-PDF0009",
+          "status": "generated_candidate",
+          "verification_status": "not_verified"
+        }
+      ]
+    }
+  ],
+  "back_matter": [
+    {
+      "title": "Index",
+      "printed_page_start": 1361,
+      "source_page_id": "DAV25-PDF0010"
+    }
+  ],
+  "status": "generated_candidate",
+  "verification_status": "not_verified",
+  "review_required": [
+    "Compare chapter titles and printed page starts against rendered contents pages.",
+    "Resolve PDF-page to printed-page offsets for every chapter.",
+    "Use bookmarks and chapter-opening pages to establish chapter boundaries.",
+    "Do not infer visual locations from the contents alone; run a separate layout inventory."
+  ]
+}

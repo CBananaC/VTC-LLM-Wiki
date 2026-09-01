@@ -1,0 +1,34 @@
+{
+  "schema_version": "llm-wiki.medical-retrieval-validation.v1",
+  "record_type": "retrieval_index_validation_report",
+  "book_id": "DAV25",
+  "checks": {
+    "no_claims_index_requested": true,
+    "concept_ids_unique": true,
+    "occurrence_ids_unique": true,
+    "occurrence_concept_links_resolve": true,
+    "term_concept_links_resolve": true,
+    "term_occurrence_links_resolve": true,
+    "paragraphs_have_portable_source_records": true,
+    "passage_page_references_resolve": true,
+    "visual_page_numbers_match_source_map": true,
+    "paragraph_section_links_resolve": true,
+    "occurrence_passage_links_resolve": true,
+    "occurrence_element_links_resolve": true,
+    "section_concept_links_resolve": true,
+    "generated_not_verified_preserved": true
+  },
+  "counts": {
+    "parts": 3,
+    "chapters": 33,
+    "major_sections": 381,
+    "subsections": 1186,
+    "paragraphs": 19194,
+    "concepts": 40546,
+    "occurrences": 135851,
+    "terms": 42662,
+    "visuals": 2407
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

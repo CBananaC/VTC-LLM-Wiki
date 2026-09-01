@@ -1,0 +1,39 @@
+{
+  "schema_version": "hhs4185.formal-answer.v1",
+  "record_type": "formal_ai_answer_contract",
+  "required_sections": [
+    "answer",
+    "source_quotations",
+    "references"
+  ],
+  "source_priority": [
+    "course_materials",
+    "supplemental_davidson"
+  ],
+  "answer": {
+    "instruction": "Answer from HHS4185 course materials first and label any Davidson supplementation.",
+    "language_rule": "Use English-only derived course-material records and preserve English bullet, arrow, line-break, and indentation structure. The raw bilingual layer is retained for provenance and is not used for ordinary retrieval.",
+    "summary_status": "generated_not_verified"
+  },
+  "source_quotations": {
+    "required_fields": [
+      "quotation",
+      "source_passage_id",
+      "reference",
+      "verification_status"
+    ],
+    "instruction": "Use quotation_candidates from the retrieval packet; preserve the extracted wording until the source PDF page image is checked."
+  },
+  "references": {
+    "course_materials": "HHS4185 course materials, PDF filename, slide N (PDF p. N)",
+    "supplemental_davidson": "Davidson's Principles and Practice of Medicine, 25th ed., Chapter N, p. N [PDF p. N]"
+  },
+  "visuals": {
+    "instruction": "Use visual_reference_candidates for location/name metadata. Use full table reconstruction only when table_reconstruction_included is true; do not invent non-table visual content."
+  },
+  "verification": {
+    "required": true,
+    "instruction": "Generated quotations, tables, summaries, keywords, and visual mappings require manual source-page verification before clinical reliance."
+  },
+  "claims_index": "not_created"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "llm-wiki.course-retrieval-validation.v1",
+  "record_type": "course_retrieval_validation_report",
+  "book_id": "HHS4185",
+  "checks": {
+    "documents_present": true,
+    "canonical_sha256_unique": true,
+    "all_pages_have_ocr": false,
+    "all_pages_have_layout": false,
+    "concept_ids_unique": true,
+    "occurrence_ids_unique": true,
+    "occurrence_concept_links_resolve": true,
+    "term_concept_links_resolve": true,
+    "passage_count_matches_pages": true,
+    "passage_page_references_present": true,
+    "visual_page_references_present": true,
+    "generated_not_verified_preserved": true,
+    "table_page_references_present": true
+  },
+  "counts": {
+    "documents": 5,
+    "pages": 313,
+    "passages": 313,
+    "parts": 123,
+    "concepts": 787,
+    "occurrences": 1735,
+    "terms": 845,
+    "visuals": 1241,
+    "tables": 5
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

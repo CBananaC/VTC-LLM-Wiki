@@ -1,0 +1,42 @@
+{
+  "schema_version": "davidson.formal-answer.v1",
+  "record_type": "formal_answer_schema",
+  "purpose": "Portable answer format for any AI using the Davidson retrieval packet.",
+  "required_fields": {
+    "record_type": "formal_answer",
+    "book_id": "DAV25",
+    "query": "The user's question",
+    "answer": "A concise synthesis grounded in the returned source passages",
+    "source_quotations": "An array of quotation candidates actually used in the answer",
+    "references": "An array of matching human-readable references"
+  },
+  "source_quotation_fields": [
+    "evidence_id",
+    "quotation",
+    "source_passage_id",
+    "reference",
+    "in_text_citation",
+    "verification_status"
+  ],
+  "reference_fields": [
+    "work_title",
+    "edition",
+    "chapter_number",
+    "chapter_title",
+    "page_number",
+    "page_number_type",
+    "pdf_page",
+    "source_page_id",
+    "section_path",
+    "short_form",
+    "formatted"
+  ],
+  "citation_rule": "Use the printed textbook page as p. and cite material factual statements with the matching quotation and reference.",
+  "page_rule": "page_number is the printed book page; pdf_page is retained only for physical-file navigation.",
+  "summary_rule": "Summaries provide context only. Source quotations and source passages are the evidence.",
+  "visual_rule": "Reference tables, figures, charts, and illustrations by name, chapter, and printed page. Use full reconstructed contents only for tables.",
+  "verification_rule": "Keep status generated_not_verified until the cited source page image has been manually checked.",
+  "claims_index": "not_used",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "llm-wiki.combined-source-manifest.v1",
+  "record_type": "course_first_retrieval_manifest",
+  "course_code": "HHS4185",
+  "source_priority": [
+    {
+      "priority": 1,
+      "source_tier": "primary_course_materials",
+      "title": "HHS4185 Course Materials",
+      "index_root": "../HHS4185 Course Materials - LLM Wiki/(5) Retrieval Index",
+      "query_helper": "../HHS4185 Course Materials - LLM Wiki/tools/query_hhs4185_retrieval.py",
+      "citation_locator": "PDF filename and slide number"
+    },
+    {
+      "priority": 2,
+      "source_tier": "supplemental_reference",
+      "title": "Davidson's Principles and Practice of Medicine, 25th edition",
+      "index_root": ".",
+      "query_helper": "../HHS4185 Course Materials - LLM Wiki/tools/query_hhs4185_retrieval.py",
+      "citation_locator": "chapter and printed textbook page; retain PDF page for navigation"
+    }
+  ],
+  "retrieval_rule": "Search HHS4185 course materials first. Use Davidson only to supplement or clarify the course material, and label that supplementation.",
+  "verification_status": "generated_not_verified",
+  "claims_index": "not_created"
+}
