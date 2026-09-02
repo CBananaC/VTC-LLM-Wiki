@@ -8,9 +8,9 @@
     "sha256": "sha256:48d41eb0bac0b7cd9e4c93645575ba094e01662c7d4b1d0993e1a89d72eb2c8f"
   },
   "derived_from": {
-    "raw_text_json": "/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions/Davidson 25th Edition - LLM Wiki/03 Embedded Text/davidson25_embedded_text_full_layout.txt",
-    "chapter_map": "/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_chapter_structure_candidate.json",
-    "layout_inventory": "/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_layout_inventory.json"
+    "raw_text_json": "/Users/creamybanana/Downloads/VTC LLM Wiki/Davidson 25th Edition - LLM Wiki/03 Embedded Text/davidson25_embedded_text_full_layout.txt",
+    "chapter_map": "/Users/creamybanana/Downloads/VTC LLM Wiki/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_chapter_structure_candidate.json",
+    "layout_inventory": "/Users/creamybanana/Downloads/VTC LLM Wiki/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_layout_inventory.json"
   },
   "visual_policy": {
     "tables": "reconstruct full contents and coordinate-preserving row/cell layout",
