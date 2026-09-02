@@ -14,7 +14,7 @@
     "path": "/Users/creamybanana/Downloads/HHS4185/05 References/01 - Davidsons Principles and Practice of Medicine etc.).pdf",
     "sha256": "sha256:48d41eb0bac0b7cd9e4c93645575ba094e01662c7d4b1d0993e1a89d72eb2c8f"
   },
-  "chapter_map": "/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_chapter_structure_candidate.json",
+  "chapter_map": "/Users/creamybanana/Downloads/VTC LLM Wiki/Davidson 25th Edition - LLM Wiki/02 Chapter Layout/davidson25_chapter_structure_candidate.json",
   "extraction": {
     "method": "embedded PDF text layer",
     "tool": "pdftotext",
@@ -24,7 +24,7 @@
       "UTF-8",
       "-layout"
     ],
-    "raw_text_file": "/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions/Davidson 25th Edition - LLM Wiki/03 Embedded Text/davidson25_ch01_embedded_text_layout.txt",
+    "raw_text_file": "/Users/creamybanana/Downloads/VTC LLM Wiki/Davidson 25th Edition - LLM Wiki/03 Embedded Text/davidson25_ch01_embedded_text_layout.txt",
     "page_separator": "form feed (U+000C)",
     "scope": "embedded page text only; no image OCR and no visual-content OCR"
   },
