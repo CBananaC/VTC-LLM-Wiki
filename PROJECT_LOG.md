@@ -29,6 +29,8 @@
 
 | PRJ-0023 | 2026-09-02  HKT | made / verified | Local path migration | 32 generated HHS4185 JSON metadata files | Keep source-path metadata aligned after the HHS4185 course folder move | Replaced only the old absolute HHS4185 source-folder prefix with `/Users/creamybanana/Downloads/HHS4185 - Common Rehabilitation Conditions`; raw source and generated content were not otherwise changed. | All 32 targeted JSON files now contain the new path and zero targeted JSON files retain the old path; each file was committed individually. | HHS4185 generated metadata resolves to the current local source location. | Rebuild or update future generated metadata whenever the source location changes; no remote action. | 32 individual commits; no push. |
 
+| PRJ-0024 | 2026-09-02 HKT | made / verified | Local path migration | 32 generated HHS4185 JSON metadata files | Align generated source paths after simplifying the HHS4185 course project names | Updated only four exact old-to-new PDF path mappings for the Davidson, orthopedic-tests, and Stroke Rehabilitation source files; generated content was not recomputed. | All 32 files were committed individually and now resolve to existing renamed PDFs; historical log entries were preserved. | Keep generated metadata aligned whenever the local source path changes. | 32 individual commits; no push. |
+
         ## Pending remote setup
 
         GitHub and Google Drive were not created by the local bootstrap script. Confirm repository visibility, Drive sharing, exact destinations, and upload/push scope before making external changes.
