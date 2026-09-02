@@ -31,6 +31,8 @@
 
 | PRJ-0024 | 2026-09-02 HKT | made / verified | Local path migration | 32 generated HHS4185 JSON metadata files | Align generated source paths after simplifying the HHS4185 course project names | Updated only four exact old-to-new PDF path mappings for the Davidson, orthopedic-tests, and Stroke Rehabilitation source files; generated content was not recomputed. | All 32 files were committed individually and now resolve to existing renamed PDFs; historical log entries were preserved. | Keep generated metadata aligned whenever the local source path changes. | 32 individual commits; no push. |
 
+| PRJ-0025 | 2026-09-02 HKT | made / verified | Local path migration | Remaining HHS4185 generated JSON path metadata | Finish aligning generated references after simplifying the course project names | Updated the remaining 10 JSON files: renamed HHS4185 PDF paths now point to the short course tree, and Davidson Wiki package paths now point to the separate VTC LLM Wiki project. | Zero generated JSON files retain the old HHS4185 course-root prefix; all replacement targets exist locally; historical log entries were preserved. | Keep generated metadata aligned whenever source or package locations change. | 10 individual commits; no push. |
+
         ## Pending remote setup
 
         GitHub and Google Drive were not created by the local bootstrap script. Confirm repository visibility, Drive sharing, exact destinations, and upload/push scope before making external changes.
