@@ -33,6 +33,8 @@
 
 | PRJ-0025 | 2026-09-02 HKT | made / verified | Local path migration | Remaining HHS4185 generated JSON path metadata | Finish aligning generated references after simplifying the course project names | Updated the remaining 10 JSON files: renamed HHS4185 PDF paths now point to the short course tree, and Davidson Wiki package paths now point to the separate VTC LLM Wiki project. | Zero generated JSON files retain the old HHS4185 course-root prefix; all replacement targets exist locally; historical log entries were preserved. | Keep generated metadata aligned whenever source or package locations change. | 10 individual commits; no push. |
 
+| PRJ-0026 | 2026-09-02 HKT | made / verified | Local path migration correction | Five Davidson generated JSON files | Correct the remaining old (5) Reference Materials path variant after the HHS4185 rename | Updated the exact remaining old PDF path variant to the renamed HHS4185 source file; generated content was not recomputed. | Zero generated JSON files retain the old HHS4185 course-root prefix; all replacement targets exist locally; historical log entries were preserved. | Keep generated metadata aligned whenever source locations change. | Five individual commits; no push. |
+
         ## Pending remote setup
 
         GitHub and Google Drive were not created by the local bootstrap script. Confirm repository visibility, Drive sharing, exact destinations, and upload/push scope before making external changes.
