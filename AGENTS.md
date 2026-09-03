@@ -15,6 +15,9 @@ Preserve source material and user-owned edits. Do not expand the scope without d
 - `PROJECT_DESCRIPTION.md` is the stable project brief.
 - `PROJECT_LOG.md` is append-only and records concise action summaries, not full prompts or secrets.
 - Update this `AGENTS.md` when project rules, source-of-truth paths, commands, or boundaries change.
+- The reusable, tool-neutral PDF-to-LLM-Wiki standard is
+  `workflows/pdf-to-llm-wiki/AGENTS.md`; copy that file into another workspace
+  when a different AI needs to follow the same conversion workflow.
 
 ## Source organization
 
