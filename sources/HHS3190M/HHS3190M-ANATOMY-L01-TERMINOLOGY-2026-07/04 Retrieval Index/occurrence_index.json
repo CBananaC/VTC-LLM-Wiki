@@ -140,12 +140,12 @@
       "concept_id": "HHS3190M-C-0000004",
       "category": "anatomy",
       "broad_area": "Anatomy",
-      "small_area": "spine",
+      "small_area": "Spine",
       "keyword_path": [
         "Anatomy",
-        "spine"
+        "Spine"
       ],
-      "source_form": "spine",
+      "source_form": "Spine",
       "source_passage_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016-PASSAGE"
       ],
@@ -174,7 +174,7 @@
       ],
       "source_excerpt": "Terminologies related to Bone Markings Spine • Thorn-like process(e.g. scapula spine)/sharp, slender often pointed projection (e.g. spinous process) Tubercle • Small rounded process/ projection e.g. greater tubercle of the humerus Tuberosity • Large rounded elevation e.g. tibial tuberosity Trochanter • Large blunt elevation, irregular shape process e.g. greater trochanter of femur",
       "retrieval_terms": [
-        "spine"
+        "Spine"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -1769,6 +1769,98 @@
       "concept_id": "HHS3190M-C-0000035",
       "category": "section_topics",
       "broad_area": "Section topics",
+      "small_area": "Away from the midline of the body",
+      "keyword_path": [
+        "Section topics",
+        "Away from the midline of the body"
+      ],
+      "source_form": "Away from the midline of the body",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Away from the midline of the body"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000042",
+      "concept_id": "HHS3190M-C-0000036",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Away from the origin of the body part",
+      "keyword_path": [
+        "Section topics",
+        "Away from the origin of the body part"
+      ],
+      "source_form": "Away from the origin of the body part",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Away from the origin of the body part"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000043",
+      "concept_id": "HHS3190M-C-0000037",
+      "category": "section_topics",
+      "broad_area": "Section topics",
       "small_area": "bone markings",
       "keyword_path": [
         "Section topics",
@@ -1810,8 +1902,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000042",
-      "concept_id": "HHS3190M-C-0000035",
+      "occurrence_id": "HHS3190M-O-00000044",
+      "concept_id": "HHS3190M-C-0000037",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "bone markings",
@@ -1855,8 +1947,54 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000043",
-      "concept_id": "HHS3190M-C-0000036",
+      "occurrence_id": "HHS3190M-O-00000045",
+      "concept_id": "HHS3190M-C-0000038",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Closer to the origin of the body part",
+      "keyword_path": [
+        "Section topics",
+        "Closer to the origin of the body part"
+      ],
+      "source_form": "Closer to the origin of the body part",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Closer to the origin of the body part"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000046",
+      "concept_id": "HHS3190M-C-0000039",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "condyle",
@@ -1899,8 +2037,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000044",
-      "concept_id": "HHS3190M-C-0000037",
+      "occurrence_id": "HHS3190M-O-00000047",
+      "concept_id": "HHS3190M-C-0000040",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "coronal plane",
@@ -1943,8 +2081,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000045",
-      "concept_id": "HHS3190M-C-0000037",
+      "occurrence_id": "HHS3190M-O-00000048",
+      "concept_id": "HHS3190M-C-0000040",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "coronal plane",
@@ -1987,8 +2125,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000046",
-      "concept_id": "HHS3190M-C-0000037",
+      "occurrence_id": "HHS3190M-O-00000049",
+      "concept_id": "HHS3190M-C-0000040",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "coronal plane",
@@ -2031,8 +2169,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000047",
-      "concept_id": "HHS3190M-C-0000038",
+      "occurrence_id": "HHS3190M-O-00000050",
+      "concept_id": "HHS3190M-C-0000041",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "distal",
@@ -2069,14 +2207,15 @@
       ],
       "source_excerpt": "Terminology Related to Positions\nDescribe the relative distances from the roots of limbs\nProximal\n• towards an attached base of limb\nDistal\n• away from an attached base of limb\n• eg. Arm & forearm",
       "retrieval_terms": [
-        "distal"
+        "distal",
+        "Distal"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000048",
-      "concept_id": "HHS3190M-C-0000038",
+      "occurrence_id": "HHS3190M-O-00000051",
+      "concept_id": "HHS3190M-C-0000041",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "distal",
@@ -2084,11 +2223,13 @@
         "Section topics",
         "distal"
       ],
-      "source_form": "distal",
+      "source_form": "Distal",
       "source_passage_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
       "source_page_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
       ],
@@ -2111,16 +2252,63 @@
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Term\nDefinition\nTerm\nDefinition\nToward upper part of\nCloser to the origin\nSuperior\nProximal\na structure; above\nof the body part\nToward lower part of\nAway from the origin\nInferior\nDistal\na structure; below\nof body part\nToward the front of\nToward the body\nVentral\nSuperficial\nbody\nsurface\nToward the deeper\nToward the back of\nDorsal\nInternal\npart of a structure\nbody\nToward the midline\nToward the outer\nMedial\nExternal\nof body\npart of a structure\nAway from midline of\nLateral\nbody",
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
       "retrieval_terms": [
-        "distal"
+        "distal",
+        "Distal"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000049",
-      "concept_id": "HHS3190M-C-0000039",
+      "occurrence_id": "HHS3190M-O-00000052",
+      "concept_id": "HHS3190M-C-0000042",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Dorsal",
+      "keyword_path": [
+        "Section topics",
+        "Dorsal"
+      ],
+      "source_form": "Dorsal",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Dorsal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000053",
+      "concept_id": "HHS3190M-C-0000043",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "dorsiflexion",
@@ -2163,184 +2351,230 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000050",
-      "concept_id": "HHS3190M-C-0000040",
-      "category": "section_topics",
-      "broad_area": "Section topics",
-      "small_area": "extension",
-      "keyword_path": [
-        "Section topics",
-        "extension"
-      ],
-      "source_form": "extension",
-      "source_passage_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
-          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
-          "source_file": "15 - J L1 Terminology for anatomy.pdf",
-          "page_number": 9,
-          "page_number_type": "slide_number",
-          "slide_number": 9,
-          "pdf_page": 9,
-          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 9 (PDF p. 9)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Terminology Related to Movements\nFlexion\n• Joint bending movement takes place in a sagittal plane\n• decreasing in joint angle\nExtension\n• movement along sagittal plane that straighten the joint with increasing in joint angle.\nLateral flexion\n• Movement of the trunk in the coronal plane",
-      "retrieval_terms": [
-        "extension"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000051",
-      "concept_id": "HHS3190M-C-0000040",
-      "category": "section_topics",
-      "broad_area": "Section topics",
-      "small_area": "extension",
-      "keyword_path": [
-        "Section topics",
-        "extension"
-      ],
-      "source_form": "extension",
-      "source_passage_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
-          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
-          "source_file": "15 - J L1 Terminology for anatomy.pdf",
-          "page_number": 11,
-          "page_number_type": "slide_number",
-          "slide_number": 11,
-          "pdf_page": 11,
-          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 11 (PDF p. 11)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
-      "retrieval_terms": [
-        "extension"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000052",
-      "concept_id": "HHS3190M-C-0000041",
-      "category": "section_topics",
-      "broad_area": "Section topics",
-      "small_area": "flexion",
-      "keyword_path": [
-        "Section topics",
-        "flexion"
-      ],
-      "source_form": "flexion",
-      "source_passage_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
-          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
-          "source_file": "15 - J L1 Terminology for anatomy.pdf",
-          "page_number": 9,
-          "page_number_type": "slide_number",
-          "slide_number": 9,
-          "pdf_page": 9,
-          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 9 (PDF p. 9)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Terminology Related to Movements\nFlexion\n• Joint bending movement takes place in a sagittal plane\n• decreasing in joint angle\nExtension\n• movement along sagittal plane that straighten the joint with increasing in joint angle.\nLateral flexion\n• Movement of the trunk in the coronal plane",
-      "retrieval_terms": [
-        "flexion"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000053",
-      "concept_id": "HHS3190M-C-0000041",
-      "category": "section_topics",
-      "broad_area": "Section topics",
-      "small_area": "flexion",
-      "keyword_path": [
-        "Section topics",
-        "flexion"
-      ],
-      "source_form": "flexion",
-      "source_passage_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
-          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
-          "source_file": "15 - J L1 Terminology for anatomy.pdf",
-          "page_number": 11,
-          "page_number_type": "slide_number",
-          "slide_number": 11,
-          "pdf_page": 11,
-          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 11 (PDF p. 11)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
-        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
-      "retrieval_terms": [
-        "flexion"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
       "occurrence_id": "HHS3190M-O-00000054",
-      "concept_id": "HHS3190M-C-0000041",
+      "concept_id": "HHS3190M-C-0000044",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "extension",
+      "keyword_path": [
+        "Section topics",
+        "extension"
+      ],
+      "source_form": "extension",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Terminology Related to Movements\nFlexion\n• Joint bending movement takes place in a sagittal plane\n• decreasing in joint angle\nExtension\n• movement along sagittal plane that straighten the joint with increasing in joint angle.\nLateral flexion\n• Movement of the trunk in the coronal plane",
+      "retrieval_terms": [
+        "extension"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000055",
+      "concept_id": "HHS3190M-C-0000044",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "extension",
+      "keyword_path": [
+        "Section topics",
+        "extension"
+      ],
+      "source_form": "extension",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
+      "retrieval_terms": [
+        "extension"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000056",
+      "concept_id": "HHS3190M-C-0000045",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "External",
+      "keyword_path": [
+        "Section topics",
+        "External"
+      ],
+      "source_form": "External",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "External"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000057",
+      "concept_id": "HHS3190M-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "flexion",
+      "keyword_path": [
+        "Section topics",
+        "flexion"
+      ],
+      "source_form": "flexion",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Terminology Related to Movements\nFlexion\n• Joint bending movement takes place in a sagittal plane\n• decreasing in joint angle\nExtension\n• movement along sagittal plane that straighten the joint with increasing in joint angle.\nLateral flexion\n• Movement of the trunk in the coronal plane",
+      "retrieval_terms": [
+        "flexion"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000058",
+      "concept_id": "HHS3190M-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "flexion",
+      "keyword_path": [
+        "Section topics",
+        "flexion"
+      ],
+      "source_form": "flexion",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
+      "retrieval_terms": [
+        "flexion"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000059",
+      "concept_id": "HHS3190M-C-0000046",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "flexion",
@@ -2383,20 +2617,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000055",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000060",
+      "concept_id": "HHS3190M-C-0000047",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "lateral",
+      "small_area": "Inferior",
       "keyword_path": [
         "Section topics",
-        "lateral"
+        "Inferior"
       ],
-      "source_form": "lateral",
+      "source_form": "Inferior",
       "source_passage_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
       "source_page_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
       ],
@@ -2419,16 +2655,62 @@
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Term\nDefinition\nTerm\nDefinition\nToward upper part of\nCloser to the origin\nSuperior\nProximal\na structure; above\nof the body part\nToward lower part of\nAway from the origin\nInferior\nDistal\na structure; below\nof body part\nToward the front of\nToward the body\nVentral\nSuperficial\nbody\nsurface\nToward the deeper\nToward the back of\nDorsal\nInternal\npart of a structure\nbody\nToward the midline\nToward the outer\nMedial\nExternal\nof body\npart of a structure\nAway from midline of\nLateral\nbody",
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
       "retrieval_terms": [
-        "lateral"
+        "Inferior"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000056",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000061",
+      "concept_id": "HHS3190M-C-0000048",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Internal",
+      "keyword_path": [
+        "Section topics",
+        "Internal"
+      ],
+      "source_form": "Internal",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Internal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000062",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2465,14 +2747,15 @@
       ],
       "source_excerpt": "Terminology Related to Positions\nIpsilateral\n• refers to the same side of the body\nBilateral\n• paired structures in both right & left sides\nContralateral\n• refers to opposite sides of the body\nSupine\n• lying face upward\nProne\n• lying face downward",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000057",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000063",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2509,14 +2792,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nFlexion\n• Joint bending movement takes place in a sagittal plane\n• decreasing in joint angle\nExtension\n• movement along sagittal plane that straighten the joint with increasing in joint angle.\nLateral flexion\n• Movement of the trunk in the coronal plane",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000058",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000064",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2553,14 +2837,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000059",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000065",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2597,14 +2882,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nPronation\n• Medial rotationof forearm in such manner that palm of hand faces posteriorly\nSupination\n• Lateral rotationof forearm from pronated position, with palm of hand faces anteriorly\n** movement of radiusover the ulna\nElbow\nhttps://youtu.be/PNWRcx6ZYKg?si=3rNVtKZ6Gwg5mxcW\nOpposition\n• Movement at saddle joint between metacarpal I and the trapezium",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000060",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000066",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2641,14 +2927,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nDorsiflexion\nMovement at sagittal plane, lifting foot that dorsum approaches the shin.\nPlantarflexion\nmovement at sagittal plane, depressing foot.\nInversion\nmovement of foot so the sole turns medially\nEversion\nmovement of foot so the sole faces laterally\nAnkle https://youtu.be/ViRsbvnL6uQ?si=BnolPNo6pbg0GbiQ",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000061",
-      "concept_id": "HHS3190M-C-0000042",
+      "occurrence_id": "HHS3190M-O-00000067",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lateral",
@@ -2685,26 +2972,29 @@
       ],
       "source_excerpt": "Terminologies related to Bone Markings\nCondyle\n• rounded articular projection (e.g. femoral condyle), articulates with corresponding fossa\nEpicondyle\n• eminence superior to a condyle\nCrest\n• narrow ridge of bone, usually prominent (e.g. iliac crest)\nMalleolus\n• rounded prominence (e.g. lateral malleolus)",
       "retrieval_terms": [
-        "lateral"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000062",
-      "concept_id": "HHS3190M-C-0000043",
+      "occurrence_id": "HHS3190M-O-00000068",
+      "concept_id": "HHS3190M-C-0000049",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "medial",
+      "small_area": "lateral",
       "keyword_path": [
         "Section topics",
-        "medial"
+        "lateral"
       ],
-      "source_form": "medial",
+      "source_form": "Lateral",
       "source_passage_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
       "source_page_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
       ],
@@ -2727,16 +3017,17 @@
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Term\nDefinition\nTerm\nDefinition\nToward upper part of\nCloser to the origin\nSuperior\nProximal\na structure; above\nof the body part\nToward lower part of\nAway from the origin\nInferior\nDistal\na structure; below\nof body part\nToward the front of\nToward the body\nVentral\nSuperficial\nbody\nsurface\nToward the deeper\nToward the back of\nDorsal\nInternal\npart of a structure\nbody\nToward the midline\nToward the outer\nMedial\nExternal\nof body\npart of a structure\nAway from midline of\nLateral\nbody",
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
       "retrieval_terms": [
-        "medial"
+        "lateral",
+        "Lateral"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000063",
-      "concept_id": "HHS3190M-C-0000043",
+      "occurrence_id": "HHS3190M-O-00000069",
+      "concept_id": "HHS3190M-C-0000050",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "medial",
@@ -2773,14 +3064,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nMedial/ Internal rotation\n• Movement that results in the anterior surface of the body part facing medially\nLateral/ External Rotation\n• Movement that results in the anterior surface of the body part facing laterally\nCircumduction\n• Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially\n• Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
       "retrieval_terms": [
-        "medial"
+        "medial",
+        "Medial"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000064",
-      "concept_id": "HHS3190M-C-0000043",
+      "occurrence_id": "HHS3190M-O-00000070",
+      "concept_id": "HHS3190M-C-0000050",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "medial",
@@ -2817,14 +3109,15 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nPronation\n• Medial rotationof forearm in such manner that palm of hand faces posteriorly\nSupination\n• Lateral rotationof forearm from pronated position, with palm of hand faces anteriorly\n** movement of radiusover the ulna\nElbow\nhttps://youtu.be/PNWRcx6ZYKg?si=3rNVtKZ6Gwg5mxcW\nOpposition\n• Movement at saddle joint between metacarpal I and the trapezium",
       "retrieval_terms": [
-        "medial"
+        "medial",
+        "Medial"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000065",
-      "concept_id": "HHS3190M-C-0000043",
+      "occurrence_id": "HHS3190M-O-00000071",
+      "concept_id": "HHS3190M-C-0000050",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "medial",
@@ -2861,14 +3154,62 @@
       ],
       "source_excerpt": "Terminology Related to Movements\nDorsiflexion\nMovement at sagittal plane, lifting foot that dorsum approaches the shin.\nPlantarflexion\nmovement at sagittal plane, depressing foot.\nInversion\nmovement of foot so the sole turns medially\nEversion\nmovement of foot so the sole faces laterally\nAnkle https://youtu.be/ViRsbvnL6uQ?si=BnolPNo6pbg0GbiQ",
       "retrieval_terms": [
-        "medial"
+        "medial",
+        "Medial"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000066",
-      "concept_id": "HHS3190M-C-0000044",
+      "occurrence_id": "HHS3190M-O-00000072",
+      "concept_id": "HHS3190M-C-0000050",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "medial",
+      "keyword_path": [
+        "Section topics",
+        "medial"
+      ],
+      "source_form": "Medial",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "medial",
+        "Medial"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000073",
+      "concept_id": "HHS3190M-C-0000051",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "plantar flexion",
@@ -2911,8 +3252,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000067",
-      "concept_id": "HHS3190M-C-0000045",
+      "occurrence_id": "HHS3190M-O-00000074",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "posterior",
@@ -2955,8 +3296,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000068",
-      "concept_id": "HHS3190M-C-0000045",
+      "occurrence_id": "HHS3190M-O-00000075",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "posterior",
@@ -2999,8 +3340,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000069",
-      "concept_id": "HHS3190M-C-0000045",
+      "occurrence_id": "HHS3190M-O-00000076",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "posterior",
@@ -3043,8 +3384,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000070",
-      "concept_id": "HHS3190M-C-0000046",
+      "occurrence_id": "HHS3190M-O-00000077",
+      "concept_id": "HHS3190M-C-0000053",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "pronation",
@@ -3087,8 +3428,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000071",
-      "concept_id": "HHS3190M-C-0000047",
+      "occurrence_id": "HHS3190M-O-00000078",
+      "concept_id": "HHS3190M-C-0000054",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "proximal",
@@ -3125,14 +3466,15 @@
       ],
       "source_excerpt": "Terminology Related to Positions\nDescribe the relative distances from the roots of limbs\nProximal\n• towards an attached base of limb\nDistal\n• away from an attached base of limb\n• eg. Arm & forearm",
       "retrieval_terms": [
-        "proximal"
+        "proximal",
+        "Proximal"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000072",
-      "concept_id": "HHS3190M-C-0000047",
+      "occurrence_id": "HHS3190M-O-00000079",
+      "concept_id": "HHS3190M-C-0000054",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "proximal",
@@ -3140,11 +3482,13 @@
         "Section topics",
         "proximal"
       ],
-      "source_form": "proximal",
+      "source_form": "Proximal",
       "source_passage_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
       "source_page_ids": [
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
       ],
@@ -3167,16 +3511,17 @@
         "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Term\nDefinition\nTerm\nDefinition\nToward upper part of\nCloser to the origin\nSuperior\nProximal\na structure; above\nof the body part\nToward lower part of\nAway from the origin\nInferior\nDistal\na structure; below\nof body part\nToward the front of\nToward the body\nVentral\nSuperficial\nbody\nsurface\nToward the deeper\nToward the back of\nDorsal\nInternal\npart of a structure\nbody\nToward the midline\nToward the outer\nMedial\nExternal\nof body\npart of a structure\nAway from midline of\nLateral\nbody",
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
       "retrieval_terms": [
-        "proximal"
+        "proximal",
+        "Proximal"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000073",
-      "concept_id": "HHS3190M-C-0000048",
+      "occurrence_id": "HHS3190M-O-00000080",
+      "concept_id": "HHS3190M-C-0000055",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "sagittal plane",
@@ -3219,8 +3564,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000074",
-      "concept_id": "HHS3190M-C-0000048",
+      "occurrence_id": "HHS3190M-O-00000081",
+      "concept_id": "HHS3190M-C-0000055",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "sagittal plane",
@@ -3263,8 +3608,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000075",
-      "concept_id": "HHS3190M-C-0000048",
+      "occurrence_id": "HHS3190M-O-00000082",
+      "concept_id": "HHS3190M-C-0000055",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "sagittal plane",
@@ -3307,8 +3652,100 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000076",
-      "concept_id": "HHS3190M-C-0000049",
+      "occurrence_id": "HHS3190M-O-00000083",
+      "concept_id": "HHS3190M-C-0000056",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Superficial",
+      "keyword_path": [
+        "Section topics",
+        "Superficial"
+      ],
+      "source_form": "Superficial",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Superficial"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000084",
+      "concept_id": "HHS3190M-C-0000057",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Superior",
+      "keyword_path": [
+        "Section topics",
+        "Superior"
+      ],
+      "source_form": "Superior",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Superior"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000085",
+      "concept_id": "HHS3190M-C-0000058",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "supination",
@@ -3351,8 +3788,376 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000077",
-      "concept_id": "HHS3190M-C-0000050",
+      "occurrence_id": "HHS3190M-O-00000086",
+      "concept_id": "HHS3190M-C-0000059",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward lower part of a structure; below",
+      "keyword_path": [
+        "Section topics",
+        "Toward lower part of a structure; below"
+      ],
+      "source_form": "Toward lower part of a structure; below",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward lower part of a structure; below"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000087",
+      "concept_id": "HHS3190M-C-0000060",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the back of the body",
+      "keyword_path": [
+        "Section topics",
+        "Toward the back of the body"
+      ],
+      "source_form": "Toward the back of the body",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the back of the body"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000088",
+      "concept_id": "HHS3190M-C-0000061",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the body surface",
+      "keyword_path": [
+        "Section topics",
+        "Toward the body surface"
+      ],
+      "source_form": "Toward the body surface",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the body surface"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000089",
+      "concept_id": "HHS3190M-C-0000062",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the deeper part of a structure",
+      "keyword_path": [
+        "Section topics",
+        "Toward the deeper part of a structure"
+      ],
+      "source_form": "Toward the deeper part of a structure",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the deeper part of a structure"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000090",
+      "concept_id": "HHS3190M-C-0000063",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the front of the body",
+      "keyword_path": [
+        "Section topics",
+        "Toward the front of the body"
+      ],
+      "source_form": "Toward the front of the body",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the front of the body"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000091",
+      "concept_id": "HHS3190M-C-0000064",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the midline of the body",
+      "keyword_path": [
+        "Section topics",
+        "Toward the midline of the body"
+      ],
+      "source_form": "Toward the midline of the body",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the midline of the body"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000092",
+      "concept_id": "HHS3190M-C-0000065",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward the outer part of a structure",
+      "keyword_path": [
+        "Section topics",
+        "Toward the outer part of a structure"
+      ],
+      "source_form": "Toward the outer part of a structure",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward the outer part of a structure"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000093",
+      "concept_id": "HHS3190M-C-0000066",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Toward upper part of a structure; above",
+      "keyword_path": [
+        "Section topics",
+        "Toward upper part of a structure; above"
+      ],
+      "source_form": "Toward upper part of a structure; above",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Toward upper part of a structure; above"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000094",
+      "concept_id": "HHS3190M-C-0000067",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "transverse plane",
@@ -3395,8 +4200,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000078",
-      "concept_id": "HHS3190M-C-0000050",
+      "occurrence_id": "HHS3190M-O-00000095",
+      "concept_id": "HHS3190M-C-0000067",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "transverse plane",
@@ -3439,8 +4244,99 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000079",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000096",
+      "concept_id": "HHS3190M-C-0000068",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Ventral",
+      "keyword_path": [
+        "Section topics",
+        "Ventral"
+      ],
+      "source_form": "Ventral",
+      "source_passage_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-TBL-P0007-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Superior | Toward upper part of a structure; above | Proximal | Closer to the origin of the body part\nInferior | Toward lower part of a structure; below | Distal | Away from the origin of the body part\nVentral | Toward the front of the body | Superficial | Toward the body surface\nDorsal | Toward the back of the body | Internal | Toward the deeper part of a structure\nMedial | Toward the midline of the body | External | Toward the outer part of a structure\nLateral | Away from the midline of the bo",
+      "retrieval_terms": [
+        "Ventral"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000097",
+      "concept_id": "HHS3190M-C-0000069",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Terminology related to positions",
+      "keyword_path": [
+        "visual",
+        "Terminology related to positions"
+      ],
+      "source_form": "Terminology related to positions",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0007-TABLE01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+          "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+          "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "source_file": "15 - J L1 Terminology for anatomy.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Terminology related to positions",
+      "retrieval_terms": [
+        "Terminology related to positions",
+        "Terminology related to position"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000098",
+      "concept_id": "HHS3190M-C-0000070",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Body Planes",
@@ -3484,8 +4380,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000080",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000099",
+      "concept_id": "HHS3190M-C-0000070",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Body Planes",
@@ -3529,8 +4425,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000081",
-      "concept_id": "HHS3190M-C-0000052",
+      "occurrence_id": "HHS3190M-O-00000100",
+      "concept_id": "HHS3190M-C-0000071",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: HHS3190MJ",
@@ -3573,8 +4469,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000082",
-      "concept_id": "HHS3190M-C-0000053",
+      "occurrence_id": "HHS3190M-O-00000101",
+      "concept_id": "HHS3190M-C-0000072",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Inferior",
@@ -3617,8 +4513,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000083",
-      "concept_id": "HHS3190M-C-0000054",
+      "occurrence_id": "HHS3190M-O-00000102",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Introduction to Anatomy",
@@ -3661,8 +4557,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000084",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000103",
+      "concept_id": "HHS3190M-C-0000074",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Outline",
@@ -3705,8 +4601,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000085",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000104",
+      "concept_id": "HHS3190M-C-0000075",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: References",
@@ -3750,8 +4646,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000086",
-      "concept_id": "HHS3190M-C-0000057",
+      "occurrence_id": "HHS3190M-O-00000105",
+      "concept_id": "HHS3190M-C-0000076",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminologies related to Bone Markings",
@@ -3795,8 +4691,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000087",
-      "concept_id": "HHS3190M-C-0000057",
+      "occurrence_id": "HHS3190M-O-00000106",
+      "concept_id": "HHS3190M-C-0000076",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminologies related to Bone Markings",
@@ -3840,8 +4736,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000088",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000107",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -3885,8 +4781,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000089",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000108",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -3930,8 +4826,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000090",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000109",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -3975,8 +4871,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000091",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000110",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -4020,8 +4916,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000092",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000111",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -4065,8 +4961,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000093",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000112",
+      "concept_id": "HHS3190M-C-0000077",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Movements",
@@ -4110,8 +5006,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000094",
-      "concept_id": "HHS3190M-C-0000059",
+      "occurrence_id": "HHS3190M-O-00000113",
+      "concept_id": "HHS3190M-C-0000078",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Positions",
@@ -4155,8 +5051,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000095",
-      "concept_id": "HHS3190M-C-0000059",
+      "occurrence_id": "HHS3190M-O-00000114",
+      "concept_id": "HHS3190M-C-0000078",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Positions",
@@ -4200,8 +5096,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000096",
-      "concept_id": "HHS3190M-C-0000059",
+      "occurrence_id": "HHS3190M-O-00000115",
+      "concept_id": "HHS3190M-C-0000078",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Terminology Related to Positions",
@@ -4246,7 +5142,7 @@
     }
   ],
   "counts": {
-    "occurrences": 96
+    "occurrences": 115
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
