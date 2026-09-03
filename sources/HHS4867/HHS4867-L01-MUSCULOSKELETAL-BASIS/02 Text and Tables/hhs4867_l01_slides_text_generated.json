@@ -1,0 +1,3318 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+  "source": {
+    "filename": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/00 Source/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+    "sha256": "sha256:79b0752b58456a48ac0daad88d0f3b905f475c22adb646461aa39b112559bf7d",
+    "pdf_page_count": 20,
+    "pdfinfo": {
+      "Title": "Musculoskeletal basis for human movement",
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:54:29 2026 HKT",
+      "ModDate": "Thu Aug 27 11:54:29 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 20,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1357806,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained, including the deck's ⚫ markers.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+      "slide_number": 1,
+      "title": "Musculoskeletal basis for human movement",
+      "english_text": "Musculoskeletal basis for human movement\nHHS4867 Functional Movement Science\nHHS4867J",
+      "raw_bilingual_text": "Musculoskeletal basis for human movement\n人體運動的肌肉骨骼基礎\nHHS4867 Functional Movement Science\nHHS4867J 功能性運動科學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+          "slide_number": 1,
+          "content_type": "slide_title",
+          "text": "Musculoskeletal basis for human movement",
+          "body_text": "Musculoskeletal basis for human movement",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            32.04,
+            148.262,
+            705.924,
+            180.662
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867 Functional Movement Science",
+          "body_text": "HHS4867 Functional Movement Science",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 87.26,
+          "indent_level": 4,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            119.3,
+            310.357,
+            600.541,
+            335.543
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867J",
+          "body_text": "HHS4867J",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 161.66,
+          "indent_level": 7,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            193.7,
+            340.584,
+            526.042,
+            369.047
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "slide_number": 2,
+      "title": "The movement system: parts working together",
+      "english_text": "The movement system: parts working together",
+      "raw_bilingual_text": "The movement system: parts working together\n動作系統：各部分協同運作\nBones\n骨骼\nJoints\n關節\nMuscles\n肌肉\nConnective tissue\n結締組織",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+          "slide_number": 2,
+          "content_type": "slide_title",
+          "text": "The movement system: parts working together",
+          "body_text": "The movement system: parts working together",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            24.0,
+            21.06,
+            661.496,
+            49.918
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0003",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0005"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0001",
+          "visual_type": "image",
+          "name": "Movement-system exercise photograph",
+          "pdf_page": 2,
+          "slide_number": 2,
+          "location": {
+            "bbox_points": [
+              24.96,
+              110.4,
+              402.96,
+              459.6
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0002",
+          "visual_type": "image",
+          "name": "Bones component box",
+          "pdf_page": 2,
+          "slide_number": 2,
+          "location": {
+            "bbox_points": [
+              432.84,
+              116.64,
+              683.46,
+              189.66
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0003",
+          "visual_type": "image",
+          "name": "Joints component box",
+          "pdf_page": 2,
+          "slide_number": 2,
+          "location": {
+            "bbox_points": [
+              427.08,
+              202.08,
+              683.46,
+              275.1
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0004",
+          "visual_type": "image",
+          "name": "Muscles component box",
+          "pdf_page": 2,
+          "slide_number": 2,
+          "location": {
+            "bbox_points": [
+              432.84,
+              284.16,
+              683.46,
+              357.18
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0005",
+          "visual_type": "image",
+          "name": "Connective tissue component box",
+          "pdf_page": 2,
+          "slide_number": 2,
+          "location": {
+            "bbox_points": [
+              427.08,
+              370.56,
+              683.46,
+              443.58
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+      "slide_number": 3,
+      "title": "Anterior & Posterior View of Human Body",
+      "english_text": "Anterior & Posterior View of Human Body",
+      "raw_bilingual_text": "Anterior & Posterior\nView of Human\nBody\n人體前後視圖",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+          "slide_number": 3,
+          "content_type": "slide_title",
+          "text": "Anterior & Posterior View of Human Body",
+          "body_text": "Anterior & Posterior View of Human Body",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0,
+            1,
+            2
+          ],
+          "bbox_points": [
+            41.64,
+            77.588,
+            216.312,
+            156.818
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0003-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0003-C0001",
+          "visual_type": "image",
+          "name": "Anterior and posterior views of the human skeleton",
+          "pdf_page": 3,
+          "slide_number": 3,
+          "location": {
+            "bbox_points": [
+              231.84,
+              11.64,
+              706.68,
+              531.12
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+      "slide_number": 4,
+      "title": "Skeleton & Bone Tissue",
+      "english_text": "Skeleton & Bone Tissue\n⚫ The skeleton is composed of bones, joints, cartilage and ligaments\n⚫ Joints are the intersections between bones\n⚫ Ligaments connects bone at the joints, thus reinforcing the joints",
+      "raw_bilingual_text": "Skeleton & Bone Tissue\n骨骼和骨組織\n⚫ The skeleton is composed of\n• 骨骼由骨骼、關節、軟骨\nbones, joints, cartilage and\n和韌帶組成\nligaments\n⚫ Joints are the intersections\n• 關節是骨骼之間的連接點\nbetween bones\n⚫ Ligaments connects bone at the\n• 韌帶連接關節處的骨骼，\njoints, thus reinforcing the joints\n從而加強關節",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+          "slide_number": 4,
+          "content_type": "slide_title",
+          "text": "Skeleton & Bone Tissue",
+          "body_text": "Skeleton & Bone Tissue",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 104.5,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            147.46,
+            62.187,
+            435.428,
+            91.023
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+          "slide_number": 4,
+          "content_type": "list_item",
+          "text": "⚫ The skeleton is composed of bones, joints, cartilage and ligaments",
+          "body_text": "The skeleton is composed of bones, joints, cartilage and ligaments",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            42.96,
+            163.605,
+            330.122,
+            255.033
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+          "slide_number": 4,
+          "content_type": "list_item",
+          "text": "⚫ Joints are the intersections between bones",
+          "body_text": "Joints are the intersections between bones",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5,
+            9
+          ],
+          "bbox_points": [
+            42.96,
+            270.065,
+            310.436,
+            332.688
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+          "slide_number": 4,
+          "content_type": "list_item",
+          "text": "⚫ Ligaments connects bone at the joints, thus reinforcing the joints",
+          "body_text": "Ligaments connects bone at the joints, thus reinforcing the joints",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11
+          ],
+          "bbox_points": [
+            42.96,
+            347.605,
+            366.146,
+            410.228
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+      "slide_number": 5,
+      "title": "Bone Tissue Function",
+      "english_text": "Bone Tissue Function\n⚫ Support\n⚫ Provides significant structural support\n⚫ Maintain a posture while accommodating large external forces\n⚫ Attachment Sites\n⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system\n⚫ Leverage\n⚫ Provides the levers and axes of rotation about which the muscular system generates the movement",
+      "raw_bilingual_text": "Bone Tissue Function\n骨組織功能\n⚫ Support\n• 支持\n• 提供重要的結構支持\n⚫ Provides significant structural support\n• 適應較大的外力時保持姿勢 .\n⚫ Maintain a posture while\naccommodating large external forces\n• 附著點\n⚫ Attachment Sites\n• 肌腱、肌肉和韌帶的附著點，\n⚫ Site of attachment for tendons,\n因此可以通過肌肉系統產生\nmuscles and ligaments, thus allows\n運動 .\nfor the generation of movement\nthrough the muscular system\n⚫ Leverage\n• 槓桿作用\n⚫ Provides the levers and axes of\n• 提供槓桿和旋轉軸，肌肉系\nrotation about which the muscular\n統可以圍繞這些槓桿和旋轉\nsystem generates the movement\n軸產生運動",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "slide_title",
+          "text": "Bone Tissue Function",
+          "body_text": "Bone Tissue Function",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 78.02,
+          "indent_level": 3,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            120.98,
+            34.397,
+            393.56,
+            63.233
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Support",
+          "body_text": "Support",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            42.96,
+            126.806,
+            122.796,
+            152.483
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Provides significant structural support",
+          "body_text": "Provides significant structural support",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            70.44,
+            154.665,
+            351.032,
+            180.033
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Maintain a posture while accommodating large external forces",
+          "body_text": "Maintain a posture while accommodating large external forces",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            4,
+            8
+          ],
+          "bbox_points": [
+            70.44,
+            182.265,
+            345.003,
+            229.011
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Attachment Sites",
+          "body_text": "Attachment Sites",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            42.96,
+            245.266,
+            182.222,
+            270.943
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system",
+          "body_text": "Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            70.44,
+            273.125,
+            333.817,
+            363.086
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Leverage",
+          "body_text": "Leverage",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            42.96,
+            376.086,
+            132.624,
+            401.763
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "⚫ Provides the levers and axes of rotation about which the muscular system generates the movement",
+          "body_text": "Provides the levers and axes of rotation about which the muscular system generates the movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            15,
+            16,
+            17
+          ],
+          "bbox_points": [
+            70.44,
+            403.919,
+            326.924,
+            472.314
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+      "slide_number": 6,
+      "title": "Cartilage",
+      "english_text": "Cartilage\n⚫ 2 main types of cartilages:\n⚫ Articular(hyaline) cartilage\n⚫ Covers the articulating ends of the bones in the free moving joints\n⚫ Function:\n⚫ Transit compressive forces across the joint\n⚫ Allows motion in the joint with minimal friction\n⚫ Redistributes contact stresses over a larger area\n⚫ Protects underlying bones\n⚫ Fibrocartilage\n⚫ Acts as an intermediary between hyaline cartilage and other connective tissues\n⚫ Can withstand high pressures\n⚫ Refers to as articular disc, or meniscus",
+      "raw_bilingual_text": "Cartilage 軟骨\n⚫ 2 main types of cartilages:\n軟骨的2種主要類型：\n⚫ Articular(hyaline) cartilage\n• 關節（透明）軟骨\n⚫ Covers the articulating ends of the bones\n• 覆蓋自由活動關節中骨骼嘅關節端\nin the free moving joints\n• 功能：\n⚫ Function:\n• 通過關節的傳遞壓縮力\n⚫ Transit compressive forces across the joint\n• 允許關節運動，摩擦最小\n⚫ Allows motion in the joint with minimal\n• 在更大的區域上重新分配接觸\nfriction\n⚫ Redistributes contact stresses over a larger\n應力\n• 保護底層骨骼\narea\n⚫ Protects underlying bones\n⚫ Fibrocartilage\n• 纖維軟骨\n⚫ Acts as an intermediary between hyaline\n• 充當透明軟骨和其他結締體之間的\n仲介組織\ncartilage and other connective\n• 可承受高壓\ntissues\n• 指關節盤或半月板\n⚫ Can withstand high pressures\n⚫ Refers to as articular disc, or meniscus",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "slide_title",
+          "text": "Cartilage",
+          "body_text": "Cartilage",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 184.054,
+          "indent_level": 8,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            203.83,
+            37.185,
+            467.544,
+            82.042
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ 2 main types of cartilages:",
+          "body_text": "2 main types of cartilages:",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            19.776,
+            117.106,
+            223.738,
+            142.783
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Articular(hyaline) cartilage",
+          "body_text": "Articular(hyaline) cartilage",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            47.256,
+            141.965,
+            257.472,
+            167.333
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Covers the articulating ends of the bones in the free moving joints",
+          "body_text": "Covers the articulating ends of the bones in the free moving joints",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            3,
+            4
+          ],
+          "bbox_points": [
+            73.776,
+            167.781,
+            341.109,
+            209.523
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Function:",
+          "body_text": "Function:",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            73.776,
+            210.186,
+            152.618,
+            232.924
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Transit compressive forces across the joint",
+          "body_text": "Transit compressive forces across the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 76.2,
+          "indent_level": 3,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            95.976,
+            234.266,
+            340.618,
+            253.755
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Allows motion in the joint with minimal friction",
+          "body_text": "Allows motion in the joint with minimal friction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 76.2,
+          "indent_level": 3,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            95.976,
+            255.026,
+            330.066,
+            291.187
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Redistributes contact stresses over a larger area",
+          "body_text": "Redistributes contact stresses over a larger area",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 76.2,
+          "indent_level": 3,
+          "source_line_indices": [
+            9,
+            10
+          ],
+          "bbox_points": [
+            95.976,
+            292.616,
+            341.148,
+            328.777
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B009",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Protects underlying bones",
+          "body_text": "Protects underlying bones",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 76.2,
+          "indent_level": 3,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            95.976,
+            330.296,
+            254.005,
+            349.785
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B010",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Fibrocartilage",
+          "body_text": "Fibrocartilage",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            47.256,
+            349.015,
+            166.26,
+            374.383
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B011",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Acts as an intermediary between hyaline cartilage and other connective tissues",
+          "body_text": "Acts as an intermediary between hyaline cartilage and other connective tissues",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            73.776,
+            376.631,
+            338.869,
+            445.135
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B012",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Can withstand high pressures",
+          "body_text": "Can withstand high pressures",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            73.776,
+            447.838,
+            271.084,
+            470.576
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006-B013",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "⚫ Refers to as articular disc, or meniscus",
+          "body_text": "Refers to as articular disc, or meniscus",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            73.776,
+            471.093,
+            327.913,
+            493.861
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+      "slide_number": 7,
+      "title": "Meniscus",
+      "english_text": "Meniscus",
+      "raw_bilingual_text": "Meniscus半月板",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+          "slide_number": 7,
+          "content_type": "slide_title",
+          "text": "Meniscus",
+          "body_text": "Meniscus",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            439.27,
+            232.18,
+            603.478,
+            256.18
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0001",
+          "visual_type": "image",
+          "name": "Articular cartilage of the knee",
+          "pdf_page": 7,
+          "slide_number": 7,
+          "location": {
+            "bbox_points": [
+              18.0,
+              24.0,
+              456.36,
+              270.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0002",
+          "visual_type": "image",
+          "name": "Meniscus of the knee",
+          "pdf_page": 7,
+          "slide_number": 7,
+          "location": {
+            "bbox_points": [
+              275.04,
+              282.0,
+              690.96,
+              516.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+      "slide_number": 8,
+      "title": "Ligaments",
+      "english_text": "Ligaments\n⚫ Short bands of tough fibrous connective tissue that binds bones to bones\n⚫ Provides support in one direction, and often blends with the capsule of the joint\n⚫ Capsular ligaments: thickenings in the wall of the capsule\n⚫ Extracapsular ligaments: outside the joint\n⚫ Intra-articular ligaments: located inside the joint\n⚫ Function:\n⚫ Guide normal joint movement\n⚫ Restrict abnormal joint movement",
+      "raw_bilingual_text": "Ligaments 韌帶\n⚫ Short bands of tough fibrous\n• 將骨骼與骨骼結合起來的堅韌纖\nconnective tissue that binds bones to\n維結締組織短帶\nbones\n• 提供一個方向的支撐，並經常與\n⚫ Provides support in one direction,\n關節囊融合\nand often blends with the capsule of\nthe joint\n⚫ Capsular ligaments: thickenings in\n• 包膜韌帶：囊壁增厚\nthe wall of the capsule\n• 囊外韌帶：關節外\n⚫ Extracapsular ligaments: outside the\njoint\n⚫ Intra-articular ligaments: located\n• 關節內韌帶：位於關節內\ninside the joint\n• 功能：\n⚫ Function:\n• 引導關節正常運動\n⚫ Guide normal joint movement\n• 限制關節異常運動\n⚫ Restrict abnormal joint movement",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "slide_title",
+          "text": "Ligaments",
+          "body_text": "Ligaments",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 174.02,
+          "indent_level": 7,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            204.98,
+            25.877,
+            500.138,
+            72.689
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Short bands of tough fibrous connective tissue that binds bones to bones",
+          "body_text": "Short bands of tough fibrous connective tissue that binds bones to bones",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3
+          ],
+          "bbox_points": [
+            30.96,
+            86.735,
+            333.71,
+            162.649
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Provides support in one direction, and often blends with the capsule of the joint",
+          "body_text": "Provides support in one direction, and often blends with the capsule of the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4,
+            5,
+            6
+          ],
+          "bbox_points": [
+            30.96,
+            174.965,
+            331.082,
+            244.879
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Capsular ligaments: thickenings in the wall of the capsule",
+          "body_text": "Capsular ligaments: thickenings in the wall of the capsule",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            30.96,
+            255.939,
+            317.882,
+            307.899
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Extracapsular ligaments: outside the joint",
+          "body_text": "Extracapsular ligaments: outside the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            16
+          ],
+          "bbox_points": [
+            30.96,
+            318.985,
+            329.837,
+            370.904
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Intra-articular ligaments: located inside the joint",
+          "body_text": "Intra-articular ligaments: located inside the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            17,
+            19
+          ],
+          "bbox_points": [
+            30.96,
+            382.015,
+            302.998,
+            433.929
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Function:",
+          "body_text": "Function:",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            20
+          ],
+          "bbox_points": [
+            30.96,
+            444.985,
+            130.249,
+            473.167
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Guide normal joint movement",
+          "body_text": "Guide normal joint movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            21
+          ],
+          "bbox_points": [
+            58.44,
+            470.276,
+            289.592,
+            495.798
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008-B009",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "⚫ Restrict abnormal joint movement",
+          "body_text": "Restrict abnormal joint movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            22
+          ],
+          "bbox_points": [
+            58.44,
+            492.956,
+            316.34,
+            518.478
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+      "slide_number": 9,
+      "title": "Ligaments: Bone → bone • guides and limits movement",
+      "english_text": "Ligaments: Bone → bone • guides and limits movement",
+      "raw_bilingual_text": "Ligaments: Bone → bone • guides and limits movement\n韌帶:\n骨與骨連接 • 引導及限制活動",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+          "slide_number": 9,
+          "content_type": "slide_title",
+          "text": "Ligaments: Bone → bone • guides and limits movement",
+          "body_text": "Ligaments: Bone → bone • guides and limits movement",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            109.22,
+            455.936,
+            600.701,
+            478.28
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0009-C0001",
+          "visual_type": "image",
+          "name": "Ligament examples around the knee",
+          "pdf_page": 9,
+          "slide_number": 9,
+          "location": {
+            "bbox_points": [
+              71.28,
+              38.52,
+              647.76,
+              444.96
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+      "slide_number": 10,
+      "title": "Joint – Synovial Joint",
+      "english_text": "Joint – Synovial Joint\n⚫ A – articular cartilage\n⚫ B + C → joint capsule\n⚫ fibrous white connective tissue\n⚫ C: synovial membrane\n⚫ Secretes synovial fluid into the joint to lubricate & provide nutrition to the joint\n⚫ A healthy joint provides effortless motion along preferred anatomical directions with an accompanying restriction of abnormal joint motion",
+      "raw_bilingual_text": "Joint – Synovial Joint\n關節 – 滑膜關節\n⚫ A – 關節軟骨\n⚫ A – articular cartilage\n⚫ B+C 關節囊\n⚫ B + C → joint capsule\n⚫ fibrous white connective tissue\n⚫ 纖維狀白色結締組織\n⚫ C: synovial membrane\n⚫ C：滑膜\n⚫ Secretes synovial fluid into the joint to lubricate\n& provide nutrition to the joint\n⚫ 將滑液分泌到關節中，潤滑關\n⚫ A healthy joint provides effortless motion along\n節併為關節提供營養\npreferred anatomical directions with an\n⚫ 健康的關節可以沿著首選的解剖方向輕\naccompanying restriction of abnormal joint\n鬆運動，並伴隨著異常關節運動的限制\nmotion",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "slide_title",
+          "text": "Joint – Synovial Joint",
+          "body_text": "Joint – Synovial Joint",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 84.31,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            127.27,
+            57.2,
+            462.972,
+            97.592
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ A – articular cartilage",
+          "body_text": "A – articular cartilage",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            42.96,
+            211.506,
+            210.158,
+            234.244
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ B + C → joint capsule",
+          "body_text": "B + C → joint capsule",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            42.96,
+            250.746,
+            204.981,
+            273.484
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ fibrous white connective tissue",
+          "body_text": "fibrous white connective tissue",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            70.44,
+            276.06,
+            280.256,
+            298.519
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ C: synovial membrane",
+          "body_text": "C: synovial membrane",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            70.44,
+            301.315,
+            230.425,
+            323.744
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ Secretes synovial fluid into the joint to lubricate & provide nutrition to the joint",
+          "body_text": "Secretes synovial fluid into the joint to lubricate & provide nutrition to the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 54.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            8,
+            9
+          ],
+          "bbox_points": [
+            96.984,
+            326.797,
+            369.385,
+            363.217
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "⚫ A healthy joint provides effortless motion along preferred anatomical directions with an accompanying restriction of abnormal joint motion",
+          "body_text": "A healthy joint provides effortless motion along preferred anatomical directions with an accompanying restriction of abnormal joint motion",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            42.96,
+            374.231,
+            354.129,
+            454.375
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0010-C0001",
+          "visual_type": "image",
+          "name": "Synovial joint anatomy diagram",
+          "pdf_page": 10,
+          "slide_number": 10,
+          "location": {
+            "bbox_points": [
+              486.0,
+              24.0,
+              664.68,
+              192.48
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+      "slide_number": 11,
+      "title": "Other Types of Joints",
+      "english_text": "Other Types of Joints\n⚫ Fibrous Joints\n⚫ Little or no movement between the bones & hold the bones together\n⚫ Cartilaginous Joints\n⚫ Hold bones together with hyaline cartilage or fibrocartilage\n⚫ The movement is limited",
+      "raw_bilingual_text": "Other Types of Joints\n其他類型的關節\n⚫ 纖維關節\n⚫ Fibrous Joints\n⚫ 骨頭之間很少或沒有運動，\n⚫ Little or no movement between\n並將骨頭固定在一起\nthe bones & hold the bones\ntogether\n⚫ Cartilaginous Joints\n⚫ 軟骨關節\n⚫ Hold bones together with\n⚫ 用透明軟骨或纖維軟骨將骨\nhyaline cartilage or\n骼固定在一起\nfibrocartilage\n⚫ 運動有限\n⚫ The movement is limited",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "slide_title",
+          "text": "Other Types of Joints",
+          "body_text": "Other Types of Joints",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 144.02,
+          "indent_level": 6,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            198.98,
+            35.156,
+            511.268,
+            67.577
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "list_item",
+          "text": "⚫ Fibrous Joints",
+          "body_text": "Fibrous Joints",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            54.96,
+            152.19,
+            186.485,
+            180.682
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "list_item",
+          "text": "⚫ Little or no movement between the bones & hold the bones together",
+          "body_text": "Little or no movement between the bones & hold the bones together",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.504,
+          "indent_level": 1,
+          "source_line_indices": [
+            5,
+            6,
+            7
+          ],
+          "bbox_points": [
+            82.464,
+            182.495,
+            344.515,
+            258.409
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "list_item",
+          "text": "⚫ Cartilaginous Joints",
+          "body_text": "Cartilaginous Joints",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            54.96,
+            278.266,
+            229.335,
+            306.727
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "list_item",
+          "text": "⚫ Hold bones together with hyaline cartilage or fibrocartilage",
+          "body_text": "Hold bones together with hyaline cartilage or fibrocartilage",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.504,
+          "indent_level": 1,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            82.464,
+            308.525,
+            300.257,
+            384.444
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+          "slide_number": 11,
+          "content_type": "list_item",
+          "text": "⚫ The movement is limited",
+          "body_text": "The movement is limited",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.504,
+          "indent_level": 1,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            82.464,
+            386.545,
+            296.315,
+            414.696
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+      "slide_number": 12,
+      "title": "Types of Joints in the Human Body (diagram)",
+      "english_text": "Types of Joints in the Human Body (diagram)",
+      "raw_bilingual_text": "Fibrous\n纖維關節\nVery\nlittle movement\n活動度很少\nCartilaginous\n軟骨關節\nLimited movement + shock absorption\n有限活動及吸震\nSynovial\n滑液關節\nFreely movable; capsule, cartilage and synovial fluid.\n活動度大；包括關節囊、關節軟骨及滑液。",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+          "slide_number": 12,
+          "content_type": "slide_title",
+          "text": "Types of Joints in the Human Body (diagram)",
+          "body_text": "Types of Joints in the Human Body (diagram)",
+          "marker": null,
+          "marker_source": "manual-visual-review",
+          "indent_points": 0,
+          "indent_level": 0,
+          "source_line_indices": [],
+          "bbox_points": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "language": "en",
+          "content_source": "visual-review-title-only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0012-C0001",
+          "visual_type": "image",
+          "name": "Types of joints in the human body diagram",
+          "pdf_page": 12,
+          "slide_number": 12,
+          "location": {
+            "bbox_points": [
+              174.48,
+              5.16,
+              529.2,
+              537.24
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+      "slide_number": 13,
+      "title": "Skeletal muscles of human body",
+      "english_text": "Skeletal muscles of human body",
+      "raw_bilingual_text": "Skeletal\nmuscles of\nhuman body\n人體骨骼肌",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+          "slide_number": 13,
+          "content_type": "slide_title",
+          "text": "Skeletal muscles of human body",
+          "body_text": "Skeletal muscles of human body",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 28.44,
+          "indent_level": 1,
+          "source_line_indices": [
+            0,
+            1,
+            2
+          ],
+          "bbox_points": [
+            35.16,
+            106.057,
+            187.38,
+            211.723
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0013-C0001",
+          "visual_type": "image",
+          "name": "Skeletal muscles of the human body",
+          "pdf_page": 13,
+          "slide_number": 13,
+          "location": {
+            "bbox_points": [
+              210.48,
+              21.36,
+              705.0,
+              531.12
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+      "slide_number": 14,
+      "title": "Functions of Skeletal muscle",
+      "english_text": "Functions of Skeletal muscle\n⚫ Provide movement\n⚫ Muscle actions generate tensions that are transferred to the bone → create skeletal movement\n⚫ Maintain Postures and Positions\n⚫ Muscle actions of a lesser magnitude\n⚫ Muscle activity is continuous\n⚫ Stabilize Joints\n⚫ Muscle tensions are generated & applied across the joints via tendons, providing stability where they cross the joint",
+      "raw_bilingual_text": "Functions of Skeletal muscle\n骨骼肌的功能\n⚫ Provide movement\n⚫ 提供運動\n⚫ Muscle actions generate tensions\n⚫ 肌肉動作會產生張力，並轉移\nthat are transferred to the bone →\n到骨骼 → 創建骨骼運動\ncreate skeletal movement\n⚫ Maintain Postures and Positions\n⚫ 保持姿勢和姿勢\n⚫ Muscle actions of a lesser\n⚫ 較小程度的肌肉動作\nmagnitude\n⚫ 肌肉活動是連續的\n⚫ Muscle activity is continuous\n⚫ Stabilize Joints\n⚫ Muscle tensions are\n⚫ 穩定關節\n⚫ 肌肉張力通過肌腱產生並施加\ngenerated & applied across\nthe joints via tendons,\n到關節上，在它們穿過關節的\nproviding stability where\n地方提供穩定性\nthey cross the joint",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "slide_title",
+          "text": "Functions of Skeletal muscle",
+          "body_text": "Functions of Skeletal muscle",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 100.556,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            150.98,
+            29.156,
+            558.004,
+            61.577
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Provide movement",
+          "body_text": "Provide movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            50.424,
+            124.54,
+            203.519,
+            150.248
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Muscle actions generate tensions that are transferred to the bone → create skeletal movement",
+          "body_text": "Muscle actions generate tensions that are transferred to the bone → create skeletal movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            77.904,
+            154.615,
+            333.272,
+            231.716
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Maintain Postures and Positions",
+          "body_text": "Maintain Postures and Positions",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            50.424,
+            247.016,
+            292.202,
+            272.693
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Muscle actions of a lesser magnitude",
+          "body_text": "Muscle actions of a lesser magnitude",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            77.904,
+            274.875,
+            278.066,
+            321.616
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Muscle activity is continuous",
+          "body_text": "Muscle activity is continuous",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            77.904,
+            324.049,
+            301.642,
+            349.448
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Stabilize Joints",
+          "body_text": "Stabilize Joints",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            50.424,
+            365.486,
+            178.76,
+            391.163
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "⚫ Muscle tensions are generated & applied across the joints via tendons, providing stability where they cross the joint",
+          "body_text": "Muscle tensions are generated & applied across the joints via tendons, providing stability where they cross the joint",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            77.904,
+            393.345,
+            287.158,
+            504.906
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+      "slide_number": 15,
+      "title": "Transmission of Muscle force to Bone",
+      "english_text": "Transmission of Muscle force to Bone\n⚫ Muscle attaches to bone in 3 ways\n⚫ Directly into the bone\n⚫ Via a tendon\n⚫ Via an aponeurosis",
+      "raw_bilingual_text": "Transmission of Muscle force to Bone 將肌肉力量傳遞到骨骼\n⚫ Muscle attaches to bone\nin 3 ways\n⚫ Directly into the bone\n⚫ Via a tendon\n⚫ Via an aponeurosis\n⚫ 肌肉以 3 種方式附著\n在骨骼上\n⚫ 直接連接骨頭\n⚫ 通過肌腱\n⚫ 通過腱膜",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+          "slide_number": 15,
+          "content_type": "slide_title",
+          "text": "Transmission of Muscle force to Bone",
+          "body_text": "Transmission of Muscle force to Bone",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 35.016,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            72.984,
+            52.757,
+            649.281,
+            77.213
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "⚫ Muscle attaches to bone in 3 ways",
+          "body_text": "Muscle attaches to bone in 3 ways",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2
+          ],
+          "bbox_points": [
+            37.968,
+            109.575,
+            283.726,
+            172.203
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "⚫ Directly into the bone",
+          "body_text": "Directly into the bone",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            65.448,
+            174.004,
+            275.15,
+            204.94
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "⚫ Via a tendon",
+          "body_text": "Via a tendon",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            65.448,
+            206.404,
+            197.929,
+            237.34
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "⚫ Via an aponeurosis",
+          "body_text": "Via an aponeurosis",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            65.448,
+            238.778,
+            250.697,
+            269.745
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0015-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0015-C0001",
+          "visual_type": "image",
+          "name": "Three muscle-to-bone attachment examples",
+          "pdf_page": 15,
+          "slide_number": 15,
+          "location": {
+            "bbox_points": [
+              302.76,
+              135.96,
+              720.0,
+              430.44
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+      "slide_number": 16,
+      "title": "Role of Muscle",
+      "english_text": "Role of Muscle\n⚫ Origin V.S. Insertion\n⚫ A muscle typically attaches to a bone at both ends\n⚫ Origin: the attachment closest to the middle of the body, or more proximal\n⚫ Insertion: the attachment farther from the midline, or more distal; it usually converges to a tendon\n⚫ Muscle force is generated & applied to both skeletal connections, resulting in movement of one bone or both",
+      "raw_bilingual_text": "Role of Muscle\n肌肉的作用\n⚫ 起點與止點\n⚫ OriginV.S. Insertion\n⚫ 肌肉通常在兩端都附著到骨骼\n⚫ A muscle typically attaches to a bone at both\nends\n⚫ Origin: the attachment closest to the middle of\n⚫ 起點：最靠近身體中線或更近端的\nthe body, or more proximal\n附著點\n⚫ Insertion: the attachment farther from\nthe midline, or more distal; it\n⚫ 止點：離中線較遠或更遠端的附著\nusually converges to a tendon\n點；它通常匯聚成一根肌腱\n⚫ Muscle force is generated &\n⚫ 肌肉力量產生並施加到兩個骨骼連\napplied to both skeletal\n接處，導致一個或兩個骨骼的運動\nconnections, resulting in\nmovement of one bone or both",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "slide_title",
+          "text": "Role of Muscle",
+          "body_text": "Role of Muscle",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 188.38,
+          "indent_level": 8,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            241.06,
+            33.182,
+            454.516,
+            65.582
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "⚫ Origin V.S. Insertion",
+          "body_text": "Origin V.S. Insertion",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            52.68,
+            154.195,
+            214.748,
+            179.408
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "⚫ A muscle typically attaches to a bone at both ends",
+          "body_text": "A muscle typically attaches to a bone at both ends",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4,
+            6
+          ],
+          "bbox_points": [
+            52.68,
+            195.841,
+            345.943,
+            237.583
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "⚫ Origin: the attachment closest to the middle of the body, or more proximal",
+          "body_text": "Origin: the attachment closest to the middle of the body, or more proximal",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            52.68,
+            254.326,
+            352.885,
+            296.023
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "⚫ Insertion: the attachment farther from the midline, or more distal; it usually converges to a tendon",
+          "body_text": "Insertion: the attachment farther from the midline, or more distal; it usually converges to a tendon",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            52.68,
+            312.786,
+            298.547,
+            373.683
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "⚫ Muscle force is generated & applied to both skeletal connections, resulting in movement of one bone or both",
+          "body_text": "Muscle force is generated & applied to both skeletal connections, resulting in movement of one bone or both",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            52.68,
+            390.306,
+            262.32,
+            470.431
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+      "slide_number": 17,
+      "title": "Role of Muscle",
+      "english_text": "Role of Muscle\n⚫ Developing Torque\n⚫ A muscle controls or creates a movement through the development of torque\n⚫ Torque: the tendency of a force (tension) to produce rotation about a specific axis (the joint)\n⚫ The amount of tension is influenced by the angle of attachment of the muscle\n⚫ Muscle Actions creating, opposing, and stabilizing movements\n⚫ In one movement of a joint, e.g. shoulder abduction\n⚫ Agonists: muscles creating the movement\n⚫ Antagonists: muscles opposing or producing the opposite joint movement\n⚫ Stabilizers & Neutralizers: muscles contracting to eliminate the undesired joint action of another muscle",
+      "raw_bilingual_text": "Role of Muscle\n肌肉的作用\n⚫ Developing Torque\n⚫ 產生力矩\n⚫ 肌肉通過產生力矩來控制或產生\n⚫ A muscle controls or creates a movement through the\n運動 .\ndevelopment of torque\n⚫ 力矩：力（張力）產生繞特定軸\n⚫ Torque: the tendency of a force (tension) to produce\n（關節）\n⚫ 旋轉的趨勢 . 張力的大小受肌肉附\nrotation about a specific axis (the joint)\n⚫ The amount of tension is influenced by the angle of\n著角度的影響 .\nattachment of the muscle\n⚫ Muscle Actions creating, opposing, andstabilizing movements\n⚫ 產生、對抗和穩定運動的肌肉動作。\n⚫ In one movement of a joint, e.g. shoulder abduction\n⚫ 在一個關節的一個運動中，例如\n⚫ Agonists: muscles creating the movement\n肩外展\n⚫ Antagonists: muscles opposing or producing\n⚫ 主動肌：產生運動的肌肉\n⚫ 拮抗肌：對抗或產生相反關節運\nthe opposite joint movement\n⚫ Stabilizers & Neutralizers: muscles contracting\n動的肌肉\n⚫ 穩定肌和中和肌：收縮以消除另\nto eliminate the undesired joint action of\n一個肌肉的不良關節動作的肌肉\nanother muscle",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "slide_title",
+          "text": "Role of Muscle",
+          "body_text": "Role of Muscle",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 216.1,
+          "indent_level": 9,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            235.06,
+            23.102,
+            448.48,
+            55.502
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Developing Torque",
+          "body_text": "Developing Torque",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            18.96,
+            100.917,
+            140.635,
+            120.871
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ A muscle controls or creates a movement through the development of torque",
+          "body_text": "A muscle controls or creates a movement through the development of torque",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            3,
+            4
+          ],
+          "bbox_points": [
+            46.44,
+            128.416,
+            347.321,
+            171.907
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Torque: the tendency of a force (tension) to produce rotation about a specific axis (the joint)",
+          "body_text": "Torque: the tendency of a force (tension) to produce rotation about a specific axis (the joint)",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            5,
+            6
+          ],
+          "bbox_points": [
+            46.44,
+            182.39,
+            337.734,
+            225.937
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ The amount of tension is influenced by the angle of attachment of the muscle",
+          "body_text": "The amount of tension is influenced by the angle of attachment of the muscle",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            7,
+            15
+          ],
+          "bbox_points": [
+            46.44,
+            234.166,
+            338.445,
+            278.737
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Muscle Actions creating, opposing, and stabilizing movements",
+          "body_text": "Muscle Actions creating, opposing, and stabilizing movements",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            18.96,
+            295.727,
+            351.32,
+            315.681
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ In one movement of a joint, e.g. shoulder abduction",
+          "body_text": "In one movement of a joint, e.g. shoulder abduction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            46.44,
+            315.786,
+            338.658,
+            335.43
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Agonists: muscles creating the movement",
+          "body_text": "Agonists: muscles creating the movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            46.44,
+            335.586,
+            284.858,
+            355.23
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B009",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Antagonists: muscles opposing or producing the opposite joint movement",
+          "body_text": "Antagonists: muscles opposing or producing the opposite joint movement",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            19,
+            20
+          ],
+          "bbox_points": [
+            46.44,
+            362.826,
+            298.336,
+            406.347
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017-B010",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "⚫ Stabilizers & Neutralizers: muscles contracting to eliminate the undesired joint action of another muscle",
+          "body_text": "Stabilizers & Neutralizers: muscles contracting to eliminate the undesired joint action of another muscle",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            21,
+            22,
+            23
+          ],
+          "bbox_points": [
+            46.44,
+            416.856,
+            308.168,
+            484.343
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+      "slide_number": 18,
+      "title": "Role of Muscle – Shoulder Abduction",
+      "english_text": "Role of Muscle – Shoulder Abduction\n⚫ In shoulder abduction,\n⚫ Agonist: Deltoid (abductor)\n⚫ Abducts the shoulder\n⚫ Antagonist: Latissimus dorsi (adductor)\n⚫ Resists the abduction\n⚫ Stabilizer: Trapezius\n⚫ Stabilize and hold the scapula in place\n⚫ Neutralizer: Teres minor\n⚫ Neutralizes any internal rotation produced by lat. dorsi",
+      "raw_bilingual_text": "Role of Muscle\n肌肉的作用\n⚫ 在肩外展中\n⚫ In shoulder abduction,\n⚫ 主動肌：三角肌（外展肌）\n⚫ Agonist: Deltoid(abductor)\n⚫ Abducts the shoulder\n⚫ 外展肩膀\n⚫ Antagonist: Latissimus dorsi(adductor)\n⚫ 拮抗肌：背闊肌（內收肌）\n⚫ Resists the abduction\n⚫ 抵抗外展\n⚫ Stabilizer: Trapezius\n⚫ 穩定肌：斜方肌\n⚫ Stabilize and hold the scapula in place\n⚫ 穩定並固定肩胛骨\n⚫ Neutralizer: Teres minor\n⚫ 中和肌：小圓肌\n⚫ Neutralizes any internal rotation\n⚫ 中和背闊肌產生的任何內旋\nproduced by lat. dorsi",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "slide_title",
+          "text": "Role of Muscle – Shoulder Abduction",
+          "body_text": "Role of Muscle – Shoulder Abduction",
+          "marker": null,
+          "marker_source": "manual-visual-review-title-context",
+          "indent_points": 78.02,
+          "indent_level": 3,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            108.98,
+            64.02,
+            297.217,
+            92.878
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ In shoulder abduction,",
+          "body_text": "In shoulder abduction,",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            30.96,
+            214.426,
+            207.578,
+            240.103
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Agonist: Deltoid (abductor)",
+          "body_text": "Agonist: Deltoid (abductor)",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            30.96,
+            253.066,
+            242.072,
+            278.743
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Abducts the shoulder",
+          "body_text": "Abducts the shoulder",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            58.44,
+            277.925,
+            227.552,
+            303.293
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Antagonist: Latissimus dorsi (adductor)",
+          "body_text": "Antagonist: Latissimus dorsi (adductor)",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            30.96,
+            316.206,
+            316.346,
+            341.883
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Resists the abduction",
+          "body_text": "Resists the abduction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            58.44,
+            341.065,
+            227.312,
+            366.433
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Stabilizer: Trapezius",
+          "body_text": "Stabilizer: Trapezius",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            30.96,
+            379.446,
+            190.868,
+            405.123
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Stabilize and hold the scapula in place",
+          "body_text": "Stabilize and hold the scapula in place",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            58.44,
+            405.599,
+            342.374,
+            430.998
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B009",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Neutralizer: Teres minor",
+          "body_text": "Neutralizer: Teres minor",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            30.96,
+            446.074,
+            217.292,
+            471.751
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018-B010",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+          "slide_number": 18,
+          "content_type": "list_item",
+          "text": "⚫ Neutralizes any internal rotation produced by lat. dorsi",
+          "body_text": "Neutralizes any internal rotation produced by lat. dorsi",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            18,
+            19
+          ],
+          "bbox_points": [
+            58.44,
+            471.773,
+            304.154,
+            516.359
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0018-C0001",
+          "visual_type": "image",
+          "name": "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram",
+          "pdf_page": 18,
+          "slide_number": 18,
+          "location": {
+            "bbox_points": [
+              330.0,
+              12.0,
+              604.68,
+              190.44
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+      "slide_number": 19,
+      "title": "Net Muscle Actions",
+      "english_text": "Net Muscle Actions\n⚫ Isometric Muscle Action / Contraction\n⚫ Muscle tension is generated against resistance to maintain position\n⚫ With no visible change in joint position\n⚫ Concentric Muscle Action / Contraction\n⚫ Muscle visibly shortens while tension is generated\n⚫ Eccentric Muscle Action / Contraction\n⚫ Muscle lengthens while tension is generated",
+      "raw_bilingual_text": "Net Muscle Actions 淨肌肉動作\n⚫ Isometric Muscle Action / Contraction\n⚫ 等長肌肉動作/ 收縮\n⚫ Muscle tension is generated against\n⚫ 肌肉張力是針對保持姿勢的阻力\nresistance to maintain position\n產生的\n⚫ With no visible change in joint\n⚫ 關節位置沒有明顯變化\nposition\n⚫ Concentric Muscle Action / Contraction\n⚫ 向心肌動作/ 收縮\n⚫ Muscle visibly shortens while tension\n⚫ 肌肉明顯縮短，同時產生肌肉張\nis generated\n力\n⚫ Eccentric Muscle Action / Contraction\n⚫ Muscle lengthens while tension is\n⚫ 離心肌肉動作/ 收縮\n⚫ 肌肉拉長，同時產生肌肉張力\ngenerated",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "slide_title",
+          "text": "Net Muscle Actions",
+          "body_text": "Net Muscle Actions",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 116.98,
+          "indent_level": 5,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            154.9,
+            45.686,
+            568.422,
+            78.303
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B002",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Isometric Muscle Action / Contraction",
+          "body_text": "Isometric Muscle Action / Contraction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            37.92,
+            125.266,
+            320.078,
+            150.943
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B003",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Muscle tension is generated against resistance to maintain position",
+          "body_text": "Muscle tension is generated against resistance to maintain position",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            2,
+            3
+          ],
+          "bbox_points": [
+            65.4,
+            153.125,
+            330.584,
+            199.866
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B004",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ With no visible change in joint position",
+          "body_text": "With no visible change in joint position",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            4,
+            9
+          ],
+          "bbox_points": [
+            65.4,
+            202.299,
+            298.657,
+            249.086
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B005",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Concentric Muscle Action / Contraction",
+          "body_text": "Concentric Muscle Action / Contraction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            37.92,
+            265.326,
+            329.432,
+            291.003
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B006",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Muscle visibly shortens while tension is generated",
+          "body_text": "Muscle visibly shortens while tension is generated",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            11,
+            12
+          ],
+          "bbox_points": [
+            65.4,
+            293.159,
+            344.665,
+            339.956
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B007",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Eccentric Muscle Action / Contraction",
+          "body_text": "Eccentric Muscle Action / Contraction",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            37.92,
+            356.076,
+            320.078,
+            381.753
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019-B008",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "⚫ Muscle lengthens while tension is generated",
+          "body_text": "Muscle lengthens while tension is generated",
+          "marker": "⚫",
+          "marker_source": "embedded_text",
+          "indent_points": 27.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            14,
+            15
+          ],
+          "bbox_points": [
+            65.4,
+            383.909,
+            319.031,
+            430.696
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+      "slide_number": 20,
+      "title": "Net Muscle Actions (diagram)",
+      "english_text": "Net Muscle Actions (diagram)",
+      "raw_bilingual_text": "Net Muscle Actions 淨肌肉動作",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020-B001",
+          "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+          "slide_number": 20,
+          "content_type": "slide_title",
+          "text": "Net Muscle Actions (diagram)",
+          "body_text": "Net Muscle Actions (diagram)",
+          "marker": null,
+          "marker_source": "manual-visual-review-title-context",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            154.9,
+            45.686,
+            568.422,
+            78.303
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0020-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0020-C0001",
+          "visual_type": "image",
+          "name": "Isometric, concentric, and eccentric muscle actions diagram",
+          "pdf_page": 20,
+          "slide_number": 20,
+          "location": {
+            "bbox_points": [
+              91.68,
+              96.72,
+              642.24,
+              525.84
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 20,
+    "blocks": 104,
+    "list_items": 82
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
