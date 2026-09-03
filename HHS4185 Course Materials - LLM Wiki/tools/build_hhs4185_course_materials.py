@@ -95,6 +95,17 @@ DOCUMENTS = [
     },
 ]
 
+# The source package uses canonical course filenames, while the current
+# private Downloads folder uses numbered lecture/workshop filenames.  Keep
+# both conventions readable without renaming or editing the original PDFs.
+SOURCE_ALIASES = {
+    "HHS4185_L1.pdf": ("02 Lectures/01 - L1.pdf",),
+    "HHS4185_L2.pdf": ("02 Lectures/02 - L2.pdf",),
+    "HHS4185J_L2.pdf": ("02 Lectures/03 - HHS4185J L2.pdf",),
+    "HHS4185_WS1_Equipment.pdf": ("03 Workshops/02 - WS1 Equipment.pdf",),
+    "HHS4185_T1_ICF.pdf": ("03 Workshops/01 - T1 ICF.pdf",),
+}
+
 
 def sha256_file(path: Path) -> str:
     digest = hashlib.sha256()
@@ -519,10 +530,20 @@ def document_source_path(course_root: Path, document: dict[str, Any]) -> Path:
         path = course_root / folder / document["file_name"]
         if path.exists():
             return path
+    for relative_path in SOURCE_ALIASES.get(document["file_name"], ()):
+        path = course_root / relative_path
+        if path.exists():
+            return path
     raise FileNotFoundError(f"Canonical course PDF not found: {document['file_name']}")
 
 
-def collect_pages(course_root: Path, dpi: int, paddle_cache: Path, skip_paddle: bool) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+def collect_pages(
+    course_root: Path,
+    dpi: int,
+    paddle_cache: Path,
+    skip_paddle: bool,
+    document_ids: set[str] | None = None,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     all_pages: list[dict[str, Any]] = []
     manifest: list[dict[str, Any]] = []
     ocr = layout = None
@@ -534,6 +555,8 @@ def collect_pages(course_root: Path, dpi: int, paddle_cache: Path, skip_paddle: 
         layout = LayoutDetection(model_name="PP-DocLayout_plus-L", device="cpu")
 
     for document in DOCUMENTS:
+        if document_ids and document["document_id"] not in document_ids:
+            continue
         source = document_source_path(course_root, document)
         count = pdf_page_count(source)
         document_manifest = {
@@ -860,9 +883,52 @@ def build_analysis(documents: list[dict[str, Any]], pages: list[dict[str, Any]],
             "section_ids": [value for value in ancestors if value],
             "keyword_records": records,
             "keyword_record_count": len(records),
+            "table_keyword_records": [],
             "status": STATUS,
             "verification_status": STATUS,
         })
+
+    # Tables are visual content, so they are excluded from the page reading
+    # text.  Index their reconstructed English contents separately and link
+    # each candidate back to both the page passage and the table visual.  This
+    # keeps table search useful without flattening table cells into prose.
+    page_record_by_id = {record["source_page_id"]: record for record in page_records}
+    for table in tables:
+        page_id = table.get("source_page_id")
+        if not page_id or page_id not in page_record_by_id:
+            continue
+        table_text = clean_text(table.get("content", {}).get("text", ""))
+        if not table_text:
+            continue
+        page = next(page for page in pages if page["source_page_id"] == page_id)
+        ancestors = [page_id, page_to_part.get(page_id, ""), page["document_id"], "HHS4185-COURSE"]
+        local = token_candidates(table_text, global_counts, source_kind="table")
+        table_records = []
+        for index, ((category, term_key), forms) in enumerate(sorted(local.items()), 1):
+            source_form = display_form(forms, term_key)
+            record_id = f"HHS4185-KW-{table['table_id']}-{index:03d}"
+            record = {
+                "record_id": record_id,
+                "category": category,
+                "broad_area": CATEGORY_LABELS.get(category, category),
+                "small_area": source_form,
+                "keyword_path": [CATEGORY_LABELS.get(category, category), source_form],
+                "source_form": source_form,
+                "canonical_candidate": source_form,
+                "retrieval_terms": alias_variants(source_form),
+                "source_passage_ids": [f"{page_id}-PASSAGE"],
+                "source_element_ids": [table["table_id"]],
+                "source_page_ids": [page_id],
+                "section_ids": [value for value in ancestors if value],
+                "source_excerpt": table_text[:500],
+                "content_type": "reconstructed_table",
+                "status": STATUS,
+                "verification_status": STATUS,
+            }
+            table_records.append(record)
+            keyword_records.append(record)
+        page_record_by_id[page_id]["table_keyword_records"].extend(table_records)
+        page_record_by_id[page_id]["table_keyword_record_count"] = len(table_records)
 
     summary_units: list[dict[str, Any]] = []
     for part in parts:
@@ -1164,11 +1230,12 @@ def main() -> None:
     parser.add_argument("--dpi", type=int, default=150)
     parser.add_argument("--paddle-cache", type=Path, default=Path("/private/tmp/paddlex-hhs4185-course"))
     parser.add_argument("--skip-paddle", action="store_true")
+    parser.add_argument("--document-id", action="append", dest="document_ids", help="Process only the selected canonical document ID; repeat for more than one.")
     parser.add_argument("--overwrite", action="store_true")
     args = parser.parse_args()
     if args.output_root.exists() and not args.overwrite:
         raise SystemExit(f"Output exists; pass --overwrite: {args.output_root}")
-    manifest, pages = collect_pages(args.course_root, args.dpi, args.paddle_cache, args.skip_paddle)
+    manifest, pages = collect_pages(args.course_root, args.dpi, args.paddle_cache, args.skip_paddle, set(args.document_ids or []))
     documents = [item for item in manifest]
     parts, page_to_part = build_parts(documents, pages)
     visuals, tables = page_visuals(pages)

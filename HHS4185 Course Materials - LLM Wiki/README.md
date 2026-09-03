@@ -36,12 +36,17 @@ extracted from all 313 slides. The derived study/search layer uses only the
 English version of each deck, including the English side of bilingual slides;
 the raw embedded layer remains unchanged for provenance. English bullet,
 dot, arrow, line-break, and indentation records are retained rather than
-flattened into prose. PaddleOCR was applied selectively to five visually
-verified English table candidates whose contents were absent from embedded
-text: the DXA report table, calcium-intake table, English blood-pressure table,
-and walking-aids comparison table (including the bilingual slide's English
-cells). The Chinese-only blood-pressure table was excluded. Non-table visuals
-are retained as metadata-only records with slide and coordinate locations.
+flattened into prose. The new `HHS4185J_L2.pdf` input was verified as the
+existing canonical `HHS4185J-L2` source by SHA-256, so it was upgraded in
+place rather than duplicated: PaddleOCR English text recognition and
+`PP-DocLayout_plus-L` layout detection now cover all 126 slides of that deck.
+The other four course PDFs retain their existing embedded-text/layout-fallback
+records. PaddleOCR targeted reconstruction covers 7 English/mixed-language
+rasterized table candidates in `HHS4185J_L2` plus the DXA, calcium-intake,
+blood-pressure, and walking-aids tables from the other course PDFs. The two
+Chinese-only duplicate table slides in `HHS4185J_L2` were excluded. The final
+package has 11 fully reconstructed table records. Non-table visuals are
+retained as metadata-only records with slide and coordinate locations.
 
 ## Query from the terminal
 

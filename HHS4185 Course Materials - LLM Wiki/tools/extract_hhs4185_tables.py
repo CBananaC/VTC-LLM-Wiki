@@ -23,11 +23,28 @@ WIKI_ROOT = Path(__file__).resolve().parents[1]
 TARGETS = [
     {"document_id": "HHS4185-L2", "file_name": "HHS4185_L2.pdf", "page": 21, "name": "DXA scan report interpretation table", "bbox_points": [175, 78, 545, 255]},
     {"document_id": "HHS4185-L2", "file_name": "HHS4185_L2.pdf", "page": 29, "name": "Recommended daily calcium intakes (IOM, NAM)", "bbox_points": [25, 80, 695, 430]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 21, "name": "Projected direct medical cost of hip fracture in 2018 and 2050 by country (English table)", "bbox_points": [14.913, 121.826, 709.212, 288.013]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 23, "name": "DXA scan sample report - hip (English table)", "bbox_points": [211.149, 327.156, 569.195, 489.65]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 24, "name": "DXA scan sample report - lumbar spine (English table)", "bbox_points": [311.292, 288.968, 679.568, 492.794]},
     {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 25, "name": "DXA scan report interpretation table (bilingual deck)", "bbox_points": [175, 78, 545, 255]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 33, "name": "Recommended daily calcium intakes (IOM, NAM; English table)", "bbox_points": [31.425, 130.947, 687.495, 421.416]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 71, "name": "Demographic data of patients undergoing lower extremity amputation (English table)", "bbox_points": [82.749, 174.554, 579.286, 450.875]},
+    {"document_id": "HHS4185J-L2", "file_name": "HHS4185J_L2.pdf", "page": 79, "name": "Types of amputation (English table)", "bbox_points": [11.011, 91.834, 689.451, 498.038]},
     {"document_id": "HHS4185-WS1", "file_name": "HHS4185_WS1_Equipment.pdf", "page": 10, "name": "Blood pressure categories (American Heart Association, 2022)", "bbox_points": [70, 105, 655, 405]},
     {"document_id": "HHS4185-WS1", "file_name": "HHS4185_WS1_Equipment.pdf", "page": 22, "name": "Summary of walking aids", "bbox_points": [10, 65, 685, 475]},
 ]
+EXCLUDED_TABLE_PAGE_IDS = {
+    "HHS4185J-L2-P0034",  # Chinese-only calcium-intake slide
+    "HHS4185J-L2-P0072",  # Chinese-only demographic-table slide
+}
 CJK_RE = re.compile(r"[\u3400-\u9fff]")
+SOURCE_ALIASES = {
+    "HHS4185_L1.pdf": "02 Lectures/01 - L1.pdf",
+    "HHS4185_L2.pdf": "02 Lectures/02 - L2.pdf",
+    "HHS4185J_L2.pdf": "02 Lectures/03 - HHS4185J L2.pdf",
+    "HHS4185_WS1_Equipment.pdf": "03 Workshops/02 - WS1 Equipment.pdf",
+    "HHS4185_T1_ICF.pdf": "03 Workshops/01 - T1 ICF.pdf",
+}
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -41,6 +58,11 @@ def write_json(path: Path, value: Any) -> None:
 def source_path(course_root: Path, target: dict[str, Any]) -> Path:
     for folder in ("(2) Lecture Materials", "(3) Workshop and Practice Materials"):
         path = course_root / folder / target["file_name"]
+        if path.exists():
+            return path
+    alias = SOURCE_ALIASES.get(target["file_name"])
+    if alias:
+        path = course_root / alias
         if path.exists():
             return path
     raise FileNotFoundError(target["file_name"])
@@ -155,7 +177,9 @@ def main() -> None:
     existing_by_id = {
         table.get("table_id"): table
         for table in existing_tables.get("tables", [])
-        if table.get("table_id") not in target_ids and table.get("source_page_id") not in target_page_ids
+        if table.get("table_id") not in target_ids
+        and table.get("source_page_id") not in target_page_ids
+        and table.get("source_page_id") not in EXCLUDED_TABLE_PAGE_IDS
     }
     existing_by_id.update({table["table_id"]: table for table in extracted})
     merged_tables = list(existing_by_id.values())
@@ -167,12 +191,14 @@ def main() -> None:
     prior_visual_index = load_json(visual_index_path) if visual_index_path.exists() else {"visuals": []}
     target_visual_ids = {f"{target['document_id']}-VIS-P{target['page']:04d}-TABLE" for target in TARGETS}
     # Remove targeted records from the previous run, including the old
-    # Chinese-only blood-pressure table, while retaining base visual
-    # candidates on the same pages.
+    # Chinese-only blood-pressure table.  The targeted record replaces the
+    # base table candidate on each target page; non-table candidates remain.
     visual_by_id = {
         visual.get("visual_id"): visual
         for visual in visual_manifest.get("visuals", [])
         if visual.get("visual_id") not in target_visual_ids
+        and not (visual.get("source_page_id") in target_page_ids and visual.get("visual_type") == "table")
+        and not (visual.get("source_page_id") in EXCLUDED_TABLE_PAGE_IDS and visual.get("visual_type") == "table")
     }
     for table in extracted:
         page_id = table["source_page_id"]
@@ -202,6 +228,8 @@ def main() -> None:
         visual.get("visual_id"): visual
         for visual in visual_index.get("visuals", [])
         if visual.get("visual_id") not in target_visual_ids
+        and not (visual.get("source_page_id") in target_page_ids and visual.get("visual_type") == "table")
+        and not (visual.get("source_page_id") in EXCLUDED_TABLE_PAGE_IDS and visual.get("visual_type") == "table")
     }
     for visual in visual_manifest["visuals"]:
         visual_id = visual.get("visual_id")

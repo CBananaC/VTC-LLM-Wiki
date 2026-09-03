@@ -14,19 +14,18 @@
     "passage_count_matches_pages": true,
     "passage_page_references_present": true,
     "visual_page_references_present": true,
-    "generated_not_verified_preserved": true,
-    "table_page_references_present": true
+    "generated_not_verified_preserved": true
   },
   "counts": {
     "documents": 5,
     "pages": 313,
     "passages": 313,
     "parts": 123,
-    "concepts": 787,
-    "occurrences": 1735,
-    "terms": 845,
-    "visuals": 1241,
-    "tables": 5
+    "concepts": 826,
+    "occurrences": 1801,
+    "terms": 886,
+    "visuals": 814,
+    "tables": 11
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"

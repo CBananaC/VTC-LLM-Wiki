@@ -11,6 +11,7 @@ All generated evidence still requires source-page verification.
 from __future__ import annotations
 
 import argparse
+import gzip
 import json
 import re
 from collections import defaultdict
@@ -26,6 +27,9 @@ TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z0-9'/-]{2,}|[\u3400-\u9fff]{2,}")
 
 
 def load_json(path: Path) -> dict[str, Any]:
+    if not path.exists() and path.with_name(path.name + ".gz").exists():
+        with gzip.open(path.with_name(path.name + ".gz"), "rt", encoding="utf-8") as handle:
+            return json.load(handle)
     return json.loads(path.read_text(encoding="utf-8"))
 
 
