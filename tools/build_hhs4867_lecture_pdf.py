@@ -557,7 +557,7 @@ def main() -> None:
     write_json(index_layer / "retrieval_index_validation_report.json", validation)
     write_json(index_layer / "hierarchical_summaries.json", {"schema_version": SCHEMA, "record_type": "hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
     write_json(index_layer / "formal_output_schema.json", {
-        "schema_version": "vtc-hhs4867m.formal-answer.v1",
+        "schema_version": "vtc-hhs4867.formal-answer.v1",
         "record_type": "formal_answer_contract",
         "required_sections": ["answer", "source_quotations", "references"],
         "reference_rule": "Cite the lecture filename and slide/PDF page number; this deck uses one slide per PDF page.",
