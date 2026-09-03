@@ -1,0 +1,1832 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS3190M",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS3190M-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Ankle",
+      "canonical_candidate": "Ankle",
+      "keyword_path": [
+        "Anatomy",
+        "Ankle"
+      ],
+      "source_forms": [
+        "Ankle"
+      ],
+      "retrieval_terms": [
+        "Ankle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "femur",
+      "canonical_candidate": "femur",
+      "keyword_path": [
+        "Anatomy",
+        "femur"
+      ],
+      "source_forms": [
+        "femur"
+      ],
+      "retrieval_terms": [
+        "femur"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000002"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Hip",
+      "canonical_candidate": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_forms": [
+        "Hip"
+      ],
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000003"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "spine",
+      "canonical_candidate": "spine",
+      "keyword_path": [
+        "Anatomy",
+        "spine"
+      ],
+      "source_forms": [
+        "spine"
+      ],
+      "retrieval_terms": [
+        "spine"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000004"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Adduction sequentially Hip",
+      "canonical_candidate": "Adduction sequentially Hip",
+      "keyword_path": [
+        "Conditions",
+        "Adduction sequentially Hip"
+      ],
+      "source_forms": [
+        "Adduction sequentially Hip"
+      ],
+      "retrieval_terms": [
+        "Adduction sequentially Hip"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000005"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Bone Markings Spine",
+      "canonical_candidate": "Bone Markings Spine",
+      "keyword_path": [
+        "Conditions",
+        "Bone Markings Spine"
+      ],
+      "source_forms": [
+        "Bone Markings Spine"
+      ],
+      "retrieval_terms": [
+        "Bone Markings Spine"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000006"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "sole faces laterally Ankle",
+      "canonical_candidate": "sole faces laterally Ankle",
+      "keyword_path": [
+        "Conditions",
+        "sole faces laterally Ankle"
+      ],
+      "source_forms": [
+        "sole faces laterally Ankle"
+      ],
+      "retrieval_terms": [
+        "sole faces laterally Ankle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Thorn-like process e g scapula spine",
+      "canonical_candidate": "Thorn-like process e g scapula spine",
+      "keyword_path": [
+        "Conditions",
+        "Thorn-like process e g scapula spine"
+      ],
+      "source_forms": [
+        "Thorn-like process e g scapula spine"
+      ],
+      "retrieval_terms": [
+        "Thorn-like process e g scapula spine"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000008"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000009",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "anatomical position",
+      "canonical_candidate": "anatomical position",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "anatomical position"
+      ],
+      "source_forms": [
+        "anatomical position"
+      ],
+      "retrieval_terms": [
+        "anatomical position"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000010",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206J",
+      "canonical_candidate": "AS114206J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206J"
+      ],
+      "source_forms": [
+        "AS114206J"
+      ],
+      "retrieval_terms": [
+        "AS114206J"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000011",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206J HHS3190M Human Physiology Functional",
+      "canonical_candidate": "AS114206J HHS3190M Human Physiology Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206J HHS3190M Human Physiology Functional"
+      ],
+      "source_forms": [
+        "AS114206J HHS3190M Human Physiology Functional"
+      ],
+      "retrieval_terms": [
+        "AS114206J HHS3190M Human Physiology Functional"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000012",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AY2627",
+      "canonical_candidate": "AY2627",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AY2627"
+      ],
+      "source_forms": [
+        "AY2627"
+      ],
+      "retrieval_terms": [
+        "AY2627"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000013",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "BACK",
+      "canonical_candidate": "BACK",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "BACK"
+      ],
+      "source_forms": [
+        "BACK"
+      ],
+      "retrieval_terms": [
+        "BACK"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000014",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "be/5J8lmhectY4",
+      "canonical_candidate": "be/5J8lmhectY4",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "be/5J8lmhectY4"
+      ],
+      "source_forms": [
+        "be/5J8lmhectY4"
+      ],
+      "retrieval_terms": [
+        "be/5J8lmhectY4"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000014"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000015",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "be/PNWRcx6ZYKg",
+      "canonical_candidate": "be/PNWRcx6ZYKg",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "be/PNWRcx6ZYKg"
+      ],
+      "source_forms": [
+        "be/PNWRcx6ZYKg"
+      ],
+      "retrieval_terms": [
+        "be/PNWRcx6ZYKg"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000015"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000016",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "be/rRIz6oOA0Vs",
+      "canonical_candidate": "be/rRIz6oOA0Vs",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "be/rRIz6oOA0Vs"
+      ],
+      "source_forms": [
+        "be/rRIz6oOA0Vs"
+      ],
+      "retrieval_terms": [
+        "be/rRIz6oOA0Vs",
+        "be/rRIz6oOA0V"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000017",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "be/ViRsbvnL6uQ",
+      "canonical_candidate": "be/ViRsbvnL6uQ",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "be/ViRsbvnL6uQ"
+      ],
+      "source_forms": [
+        "be/ViRsbvnL6uQ"
+      ],
+      "retrieval_terms": [
+        "be/ViRsbvnL6uQ"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "BnolPNo6pbg0GbiQ",
+      "canonical_candidate": "BnolPNo6pbg0GbiQ",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "BnolPNo6pbg0GbiQ"
+      ],
+      "source_forms": [
+        "BnolPNo6pbg0GbiQ"
+      ],
+      "retrieval_terms": [
+        "BnolPNo6pbg0GbiQ"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CBO9780511800160",
+      "canonical_candidate": "CBO9780511800160",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CBO9780511800160"
+      ],
+      "source_forms": [
+        "CBO9780511800160"
+      ],
+      "retrieval_terms": [
+        "CBO9780511800160"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45",
+      "canonical_candidate": "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "source_forms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "retrieval_terms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000020"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "FRONT",
+      "canonical_candidate": "FRONT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "FRONT"
+      ],
+      "source_forms": [
+        "FRONT"
+      ],
+      "retrieval_terms": [
+        "FRONT"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000021"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS3190M",
+      "canonical_candidate": "HHS3190M",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS3190M"
+      ],
+      "source_forms": [
+        "HHS3190M"
+      ],
+      "retrieval_terms": [
+        "HHS3190M"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000022"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS3190MJ",
+      "canonical_candidate": "HHS3190MJ",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS3190MJ"
+      ],
+      "source_forms": [
+        "HHS3190MJ"
+      ],
+      "retrieval_terms": [
+        "HHS3190MJ"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000023"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "kUkniLG6wDCvjyyP",
+      "canonical_candidate": "kUkniLG6wDCvjyyP",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "kUkniLG6wDCvjyyP"
+      ],
+      "source_forms": [
+        "kUkniLG6wDCvjyyP"
+      ],
+      "retrieval_terms": [
+        "kUkniLG6wDCvjyyP"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000024"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000025",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "LEFT",
+      "canonical_candidate": "LEFT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "LEFT"
+      ],
+      "source_forms": [
+        "LEFT"
+      ],
+      "retrieval_terms": [
+        "LEFT"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000025"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000026",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "org/10",
+      "canonical_candidate": "org/10",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "org/10"
+      ],
+      "source_forms": [
+        "org/10"
+      ],
+      "retrieval_terms": [
+        "org/10"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000026"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000027",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "RIGHT",
+      "canonical_candidate": "RIGHT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "RIGHT"
+      ],
+      "source_forms": [
+        "RIGHT"
+      ],
+      "retrieval_terms": [
+        "RIGHT"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000027"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000028",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "rNVtKZ6Gwg5mxcW",
+      "canonical_candidate": "rNVtKZ6Gwg5mxcW",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "rNVtKZ6Gwg5mxcW"
+      ],
+      "source_forms": [
+        "rNVtKZ6Gwg5mxcW"
+      ],
+      "retrieval_terms": [
+        "rNVtKZ6Gwg5mxcW"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000028"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000029",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "RoXp8s8hkbGgsAXE",
+      "canonical_candidate": "RoXp8s8hkbGgsAXE",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "RoXp8s8hkbGgsAXE"
+      ],
+      "source_forms": [
+        "RoXp8s8hkbGgsAXE"
+      ],
+      "retrieval_terms": [
+        "RoXp8s8hkbGgsAXE"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000029"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000030",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000030"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000031",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Rehabilitation",
+      "canonical_candidate": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_forms": [
+        "Rehabilitation"
+      ],
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000031"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "abduction",
+      "canonical_candidate": "abduction",
+      "keyword_path": [
+        "Section topics",
+        "abduction"
+      ],
+      "source_forms": [
+        "abduction"
+      ],
+      "retrieval_terms": [
+        "abduction"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000032",
+        "HHS3190M-O-00000033"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000033",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "adduction",
+      "canonical_candidate": "adduction",
+      "keyword_path": [
+        "Section topics",
+        "adduction"
+      ],
+      "source_forms": [
+        "adduction"
+      ],
+      "retrieval_terms": [
+        "adduction"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000034",
+        "HHS3190M-O-00000035"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000034",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "anterior",
+      "canonical_candidate": "anterior",
+      "keyword_path": [
+        "Section topics",
+        "anterior"
+      ],
+      "source_forms": [
+        "anterior"
+      ],
+      "retrieval_terms": [
+        "anterior"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000036",
+        "HHS3190M-O-00000037",
+        "HHS3190M-O-00000038",
+        "HHS3190M-O-00000039",
+        "HHS3190M-O-00000040"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000035",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "bone markings",
+      "canonical_candidate": "bone markings",
+      "keyword_path": [
+        "Section topics",
+        "bone markings"
+      ],
+      "source_forms": [
+        "bone markings"
+      ],
+      "retrieval_terms": [
+        "bone markings",
+        "bone marking"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000036",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "condyle",
+      "canonical_candidate": "condyle",
+      "keyword_path": [
+        "Section topics",
+        "condyle"
+      ],
+      "source_forms": [
+        "condyle"
+      ],
+      "retrieval_terms": [
+        "condyle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000037",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "coronal plane",
+      "canonical_candidate": "coronal plane",
+      "keyword_path": [
+        "Section topics",
+        "coronal plane"
+      ],
+      "source_forms": [
+        "coronal plane"
+      ],
+      "retrieval_terms": [
+        "coronal plane"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000044",
+        "HHS3190M-O-00000045",
+        "HHS3190M-O-00000046"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000038",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "distal",
+      "canonical_candidate": "distal",
+      "keyword_path": [
+        "Section topics",
+        "distal"
+      ],
+      "source_forms": [
+        "distal"
+      ],
+      "retrieval_terms": [
+        "distal"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000047",
+        "HHS3190M-O-00000048"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "dorsiflexion",
+      "canonical_candidate": "dorsiflexion",
+      "keyword_path": [
+        "Section topics",
+        "dorsiflexion"
+      ],
+      "source_forms": [
+        "dorsiflexion"
+      ],
+      "retrieval_terms": [
+        "dorsiflexion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000049"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000040",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "extension",
+      "canonical_candidate": "extension",
+      "keyword_path": [
+        "Section topics",
+        "extension"
+      ],
+      "source_forms": [
+        "extension"
+      ],
+      "retrieval_terms": [
+        "extension"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000050",
+        "HHS3190M-O-00000051"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000041",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "flexion",
+      "canonical_candidate": "flexion",
+      "keyword_path": [
+        "Section topics",
+        "flexion"
+      ],
+      "source_forms": [
+        "flexion"
+      ],
+      "retrieval_terms": [
+        "flexion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000052",
+        "HHS3190M-O-00000053",
+        "HHS3190M-O-00000054"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000042",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "lateral",
+      "canonical_candidate": "lateral",
+      "keyword_path": [
+        "Section topics",
+        "lateral"
+      ],
+      "source_forms": [
+        "lateral"
+      ],
+      "retrieval_terms": [
+        "lateral"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000055",
+        "HHS3190M-O-00000056",
+        "HHS3190M-O-00000057",
+        "HHS3190M-O-00000058",
+        "HHS3190M-O-00000059",
+        "HHS3190M-O-00000060",
+        "HHS3190M-O-00000061"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000043",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "medial",
+      "canonical_candidate": "medial",
+      "keyword_path": [
+        "Section topics",
+        "medial"
+      ],
+      "source_forms": [
+        "medial"
+      ],
+      "retrieval_terms": [
+        "medial"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000062",
+        "HHS3190M-O-00000063",
+        "HHS3190M-O-00000064",
+        "HHS3190M-O-00000065"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000044",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "plantar flexion",
+      "canonical_candidate": "plantar flexion",
+      "keyword_path": [
+        "Section topics",
+        "plantar flexion"
+      ],
+      "source_forms": [
+        "plantar flexion"
+      ],
+      "retrieval_terms": [
+        "plantar flexion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000066"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000045",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "posterior",
+      "canonical_candidate": "posterior",
+      "keyword_path": [
+        "Section topics",
+        "posterior"
+      ],
+      "source_forms": [
+        "posterior"
+      ],
+      "retrieval_terms": [
+        "posterior"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000067",
+        "HHS3190M-O-00000068",
+        "HHS3190M-O-00000069"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "pronation",
+      "canonical_candidate": "pronation",
+      "keyword_path": [
+        "Section topics",
+        "pronation"
+      ],
+      "source_forms": [
+        "pronation"
+      ],
+      "retrieval_terms": [
+        "pronation"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000070"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000047",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "proximal",
+      "canonical_candidate": "proximal",
+      "keyword_path": [
+        "Section topics",
+        "proximal"
+      ],
+      "source_forms": [
+        "proximal"
+      ],
+      "retrieval_terms": [
+        "proximal"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000071",
+        "HHS3190M-O-00000072"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000048",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "sagittal plane",
+      "canonical_candidate": "sagittal plane",
+      "keyword_path": [
+        "Section topics",
+        "sagittal plane"
+      ],
+      "source_forms": [
+        "sagittal plane"
+      ],
+      "retrieval_terms": [
+        "sagittal plane"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000073",
+        "HHS3190M-O-00000074",
+        "HHS3190M-O-00000075"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000049",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "supination",
+      "canonical_candidate": "supination",
+      "keyword_path": [
+        "Section topics",
+        "supination"
+      ],
+      "source_forms": [
+        "supination"
+      ],
+      "retrieval_terms": [
+        "supination"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000076"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000050",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "transverse plane",
+      "canonical_candidate": "transverse plane",
+      "keyword_path": [
+        "Section topics",
+        "transverse plane"
+      ],
+      "source_forms": [
+        "transverse plane"
+      ],
+      "retrieval_terms": [
+        "transverse plane"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000077",
+        "HHS3190M-O-00000078"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000051",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Body Planes",
+      "canonical_candidate": "Visual associated with: Body Planes",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Body Planes"
+      ],
+      "source_forms": [
+        "Visual associated with: Body Planes"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Body Planes",
+        "Visual associated with: Body Plane"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079",
+        "HHS3190M-O-00000080"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000052",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: HHS3190MJ",
+      "canonical_candidate": "Visual associated with: HHS3190MJ",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: HHS3190MJ"
+      ],
+      "source_forms": [
+        "Visual associated with: HHS3190MJ"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: HHS3190MJ"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000081"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000053",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Inferior",
+      "canonical_candidate": "Visual associated with: Inferior",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Inferior"
+      ],
+      "source_forms": [
+        "Visual associated with: Inferior"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Inferior"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000082"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000054",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Introduction to Anatomy",
+      "canonical_candidate": "Visual associated with: Introduction to Anatomy",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Introduction to Anatomy"
+      ],
+      "source_forms": [
+        "Visual associated with: Introduction to Anatomy"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Introduction to Anatomy"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000055",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Outline",
+      "canonical_candidate": "Visual associated with: Outline",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Outline"
+      ],
+      "source_forms": [
+        "Visual associated with: Outline"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Outline"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000056",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: References",
+      "canonical_candidate": "Visual associated with: References",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: References"
+      ],
+      "source_forms": [
+        "Visual associated with: References"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: References",
+        "Visual associated with: Reference"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000057",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Terminologies related to Bone Markings",
+      "canonical_candidate": "Visual associated with: Terminologies related to Bone Markings",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Terminologies related to Bone Markings"
+      ],
+      "source_forms": [
+        "Visual associated with: Terminologies related to Bone Markings"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Terminologies related to Bone Markings",
+        "Visual associated with: Terminologies related to Bone Marking"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000058",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Terminology Related to Movements",
+      "canonical_candidate": "Visual associated with: Terminology Related to Movements",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Terminology Related to Movements"
+      ],
+      "source_forms": [
+        "Visual associated with: Terminology Related to Movements"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Terminology Related to Movements",
+        "Visual associated with: Terminology Related to Movement"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089",
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091",
+        "HHS3190M-O-00000092",
+        "HHS3190M-O-00000093"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000059",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Terminology Related to Positions",
+      "canonical_candidate": "Visual associated with: Terminology Related to Positions",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Terminology Related to Positions"
+      ],
+      "source_forms": [
+        "Visual associated with: Terminology Related to Positions"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Terminology Related to Positions",
+        "Visual associated with: Terminology Related to Position"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000094",
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 59,
+    "occurrences": 96
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

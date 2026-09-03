@@ -1,0 +1,986 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS3190M",
+  "source_priority": "course_materials",
+  "terms": {
+    "abduction": {
+      "display_forms": [
+        "abduction"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000032",
+        "HHS3190M-O-00000033"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "adduction": {
+      "display_forms": [
+        "adduction"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000034",
+        "HHS3190M-O-00000035"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "adductionsequentiallyhip": {
+      "display_forms": [
+        "Adduction sequentially Hip"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000005"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "anatomicalposition": {
+      "display_forms": [
+        "anatomical position"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000009"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "ankle": {
+      "display_forms": [
+        "Ankle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "anterior": {
+      "display_forms": [
+        "anterior"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000036",
+        "HHS3190M-O-00000037",
+        "HHS3190M-O-00000038",
+        "HHS3190M-O-00000039",
+        "HHS3190M-O-00000040"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "as114206j": {
+      "display_forms": [
+        "AS114206J"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000010"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "as114206jhhs3190mhumanphysiologyfunctional": {
+      "display_forms": [
+        "AS114206J HHS3190M Human Physiology Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000011"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "ay2627": {
+      "display_forms": [
+        "AY2627"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000012"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "back": {
+      "display_forms": [
+        "BACK"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "be5j8lmhecty4": {
+      "display_forms": [
+        "be/5J8lmhectY4"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000014"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "bepnwrcx6zykg": {
+      "display_forms": [
+        "be/PNWRcx6ZYKg"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000015"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "berriz6ooa0v": {
+      "display_forms": [
+        "be/rRIz6oOA0V"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "berriz6ooa0vs": {
+      "display_forms": [
+        "be/rRIz6oOA0Vs"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "bevirsbvnl6uq": {
+      "display_forms": [
+        "be/ViRsbvnL6uQ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000017"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "bnolpno6pbg0gbiq": {
+      "display_forms": [
+        "BnolPNo6pbg0GbiQ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "bonemarking": {
+      "display_forms": [
+        "bone marking"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bonemarkings": {
+      "display_forms": [
+        "bone markings"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bonemarkingsspine": {
+      "display_forms": [
+        "Bone Markings Spine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000006"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "cbo9780511800160": {
+      "display_forms": [
+        "CBO9780511800160"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "cnyzygjs7659202403bdb6d9140b734323b49c9764deba8c45": {
+      "display_forms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000020"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "condyle": {
+      "display_forms": [
+        "condyle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000043"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "coronalplane": {
+      "display_forms": [
+        "coronal plane"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000044",
+        "HHS3190M-O-00000045",
+        "HHS3190M-O-00000046"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "distal": {
+      "display_forms": [
+        "distal"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000047",
+        "HHS3190M-O-00000048"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "dorsiflexion": {
+      "display_forms": [
+        "dorsiflexion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000049"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "extension": {
+      "display_forms": [
+        "extension"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000050",
+        "HHS3190M-O-00000051"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "femur": {
+      "display_forms": [
+        "femur"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "flexion": {
+      "display_forms": [
+        "flexion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000052",
+        "HHS3190M-O-00000053",
+        "HHS3190M-O-00000054"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "front": {
+      "display_forms": [
+        "FRONT"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000021"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000030"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "hhs3190m": {
+      "display_forms": [
+        "HHS3190M"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000022"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs3190mj": {
+      "display_forms": [
+        "HHS3190MJ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000023"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hip": {
+      "display_forms": [
+        "Hip"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000003"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "kuknilg6wdcvjyyp": {
+      "display_forms": [
+        "kUkniLG6wDCvjyyP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000024"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "lateral": {
+      "display_forms": [
+        "lateral"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000055",
+        "HHS3190M-O-00000056",
+        "HHS3190M-O-00000057",
+        "HHS3190M-O-00000058",
+        "HHS3190M-O-00000059",
+        "HHS3190M-O-00000060",
+        "HHS3190M-O-00000061"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "left": {
+      "display_forms": [
+        "LEFT"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000025"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "medial": {
+      "display_forms": [
+        "medial"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000062",
+        "HHS3190M-O-00000063",
+        "HHS3190M-O-00000064",
+        "HHS3190M-O-00000065"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "org10": {
+      "display_forms": [
+        "org/10"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000026"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "plantarflexion": {
+      "display_forms": [
+        "plantar flexion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000066"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "posterior": {
+      "display_forms": [
+        "posterior"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000067",
+        "HHS3190M-O-00000068",
+        "HHS3190M-O-00000069"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "pronation": {
+      "display_forms": [
+        "pronation"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000070"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "proximal": {
+      "display_forms": [
+        "proximal"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000071",
+        "HHS3190M-O-00000072"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000031"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "right": {
+      "display_forms": [
+        "RIGHT"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000027"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "rnvtkz6gwg5mxcw": {
+      "display_forms": [
+        "rNVtKZ6Gwg5mxcW"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000028"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "roxp8s8hkbggsaxe": {
+      "display_forms": [
+        "RoXp8s8hkbGgsAXE"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000029"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "sagittalplane": {
+      "display_forms": [
+        "sagittal plane"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000073",
+        "HHS3190M-O-00000074",
+        "HHS3190M-O-00000075"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "solefaceslaterallyankle": {
+      "display_forms": [
+        "sole faces laterally Ankle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000007"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "spine": {
+      "display_forms": [
+        "spine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "supination": {
+      "display_forms": [
+        "supination"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000076"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "thornlikeprocessegscapulaspine": {
+      "display_forms": [
+        "Thorn-like process e g scapula spine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000008"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "transverseplane": {
+      "display_forms": [
+        "transverse plane"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000077",
+        "HHS3190M-O-00000078"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "visualassociatedwithbodyplane": {
+      "display_forms": [
+        "Visual associated with: Body Plane"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079",
+        "HHS3190M-O-00000080"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithbodyplanes": {
+      "display_forms": [
+        "Visual associated with: Body Planes"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079",
+        "HHS3190M-O-00000080"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithhhs3190mj": {
+      "display_forms": [
+        "Visual associated with: HHS3190MJ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000081"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithinferior": {
+      "display_forms": [
+        "Visual associated with: Inferior"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000082"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithintroductiontoanatomy": {
+      "display_forms": [
+        "Visual associated with: Introduction to Anatomy"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithoutline": {
+      "display_forms": [
+        "Visual associated with: Outline"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithreference": {
+      "display_forms": [
+        "Visual associated with: Reference"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithreferences": {
+      "display_forms": [
+        "Visual associated with: References"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologiesrelatedtobonemarking": {
+      "display_forms": [
+        "Visual associated with: Terminologies related to Bone Marking"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologiesrelatedtobonemarkings": {
+      "display_forms": [
+        "Visual associated with: Terminologies related to Bone Markings"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologyrelatedtomovement": {
+      "display_forms": [
+        "Visual associated with: Terminology Related to Movement"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089",
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091",
+        "HHS3190M-O-00000092",
+        "HHS3190M-O-00000093"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologyrelatedtomovements": {
+      "display_forms": [
+        "Visual associated with: Terminology Related to Movements"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089",
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091",
+        "HHS3190M-O-00000092",
+        "HHS3190M-O-00000093"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologyrelatedtoposition": {
+      "display_forms": [
+        "Visual associated with: Terminology Related to Position"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000094",
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithterminologyrelatedtopositions": {
+      "display_forms": [
+        "Visual associated with: Terminology Related to Positions"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000094",
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096"
+      ],
+      "categories": [
+        "visual"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 66,
+    "concepts_referenced": 59,
+    "occurrences_referenced": 96
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
