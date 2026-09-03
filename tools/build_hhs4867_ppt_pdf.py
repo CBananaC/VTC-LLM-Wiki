@@ -41,12 +41,12 @@ DECKS: dict[str, dict[str, object]] = {
         "parts": [("Introduction to neuromuscular control", 1, 3, "topic"), ("Nervous system organization", 4, 7, "topic"), ("Spinal nerves", 8, 11, "topic"), ("Motor units", 12, 13, "topic"), ("Sensory receptors, reflexes, and proprioceptors", 14, 18, "topic")],
         "titles": title_map(["Neuromuscular control of human movement", "Introduction", "Introduction", "Nervous System", "Central Nervous System", "Peripheral Nervous System - Upper Extremity Nerves", "Peripheral Nervous System - Lower Extremity", "Spinal Nerves", "Spinal Nerves", "Spinal Nerves (diagram)", "Spinal Nerves", "Motor Unit", "Motor Unit", "Sensory Receptors", "Sensory Receptors", "Reflex", "Reflex (diagram)", "Proprioceptors"]),
     },
-    "HHS4867-L03-ANALYSIS-MOVEMENT": {
+    "HHS4867-L03-ANALYSIS-OF-MOVEMENT": {
         "filename": "07 - 3. Analysis of Movement 運動動作分析.pdf",
         "relative": "02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
         "title": "Lecture 3 - Analysis of Movement",
-        "stem": "hhs4867_l03_analysis_movement",
-        "helper": "../../tools/query_hhs4867_l03_analysis_movement.py",
+        "stem": "hhs4867_l03_analysis_of_movement",
+        "helper": "../../tools/query_hhs4867_l03_analysis_of_movement.py",
         "parts": [("Introduction to movement analysis", 1, 2, "topic"), ("Biomechanical aspects of human movement", 3, 13, "topic"), ("Stability and mobility", 14, 17, "topic"), ("Proper body mechanics and force direction", 18, 27, "topic")],
         "titles": title_map(["Analysis of Movement", "The body as an instrument in patient care", "Biomechanical Aspects of Human Movement", "Mass", "Centre of Mass (CM) = Centre of Gravity (CG)", "Effects of adding/removing weights on shifting the CG", "Force", "Gravity", "Friction", "Levers", "Levers (diagram)", "Moments & Moment Arms", "Moment = Force (N) x Distance (m)", "Stability & Mobility", "Base of Support (BoS)", "Stability v.s. Mobility", "Dynamic Trunk Stabilization", "Application: Proper Body Mechanics", "Proper Body Mechanics", "Poor Body Mechanics", "Better Body Mechanics", "Proper Body Mechanics", "Patient position", "Caregiver position", "Positioning for stability", "Directing Forces by Blocking the knees", "Directing Forces by Blocking the knees (diagram)"]),
     },
@@ -77,21 +77,21 @@ DECKS: dict[str, dict[str, object]] = {
         "parts": [("Postural assessment basics", 1, 2, "topic"), ("Postural features and assessment", 3, 16, "topic"), ("Gait fundamentals", 17, 23, "topic"), ("Pathological gait", 24, 32, "topic"), ("Functional mobility tests", 33, 34, "topic")],
         "titles": title_map(["Postural Assessment", "What is Posture?", "Ideal Erect Posture", "Ideal Erect Posture (visual)", "Understanding the Posture", "Poor Posture", "Upper body in different posture", "Effect of Pelvic Tilt on lower body posture", "Elbow - Carrying angle", "Hip / Knee - Q angle", "Hip / Knee - Genu Varum and Genu Valgum", "Foot", "Foot (visual)", "Postural Assessment: Tools", "Postural Assessment: Views", "Postural Assessment: Analysis", "Gait", "Gait cycle", "Stance phase & Swing phase", "Gait cycle subdivision", "Stride length", "Walking base", "Cycle time", "Pathological gait", "Spastic hemiplegia", "Spastic hemiplegia (visual)", "Spastic diplegia", "Spastic diplegia (visual)", "Shuffling gait", "Shuffling gait (visual)", "Trendelenburg Gait", "Trendelenburg Gait (visual)", "Modified Functional Ambulation Categories (MFAC)", "Timed up and Go test"]),
     },
-    "HHS4867-L07-1-MANUAL-MUSCLE-TESTING": {
+    "HHS4867-L07-MANUAL-MUSCLE-TESTING": {
         "filename": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
         "relative": "02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
         "title": "Lecture 7.1 - Manual Muscle Testing",
-        "stem": "hhs4867_l07_1_manual_muscle_testing",
-        "helper": "../../tools/query_hhs4867_l07_1_manual_muscle_testing.py",
+        "stem": "hhs4867_l07_manual_muscle_testing",
+        "helper": "../../tools/query_hhs4867_l07_manual_muscle_testing.py",
         "parts": [("Manual muscle testing overview", 1, 2, "topic"), ("Oxford muscle-strength grading scale", 3, 4, "topic"), ("MMT procedure and testing positions", 5, 8, "topic"), ("Regional manual muscle testing examples", 9, 18, "topic")],
         "titles": title_map(["Manual Muscle Testing", "Manual Muscle Testing (MMT)", "Muscle Strength Grading Scale (Oxford Scale)", "Muscle Strength Grading Scale (Oxford Scale) - grades", "How to perform MMT", "Testing Position", "Testing Position (visual)", "Testing Position Summary", "Shoulder Flexion & Extension", "Shoulder Abduction", "Shoulder Internal & External Rotation", "Elbow Flexion & Extension", "Hip Flexion & Extension", "Hip Abduction", "Hip Internal & External Rotation", "Knee Flexion & Extension", "Dynamometer", "Measuring Strength with Dynamometer"]),
     },
-    "HHS4867-L07-2-JOINT-RANGE-MOTION": {
+    "HHS4867-L07-JOINT-RANGE-OF-MOTION": {
         "filename": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
         "relative": "02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
         "title": "Lecture 7.2 - Joint Range of Motion",
-        "stem": "hhs4867_l07_2_joint_range_motion",
-        "helper": "../../tools/query_hhs4867_l07_2_joint_range_motion.py",
+        "stem": "hhs4867_l07_joint_range_of_motion",
+        "helper": "../../tools/query_hhs4867_l07_joint_range_of_motion.py",
         "parts": [("Joint range-of-motion concepts", 1, 2, "topic"), ("Goniometry and normal ROM", 3, 4, "topic"), ("Joint ROM examples", 5, 12, "topic")],
         "titles": title_map(["Joint Range of Motion", "Joint Range of Motion", "Goniometer", "AROM Summary", "Shoulder Flexion & Extension", "Shoulder Abduction", "Shoulder Internal & External Rotation", "Elbow Flexion & Extension", "Hip Flexion & Extension", "Hip Abduction", "Hip Internal & External Rotation", "Knee Flexion & Extension"]),
     },
