@@ -36,6 +36,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
         "relative": "02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
         "title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "lecture_number": 2,
         "stem": "hhs4867_l02_neuromuscular_control",
         "helper": "../../tools/query_hhs4867_l02_neuromuscular.py",
         "parts": [("Introduction to neuromuscular control", 1, 3, "topic"), ("Nervous system organization", 4, 7, "topic"), ("Spinal nerves", 8, 11, "topic"), ("Motor units", 12, 13, "topic"), ("Sensory receptors, reflexes, and proprioceptors", 14, 18, "topic")],
@@ -45,6 +46,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "07 - 3. Analysis of Movement 運動動作分析.pdf",
         "relative": "02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
         "title": "Lecture 3 - Analysis of Movement",
+        "lecture_number": 3,
         "stem": "hhs4867_l03_analysis_of_movement",
         "helper": "../../tools/query_hhs4867_l03_analysis_of_movement.py",
         "parts": [("Introduction to movement analysis", 1, 2, "topic"), ("Biomechanical aspects of human movement", 3, 13, "topic"), ("Stability and mobility", 14, 17, "topic"), ("Proper body mechanics and force direction", 18, 27, "topic")],
@@ -54,6 +56,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
         "relative": "02 Lectures/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
         "title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "lecture_number": 4,
         "stem": "hhs4867_l04_transfer_wheelchairs",
         "helper": "../../tools/query_hhs4867_l04_transfer_wheelchairs.py",
         "parts": [("Transfer overview and assistance levels", 1, 2, "topic"), ("Bed mobility and pivot transfers", 3, 14, "topic"), ("Conditions with precautions", 15, 19, "topic"), ("Standard wheelchairs and fitting", 20, 27, "topic"), ("Use of the wheelchair", 28, 35, "topic")],
@@ -63,6 +66,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "17 - 5. Mobility Walking Aids 助行工具.pdf",
         "relative": "02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
         "title": "Lecture 5 - Mobility and Walking Aids",
+        "lecture_number": 5,
         "stem": "hhs4867_l05_mobility_walking_aids",
         "helper": "../../tools/query_hhs4867_l05_mobility_walking_aids.py",
         "parts": [("Aims, selection, and weight-bearing status", 1, 9, "topic"), ("Types of walking aids", 10, 23, "topic"), ("Fitting walking aids", 24, 29, "topic"), ("Gait patterns", 30, 40, "topic"), ("Stairs", 41, 47, "topic")],
@@ -72,6 +76,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
         "relative": "02 Lectures/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
         "title": "Lecture 6 - Postural Assessment and Gait",
+        "lecture_number": 6,
         "stem": "hhs4867_l06_postural_gait",
         "helper": "../../tools/query_hhs4867_l06_postural_gait.py",
         "parts": [("Postural assessment basics", 1, 2, "topic"), ("Postural features and assessment", 3, 16, "topic"), ("Gait fundamentals", 17, 23, "topic"), ("Pathological gait", 24, 32, "topic"), ("Functional mobility tests", 33, 34, "topic")],
@@ -81,6 +86,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
         "relative": "02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
         "title": "Lecture 7.1 - Manual Muscle Testing",
+        "lecture_number": 7,
         "stem": "hhs4867_l07_manual_muscle_testing",
         "helper": "../../tools/query_hhs4867_l07_manual_muscle_testing.py",
         "parts": [("Manual muscle testing overview", 1, 2, "topic"), ("Oxford muscle-strength grading scale", 3, 4, "topic"), ("MMT procedure and testing positions", 5, 8, "topic"), ("Regional manual muscle testing examples", 9, 18, "topic")],
@@ -90,6 +96,7 @@ DECKS: dict[str, dict[str, object]] = {
         "filename": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
         "relative": "02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
         "title": "Lecture 7.2 - Joint Range of Motion",
+        "lecture_number": 7,
         "stem": "hhs4867_l07_joint_range_of_motion",
         "helper": "../../tools/query_hhs4867_l07_joint_range_of_motion.py",
         "parts": [("Joint range-of-motion concepts", 1, 2, "topic"), ("Goniometry and normal ROM", 3, 4, "topic"), ("Joint ROM examples", 5, 12, "topic")],
@@ -120,7 +127,7 @@ def main() -> None:
     builder.OUTPUT_STEM = str(config["stem"])
     builder.QUERY_HELPER_PATH = str(config["helper"])
     builder.SCHEMA = "vtc-hhs4867-lecture.v1"
-    builder.DOCUMENT = {"document_id": source_id, "file_name": filename, "source_type": "lecture", "lecture_number": 1, "title": str(config["title"])}
+    builder.DOCUMENT = {"document_id": source_id, "file_name": filename, "source_type": "lecture", "lecture_number": int(config["lecture_number"]), "title": str(config["title"])}
     builder.TOPIC_PARTS = part_map(source_id, config["parts"])  # type: ignore[arg-type]
     builder.SLIDE_TITLES = config["titles"]  # type: ignore[assignment]
     builder.VISUAL_NAMES = {}
