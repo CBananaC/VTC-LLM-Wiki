@@ -1,0 +1,66 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+  "title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-03T14:50:39+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "original_path": "../Movement Science/02 Lectures/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "size_bytes": 1357806,
+        "sha256": "sha256:79b0752b58456a48ac0daad88d0f3b905f475c22adb646461aa39b112559bf7d",
+        "copied_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/00 Source/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical record for the byte-identical lecture pair 02/03 in Movement Science/02 Lectures; processed file is 02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf; duplicate 03 file hash matches and is not separately registered",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T01:05:06+08:00",
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l01_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l01_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l01_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l01_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l01_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l01_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l01_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs4867_lecture.py"
+    },
+    "counts": {
+      "slides": 20,
+      "parts": 5,
+      "blocks": 104,
+      "concepts": 73,
+      "occurrences": 114,
+      "terms": 77,
+      "passages": 20,
+      "visuals": 15,
+      "tables": 0,
+      "quotation_candidates": 52
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}
