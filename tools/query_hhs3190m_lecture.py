@@ -150,6 +150,7 @@ def main() -> None:
     occurrences = {item.get("occurrence_id"): item for item in occurrence_index.get("occurrences", [])}
     nodes = {item.get("section_id"): item for item in structure.get("nodes", [])}
     visuals = {item.get("visual_id"): item for item in visual_index.get("visuals", [])}
+    visual_id_by_table_id = {item.get("table_id"): item.get("visual_id") for item in visuals.values() if item.get("table_id")}
     summary_by_id = {item.get("unit_id"): item for item in summaries.get("units", [])}
 
     concept_ids = unique(concept_id for term in selected_terms for concept_id in terms.get(term, {}).get("concept_ids", []))
@@ -176,6 +177,7 @@ def main() -> None:
             hit["concept_ids"] = unique(hit["concept_ids"] + [concept_id])
             hit["occurrence_ids"] = unique(hit["occurrence_ids"] + [occurrence_id])
         for visual_id in occurrence.get("source_element_ids", []):
+            visual_id = visual_id if visual_id in visuals else visual_id_by_table_id.get(visual_id)
             if visual_id not in visuals:
                 continue
             hit = visual_hits.setdefault(visual_id, {"visual_id": visual_id, "matched_terms": [], "concept_ids": [], "occurrence_ids": [], "visual": visuals[visual_id]})
