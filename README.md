@@ -16,7 +16,8 @@ VTC LLM Wiki/
 │   └── ADD_SOURCE.md
 ├── HHS4185 Course Materials - LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
-└── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
+├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
+└── sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/
 ```
 
 The two existing wiki packages were moved here with their original files
@@ -54,6 +55,19 @@ the returned source passages and checking the original page image. The portable 
 OpenCode, local models, and other AI systems are in [`AI_USAGE_INSTRUCTIONS.md`](Davidson%2025th%20Edition%20-%20LLM%20Wiki/(6)%20Retrieval%20Index/AI_USAGE_INSTRUCTIONS.md).
 The Davidson-side federation manifest is
 `Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json`.
+
+For the HHS3190M physiology lecture, query the project router or the
+source-specific helper:
+
+```bash
+python3 tools/query_vtc_wiki.py \
+  --course-code HHS3190M \
+  --query "monosaccharides"
+```
+
+The HHS3190M package remains separate from HHS4185 and contains the raw PDF,
+English slide blocks with preserved point form, visual locations, the
+reconstructed DNA/RNA table, hierarchical summaries, and portable indexes.
 
 ## Add a source
 

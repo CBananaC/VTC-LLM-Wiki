@@ -1,0 +1,67 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS3190M-L01-PHYSIOLOGY-2026-07",
+  "title": "Lecture 1 - Human Body and Chemicals (July 2026)",
+  "course_code": "HHS3190M",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-02T17:03:26+08:00",
+  "package_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+        "original_path": "../Physiology & Anatomy/02 Lectures/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+        "size_bytes": 1133193,
+        "sha256": "sha256:4887fe2d7e15b594c0f30b52aff73052bfc14f6e63b3410d28a72aaee2db38bc",
+        "copied_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/00 Source/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "HHS3190M/HHS3190MJ bilingual PowerPoint-export PDF; derived English layer will retain slide bullets and indentation while raw source remains unchanged.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-03T10:26:15+08:00",
+    "outputs": {
+      "source_inventory": "source_manifest.json",
+      "ocr_layout": "01 OCR and Layout/hhs3190m_l01_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs3190m_l01_structure_generated.json",
+      "text": "02 Text and Tables/hhs3190m_l01_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs3190m_l01_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs3190m_l01_tables_generated.json",
+      "analysis": "03 Analysis/hhs3190m_l01_analysis_generated.json",
+      "summaries": "03 Analysis/hhs3190m_l01_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs3190m_lecture.py"
+    },
+    "counts": {
+      "slides": 26,
+      "parts": 6,
+      "blocks": 198,
+      "concepts": 76,
+      "occurrences": 191,
+      "terms": 94,
+      "passages": 26,
+      "visuals": 13,
+      "tables": 1,
+      "quotation_candidates": 82
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

@@ -2,7 +2,7 @@
   "schema_version": "vtc-llm-wiki.source-registry.v1",
   "record_type": "source_registry",
   "project_root": ".",
-  "updated_at": "2026-09-01",
+  "updated_at": "2026-09-03",
   "default_new_source_package": "sources/<course-code>/<source-id>/",
   "verification_policy": {
     "raw_sources_immutable": true,
@@ -121,6 +121,36 @@
         }
       ],
       "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS3190M-L01-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 1 - Human Body and Chemicals (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_lecture.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+          "size_bytes": 1133193,
+          "sha256": "sha256:4887fe2d7e15b594c0f30b52aff73052bfc14f6e63b3410d28a72aaee2db38bc",
+          "copied_path": "sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/00 Source/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "retrieval_policy": "This is primary HHS3190M course evidence; use HHS3190M supplemental sources only after course materials.",
+      "coverage_status": "processed_lecture_package",
       "verification_status": "generated_not_verified",
       "claims_index": "not_created"
     }
