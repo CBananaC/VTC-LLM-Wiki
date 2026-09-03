@@ -1,0 +1,4901 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4185",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4185-O-00000001",
+      "concept_id": "HHS4185-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_form": "hip",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000002",
+      "concept_id": "HHS4185-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_form": "hip",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000003",
+      "concept_id": "HHS4185-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000004",
+      "concept_id": "HHS4185-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000005",
+      "concept_id": "HHS4185-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000006",
+      "concept_id": "HHS4185-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000007",
+      "concept_id": "HHS4185-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_form": "nerve",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000008",
+      "concept_id": "HHS4185-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Arthritis",
+      "keyword_path": [
+        "Conditions",
+        "Arthritis"
+      ],
+      "source_form": "Arthritis",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0007",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "01 - T1 ICF.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Affected employment as clerical worker Affected social gathering with friends when Ulnar drift of hands and wrists dining out Swelling of hand joints Rheumatoid Arthritis of Affected family role to purchase necessary Pain & morning stiffness Both Hands grocery Difficulty to use keyboard for typing Difficulty for shopping Difficulty to use chopstick when eating Family income Acceptance of employer Religion Ergonomic design keyboards Experience: mother has Adaptive utensils for eating the disease ",
+      "retrieval_terms": [
+        "Arthritis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000009",
+      "concept_id": "HHS4185-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "diabetes",
+      "keyword_path": [
+        "Conditions",
+        "diabetes"
+      ],
+      "source_form": "diabetes",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "diabetes",
+        "diabete"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000010",
+      "concept_id": "HHS4185-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Diploma",
+      "keyword_path": [
+        "Conditions",
+        "Diploma"
+      ],
+      "source_form": "Diploma",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "Diploma"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000011",
+      "concept_id": "HHS4185-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "eye church social gathering ear nerve",
+      "keyword_path": [
+        "Conditions",
+        "eye church social gathering ear nerve"
+      ],
+      "source_form": "eye church social gathering ear nerve",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "eye church social gathering ear nerve"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000012",
+      "concept_id": "HHS4185-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "functions e g decrease muscle",
+      "keyword_path": [
+        "Conditions",
+        "functions e g decrease muscle"
+      ],
+      "source_form": "functions e g decrease muscle",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "functions e g decrease muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000013",
+      "concept_id": "HHS4185-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "hand joints Rheumatoid Arthritis",
+      "keyword_path": [
+        "Conditions",
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "source_form": "hand joints Rheumatoid Arthritis",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0007",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "01 - T1 ICF.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Affected employment as clerical worker Affected social gathering with friends when Ulnar drift of hands and wrists dining out Swelling of hand joints Rheumatoid Arthritis of Affected family role to purchase necessary Pain & morning stiffness Both Hands grocery Difficulty to use keyboard for typing Difficulty for shopping Difficulty to use chopstick when eating Family income Acceptance of employer Religion Ergonomic design keyboards Experience: mother has Adaptive utensils for eating the disease ",
+      "retrieval_terms": [
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000014",
+      "concept_id": "HHS4185-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "left knee",
+      "keyword_path": [
+        "Conditions",
+        "left knee"
+      ],
+      "source_form": "left knee",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "left knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000015",
+      "concept_id": "HHS4185-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "orthosis",
+      "keyword_path": [
+        "Conditions",
+        "orthosis"
+      ],
+      "source_form": "orthosis",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "orthosis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000016",
+      "concept_id": "HHS4185-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "right hip",
+      "keyword_path": [
+        "Conditions",
+        "right hip"
+      ],
+      "source_form": "right hip",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "right hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000017",
+      "concept_id": "HHS4185-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "right knee",
+      "keyword_path": [
+        "Conditions",
+        "right knee"
+      ],
+      "source_form": "right knee",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "right knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000018",
+      "concept_id": "HHS4185-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "right shoulder E g decrease muscle",
+      "keyword_path": [
+        "Conditions",
+        "right shoulder E g decrease muscle"
+      ],
+      "source_form": "right shoulder E g decrease muscle",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "right shoulder E g decrease muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000019",
+      "concept_id": "HHS4185-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "total hip",
+      "keyword_path": [
+        "Conditions",
+        "total hip"
+      ],
+      "source_form": "total hip",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "total hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000020",
+      "concept_id": "HHS4185-C-0000017",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AFO",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AFO"
+      ],
+      "source_form": "AFO",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "AFO"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000021",
+      "concept_id": "HHS4185-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AS114206",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206"
+      ],
+      "source_form": "AS114206",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "AS114206"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000022",
+      "concept_id": "HHS4185-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AS114206 Higher Diploma",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206 Higher Diploma"
+      ],
+      "source_form": "AS114206 Higher Diploma",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "AS114206 Higher Diploma"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000023",
+      "concept_id": "HHS4185-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AY2627",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AY2627"
+      ],
+      "source_form": "AY2627",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "AY2627"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000024",
+      "concept_id": "HHS4185-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "dag2d1",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "dag2d1"
+      ],
+      "source_form": "dag2d1",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "dag2d1"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000025",
+      "concept_id": "HHS4185-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4185",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185"
+      ],
+      "source_form": "HHS4185",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "HHS4185"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000026",
+      "concept_id": "HHS4185-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4185J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185J"
+      ],
+      "source_form": "HHS4185J",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "HHS4185J"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000027",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0003",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "01 - T1 ICF.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) Inter-related (WHO, 2002)",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000028",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000029",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0005",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "01 - T1 ICF.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Health Conditions Disease: a known or identifiable cause, such as a virus, bacteria, genetic mutation, or other biological malfunction Contextual Factors Personal factors: gender, age, coping styles, social background, education, experience, characters… Environmental factors: external physical / social factors (e.g. stairs, slopes, caregiver, employer, etc. •",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000030",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000031",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000032",
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_form": "ICF",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0015",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "01 - T1 ICF.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Long-term goals corresponds to activity / participation in ICF (functional level) need relatively longer period to achieve E.g. independence in dressing/ bathing E.g. able to walk with stick independently",
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000033",
+      "concept_id": "HHS4185-C-0000025",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "MTk3M",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MTk3M"
+      ],
+      "source_form": "MTk3M",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "MTk3M"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000034",
+      "concept_id": "HHS4185-C-0000026",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ppm77864",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ppm77864"
+      ],
+      "source_form": "ppm77864",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "ppm77864"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000035",
+      "concept_id": "HHS4185-C-0000027",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "source_form": "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000036",
+      "concept_id": "HHS4185-C-0000028",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "THR",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "THR"
+      ],
+      "source_form": "THR",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "THR"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000037",
+      "concept_id": "HHS4185-C-0000029",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "blood",
+      "keyword_path": [
+        "Investigations",
+        "blood"
+      ],
+      "source_form": "blood",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0010",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "01 - T1 ICF.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0010",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Medical Problems related to medical problem e.g. shortness of breath e.g. sputum retention e.g. decrease renal functions e.g. high H’stix level (blood glucose) H‘stix e.g. high / low blood pressure •",
+      "retrieval_terms": [
+        "blood"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000038",
+      "concept_id": "HHS4185-C-0000030",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "genetic",
+      "keyword_path": [
+        "Investigations",
+        "genetic"
+      ],
+      "source_form": "genetic",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0005",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "01 - T1 ICF.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Health Conditions Disease: a known or identifiable cause, such as a virus, bacteria, genetic mutation, or other biological malfunction Contextual Factors Personal factors: gender, age, coping styles, social background, education, experience, characters… Environmental factors: external physical / social factors (e.g. stairs, slopes, caregiver, employer, etc. •",
+      "retrieval_terms": [
+        "genetic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000039",
+      "concept_id": "HHS4185-C-0000031",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "stix e g high low blood",
+      "keyword_path": [
+        "Investigations",
+        "stix e g high low blood"
+      ],
+      "source_form": "stix e g high low blood",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0010",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "01 - T1 ICF.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0010",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Medical Problems related to medical problem e.g. shortness of breath e.g. sputum retention e.g. decrease renal functions e.g. high H’stix level (blood glucose) H‘stix e.g. high / low blood pressure •",
+      "retrieval_terms": [
+        "stix e g high low blood"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000040",
+      "concept_id": "HHS4185-C-0000032",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "virus bacteria genetic",
+      "keyword_path": [
+        "Investigations",
+        "virus bacteria genetic"
+      ],
+      "source_form": "virus bacteria genetic",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0005",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "01 - T1 ICF.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Health Conditions Disease: a known or identifiable cause, such as a virus, bacteria, genetic mutation, or other biological malfunction Contextual Factors Personal factors: gender, age, coping styles, social background, education, experience, characters… Environmental factors: external physical / social factors (e.g. stairs, slopes, caregiver, employer, etc. •",
+      "retrieval_terms": [
+        "virus bacteria genetic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000041",
+      "concept_id": "HHS4185-C-0000033",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "aids ankle-foot orthosis AFO Stump management",
+      "keyword_path": [
+        "Management and treatment",
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "source_form": "aids ankle-foot orthosis AFO Stump management",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000042",
+      "concept_id": "HHS4185-C-0000034",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "chronic diseases e g pain management",
+      "keyword_path": [
+        "Management and treatment",
+        "chronic diseases e g pain management"
+      ],
+      "source_form": "chronic diseases e g pain management",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "chronic diseases e g pain management"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000043",
+      "concept_id": "HHS4185-C-0000035",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "diseases e g pain management diabetes",
+      "keyword_path": [
+        "Management and treatment",
+        "diseases e g pain management diabetes"
+      ],
+      "source_form": "diseases e g pain management diabetes",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "diseases e g pain management diabetes",
+        "diseases e g pain management diabete"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000044",
+      "concept_id": "HHS4185-C-0000036",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "management",
+      "keyword_path": [
+        "Management and treatment",
+        "management"
+      ],
+      "source_form": "management",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "management"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000045",
+      "concept_id": "HHS4185-C-0000037",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "physical therapy",
+      "keyword_path": [
+        "Management and treatment",
+        "physical therapy"
+      ],
+      "source_form": "physical therapy",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "physical therapy"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000046",
+      "concept_id": "HHS4185-C-0000038",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "surgery",
+      "keyword_path": [
+        "Management and treatment",
+        "surgery"
+      ],
+      "source_form": "surgery",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "surgery"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000047",
+      "concept_id": "HHS4185-C-0000039",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "therapy",
+      "keyword_path": [
+        "Management and treatment",
+        "therapy"
+      ],
+      "source_form": "therapy",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "therapy"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000048",
+      "concept_id": "HHS4185-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "activities",
+        "activity",
+        "Activities",
+        "Activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000049",
+      "concept_id": "HHS4185-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "Activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "activities",
+        "activity",
+        "Activities",
+        "Activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000050",
+      "concept_id": "HHS4185-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "activities",
+        "activity",
+        "Activities",
+        "Activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000051",
+      "concept_id": "HHS4185-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0013",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "01 - T1 ICF.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Activity level Difficulty related to functions/ daily activities E.g. decrease ability / independence in • walking upstairs & downstairs E.g. decrease ability / independence in sit to • stand E.g. decrease ability / independence in dressing, bathing, etc.",
+      "retrieval_terms": [
+        "activities",
+        "activity",
+        "Activities",
+        "Activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000052",
+      "concept_id": "HHS4185-C-0000041",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activity participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "activity participation"
+      ],
+      "source_form": "activity participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0015",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "01 - T1 ICF.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Long-term goals corresponds to activity / participation in ICF (functional level) need relatively longer period to achieve E.g. independence in dressing/ bathing E.g. able to walk with stick independently",
+      "retrieval_terms": [
+        "activity participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000053",
+      "concept_id": "HHS4185-C-0000042",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "body function",
+      "keyword_path": [
+        "Rehabilitation",
+        "body function"
+      ],
+      "source_form": "body function",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "body function"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000054",
+      "concept_id": "HHS4185-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Disability"
+      ],
+      "source_form": "Disability",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0003",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "01 - T1 ICF.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) Inter-related (WHO, 2002)",
+      "retrieval_terms": [
+        "Disability",
+        "disability"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000055",
+      "concept_id": "HHS4185-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Disability"
+      ],
+      "source_form": "disability",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "Disability",
+        "disability"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000056",
+      "concept_id": "HHS4185-C-0000044",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "function",
+      "keyword_path": [
+        "Rehabilitation",
+        "function"
+      ],
+      "source_form": "function",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "function"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000057",
+      "concept_id": "HHS4185-C-0000045",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_form": "functional",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000058",
+      "concept_id": "HHS4185-C-0000045",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_form": "functional",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0015",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "01 - T1 ICF.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Long-term goals corresponds to activity / participation in ICF (functional level) need relatively longer period to achieve E.g. independence in dressing/ bathing E.g. able to walk with stick independently",
+      "retrieval_terms": [
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000059",
+      "concept_id": "HHS4185-C-0000046",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functional activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional activities"
+      ],
+      "source_form": "functional activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "functional activities",
+        "functional activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000060",
+      "concept_id": "HHS4185-C-0000047",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functional activities e g wheelchair walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional activities e g wheelchair walking"
+      ],
+      "source_form": "functional activities e g wheelchair walking",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "functional activities e g wheelchair walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000061",
+      "concept_id": "HHS4185-C-0000048",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functioning activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functioning activities"
+      ],
+      "source_form": "functioning activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "functioning activities",
+        "functioning activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000062",
+      "concept_id": "HHS4185-C-0000049",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functioning Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functioning Disability"
+      ],
+      "source_form": "Functioning Disability",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0003",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "01 - T1 ICF.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) Inter-related (WHO, 2002)",
+      "retrieval_terms": [
+        "Functioning Disability"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000063",
+      "concept_id": "HHS4185-C-0000049",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functioning Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functioning Disability"
+      ],
+      "source_form": "Functioning Disability",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "Functioning Disability"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000064",
+      "concept_id": "HHS4185-C-0000050",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functions daily activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions daily activities"
+      ],
+      "source_form": "functions daily activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0013",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "01 - T1 ICF.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Activity level Difficulty related to functions/ daily activities E.g. decrease ability / independence in • walking upstairs & downstairs E.g. decrease ability / independence in sit to • stand E.g. decrease ability / independence in dressing, bathing, etc.",
+      "retrieval_terms": [
+        "functions daily activities",
+        "functions daily activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000065",
+      "concept_id": "HHS4185-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functions e g decrease muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions e g decrease muscle strength"
+      ],
+      "source_form": "functions e g decrease muscle strength",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "functions e g decrease muscle strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000066",
+      "concept_id": "HHS4185-C-0000052",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functions e g sensory functions mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions e g sensory functions mobility"
+      ],
+      "source_form": "functions e g sensory functions mobility",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "functions e g sensory functions mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000067",
+      "concept_id": "HHS4185-C-0000053",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functions mobility communication speech functions Participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions mobility communication speech functions Participation"
+      ],
+      "source_form": "functions mobility communication speech functions Participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "functions mobility communication speech functions Participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000068",
+      "concept_id": "HHS4185-C-0000054",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "g wheelchair walking aids ankle-foot orthosis",
+      "keyword_path": [
+        "Rehabilitation",
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "source_form": "g wheelchair walking aids ankle-foot orthosis",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000069",
+      "concept_id": "HHS4185-C-0000055",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Healthcare Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Healthcare Rehabilitation"
+      ],
+      "source_form": "Healthcare Rehabilitation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0009",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Common terminology in Healthcare & Rehabilitation",
+      "retrieval_terms": [
+        "Healthcare Rehabilitation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000070",
+      "concept_id": "HHS4185-C-0000056",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ICF Body functions physiological functions Activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "ICF Body functions physiological functions Activities"
+      ],
+      "source_form": "ICF Body functions physiological functions Activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "ICF Body functions physiological functions Activities",
+        "ICF Body functions physiological functions Activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000071",
+      "concept_id": "HHS4185-C-0000057",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ICF functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "ICF functional"
+      ],
+      "source_form": "ICF functional",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0015",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "01 - T1 ICF.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Long-term goals corresponds to activity / participation in ICF (functional level) need relatively longer period to achieve E.g. independence in dressing/ bathing E.g. able to walk with stick independently",
+      "retrieval_terms": [
+        "ICF functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000072",
+      "concept_id": "HHS4185-C-0000058",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "knee e g improve active range",
+      "keyword_path": [
+        "Rehabilitation",
+        "knee e g improve active range"
+      ],
+      "source_form": "knee e g improve active range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "knee e g improve active range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000073",
+      "concept_id": "HHS4185-C-0000059",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "left knee E g decrease range",
+      "keyword_path": [
+        "Rehabilitation",
+        "left knee E g decrease range"
+      ],
+      "source_form": "left knee E g decrease range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "left knee E g decrease range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000074",
+      "concept_id": "HHS4185-C-0000060",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "left shoulder e g fair walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "left shoulder e g fair walking"
+      ],
+      "source_form": "left shoulder e g fair walking",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "left shoulder e g fair walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000075",
+      "concept_id": "HHS4185-C-0000061",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "limb e g decrease active range",
+      "keyword_path": [
+        "Rehabilitation",
+        "limb e g decrease active range"
+      ],
+      "source_form": "limb e g decrease active range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "limb e g decrease active range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000076",
+      "concept_id": "HHS4185-C-0000062",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000077",
+      "concept_id": "HHS4185-C-0000062",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000078",
+      "concept_id": "HHS4185-C-0000063",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "participation"
+      ],
+      "source_form": "participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "participation",
+        "Participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000079",
+      "concept_id": "HHS4185-C-0000063",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "participation"
+      ],
+      "source_form": "Participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0006",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "01 - T1 ICF.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Dimensions of ICF Body functions: physiological functions Activities: is the execution of a task or of body systems, including psychological action by an individual (e.g. self care, functions (e.g. sensory functions, mobility, communication) speech functions) Participation: involvement in a life Body structures: anatomical parts of the situation (e.g. employment, go to body, such as organ & limbs (e.g. eye, church, social gathering) ear, nerve, bones, muscles)",
+      "retrieval_terms": [
+        "participation",
+        "Participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000080",
+      "concept_id": "HHS4185-C-0000063",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "participation"
+      ],
+      "source_form": "participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0015",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "01 - T1 ICF.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Long-term goals corresponds to activity / participation in ICF (functional level) need relatively longer period to achieve E.g. independence in dressing/ bathing E.g. able to walk with stick independently",
+      "retrieval_terms": [
+        "participation",
+        "Participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000081",
+      "concept_id": "HHS4185-C-0000064",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000082",
+      "concept_id": "HHS4185-C-0000064",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000083",
+      "concept_id": "HHS4185-C-0000064",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000084",
+      "concept_id": "HHS4185-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_form": "Rehabilitation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0001",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "01 - T1 ICF.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "AS114206 Higher Diploma in RehabilitationServices AY2627 HHS4185 Common Rehabilitation Conditions Tutorial T1 Lecturer: Ms. Fion Yeung (HHS4185) Ms. Shan Li (HHS4185J)",
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000085",
+      "concept_id": "HHS4185-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_form": "Rehabilitation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0002",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "01 - T1 ICF.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0002",
+        "HHS4185-T1-ICF-PART02",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Rehabilitation conceptual framework",
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000086",
+      "concept_id": "HHS4185-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_form": "Rehabilitation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0009",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Common terminology in Healthcare & Rehabilitation",
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000087",
+      "concept_id": "HHS4185-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_form": "Rehabilitation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0016",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "01 - T1 ICF.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Reference List Barrett, C. M. (2021). Dreeben-irimia's introduction to physical therapy practice for physical therapist assistants (Fourth ed.). Jones & Bartlett Learning. https://www.physio- pedia.com/Introduction_to_Rehabilitation?_gl=1*dag2d1*_gcl_au*MTk3M TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N DgyNzU.#ppm77864",
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000088",
+      "concept_id": "HHS4185-C-0000066",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "shoulder E g decrease muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "shoulder E g decrease muscle strength"
+      ],
+      "source_form": "shoulder E g decrease muscle strength",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "shoulder E g decrease muscle strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000089",
+      "concept_id": "HHS4185-C-0000067",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "strength",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000090",
+      "concept_id": "HHS4185-C-0000067",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "strength",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000091",
+      "concept_id": "HHS4185-C-0000068",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "structures activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "structures activities"
+      ],
+      "source_form": "structures activities",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "structures activities",
+        "structures activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000092",
+      "concept_id": "HHS4185-C-0000069",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "structures activities participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "structures activities participation"
+      ],
+      "source_form": "structures activities participation",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0004",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "International Classification of Functioning, Disability and Health (ICF) • provides a standard language for classifying • body functions and structures, activities, participation levels & conditions in the world around us that influence health • classify health & health related - domains- assess health, functioning, activities & environmentalfactors • framework of the World Health • Organization (WHO) for measuring health and disability at both individuals and population levels",
+      "retrieval_terms": [
+        "structures activities participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000093",
+      "concept_id": "HHS4185-C-0000070",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "total hip replacement THR Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "total hip replacement THR Transfer"
+      ],
+      "source_form": "total hip replacement THR Transfer",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "total hip replacement THR Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000094",
+      "concept_id": "HHS4185-C-0000071",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "total hip replacement THR Transfer mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "total hip replacement THR Transfer mobility"
+      ],
+      "source_form": "total hip replacement THR Transfer mobility",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "total hip replacement THR Transfer mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000095",
+      "concept_id": "HHS4185-C-0000072",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000096",
+      "concept_id": "HHS4185-C-0000073",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_form": "walking",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000097",
+      "concept_id": "HHS4185-C-0000073",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_form": "walking",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0011",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "01 - T1 ICF.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Physical Problems related to physical conditions & functions e.g. decrease muscle strength of bilateral • lower limb e.g. decrease active range of motion at • left shoulder e.g. fair walking stability & tolerance – 1 mild assistant for walking with frame",
+      "retrieval_terms": [
+        "walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000098",
+      "concept_id": "HHS4185-C-0000073",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_form": "walking",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0013",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "01 - T1 ICF.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Activity level Difficulty related to functions/ daily activities E.g. decrease ability / independence in • walking upstairs & downstairs E.g. decrease ability / independence in sit to • stand E.g. decrease ability / independence in dressing, bathing, etc.",
+      "retrieval_terms": [
+        "walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000099",
+      "concept_id": "HHS4185-C-0000074",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "chronic diseases e g pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "chronic diseases e g pain"
+      ],
+      "source_form": "chronic diseases e g pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "chronic diseases e g pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000100",
+      "concept_id": "HHS4185-C-0000075",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "low back muscles wasting",
+      "keyword_path": [
+        "Symptoms and signs",
+        "low back muscles wasting"
+      ],
+      "source_form": "low back muscles wasting",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "low back muscles wasting"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000101",
+      "concept_id": "HHS4185-C-0000076",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_form": "Pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0007",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "01 - T1 ICF.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Affected employment as clerical worker Affected social gathering with friends when Ulnar drift of hands and wrists dining out Swelling of hand joints Rheumatoid Arthritis of Affected family role to purchase necessary Pain & morning stiffness Both Hands grocery Difficulty to use keyboard for typing Difficulty for shopping Difficulty to use chopstick when eating Family income Acceptance of employer Religion Ergonomic design keyboards Experience: mother has Adaptive utensils for eating the disease ",
+      "retrieval_terms": [
+        "Pain",
+        "pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000102",
+      "concept_id": "HHS4185-C-0000076",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_form": "pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0008",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Education to Patients & Caregivers Self-management on conditions / chronic diseases e.g. pain management, diabetes Reinforce the precautions after surgery / situations e.g. avoid crossed leg & sit on low chair after • total hip replacement (THR) Transfer & mobility techniques for clients & • caregivers Fall prevention at home & community Proper use of adaptive equipment for functional activities e.g. wheelchair, walking aids, ankle-foot orthosis (AFO) Stump management & prosthetic maintenance",
+      "retrieval_terms": [
+        "Pain",
+        "pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000103",
+      "concept_id": "HHS4185-C-0000076",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_form": "pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "Pain",
+        "pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000104",
+      "concept_id": "HHS4185-C-0000076",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_form": "pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "Pain",
+        "pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000105",
+      "concept_id": "HHS4185-C-0000077",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "physical problems E g pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "physical problems E g pain"
+      ],
+      "source_form": "physical problems E g pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "physical problems E g pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000106",
+      "concept_id": "HHS4185-C-0000078",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "purchase necessary Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "purchase necessary Pain"
+      ],
+      "source_form": "purchase necessary Pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0007",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "01 - T1 ICF.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Affected employment as clerical worker Affected social gathering with friends when Ulnar drift of hands and wrists dining out Swelling of hand joints Rheumatoid Arthritis of Affected family role to purchase necessary Pain & morning stiffness Both Hands grocery Difficulty to use keyboard for typing Difficulty for shopping Difficulty to use chopstick when eating Family income Acceptance of employer Religion Ergonomic design keyboards Experience: mother has Adaptive utensils for eating the disease ",
+      "retrieval_terms": [
+        "purchase necessary Pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000107",
+      "concept_id": "HHS4185-C-0000079",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "shorter period e g decrease pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "shorter period e g decrease pain"
+      ],
+      "source_form": "shorter period e g decrease pain",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0014",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "01 - T1 ICF.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Short-term goals corresponds to body function & structure in ICF (impairment level) able to improve / manage in relatively shorter period e.g. decrease pain at low back e.g. decrease swelling at right knee e.g. improve active range of motion at left shoulder",
+      "retrieval_terms": [
+        "shorter period e g decrease pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "occurrence_id": "HHS4185-O-00000108",
+      "concept_id": "HHS4185-C-0000080",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "wasting",
+      "keyword_path": [
+        "Symptoms and signs",
+        "wasting"
+      ],
+      "source_form": "wasting",
+      "source_passage_ids": [
+        "HHS4185-T1-ICF-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4185-T1-ICF-P0012",
+          "document_id": "HHS4185-T1-ICF",
+          "document_title": "Tutorial 1 - ICF",
+          "source_file": "01 - T1 ICF.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "01 - T1 ICF.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "source_excerpt": "Body functions and structure level Absence of / significant difference in a person’s body structure or functions related to physical problems E.g. pain at low back, muscles wasting at both • lower limb, swelling at left knee E.g. decrease range of motion at right • shoulder E.g. decrease muscle strength at right hip • abductors",
+      "retrieval_terms": [
+        "wasting"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    }
+  ],
+  "counts": {
+    "occurrences": 108
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-T1-ICF-2026"
+}

@@ -1,0 +1,839 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4185",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0002-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0002",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: conceptual framework",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          253.2,
+          168.48,
+          746.58,
+          273.66
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0002",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - T1 ICF.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0002",
+        "HHS4185-T1-ICF-PART02",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "conceptual framework",
+          "conceptual framework"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0002-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0002",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: conceptual framework",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          140.88,
+          220.32,
+          840.18,
+          325.5
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0002",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - T1 ICF.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0002",
+        "HHS4185-T1-ICF-PART02",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "conceptual framework",
+          "conceptual framework"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0002-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0002",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: conceptual framework",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          230.04,
+          268.8,
+          751.02,
+          373.98
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0002",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - T1 ICF.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0002",
+        "HHS4185-T1-ICF-PART02",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "conceptual framework",
+          "conceptual framework"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0003-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0003",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Visual associated with: International Classification of Functioning,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          1.082,
+          134.14,
+          824.117,
+          518.67
+        ],
+        "bbox_px": [
+          2.254366874694824,
+          279.45794677734375,
+          1716.910888671875,
+          1080.5628662109375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0003",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "01 - T1 ICF.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "International Classification of Functioning,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0004",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: International Classification of Functioning,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          30.0,
+          17.28,
+          959.22,
+          87.9
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0004",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "International Classification of Functioning,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0004",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: International Classification of Functioning,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          191.28,
+          51.84,
+          784.62,
+          122.46
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0004",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "International Classification of Functioning,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0004-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0004",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: International Classification of Functioning,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          183.36,
+          84.12,
+          680.58,
+          154.74
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0004",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "International Classification of Functioning,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0004-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0004",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: International Classification of Functioning,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          651.96,
+          86.76,
+          792.54,
+          157.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0004",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - T1 ICF.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "International Classification of Functioning,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0007",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: 2002)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          10.879,
+          958.077,
+          536.907
+        ],
+        "bbox_px": [
+          0,
+          22.665403366088867,
+          1995.9931640625,
+          1118.556884765625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0007",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - T1 ICF.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "2002)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0008",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Education to Patients & Caregivers",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          108.48,
+          32.88,
+          853.62,
+          103.5
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0008",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "Education to Patients & Caregivers"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0008",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Education to Patients & Caregivers",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          319.92,
+          65.16,
+          642.06,
+          135.78
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0008",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - T1 ICF.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "International Classification of Functioning,",
+          "Education to Patients & Caregivers"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0009",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Common terminology in",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          110.4,
+          60.84,
+          871.26,
+          166.02
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0009",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "Common terminology in",
+          "Common terminology in"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0009",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Common terminology in",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          260.16,
+          112.68,
+          721.5,
+          217.86
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0009",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "Common terminology in",
+          "Common terminology in"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0009-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0009",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Common terminology in",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          244.08,
+          164.52,
+          718.74,
+          269.7
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0009",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "Common terminology in",
+          "Common terminology in"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "visual_id": "HHS4185-T1-ICF-VIS-P0009-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-T1-ICF",
+      "source_page_id": "HHS4185-T1-ICF-P0009",
+      "source_file": "01 - T1 ICF.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Common terminology in",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          144.36,
+          213.0,
+          818.34,
+          318.18
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-T1-ICF-P0009",
+        "document_id": "HHS4185-T1-ICF",
+        "document_title": "Tutorial 1 - ICF",
+        "source_file": "01 - T1 ICF.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - T1 ICF.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Tutorial 1 - ICF",
+          "Common terminology in",
+          "Common terminology in"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-T1-ICF-2026"
+    }
+  ],
+  "counts": {
+    "visuals": 15,
+    "tables": 0,
+    "non_tables": 15
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-T1-ICF-2026"
+}

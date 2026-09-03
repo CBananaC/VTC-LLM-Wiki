@@ -1,0 +1,43 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+  "source": {
+    "filename": "15 - J L1 Terminology for anatomy.pdf",
+    "path": "/Users/creamybanana/Downloads/Physiology & Anatomy/02 Lectures/15 - J L1 Terminology for anatomy.pdf",
+    "sha256": "sha256:839fcb12ec60a51c8ca68699b9fd39b9d8a2c3fa2b78c72c2b2674c5c02caceb",
+    "pdf_page_count": 17,
+    "pdfinfo": {
+      "Title": "11356/11361A Human Physiology Department of Applied Science By Florence MOK",
+      "Author": "Florence MOK",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 20 13:48:08 2026 HKT",
+      "ModDate": "Thu Aug 20 13:48:08 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 17,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 568184,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

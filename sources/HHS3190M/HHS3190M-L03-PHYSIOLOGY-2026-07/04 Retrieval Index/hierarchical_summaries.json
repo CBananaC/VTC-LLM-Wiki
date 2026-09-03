@@ -1,0 +1,285 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Cover and Outline",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "summary": "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27 Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential",
+      "summary_sentences": [
+        "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27",
+        "Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Revision: structure and properties of the cell membrane",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 3,
+      "slide_end": 5,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005"
+      ],
+      "summary": "Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis",
+      "summary_sentences": [
+        "Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass",
+        "Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane",
+        "Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive membrane transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 6,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012"
+      ],
+      "summary": "Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion! • Steeper concentration gradient, Higher diffusion rate Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol Passive Membrane Transport • Facilitated diffusion • Certain polar water-soluble molecules (e.g. glucose, amino acids, and ions) are transported passively down their concentration gradient by: • Carrier-mediated facilitated diffusion • Substances bind to carrier proteins • E.g.",
+      "summary_sentences": [
+        "Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion!",
+        "• Steeper concentration gradient, Higher diffusion rate",
+        "Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol",
+        "Passive Membrane Transport • Facilitated diffusion • Certain polar water-soluble molecules (e.g.",
+        "glucose, amino acids, and ions) are transported passively down their concentration gradient by: • Carrier-mediated facilitated diffusion • Substances bind to carrier proteins • E.g."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active membrane transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 13,
+      "slide_end": 20,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "summary": "Active Membrane Transport • Two major types of active membrane transport methods • Active transport • Vesicular transport • Both require cellular energy to move molecules across plasma membrane for any of these reasons: • Molecule is too large for channel proteins • Molecule is not lipid soluble • Molecule is not able to move down concentration gradient Active Membrane Transport • Active Transport • Requires special carrier proteins (pumps ) • Moves molecules against their concentration gradient (from low to high) ○ This requires energy directly or indirectly ○ Some pumps transport more than one substance • Antiporters • transport one substance into cell while transporting a different substance out of cell • Symporters • transport two different substances in the same direction Active Membrane Transport • Two types of active transport: • Primary active transport • Required energy directly • Secondary active transport • Required energy indirectly from ionic gradients created by primary active transport Active Membrane Transport • Important carrier protein in human cells • Sodium-potassium pump (Na + /K + ATPase) • Most studied pump • Pumps 3 Na + out of cell and 2 K + back into cell • Present in all plasma membranes, but especially active in nerve cells and muscle cells Active Membrane Transport • Vesicular Transport (Bulk Transport) • Involves transport of many molecules, large molecules (E.g.",
+      "summary_sentences": [
+        "Active Membrane Transport • Two major types of active membrane transport methods • Active transport • Vesicular transport • Both require cellular energy to move molecules across plasma membrane for any of these reasons: • Molecule is too large for channel proteins • Molecule is not lipid soluble • Molecule is not able to move down concentration gradient",
+        "Active Membrane Transport • Active Transport • Requires special carrier proteins (pumps ) • Moves molecules against their concentration gradient (from low to high) ○ This requires energy directly or indirectly ○ Some pumps transport more than one substance • Antiporters • transport one substance into cell while transporting a different substance out of cell • Symporters • transport two different substances in the same direction",
+        "Active Membrane Transport • Two types of active transport: • Primary active transport • Required energy directly • Secondary active transport • Required energy indirectly from ionic gradients created by primary active transport",
+        "Active Membrane Transport • Important carrier protein in human cells • Sodium-potassium pump (Na + /K + ATPase) • Most studied pump • Pumps 3 Na + out of cell and 2 K + back into cell • Present in all plasma membranes, but especially active in nerve cells and muscle cells",
+        "Active Membrane Transport • Vesicular Transport (Bulk Transport) • Involves transport of many molecules, large molecules (E.g."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Membrane transport and membrane potential",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 21,
+      "slide_end": 22,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "summary": "Membrane Transport and Membrane Potential • Selective permeability of cell membrane leads to different concentrations of charged particles in cytoplasm and in extracellular fluid. This results in membrane potential, the difference of voltage across the cell membrane. • In resting state, resting membrane potentials of all human cells range from - 50mV to -100mV, depending on cell type. • negative sign (-) indicates inside of cell is more negative than outside of cell Membrane Transport and Membrane Potential • Generation and Maintaining of Resting Membrane Potential • (1) Proteins with negative charge are too large and polar.",
+      "summary_sentences": [
+        "Membrane Transport and Membrane Potential • Selective permeability of cell membrane leads to different concentrations of charged particles in cytoplasm and in extracellular fluid.",
+        "This results in membrane potential, the difference of voltage across the cell membrane.",
+        "• In resting state, resting membrane potentials of all human cells range from - 50mV to -100mV, depending on cell type.",
+        "• negative sign (-) indicates inside of cell is more negative than outside of cell",
+        "Membrane Transport and Membrane Potential • Generation and Maintaining of Resting Membrane Potential • (1) Proteins with negative charge are too large and polar."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "L3 Revision Exercise",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 23,
+      "slide_end": 23,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023"
+      ],
+      "summary": "L3 Revision Exercise L3 ● Screen the QR code below to complete all questions in this revision exercise.",
+      "summary_sentences": [
+        "L3 Revision Exercise L3 ● Screen the QR code below to complete all questions in this revision exercise."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART06",
+      "level": "part",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "slide_start": 24,
+      "slide_end": 24,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K. (2018) Human Anatomy & Physiology (11th ed.). Fundamentals of Anatomy and Physiology (11th ed.). England: Pearson Benjamin Cummings. • Olson, T.R., Pawlina Woichiech (2015) A.D.A.M.",
+      "summary_sentences": [
+        "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K.",
+        "(2018) Human Anatomy & Physiology (11th ed.).",
+        "Fundamentals of Anatomy and Physiology (11th ed.).",
+        "England: Pearson Benjamin Cummings.",
+        "• Olson, T.R., Pawlina Woichiech (2015) A.D.A.M."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "level": "document",
+      "title": "Lecture 3 - Membrane Transport (July 2026)",
+      "parent_id": "HHS3190M-COURSE",
+      "slide_start": 1,
+      "slide_end": 24,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27 Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion! • Steeper concentration gradient, Higher diffusion rate Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol",
+      "summary_sentences": [
+        "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27",
+        "Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential",
+        "Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass",
+        "Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane",
+        "Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis",
+        "Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion!",
+        "• Steeper concentration gradient, Higher diffusion rate",
+        "Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-COURSE",
+      "level": "course",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27 Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion! • Steeper concentration gradient, Higher diffusion rate Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol",
+      "summary_sentences": [
+        "Physiology L3: Membrane Transport (Sem 1 AY 26-27 26-27 Outline • Revision: Structure and Properties of Cell Membrane • Passive Membrane Transport • Simple Diffusion • Facilitated Diffusion • Osmosis • Active Membrane Transport • Primary Active Transport • Secondary Active Transport • Vesicular Transport • Membrane Transport and Membrane Potential Revision: Structure and Properties of Cell Membrane • Cell membrane • Phospholipid bilayer • Functions • Separate intracellular region and extracellular region • Control substances entering and exiting the cell • Property • Selective permeability • Cell membrane allows some substances to pass in different rates while it restricts certain other substances to pass Selective permeability of cell membrane (1)Small non-polar molecules pass the phospholipid bilayer quickly (2)Polar molecules or ions need to use certain transporter proteins (channel proteins or carrier proteins) to pass cell membrane (3)Big molecules (or large amount of substance at the same time) need to form vesicles to pass cell membrane Membrane Transport • Substances move through the cell Simple Diffusion membrane by 2 types of methods: Passive Facilitated • Passive membrane transport: Transport Diffusion do not consume cellular energy Osmosis • Active membrane transport: Membrane cellular energy is consumed directly or Transport Primary Active indirectly Transport Secondary Active Transport Active Transport Endocytosis Vesicular Transport Exocytosis Passive Membrane Transport • Passive transport does not require energy • “Diffusion • Substance moves from region of higher concentration to region of lower concentration • Difference of concentrations (Concentration gradient) determines the rate of diffusion!",
+        "• Steeper concentration gradient, Higher diffusion rate Passive Membrane Transport • Simple diffusion • Nonpolar lipid-soluble substances diffuse directly through phospholipid bilayer • Examples • Oxygen (O 2 ) • carbon dioxide (CO 2 ) • fat-soluble vitamins • Ethanol"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

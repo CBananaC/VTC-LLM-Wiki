@@ -1,0 +1,756 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "abdomen": {
+      "display_forms": [
+        "abdomen"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "armshandsdiaphragmthoracicpairschest": {
+      "display_forms": [
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "brain": {
+      "display_forms": [
+        "Brain"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "centralnervoussystemcnsbrainspinal": {
+      "display_forms": [
+        "Central nervous system CNS Brain spinal"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "centralnervoussystemvisual": {
+      "display_forms": [
+        "Central Nervous System visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "cervical": {
+      "display_forms": [
+        "Cervical"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "cervicalregionpairsthoracic": {
+      "display_forms": [
+        "Cervical region pairs Thoracic"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "chest": {
+      "display_forms": [
+        "Chest"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "cns": {
+      "display_forms": [
+        "CNS"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055",
+        "HHS4867-O-00000056"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "diaphragm": {
+      "display_forms": [
+        "diaphragm"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "fewmuscle": {
+      "display_forms": [
+        "few muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional",
+        "functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gto": {
+      "display_forms": [
+        "GTO"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "headneckshouldersarmshandsdiaphragm": {
+      "display_forms": [
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867j": {
+      "display_forms": [
+        "HHS4867J"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000059"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "humanmovementhhs4867functional": {
+      "display_forms": [
+        "human movement HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "monitoredperipheral": {
+      "display_forms": [
+        "monitored Peripheral"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motorendplateneuromuscular": {
+      "display_forms": [
+        "motorend plate neuromuscular"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motorneuron": {
+      "display_forms": [
+        "motor neuron"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041",
+        "HHS4867-O-00000042"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motorresponseexamplesmuscle": {
+      "display_forms": [
+        "motor response Examples Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motorunitskeletalmuscle": {
+      "display_forms": [
+        "Motor Unit Skeletal muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motorunitvisual": {
+      "display_forms": [
+        "Motor Unit visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000074"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009",
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067",
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "musclepain": {
+      "display_forms": [
+        "muscle Pain"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000071"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "muscles": {
+      "display_forms": [
+        "muscles"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067",
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "naturemagnitudemotorneuron": {
+      "display_forms": [
+        "nature magnitude motor neuron"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "neckshouldersarmshandsdiaphragmthoracic": {
+      "display_forms": [
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "nerve": {
+      "display_forms": [
+        "nerve"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "nervesspinalnerveareasuppliedcervical": {
+      "display_forms": [
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "nervoussystemsensoryneuron": {
+      "display_forms": [
+        "nervous system sensory neuron"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "neuromuscular": {
+      "display_forms": [
+        "Neuromuscular",
+        "neuromuscular"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000049",
+        "HHS4867-O-00000050"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "neuron": {
+      "display_forms": [
+        "neuron"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016",
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "pain": {
+      "display_forms": [
+        "Pain"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "partscentralnervoussystemcnsbrain": {
+      "display_forms": [
+        "parts Central nervous system CNS Brain"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "peripheral": {
+      "display_forms": [
+        "Peripheral",
+        "peripheral"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021",
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "peripheralnervoussystemlowerextremityvisual": {
+      "display_forms": [
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000075"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "peripheralnervoussystemupperextremitynervesvisual": {
+      "display_forms": [
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "pns": {
+      "display_forms": [
+        "PNS"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "reflexdiagramvisual": {
+      "display_forms": [
+        "Reflex (diagram) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "reflexvisual": {
+      "display_forms": [
+        "Reflex visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000078"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "sensoryneuron": {
+      "display_forms": [
+        "sensory neuron"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "spinal": {
+      "display_forms": [
+        "Spinal",
+        "spinal"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025",
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027",
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029",
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "spinalnervesdiagramvisual": {
+      "display_forms": [
+        "Spinal Nerves (diagram) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000079"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "spinalnervesspinal": {
+      "display_forms": [
+        "spinal nerves Spinal"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "spinalnervesspinalnerve": {
+      "display_forms": [
+        "spinal nerves Spinal nerve"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "tendon": {
+      "display_forms": [
+        "tendon"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000070"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "thoracic": {
+      "display_forms": [
+        "Thoracic"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032",
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 50,
+    "concepts_referenced": 49,
+    "occurrences_referenced": 79
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

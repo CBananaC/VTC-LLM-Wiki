@@ -1,0 +1,503 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "arom": {
+      "display_forms": [
+        "AROM"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "aromhipflexionhipextensionhip": {
+      "display_forms": [
+        "AROM Hip Flexion Hip Extension Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "assistanceprompassiverange": {
+      "display_forms": [
+        "assistance PROM passive range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "degreesnormalaromhip": {
+      "display_forms": [
+        "degrees Normal AROM Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "degreesnormalaromhipflexionhip": {
+      "display_forms": [
+        "degrees Normal AROM Hip Flexion Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "elbowflexionextensionvisual": {
+      "display_forms": [
+        "Elbow Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "flexionhipextensionhipabductionhip": {
+      "display_forms": [
+        "Flexion Hip Extension Hip Abduction Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "goniometervisual": {
+      "display_forms": [
+        "Goniometer visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867j": {
+      "display_forms": [
+        "HHS4867J"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hip": {
+      "display_forms": [
+        "Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "hipabductionhipinternalrotationhip": {
+      "display_forms": [
+        "Hip Abduction Hip Internal rotation Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hipabductionvisual": {
+      "display_forms": [
+        "Hip Abduction visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "hipexternalrotationkneeflexionknee": {
+      "display_forms": [
+        "Hip External rotation Knee Flexion Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hipflexionextensionvisual": {
+      "display_forms": [
+        "Hip Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "hipinternalexternalrotationvisual": {
+      "display_forms": [
+        "Hip Internal & External Rotation visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "internalrotationhipexternalrotationknee": {
+      "display_forms": [
+        "Internal rotation Hip External rotation Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "joint": {
+      "display_forms": [
+        "joint"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "jointrange": {
+      "display_forms": [
+        "Joint Range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "joints": {
+      "display_forms": [
+        "joints"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "knee": {
+      "display_forms": [
+        "Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "kneeflexionextensionvisual": {
+      "display_forms": [
+        "Knee Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "motionhhs4867functional": {
+      "display_forms": [
+        "Motion HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "normalrange": {
+      "display_forms": [
+        "normal range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "normalromrange": {
+      "display_forms": [
+        "normal ROM range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "prom": {
+      "display_forms": [
+        "PROM"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "range": {
+      "display_forms": [
+        "Range",
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029",
+        "HHS4867-O-00000030"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "rom": {
+      "display_forms": [
+        "ROM"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "romgoniometerinclinometeraromactiverange": {
+      "display_forms": [
+        "ROM goniometer inclinometer AROM active range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000031"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "shoulderabduction": {
+      "display_forms": [
+        "shoulder abduction"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033",
+        "HHS4867-O-00000034"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "shoulderabductionvisual": {
+      "display_forms": [
+        "Shoulder Abduction visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "shoulderflexionextensionvisual": {
+      "display_forms": [
+        "Shoulder Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "shoulderinternalexternalrotationvisual": {
+      "display_forms": [
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "categories": [
+        "visual"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 34,
+    "concepts_referenced": 33,
+    "occurrences_referenced": 44
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

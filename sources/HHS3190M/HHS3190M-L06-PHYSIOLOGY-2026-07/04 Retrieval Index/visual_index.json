@@ -1,0 +1,1343 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0004",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 4",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          158.4,
+          24.96,
+          801.6,
+          515.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Slide 4"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 6",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          82.92,
+          154.44,
+          371.28,
+          418.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Slide 6"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 6",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          410.76,
+          102.24,
+          868.92,
+          458.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Slide 6"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0008",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 8",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          158.64,
+          21.6,
+          801.84,
+          504.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0008",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0010",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 10",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          114.0,
+          31.8,
+          801.84,
+          490.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0010",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Slide 10"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0011-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Connection between lungs and heart - Pulmonary circulation:",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          135.6,
+          33.96,
+          653.16,
+          309.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Connection between lungs and heart - Pulmonary circulation:"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Connection between lungs and heart - Pulmonary circulation:",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          665.16,
+          62.4,
+          868.92,
+          227.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Connection between lungs and heart - Pulmonary circulation:"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0012",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: Anatomy of the Respiratory System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          516.12,
+          225.36,
+          919.32,
+          450.36
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0012",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Anatomy of the Respiratory System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Cells, called “type II cells”, are found on the alveolar walls.",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          195.36,
+          21.24,
+          768.36,
+          376.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Anatomy of the respiratory system",
+          "Cells, called “type II cells”, are found on the alveolar walls."
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0017",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with: Inspiration",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          58.56,
+          139.8,
+          556.32,
+          504.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0017",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Mechanics of ventilation",
+          "Inspiration"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0018-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0018",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Visual associated with: Expiration",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          30.0,
+          132.24,
+          529.44,
+          509.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0018",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Mechanics of ventilation",
+          "Expiration"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0021-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0021",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 21",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          51.96,
+          45.36,
+          892.8,
+          455.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0021",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Respiratory volumes, capacities, and ventilation",
+          "Slide 21"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0028-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0028",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "image",
+      "name": "Visual associated with: Gas Exchange between Lungs and Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          60.0,
+          211.32,
+          465.0,
+          493.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0028",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0028",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Gas Exchange between Lungs and Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0030-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Visual associated with: 160 mmHg",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          283.68,
+          19.68,
+          554.88,
+          520.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "160 mmHg"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0030-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Visual associated with: 160 mmHg",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          680.16,
+          20.4,
+          837.84,
+          480.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "160 mmHg"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0031-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0031",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 31,
+      "slide_number": 31,
+      "visual_type": "image",
+      "name": "Visual associated with: Gas Exchange between Lungs and Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          657.0,
+          270.0,
+          841.08,
+          459.72
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0031",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 31,
+        "page_number_type": "slide_number",
+        "slide_number": 31,
+        "pdf_page": 31,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 31 (PDF p. 31)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0031",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Gas Exchange between Lungs and Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0033-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0033",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 33,
+      "slide_number": 33,
+      "visual_type": "image",
+      "name": "Visual associated with: Transport of Gases in Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          448.32,
+          359.04,
+          706.56,
+          454.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0033",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 33,
+        "page_number_type": "slide_number",
+        "slide_number": 33,
+        "pdf_page": 33,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 33 (PDF p. 33)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Transport of Gases in Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0034-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0034",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 34,
+      "slide_number": 34,
+      "visual_type": "image",
+      "name": "Visual associated with: Transport of Gases in Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          542.88,
+          124.08,
+          878.88,
+          478.56
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0034",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 34,
+        "page_number_type": "slide_number",
+        "slide_number": 34,
+        "pdf_page": 34,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 34 (PDF p. 34)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0034",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Transport of Gases in Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0035-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0035",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 35,
+      "slide_number": 35,
+      "visual_type": "image",
+      "name": "Visual associated with: Transport of Gases in Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          299.16,
+          260.16,
+          634.44,
+          512.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0035",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 35,
+        "page_number_type": "slide_number",
+        "slide_number": 35,
+        "pdf_page": 35,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 35 (PDF p. 35)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Transport of Gases in Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0036-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0036",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 36,
+      "slide_number": 36,
+      "visual_type": "image",
+      "name": "Visual associated with: Transport of Gases in Blood",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          265.8,
+          451.08,
+          731.4,
+          515.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0036",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 36,
+        "page_number_type": "slide_number",
+        "slide_number": 36,
+        "pdf_page": 36,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 36 (PDF p. 36)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0036",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Gas exchange between the lungs and blood",
+          "Transport of Gases in Blood"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0038-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0038",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Control of Breathing",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          593.76,
+          146.4,
+          891.72,
+          452.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0038",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0038",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Control of breathing",
+          "Control of Breathing"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0039-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0039",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 39,
+      "slide_number": 39,
+      "visual_type": "image",
+      "name": "Visual associated with: Control of Breathing",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          592.68,
+          48.0,
+          921.6,
+          453.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0039",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 39,
+        "page_number_type": "slide_number",
+        "slide_number": 39,
+        "pdf_page": 39,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 39 (PDF p. 39)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0039",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Control of breathing",
+          "Control of Breathing"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0041-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0041",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 41,
+      "slide_number": 41,
+      "visual_type": "image",
+      "name": "Visual associated with: Control of Breathing",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          614.28,
+          60.0,
+          884.88,
+          494.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0041",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 41,
+        "page_number_type": "slide_number",
+        "slide_number": 41,
+        "pdf_page": 41,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 41 (PDF p. 41)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0041",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Control of breathing",
+          "Control of Breathing"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0044-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 44,
+      "slide_number": 44,
+      "visual_type": "image",
+      "name": "Visual associated with: L6 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          504.36,
+          231.36,
+          739.92,
+          384.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 44,
+        "page_number_type": "slide_number",
+        "slide_number": 44,
+        "pdf_page": 44,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 44 (PDF p. 44)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART06",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "L6 Revision Exercise",
+          "L6 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0044-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 44,
+      "slide_number": 44,
+      "visual_type": "image",
+      "name": "Visual associated with: L6 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          171.48,
+          203.76,
+          408.24,
+          441.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 44,
+        "page_number_type": "slide_number",
+        "slide_number": 44,
+        "pdf_page": 44,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 44 (PDF p. 44)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART06",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "L6 Revision Exercise",
+          "L6 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 25,
+    "tables": 0,
+    "non_tables": 25
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

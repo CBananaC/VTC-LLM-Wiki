@@ -1,0 +1,74 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+  "title": "Lecture 4 - Transfer Technique and Standard Wheelchairs",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:35+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "original_path": "../Movement Science/02 Lectures/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "size_bytes": 1085021,
+        "sha256": "sha256:77024a9eb8c9c728a11ace349055cd4f405788d1490039788bdb495704c25e92",
+        "copied_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS/00 Source/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "sha256": "sha256:77024a9eb8c9c728a11ace349055cd4f405788d1490039788bdb495704c25e92",
+      "duplicate_paths": [
+        "02 Lectures/13 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T01:57:08+08:00",
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l04_transfer_wheelchairs_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l04_transfer_wheelchairs_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l04_transfer_wheelchairs_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l04_transfer_wheelchairs_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l04_transfer_wheelchairs_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l04_transfer_wheelchairs_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l04_transfer_wheelchairs_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs4867_l04_transfer_wheelchairs.py"
+    },
+    "counts": {
+      "slides": 35,
+      "parts": 5,
+      "blocks": 186,
+      "concepts": 69,
+      "occurrences": 86,
+      "terms": 74,
+      "passages": 35,
+      "visuals": 15,
+      "tables": 0,
+      "quotation_candidates": 59
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

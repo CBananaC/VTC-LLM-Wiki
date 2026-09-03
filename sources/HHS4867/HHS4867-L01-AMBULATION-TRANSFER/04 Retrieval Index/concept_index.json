@@ -1,0 +1,3013 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "chest",
+      "canonical_candidate": "chest",
+      "keyword_path": [
+        "Anatomy",
+        "chest"
+      ],
+      "source_forms": [
+        "chest"
+      ],
+      "retrieval_terms": [
+        "chest"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "hip",
+      "canonical_candidate": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_forms": [
+        "hip",
+        "Hip"
+      ],
+      "retrieval_terms": [
+        "hip",
+        "Hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "knee",
+      "canonical_candidate": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_forms": [
+        "knee"
+      ],
+      "retrieval_terms": [
+        "knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Muscle",
+      "canonical_candidate": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_forms": [
+        "Muscle"
+      ],
+      "retrieval_terms": [
+        "Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "pelvis",
+      "canonical_candidate": "pelvis",
+      "keyword_path": [
+        "Anatomy",
+        "pelvis"
+      ],
+      "source_forms": [
+        "pelvis"
+      ],
+      "retrieval_terms": [
+        "pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "spinal",
+      "canonical_candidate": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_forms": [
+        "spinal"
+      ],
+      "retrieval_terms": [
+        "spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "spine",
+      "canonical_candidate": "spine",
+      "keyword_path": [
+        "Anatomy",
+        "spine"
+      ],
+      "source_forms": [
+        "spine"
+      ],
+      "retrieval_terms": [
+        "spine"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "wrist",
+      "canonical_candidate": "wrist",
+      "keyword_path": [
+        "Anatomy",
+        "wrist"
+      ],
+      "source_forms": [
+        "wrist"
+      ],
+      "retrieval_terms": [
+        "wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "adopted Avoid hip",
+      "canonical_candidate": "adopted Avoid hip",
+      "keyword_path": [
+        "Conditions",
+        "adopted Avoid hip"
+      ],
+      "source_forms": [
+        "adopted Avoid hip"
+      ],
+      "retrieval_terms": [
+        "adopted Avoid hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "adopted Avoid hip flexion Avoid hip",
+      "canonical_candidate": "adopted Avoid hip flexion Avoid hip",
+      "keyword_path": [
+        "Conditions",
+        "adopted Avoid hip flexion Avoid hip"
+      ],
+      "source_forms": [
+        "adopted Avoid hip flexion Avoid hip"
+      ],
+      "retrieval_terms": [
+        "adopted Avoid hip flexion Avoid hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "ambulate e g spinal",
+      "canonical_candidate": "ambulate e g spinal",
+      "keyword_path": [
+        "Conditions",
+        "ambulate e g spinal"
+      ],
+      "source_forms": [
+        "ambulate e g spinal"
+      ],
+      "retrieval_terms": [
+        "ambulate e g spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "ambulate e g spinal cord injury",
+      "canonical_candidate": "ambulate e g spinal cord injury",
+      "keyword_path": [
+        "Conditions",
+        "ambulate e g spinal cord injury"
+      ],
+      "source_forms": [
+        "ambulate e g spinal cord injury"
+      ],
+      "retrieval_terms": [
+        "ambulate e g spinal cord injury"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "better stability Special precautions Total hip",
+      "canonical_candidate": "better stability Special precautions Total hip",
+      "keyword_path": [
+        "Conditions",
+        "better stability Special precautions Total hip"
+      ],
+      "source_forms": [
+        "better stability Special precautions Total hip"
+      ],
+      "retrieval_terms": [
+        "better stability Special precautions Total hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "dislocation",
+      "canonical_candidate": "dislocation",
+      "keyword_path": [
+        "Conditions",
+        "dislocation"
+      ],
+      "source_forms": [
+        "dislocation"
+      ],
+      "retrieval_terms": [
+        "dislocation"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "dislocation Vulnerable position Hip",
+      "canonical_candidate": "dislocation Vulnerable position Hip",
+      "keyword_path": [
+        "Conditions",
+        "dislocation Vulnerable position Hip"
+      ],
+      "source_forms": [
+        "dislocation Vulnerable position Hip"
+      ],
+      "retrieval_terms": [
+        "dislocation Vulnerable position Hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "dysfunction",
+      "canonical_candidate": "dysfunction",
+      "keyword_path": [
+        "Conditions",
+        "dysfunction"
+      ],
+      "source_forms": [
+        "dysfunction"
+      ],
+      "retrieval_terms": [
+        "dysfunction"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "e g congestive heart failure",
+      "canonical_candidate": "e g congestive heart failure",
+      "keyword_path": [
+        "Conditions",
+        "e g congestive heart failure"
+      ],
+      "source_forms": [
+        "e g congestive heart failure"
+      ],
+      "retrieval_terms": [
+        "e g congestive heart failure"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000021"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "e g CVA Parkinson",
+      "canonical_candidate": "e g CVA Parkinson",
+      "keyword_path": [
+        "Conditions",
+        "e g CVA Parkinson"
+      ],
+      "source_forms": [
+        "e g CVA Parkinson"
+      ],
+      "retrieval_terms": [
+        "e g CVA Parkinson"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "e g paralysis",
+      "canonical_candidate": "e g paralysis",
+      "keyword_path": [
+        "Conditions",
+        "e g paralysis"
+      ],
+      "source_forms": [
+        "e g paralysis"
+      ],
+      "retrieval_terms": [
+        "e g paralysis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "e g paralysis amputation hip",
+      "canonical_candidate": "e g paralysis amputation hip",
+      "keyword_path": [
+        "Conditions",
+        "e g paralysis amputation hip"
+      ],
+      "source_forms": [
+        "e g paralysis amputation hip"
+      ],
+      "retrieval_terms": [
+        "e g paralysis amputation hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "failure",
+      "canonical_candidate": "failure",
+      "keyword_path": [
+        "Conditions",
+        "failure"
+      ],
+      "source_forms": [
+        "failure"
+      ],
+      "retrieval_terms": [
+        "failure"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000025"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "hemiplegia",
+      "canonical_candidate": "hemiplegia",
+      "keyword_path": [
+        "Conditions",
+        "hemiplegia"
+      ],
+      "source_forms": [
+        "hemiplegia"
+      ],
+      "retrieval_terms": [
+        "hemiplegia",
+        "haemiplegia"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000023",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "hip knee",
+      "canonical_candidate": "hip knee",
+      "keyword_path": [
+        "Conditions",
+        "hip knee"
+      ],
+      "source_forms": [
+        "hip knee"
+      ],
+      "retrieval_terms": [
+        "hip knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000024",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "injury",
+      "canonical_candidate": "injury",
+      "keyword_path": [
+        "Conditions",
+        "injury"
+      ],
+      "source_forms": [
+        "injury"
+      ],
+      "retrieval_terms": [
+        "injury"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000025",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "left hemiplegia",
+      "canonical_candidate": "left hemiplegia",
+      "keyword_path": [
+        "Conditions",
+        "left hemiplegia"
+      ],
+      "source_forms": [
+        "left hemiplegia"
+      ],
+      "retrieval_terms": [
+        "left hemiplegia",
+        "left haemiplegia"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "left posterior pelvis",
+      "canonical_candidate": "left posterior pelvis",
+      "keyword_path": [
+        "Conditions",
+        "left posterior pelvis"
+      ],
+      "source_forms": [
+        "left posterior pelvis"
+      ],
+      "retrieval_terms": [
+        "left posterior pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000027",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "low back dysfunction",
+      "canonical_candidate": "low back dysfunction",
+      "keyword_path": [
+        "Conditions",
+        "low back dysfunction"
+      ],
+      "source_forms": [
+        "low back dysfunction"
+      ],
+      "retrieval_terms": [
+        "low back dysfunction"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000028",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "lumbar spine",
+      "canonical_candidate": "lumbar spine",
+      "keyword_path": [
+        "Conditions",
+        "lumbar spine"
+      ],
+      "source_forms": [
+        "lumbar spine"
+      ],
+      "retrieval_terms": [
+        "lumbar spine"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "paralysis",
+      "canonical_candidate": "paralysis",
+      "keyword_path": [
+        "Conditions",
+        "paralysis"
+      ],
+      "source_forms": [
+        "paralysis"
+      ],
+      "retrieval_terms": [
+        "paralysis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000030",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Parkinson",
+      "canonical_candidate": "Parkinson",
+      "keyword_path": [
+        "Conditions",
+        "Parkinson"
+      ],
+      "source_forms": [
+        "Parkinson"
+      ],
+      "retrieval_terms": [
+        "Parkinson"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000031",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "prosthetic hip",
+      "canonical_candidate": "prosthetic hip",
+      "keyword_path": [
+        "Conditions",
+        "prosthetic hip"
+      ],
+      "source_forms": [
+        "prosthetic hip"
+      ],
+      "retrieval_terms": [
+        "prosthetic hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000032",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "right side Keep right hip",
+      "canonical_candidate": "right side Keep right hip",
+      "keyword_path": [
+        "Conditions",
+        "right side Keep right hip"
+      ],
+      "source_forms": [
+        "right side Keep right hip"
+      ],
+      "retrieval_terms": [
+        "right side Keep right hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000033",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "right side Keep right hip knee",
+      "canonical_candidate": "right side Keep right hip knee",
+      "keyword_path": [
+        "Conditions",
+        "right side Keep right hip knee"
+      ],
+      "source_forms": [
+        "right side Keep right hip knee"
+      ],
+      "retrieval_terms": [
+        "right side Keep right hip knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000034",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "straightening extending hip",
+      "canonical_candidate": "straightening extending hip",
+      "keyword_path": [
+        "Conditions",
+        "straightening extending hip"
+      ],
+      "source_forms": [
+        "straightening extending hip"
+      ],
+      "retrieval_terms": [
+        "straightening extending hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000035",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "straightening extending hip knee",
+      "canonical_candidate": "straightening extending hip knee",
+      "keyword_path": [
+        "Conditions",
+        "straightening extending hip knee"
+      ],
+      "source_forms": [
+        "straightening extending hip knee"
+      ],
+      "retrieval_terms": [
+        "straightening extending hip knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000036",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "stroke",
+      "canonical_candidate": "stroke",
+      "keyword_path": [
+        "Conditions",
+        "stroke"
+      ],
+      "source_forms": [
+        "stroke"
+      ],
+      "retrieval_terms": [
+        "stroke"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000037",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AMA",
+      "canonical_candidate": "AMA",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AMA"
+      ],
+      "source_forms": [
+        "AMA"
+      ],
+      "retrieval_terms": [
+        "AMA"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000038",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "COPD",
+      "canonical_candidate": "COPD",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "COPD"
+      ],
+      "source_forms": [
+        "COPD"
+      ],
+      "retrieval_terms": [
+        "COPD"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000039",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CVA",
+      "canonical_candidate": "CVA",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CVA"
+      ],
+      "source_forms": [
+        "CVA"
+      ],
+      "retrieval_terms": [
+        "CVA"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000040",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "FWB",
+      "canonical_candidate": "FWB",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "FWB"
+      ],
+      "source_forms": [
+        "FWB"
+      ],
+      "retrieval_terms": [
+        "FWB"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047",
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049",
+        "HHS4867-O-00000050"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000041",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HAS4867",
+      "canonical_candidate": "HAS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HAS4867"
+      ],
+      "source_forms": [
+        "HAS4867"
+      ],
+      "retrieval_terms": [
+        "HAS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051",
+        "HHS4867-O-00000052",
+        "HHS4867-O-00000053"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000042",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HAS4867 Functional",
+      "canonical_candidate": "HAS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HAS4867 Functional"
+      ],
+      "source_forms": [
+        "HAS4867 Functional"
+      ],
+      "retrieval_terms": [
+        "HAS4867 Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054",
+        "HHS4867-O-00000055",
+        "HHS4867-O-00000056"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000043",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867",
+      "canonical_candidate": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_forms": [
+        "HHS4867"
+      ],
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057",
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059",
+        "HHS4867-O-00000060",
+        "HHS4867-O-00000061",
+        "HHS4867-O-00000062",
+        "HHS4867-O-00000063"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000044",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867 Functional",
+      "canonical_candidate": "HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867 Functional"
+      ],
+      "source_forms": [
+        "HHS4867 Functional"
+      ],
+      "retrieval_terms": [
+        "HHS4867 Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000064",
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067",
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069",
+        "HHS4867-O-00000070"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000045",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867 Functional Movement Science Ambulation Transfer",
+      "canonical_candidate": "HHS4867 Functional Movement Science Ambulation Transfer",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867 Functional Movement Science Ambulation Transfer"
+      ],
+      "source_forms": [
+        "HHS4867 Functional Movement Science Ambulation Transfer"
+      ],
+      "retrieval_terms": [
+        "HHS4867 Functional Movement Science Ambulation Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000071"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000046",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "III",
+      "canonical_candidate": "III",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "III"
+      ],
+      "source_forms": [
+        "III"
+      ],
+      "retrieval_terms": [
+        "III"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000047",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "NWB",
+      "canonical_candidate": "NWB",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "NWB"
+      ],
+      "source_forms": [
+        "NWB"
+      ],
+      "retrieval_terms": [
+        "NWB"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073",
+        "HHS4867-O-00000074",
+        "HHS4867-O-00000075",
+        "HHS4867-O-00000076"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000048",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "PWB",
+      "canonical_candidate": "PWB",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "PWB"
+      ],
+      "source_forms": [
+        "PWB"
+      ],
+      "retrieval_terms": [
+        "PWB"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000049",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "THR",
+      "canonical_candidate": "THR",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "THR"
+      ],
+      "source_forms": [
+        "THR"
+      ],
+      "retrieval_terms": [
+        "THR"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000080"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000050",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "e g paralysis amputation hip surgery",
+      "canonical_candidate": "e g paralysis amputation hip surgery",
+      "keyword_path": [
+        "Management and treatment",
+        "e g paralysis amputation hip surgery"
+      ],
+      "source_forms": [
+        "e g paralysis amputation hip surgery"
+      ],
+      "retrieval_terms": [
+        "e g paralysis amputation hip surgery"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000081"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000051",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "surgery",
+      "canonical_candidate": "surgery",
+      "keyword_path": [
+        "Management and treatment",
+        "surgery"
+      ],
+      "source_forms": [
+        "surgery"
+      ],
+      "retrieval_terms": [
+        "surgery"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000082"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000052",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities",
+      "canonical_candidate": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_forms": [
+        "activities"
+      ],
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000053",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "affected LL Fig Modified point gait",
+      "canonical_candidate": "affected LL Fig Modified point gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "affected LL Fig Modified point gait"
+      ],
+      "source_forms": [
+        "affected LL Fig Modified point gait"
+      ],
+      "retrieval_terms": [
+        "affected LL Fig Modified point gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000084"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000054",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "aids Bed mobility",
+      "canonical_candidate": "aids Bed mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "aids Bed mobility"
+      ],
+      "source_forms": [
+        "aids Bed mobility"
+      ],
+      "retrieval_terms": [
+        "aids Bed mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000085"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000055",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "aids Bed mobility Mobility",
+      "canonical_candidate": "aids Bed mobility Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "aids Bed mobility Mobility"
+      ],
+      "source_forms": [
+        "aids Bed mobility Mobility"
+      ],
+      "retrieval_terms": [
+        "aids Bed mobility Mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000086"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000056",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "aids Bed mobility Mobility activities",
+      "canonical_candidate": "aids Bed mobility Mobility activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "aids Bed mobility Mobility activities"
+      ],
+      "source_forms": [
+        "aids Bed mobility Mobility activities"
+      ],
+      "retrieval_terms": [
+        "aids Bed mobility Mobility activities",
+        "aids Bed mobility Mobility activity"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000087"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000057",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "aids Move walking",
+      "canonical_candidate": "aids Move walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "aids Move walking"
+      ],
+      "source_forms": [
+        "aids Move walking"
+      ],
+      "retrieval_terms": [
+        "aids Move walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000088"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000058",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "alter normal gait",
+      "canonical_candidate": "alter normal gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "alter normal gait"
+      ],
+      "source_forms": [
+        "alter normal gait"
+      ],
+      "retrieval_terms": [
+        "alter normal gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000089"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000059",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "ambulation",
+      "canonical_candidate": "ambulation",
+      "keyword_path": [
+        "Rehabilitation",
+        "ambulation"
+      ],
+      "source_forms": [
+        "ambulation"
+      ],
+      "retrieval_terms": [
+        "ambulation"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090",
+        "HHS4867-O-00000091",
+        "HHS4867-O-00000092"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000060",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "assistant Sitting transfer",
+      "canonical_candidate": "assistant Sitting transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "assistant Sitting transfer"
+      ],
+      "source_forms": [
+        "assistant Sitting transfer"
+      ],
+      "retrieval_terms": [
+        "assistant Sitting transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000093"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000061",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "balance",
+      "canonical_candidate": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_forms": [
+        "balance"
+      ],
+      "retrieval_terms": [
+        "balance"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000094",
+        "HHS4867-O-00000095",
+        "HHS4867-O-00000096"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000062",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "bed mobility",
+      "canonical_candidate": "bed mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "bed mobility"
+      ],
+      "source_forms": [
+        "bed mobility"
+      ],
+      "retrieval_terms": [
+        "bed mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000097"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000063",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "body strength",
+      "canonical_candidate": "body strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "body strength"
+      ],
+      "source_forms": [
+        "body strength"
+      ],
+      "retrieval_terms": [
+        "body strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000098"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000064",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Function",
+      "canonical_candidate": "Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Function"
+      ],
+      "source_forms": [
+        "Function"
+      ],
+      "retrieval_terms": [
+        "Function"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000099"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000100",
+        "HHS4867-O-00000101",
+        "HHS4867-O-00000102",
+        "HHS4867-O-00000103",
+        "HHS4867-O-00000104",
+        "HHS4867-O-00000105",
+        "HHS4867-O-00000106",
+        "HHS4867-O-00000107",
+        "HHS4867-O-00000108",
+        "HHS4867-O-00000109"
+      ],
+      "occurrence_count": 10,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000066",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "FWB Modified point FWB V Transfer",
+      "canonical_candidate": "FWB Modified point FWB V Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "FWB Modified point FWB V Transfer"
+      ],
+      "source_forms": [
+        "FWB Modified point FWB V Transfer"
+      ],
+      "retrieval_terms": [
+        "FWB Modified point FWB V Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000110"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000067",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "gait",
+      "canonical_candidate": "gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait"
+      ],
+      "source_forms": [
+        "gait"
+      ],
+      "retrieval_terms": [
+        "gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000111",
+        "HHS4867-O-00000112",
+        "HHS4867-O-00000113"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000068",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "g paralysis amputation hip surgery Strength",
+      "canonical_candidate": "g paralysis amputation hip surgery Strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "g paralysis amputation hip surgery Strength"
+      ],
+      "source_forms": [
+        "g paralysis amputation hip surgery Strength"
+      ],
+      "retrieval_terms": [
+        "g paralysis amputation hip surgery Strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000114"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000069",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "impaired balance",
+      "canonical_candidate": "impaired balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "impaired balance"
+      ],
+      "source_forms": [
+        "impaired balance"
+      ],
+      "retrieval_terms": [
+        "impaired balance"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000115"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000070",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "impaired balance e g stroke",
+      "canonical_candidate": "impaired balance e g stroke",
+      "keyword_path": [
+        "Rehabilitation",
+        "impaired balance e g stroke"
+      ],
+      "source_forms": [
+        "impaired balance e g stroke"
+      ],
+      "retrieval_terms": [
+        "impaired balance e g stroke"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000116"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000071",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "left posterior pelvis Transfer",
+      "canonical_candidate": "left posterior pelvis Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "left posterior pelvis Transfer"
+      ],
+      "source_forms": [
+        "left posterior pelvis Transfer"
+      ],
+      "retrieval_terms": [
+        "left posterior pelvis Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000117"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000072",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "mobility",
+      "canonical_candidate": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_forms": [
+        "mobility"
+      ],
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000118"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000073",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "modified point gait",
+      "canonical_candidate": "modified point gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "modified point gait"
+      ],
+      "source_forms": [
+        "modified point gait"
+      ],
+      "retrieval_terms": [
+        "modified point gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000119"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000074",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "perform Bed mobility",
+      "canonical_candidate": "perform Bed mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "perform Bed mobility"
+      ],
+      "source_forms": [
+        "perform Bed mobility"
+      ],
+      "retrieval_terms": [
+        "perform Bed mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000120"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000075",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "perform Bed mobility Transfer",
+      "canonical_candidate": "perform Bed mobility Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "perform Bed mobility Transfer"
+      ],
+      "source_forms": [
+        "perform Bed mobility Transfer"
+      ],
+      "retrieval_terms": [
+        "perform Bed mobility Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000121"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000076",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "perform Bed mobility Transfer activities",
+      "canonical_candidate": "perform Bed mobility Transfer activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "perform Bed mobility Transfer activities"
+      ],
+      "source_forms": [
+        "perform Bed mobility Transfer activities"
+      ],
+      "retrieval_terms": [
+        "perform Bed mobility Transfer activities",
+        "perform Bed mobility Transfer activity"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000122"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000077",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "stairs Require good standing balance",
+      "canonical_candidate": "stairs Require good standing balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "stairs Require good standing balance"
+      ],
+      "source_forms": [
+        "stairs Require good standing balance"
+      ],
+      "retrieval_terms": [
+        "stairs Require good standing balance"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000123"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000078",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Strength",
+      "canonical_candidate": "Strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "Strength"
+      ],
+      "source_forms": [
+        "Strength",
+        "strength"
+      ],
+      "retrieval_terms": [
+        "Strength",
+        "strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000124",
+        "HHS4867-O-00000125"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000079",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Transfer",
+      "canonical_candidate": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_forms": [
+        "Transfer",
+        "transfer"
+      ],
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000126",
+        "HHS4867-O-00000127",
+        "HHS4867-O-00000128",
+        "HHS4867-O-00000129",
+        "HHS4867-O-00000130"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000080",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "transfer Standing transfer",
+      "canonical_candidate": "transfer Standing transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer Standing transfer"
+      ],
+      "source_forms": [
+        "transfer Standing transfer"
+      ],
+      "retrieval_terms": [
+        "transfer Standing transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000131"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000081",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "walking",
+      "canonical_candidate": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_forms": [
+        "walking"
+      ],
+      "retrieval_terms": [
+        "walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000132"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000082",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "walking aid",
+      "canonical_candidate": "walking aid",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking aid"
+      ],
+      "source_forms": [
+        "walking aid"
+      ],
+      "retrieval_terms": [
+        "walking aid"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000133"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000083",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "bear weight",
+      "canonical_candidate": "bear weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "bear weight"
+      ],
+      "source_forms": [
+        "bear weight"
+      ],
+      "retrieval_terms": [
+        "bear weight"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000134"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000084",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "hemiplegia i e left side weakness",
+      "canonical_candidate": "hemiplegia i e left side weakness",
+      "keyword_path": [
+        "Symptoms and signs",
+        "hemiplegia i e left side weakness"
+      ],
+      "source_forms": [
+        "hemiplegia i e left side weakness"
+      ],
+      "retrieval_terms": [
+        "hemiplegia i e left side weakness",
+        "haemiplegia i e left side weakness"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000135"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000085",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "Move affected leg forward Bear weight",
+      "canonical_candidate": "Move affected leg forward Bear weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Move affected leg forward Bear weight"
+      ],
+      "source_forms": [
+        "Move affected leg forward Bear weight"
+      ],
+      "retrieval_terms": [
+        "Move affected leg forward Bear weight"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000136"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000086",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "Pain",
+      "canonical_candidate": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_forms": [
+        "Pain"
+      ],
+      "retrieval_terms": [
+        "Pain"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000137"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000087",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "weakness",
+      "canonical_candidate": "weakness",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weakness"
+      ],
+      "source_forms": [
+        "weakness"
+      ],
+      "retrieval_terms": [
+        "weakness"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000138"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000088",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "Weight",
+      "canonical_candidate": "Weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Weight"
+      ],
+      "source_forms": [
+        "Weight",
+        "weight"
+      ],
+      "retrieval_terms": [
+        "Weight",
+        "weight"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000139",
+        "HHS4867-O-00000140",
+        "HHS4867-O-00000141"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000089",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Lecture 1 - Ambulation & Transfer visual",
+      "canonical_candidate": "Lecture 1 - Ambulation & Transfer visual",
+      "keyword_path": [
+        "visual",
+        "Lecture 1 - Ambulation & Transfer visual"
+      ],
+      "source_forms": [
+        "Lecture 1 - Ambulation & Transfer visual"
+      ],
+      "retrieval_terms": [
+        "Lecture 1 - Ambulation & Transfer visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000142"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000090",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 10 visual",
+      "canonical_candidate": "Slide 10 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 10 visual"
+      ],
+      "source_forms": [
+        "Slide 10 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 10 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000143"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000091",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 2 visual",
+      "canonical_candidate": "Slide 2 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 2 visual"
+      ],
+      "source_forms": [
+        "Slide 2 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 2 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000144"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000092",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 3 visual",
+      "canonical_candidate": "Slide 3 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 3 visual"
+      ],
+      "source_forms": [
+        "Slide 3 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 3 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000145"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000093",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 4 visual",
+      "canonical_candidate": "Slide 4 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 4 visual"
+      ],
+      "source_forms": [
+        "Slide 4 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 4 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000146",
+        "HHS4867-O-00000147"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000094",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 5 visual",
+      "canonical_candidate": "Slide 5 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 5 visual"
+      ],
+      "source_forms": [
+        "Slide 5 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 5 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000148",
+        "HHS4867-O-00000149",
+        "HHS4867-O-00000150",
+        "HHS4867-O-00000151",
+        "HHS4867-O-00000152",
+        "HHS4867-O-00000153",
+        "HHS4867-O-00000154",
+        "HHS4867-O-00000155"
+      ],
+      "occurrence_count": 8,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000095",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 6 visual",
+      "canonical_candidate": "Slide 6 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 6 visual"
+      ],
+      "source_forms": [
+        "Slide 6 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 6 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000156",
+        "HHS4867-O-00000157"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000096",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 7 visual",
+      "canonical_candidate": "Slide 7 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 7 visual"
+      ],
+      "source_forms": [
+        "Slide 7 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 7 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000158",
+        "HHS4867-O-00000159",
+        "HHS4867-O-00000160",
+        "HHS4867-O-00000161"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000097",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 8 visual",
+      "canonical_candidate": "Slide 8 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 8 visual"
+      ],
+      "source_forms": [
+        "Slide 8 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 8 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000162",
+        "HHS4867-O-00000163",
+        "HHS4867-O-00000164",
+        "HHS4867-O-00000165",
+        "HHS4867-O-00000166"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000098",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Slide 9 visual",
+      "canonical_candidate": "Slide 9 visual",
+      "keyword_path": [
+        "visual",
+        "Slide 9 visual"
+      ],
+      "source_forms": [
+        "Slide 9 visual"
+      ],
+      "retrieval_terms": [
+        "Slide 9 visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000167",
+        "HHS4867-O-00000168",
+        "HHS4867-O-00000169"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 98,
+    "occurrences": 169
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,1372 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "Activities",
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049",
+        "HHS4185-O-00000050",
+        "HHS4185-O-00000051"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "activity": {
+      "display_forms": [
+        "Activity",
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049",
+        "HHS4185-O-00000050",
+        "HHS4185-O-00000051"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "activityparticipation": {
+      "display_forms": [
+        "activity participation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "afo": {
+      "display_forms": [
+        "AFO"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000020"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "aidsanklefootorthosisafostumpmanagement": {
+      "display_forms": [
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000041"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "arthritis": {
+      "display_forms": [
+        "Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000008"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "as114206": {
+      "display_forms": [
+        "AS114206"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000021"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "as114206higherdiploma": {
+      "display_forms": [
+        "AS114206 Higher Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000022"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "ay2627": {
+      "display_forms": [
+        "AY2627"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000023"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "blood": {
+      "display_forms": [
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000037"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "bodyfunction": {
+      "display_forms": [
+        "body function"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "chronicdiseasesegpain": {
+      "display_forms": [
+        "chronic diseases e g pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "chronicdiseasesegpainmanagement": {
+      "display_forms": [
+        "chronic diseases e g pain management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000042"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "dag2d1": {
+      "display_forms": [
+        "dag2d1"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000024"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "diabete": {
+      "display_forms": [
+        "diabete"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "diabetes": {
+      "display_forms": [
+        "diabetes"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "diploma": {
+      "display_forms": [
+        "Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000010"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "disability": {
+      "display_forms": [
+        "Disability",
+        "disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000054",
+        "HHS4185-O-00000055"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "diseasesegpainmanagementdiabete": {
+      "display_forms": [
+        "diseases e g pain management diabete"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "diseasesegpainmanagementdiabetes": {
+      "display_forms": [
+        "diseases e g pain management diabetes"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "eyechurchsocialgatheringearnerve": {
+      "display_forms": [
+        "eye church social gathering ear nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000011"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "function": {
+      "display_forms": [
+        "function"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000056"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functional": {
+      "display_forms": [
+        "functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000057",
+        "HHS4185-O-00000058"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionalactivities": {
+      "display_forms": [
+        "functional activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000059"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionalactivitiesegwheelchairwalking": {
+      "display_forms": [
+        "functional activities e g wheelchair walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000060"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionalactivity": {
+      "display_forms": [
+        "functional activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000059"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functioningactivities": {
+      "display_forms": [
+        "functioning activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functioningactivity": {
+      "display_forms": [
+        "functioning activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functioningdisability": {
+      "display_forms": [
+        "Functioning Disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000062",
+        "HHS4185-O-00000063"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsdailyactivities": {
+      "display_forms": [
+        "functions daily activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000064"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsdailyactivity": {
+      "display_forms": [
+        "functions daily activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000064"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsegdecreasemuscle": {
+      "display_forms": [
+        "functions e g decrease muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000012"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsegdecreasemusclestrength": {
+      "display_forms": [
+        "functions e g decrease muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000065"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsegsensoryfunctionsmobility": {
+      "display_forms": [
+        "functions e g sensory functions mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000066"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "functionsmobilitycommunicationspeechfunctionsparticipation": {
+      "display_forms": [
+        "functions mobility communication speech functions Participation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000067"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "genetic": {
+      "display_forms": [
+        "genetic"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000038"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "gwheelchairwalkingaidsanklefootorthosis": {
+      "display_forms": [
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000068"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "handjointsrheumatoidarthritis": {
+      "display_forms": [
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "healthcarerehabilitation": {
+      "display_forms": [
+        "Healthcare Rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000069"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "hhs4185": {
+      "display_forms": [
+        "HHS4185"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000025"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "hhs4185j": {
+      "display_forms": [
+        "HHS4185J"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000026"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "hip": {
+      "display_forms": [
+        "hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001",
+        "HHS4185-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "icf": {
+      "display_forms": [
+        "ICF"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027",
+        "HHS4185-O-00000028",
+        "HHS4185-O-00000029",
+        "HHS4185-O-00000030",
+        "HHS4185-O-00000031",
+        "HHS4185-O-00000032"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "icfbodyfunctionsphysiologicalfunctionsactivities": {
+      "display_forms": [
+        "ICF Body functions physiological functions Activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "icfbodyfunctionsphysiologicalfunctionsactivity": {
+      "display_forms": [
+        "ICF Body functions physiological functions Activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "icffunctional": {
+      "display_forms": [
+        "ICF functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "knee": {
+      "display_forms": [
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000003",
+        "HHS4185-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "kneeegimproveactiverange": {
+      "display_forms": [
+        "knee e g improve active range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000072"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "leftknee": {
+      "display_forms": [
+        "left knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000014"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "leftkneeegdecreaserange": {
+      "display_forms": [
+        "left knee E g decrease range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000073"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "leftshoulderegfairwalking": {
+      "display_forms": [
+        "left shoulder e g fair walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000074"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "limbegdecreaseactiverange": {
+      "display_forms": [
+        "limb e g decrease active range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000075"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "lowbackmuscleswasting": {
+      "display_forms": [
+        "low back muscles wasting"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000100"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "management": {
+      "display_forms": [
+        "management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000044"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "mobility": {
+      "display_forms": [
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076",
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "mtk3m": {
+      "display_forms": [
+        "MTk3M"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000005",
+        "HHS4185-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "nerve": {
+      "display_forms": [
+        "nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "orthosis": {
+      "display_forms": [
+        "orthosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000015"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "pain": {
+      "display_forms": [
+        "Pain",
+        "pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000101",
+        "HHS4185-O-00000102",
+        "HHS4185-O-00000103",
+        "HHS4185-O-00000104"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "participation": {
+      "display_forms": [
+        "Participation",
+        "participation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078",
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "physicalproblemsegpain": {
+      "display_forms": [
+        "physical problems E g pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "physicaltherapy": {
+      "display_forms": [
+        "physical therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000045"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "ppm77864": {
+      "display_forms": [
+        "ppm77864"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "purchasenecessarypain": {
+      "display_forms": [
+        "purchase necessary Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "range": {
+      "display_forms": [
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081",
+        "HHS4185-O-00000082",
+        "HHS4185-O-00000083"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084",
+        "HHS4185-O-00000085",
+        "HHS4185-O-00000086",
+        "HHS4185-O-00000087"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "righthip": {
+      "display_forms": [
+        "right hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000016"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "rightknee": {
+      "display_forms": [
+        "right knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000017"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "rightshoulderegdecreasemuscle": {
+      "display_forms": [
+        "right shoulder E g decrease muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000018"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "shorterperiodegdecreasepain": {
+      "display_forms": [
+        "shorter period e g decrease pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000107"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "shoulderegdecreasemusclestrength": {
+      "display_forms": [
+        "shoulder E g decrease muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000088"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "stixeghighlowblood": {
+      "display_forms": [
+        "stix e g high low blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000039"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "strength": {
+      "display_forms": [
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "structuresactivities": {
+      "display_forms": [
+        "structures activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000091"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "structuresactivitiesparticipation": {
+      "display_forms": [
+        "structures activities participation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000092"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "structuresactivity": {
+      "display_forms": [
+        "structures activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000091"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "surgery": {
+      "display_forms": [
+        "surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000046"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "texmteylje3nte5ndgymtgumtcxntkynjayns4xnzuxotq4mji4lje3nte5n": {
+      "display_forms": [
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000035"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "therapy": {
+      "display_forms": [
+        "therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000047"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "thr": {
+      "display_forms": [
+        "THR"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000036"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "totalhip": {
+      "display_forms": [
+        "total hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000019"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "totalhipreplacementthrtransfer": {
+      "display_forms": [
+        "total hip replacement THR Transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000093"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "totalhipreplacementthrtransfermobility": {
+      "display_forms": [
+        "total hip replacement THR Transfer mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000094"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "transfer": {
+      "display_forms": [
+        "Transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000095"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "virusbacteriagenetic": {
+      "display_forms": [
+        "virus bacteria genetic"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000040"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "walking": {
+      "display_forms": [
+        "walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097",
+        "HHS4185-O-00000098"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    "wasting": {
+      "display_forms": [
+        "wasting"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000108"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-T1-ICF-2026"
+    }
+  },
+  "counts": {
+    "terms": 88,
+    "concepts_referenced": 80,
+    "occurrences_referenced": 108
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-T1-ICF-2026"
+}

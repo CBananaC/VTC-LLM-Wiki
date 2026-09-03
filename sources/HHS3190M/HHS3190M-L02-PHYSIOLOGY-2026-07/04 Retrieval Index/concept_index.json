@@ -1,0 +1,2080 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS3190M",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS3190M-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "brain",
+      "canonical_candidate": "brain",
+      "keyword_path": [
+        "Anatomy",
+        "brain"
+      ],
+      "source_forms": [
+        "brain"
+      ],
+      "retrieval_terms": [
+        "brain"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "liver",
+      "canonical_candidate": "liver",
+      "keyword_path": [
+        "Anatomy",
+        "liver"
+      ],
+      "source_forms": [
+        "liver"
+      ],
+      "retrieval_terms": [
+        "liver"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000002"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "muscle",
+      "canonical_candidate": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_forms": [
+        "muscle",
+        "Muscle"
+      ],
+      "retrieval_terms": [
+        "muscle",
+        "Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000003",
+        "HHS3190M-O-00000004",
+        "HHS3190M-O-00000005",
+        "HHS3190M-O-00000006"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "nerve",
+      "canonical_candidate": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_forms": [
+        "nerve"
+      ],
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "spinal",
+      "canonical_candidate": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_forms": [
+        "spinal"
+      ],
+      "retrieval_terms": [
+        "spinal"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000008"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "conduct nerve",
+      "canonical_candidate": "conduct nerve",
+      "keyword_path": [
+        "Conditions",
+        "conduct nerve"
+      ],
+      "source_forms": [
+        "conduct nerve"
+      ],
+      "retrieval_terms": [
+        "conduct nerve"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Epithelial tissue Connective tissue Muscle",
+      "canonical_candidate": "Epithelial tissue Connective tissue Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Epithelial tissue Connective tissue Muscle"
+      ],
+      "source_forms": [
+        "Epithelial tissue Connective tissue Muscle"
+      ],
+      "retrieval_terms": [
+        "Epithelial tissue Connective tissue Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Human Body Muscle",
+      "canonical_candidate": "Human Body Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Human Body Muscle"
+      ],
+      "source_forms": [
+        "Human Body Muscle"
+      ],
+      "retrieval_terms": [
+        "Human Body Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "movement Muscle",
+      "canonical_candidate": "movement Muscle",
+      "keyword_path": [
+        "Conditions",
+        "movement Muscle"
+      ],
+      "source_forms": [
+        "movement Muscle"
+      ],
+      "retrieval_terms": [
+        "movement Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "muscle tissues Skeletal muscle",
+      "canonical_candidate": "muscle tissues Skeletal muscle",
+      "keyword_path": [
+        "Conditions",
+        "muscle tissues Skeletal muscle"
+      ],
+      "source_forms": [
+        "muscle tissues Skeletal muscle"
+      ],
+      "retrieval_terms": [
+        "muscle tissues Skeletal muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nervous system brain",
+      "canonical_candidate": "nervous system brain",
+      "keyword_path": [
+        "Conditions",
+        "nervous system brain"
+      ],
+      "source_forms": [
+        "nervous system brain"
+      ],
+      "retrieval_terms": [
+        "nervous system brain"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000014"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nervous system brain spinal",
+      "canonical_candidate": "nervous system brain spinal",
+      "keyword_path": [
+        "Conditions",
+        "nervous system brain spinal"
+      ],
+      "source_forms": [
+        "nervous system brain spinal"
+      ],
+      "retrieval_terms": [
+        "nervous system brain spinal"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000015"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Neurons specialized nerve",
+      "canonical_candidate": "Neurons specialized nerve",
+      "keyword_path": [
+        "Conditions",
+        "Neurons specialized nerve"
+      ],
+      "source_forms": [
+        "Neurons specialized nerve"
+      ],
+      "retrieval_terms": [
+        "Neurons specialized nerve"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nucleus Skeletal muscle",
+      "canonical_candidate": "nucleus Skeletal muscle",
+      "keyword_path": [
+        "Conditions",
+        "nucleus Skeletal muscle"
+      ],
+      "source_forms": [
+        "nucleus Skeletal muscle"
+      ],
+      "retrieval_terms": [
+        "nucleus Skeletal muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "tissue Cardiac muscle tissue Smooth muscle",
+      "canonical_candidate": "tissue Cardiac muscle tissue Smooth muscle",
+      "keyword_path": [
+        "Conditions",
+        "tissue Cardiac muscle tissue Smooth muscle"
+      ],
+      "source_forms": [
+        "tissue Cardiac muscle tissue Smooth muscle"
+      ],
+      "retrieval_terms": [
+        "tissue Cardiac muscle tissue Smooth muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "tissues Skeletal muscle tissue Cardiac muscle",
+      "canonical_candidate": "tissues Skeletal muscle tissue Cardiac muscle",
+      "keyword_path": [
+        "Conditions",
+        "tissues Skeletal muscle tissue Cardiac muscle"
+      ],
+      "source_forms": [
+        "tissues Skeletal muscle tissue Cardiac muscle"
+      ],
+      "retrieval_terms": [
+        "tissues Skeletal muscle tissue Cardiac muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000017",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AY26-27",
+      "canonical_candidate": "AY26-27",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AY26-27"
+      ],
+      "source_forms": [
+        "AY26-27"
+      ],
+      "retrieval_terms": [
+        "AY26-27"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000020"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CBO9780511800160",
+      "canonical_candidate": "CBO9780511800160",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CBO9780511800160"
+      ],
+      "source_forms": [
+        "CBO9780511800160"
+      ],
+      "retrieval_terms": [
+        "CBO9780511800160"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000021"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "cell",
+      "canonical_candidate": "cell",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "cell"
+      ],
+      "source_forms": [
+        "cell"
+      ],
+      "retrieval_terms": [
+        "cell"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000022",
+        "HHS3190M-O-00000023",
+        "HHS3190M-O-00000024",
+        "HHS3190M-O-00000025",
+        "HHS3190M-O-00000026",
+        "HHS3190M-O-00000027",
+        "HHS3190M-O-00000028",
+        "HHS3190M-O-00000029",
+        "HHS3190M-O-00000030",
+        "HHS3190M-O-00000031",
+        "HHS3190M-O-00000032",
+        "HHS3190M-O-00000033",
+        "HHS3190M-O-00000034",
+        "HHS3190M-O-00000035",
+        "HHS3190M-O-00000036",
+        "HHS3190M-O-00000037",
+        "HHS3190M-O-00000038",
+        "HHS3190M-O-00000039",
+        "HHS3190M-O-00000040",
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042",
+        "HHS3190M-O-00000043"
+      ],
+      "occurrence_count": 22,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45",
+      "canonical_candidate": "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "source_forms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "retrieval_terms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "L2 Revision Exercise",
+      "canonical_candidate": "L2 Revision Exercise",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "L2 Revision Exercise"
+      ],
+      "source_forms": [
+        "L2 Revision Exercise"
+      ],
+      "retrieval_terms": [
+        "L2 Revision Exercise"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "org/10",
+      "canonical_candidate": "org/10",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "org/10"
+      ],
+      "source_forms": [
+        "org/10"
+      ],
+      "retrieval_terms": [
+        "org/10"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "organ",
+      "canonical_candidate": "organ",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "organ"
+      ],
+      "source_forms": [
+        "organ"
+      ],
+      "retrieval_terms": [
+        "organ"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000047",
+        "HHS3190M-O-00000048",
+        "HHS3190M-O-00000049",
+        "HHS3190M-O-00000050",
+        "HHS3190M-O-00000051",
+        "HHS3190M-O-00000052",
+        "HHS3190M-O-00000053",
+        "HHS3190M-O-00000054",
+        "HHS3190M-O-00000055",
+        "HHS3190M-O-00000056",
+        "HHS3190M-O-00000057",
+        "HHS3190M-O-00000058",
+        "HHS3190M-O-00000059",
+        "HHS3190M-O-00000060",
+        "HHS3190M-O-00000061",
+        "HHS3190M-O-00000062"
+      ],
+      "occurrence_count": 16,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "tissue",
+      "canonical_candidate": "tissue",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "tissue"
+      ],
+      "source_forms": [
+        "tissue"
+      ],
+      "retrieval_terms": [
+        "tissue"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000063",
+        "HHS3190M-O-00000064",
+        "HHS3190M-O-00000065",
+        "HHS3190M-O-00000066",
+        "HHS3190M-O-00000067",
+        "HHS3190M-O-00000068",
+        "HHS3190M-O-00000069",
+        "HHS3190M-O-00000070",
+        "HHS3190M-O-00000071",
+        "HHS3190M-O-00000072",
+        "HHS3190M-O-00000073",
+        "HHS3190M-O-00000074"
+      ],
+      "occurrence_count": 12,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000025",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "blood",
+      "canonical_candidate": "blood",
+      "keyword_path": [
+        "Investigations",
+        "blood"
+      ],
+      "source_forms": [
+        "blood",
+        "Blood"
+      ],
+      "retrieval_terms": [
+        "blood",
+        "Blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000075",
+        "HHS3190M-O-00000076",
+        "HHS3190M-O-00000077",
+        "HHS3190M-O-00000078"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000026",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "body cavity Blood",
+      "canonical_candidate": "body cavity Blood",
+      "keyword_path": [
+        "Investigations",
+        "body cavity Blood"
+      ],
+      "source_forms": [
+        "body cavity Blood"
+      ],
+      "retrieval_terms": [
+        "body cavity Blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000027",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "body parts Blood",
+      "canonical_candidate": "body parts Blood",
+      "keyword_path": [
+        "Investigations",
+        "body parts Blood"
+      ],
+      "source_forms": [
+        "body parts Blood"
+      ],
+      "retrieval_terms": [
+        "body parts Blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000080"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000028",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Connective tissue proper Cartilage Bone Blood",
+      "canonical_candidate": "Connective tissue proper Cartilage Bone Blood",
+      "keyword_path": [
+        "Investigations",
+        "Connective tissue proper Cartilage Bone Blood"
+      ],
+      "source_forms": [
+        "Connective tissue proper Cartilage Bone Blood"
+      ],
+      "retrieval_terms": [
+        "Connective tissue proper Cartilage Bone Blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000081"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000029",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "damaged organelles Nucleus Carry genetic",
+      "canonical_candidate": "damaged organelles Nucleus Carry genetic",
+      "keyword_path": [
+        "Investigations",
+        "damaged organelles Nucleus Carry genetic"
+      ],
+      "source_forms": [
+        "damaged organelles Nucleus Carry genetic"
+      ],
+      "retrieval_terms": [
+        "damaged organelles Nucleus Carry genetic"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000082"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000030",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "framework Vertebral column Bone Produce blood",
+      "canonical_candidate": "framework Vertebral column Bone Produce blood",
+      "keyword_path": [
+        "Investigations",
+        "framework Vertebral column Bone Produce blood"
+      ],
+      "source_forms": [
+        "framework Vertebral column Bone Produce blood"
+      ],
+      "retrieval_terms": [
+        "framework Vertebral column Bone Produce blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000031",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "genetic",
+      "canonical_candidate": "genetic",
+      "keyword_path": [
+        "Investigations",
+        "genetic"
+      ],
+      "source_forms": [
+        "genetic"
+      ],
+      "retrieval_terms": [
+        "genetic"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084",
+        "HHS3190M-O-00000085"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000032",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "multinucleate many nuclei Mature red blood",
+      "canonical_candidate": "multinucleate many nuclei Mature red blood",
+      "keyword_path": [
+        "Investigations",
+        "multinucleate many nuclei Mature red blood"
+      ],
+      "source_forms": [
+        "multinucleate many nuclei Mature red blood"
+      ],
+      "retrieval_terms": [
+        "multinucleate many nuclei Mature red blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000086"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000033",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "oral cavity blood",
+      "canonical_candidate": "oral cavity blood",
+      "keyword_path": [
+        "Investigations",
+        "oral cavity blood"
+      ],
+      "source_forms": [
+        "oral cavity blood"
+      ],
+      "retrieval_terms": [
+        "oral cavity blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000087"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000034",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "exercise",
+      "canonical_candidate": "exercise",
+      "keyword_path": [
+        "Management and treatment",
+        "exercise"
+      ],
+      "source_forms": [
+        "exercise"
+      ],
+      "retrieval_terms": [
+        "exercise"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000088"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000035",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "revision exercise",
+      "canonical_candidate": "revision exercise",
+      "keyword_path": [
+        "Management and treatment",
+        "revision exercise"
+      ],
+      "source_forms": [
+        "revision exercise"
+      ],
+      "retrieval_terms": [
+        "revision exercise"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000089"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000036",
+      "category": "medications",
+      "broad_area": "Medications",
+      "preferred_label": "Cholesterol",
+      "canonical_candidate": "Cholesterol",
+      "keyword_path": [
+        "Medications",
+        "Cholesterol"
+      ],
+      "source_forms": [
+        "Cholesterol"
+      ],
+      "retrieval_terms": [
+        "Cholesterol"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000090"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000037",
+      "category": "medications",
+      "broad_area": "Medications",
+      "preferred_label": "processing Smooth ER Cholesterol",
+      "canonical_candidate": "processing Smooth ER Cholesterol",
+      "keyword_path": [
+        "Medications",
+        "processing Smooth ER Cholesterol"
+      ],
+      "source_forms": [
+        "processing Smooth ER Cholesterol"
+      ],
+      "retrieval_terms": [
+        "processing Smooth ER Cholesterol"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000091"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000038",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities",
+      "canonical_candidate": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_forms": [
+        "activities"
+      ],
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000092"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000039",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "cell activities",
+      "canonical_candidate": "cell activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "cell activities"
+      ],
+      "source_forms": [
+        "cell activities"
+      ],
+      "retrieval_terms": [
+        "cell activities",
+        "cell activity"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000093"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Connective Tissue Examples Main Function",
+      "canonical_candidate": "Connective Tissue Examples Main Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Connective Tissue Examples Main Function"
+      ],
+      "source_forms": [
+        "Connective Tissue Examples Main Function"
+      ],
+      "retrieval_terms": [
+        "Connective Tissue Examples Main Function"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000094"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000041",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Function",
+      "canonical_candidate": "Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Function"
+      ],
+      "source_forms": [
+        "Function",
+        "function"
+      ],
+      "retrieval_terms": [
+        "Function",
+        "function"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096",
+        "HHS3190M-O-00000097"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000042",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functional",
+      "canonical_candidate": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_forms": [
+        "functional"
+      ],
+      "retrieval_terms": [
+        "functional"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000098"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Major Function",
+      "canonical_candidate": "Major Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Major Function"
+      ],
+      "source_forms": [
+        "Major Function"
+      ],
+      "retrieval_terms": [
+        "Major Function"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000099"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000044",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "related function",
+      "canonical_candidate": "related function",
+      "keyword_path": [
+        "Rehabilitation",
+        "related function"
+      ],
+      "source_forms": [
+        "related function"
+      ],
+      "retrieval_terms": [
+        "related function"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000100"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000045",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "cell membrane",
+      "canonical_candidate": "cell membrane",
+      "keyword_path": [
+        "Section topics",
+        "cell membrane"
+      ],
+      "source_forms": [
+        "cell membrane"
+      ],
+      "retrieval_terms": [
+        "cell membrane"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000101",
+        "HHS3190M-O-00000102",
+        "HHS3190M-O-00000103"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "connective tissue",
+      "canonical_candidate": "connective tissue",
+      "keyword_path": [
+        "Section topics",
+        "connective tissue"
+      ],
+      "source_forms": [
+        "connective tissue"
+      ],
+      "retrieval_terms": [
+        "connective tissue"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000104",
+        "HHS3190M-O-00000105",
+        "HHS3190M-O-00000106"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000047",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "cytosol",
+      "canonical_candidate": "cytosol",
+      "keyword_path": [
+        "Section topics",
+        "cytosol"
+      ],
+      "source_forms": [
+        "cytosol"
+      ],
+      "retrieval_terms": [
+        "cytosol"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000107"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000048",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "endoplasmic reticulum",
+      "canonical_candidate": "endoplasmic reticulum",
+      "keyword_path": [
+        "Section topics",
+        "endoplasmic reticulum"
+      ],
+      "source_forms": [
+        "endoplasmic reticulum"
+      ],
+      "retrieval_terms": [
+        "endoplasmic reticulum"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000108",
+        "HHS3190M-O-00000109"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000049",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "epithelial tissue",
+      "canonical_candidate": "epithelial tissue",
+      "keyword_path": [
+        "Section topics",
+        "epithelial tissue"
+      ],
+      "source_forms": [
+        "epithelial tissue"
+      ],
+      "retrieval_terms": [
+        "epithelial tissue"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000110",
+        "HHS3190M-O-00000111"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000050",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Golgi apparatus",
+      "canonical_candidate": "Golgi apparatus",
+      "keyword_path": [
+        "Section topics",
+        "Golgi apparatus"
+      ],
+      "source_forms": [
+        "Golgi apparatus"
+      ],
+      "retrieval_terms": [
+        "Golgi apparatus"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000112"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000051",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "lysosome",
+      "canonical_candidate": "lysosome",
+      "keyword_path": [
+        "Section topics",
+        "lysosome"
+      ],
+      "source_forms": [
+        "lysosome"
+      ],
+      "retrieval_terms": [
+        "lysosome"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000113",
+        "HHS3190M-O-00000114",
+        "HHS3190M-O-00000115",
+        "HHS3190M-O-00000116"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000052",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "mitochondria",
+      "canonical_candidate": "mitochondria",
+      "keyword_path": [
+        "Section topics",
+        "mitochondria"
+      ],
+      "source_forms": [
+        "mitochondria"
+      ],
+      "retrieval_terms": [
+        "mitochondria"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000117",
+        "HHS3190M-O-00000118"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000053",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "muscle tissue",
+      "canonical_candidate": "muscle tissue",
+      "keyword_path": [
+        "Section topics",
+        "muscle tissue"
+      ],
+      "source_forms": [
+        "muscle tissue"
+      ],
+      "retrieval_terms": [
+        "muscle tissue"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000119",
+        "HHS3190M-O-00000120"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000054",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "nervous tissue",
+      "canonical_candidate": "nervous tissue",
+      "keyword_path": [
+        "Section topics",
+        "nervous tissue"
+      ],
+      "source_forms": [
+        "nervous tissue"
+      ],
+      "retrieval_terms": [
+        "nervous tissue"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000121",
+        "HHS3190M-O-00000122"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000055",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "nucleus",
+      "canonical_candidate": "nucleus",
+      "keyword_path": [
+        "Section topics",
+        "nucleus"
+      ],
+      "source_forms": [
+        "nucleus"
+      ],
+      "retrieval_terms": [
+        "nucleus"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000123",
+        "HHS3190M-O-00000124",
+        "HHS3190M-O-00000125",
+        "HHS3190M-O-00000126",
+        "HHS3190M-O-00000127",
+        "HHS3190M-O-00000128"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000056",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "canonical_candidate": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Cell Organelles in a Typical Human Cell"
+      ],
+      "source_forms": [
+        "Visual associated with: Cell Organelles in a Typical Human Cell"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Cell Organelles in a Typical Human Cell"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000129",
+        "HHS3190M-O-00000130",
+        "HHS3190M-O-00000131",
+        "HHS3190M-O-00000132",
+        "HHS3190M-O-00000133"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000057",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: L2 Revision Exercise L2",
+      "canonical_candidate": "Visual associated with: L2 Revision Exercise L2",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: L2 Revision Exercise L2"
+      ],
+      "source_forms": [
+        "Visual associated with: L2 Revision Exercise L2"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: L2 Revision Exercise L2"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000134"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000058",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Primary Tissues in Human Body",
+      "canonical_candidate": "Visual associated with: Primary Tissues in Human Body",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Primary Tissues in Human Body"
+      ],
+      "source_forms": [
+        "Visual associated with: Primary Tissues in Human Body"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Primary Tissues in Human Body"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000135",
+        "HHS3190M-O-00000136",
+        "HHS3190M-O-00000137"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000059",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: (Sem 1 AY26-27",
+      "canonical_candidate": "Visual associated with: (Sem 1 AY26-27",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: (Sem 1 AY26-27"
+      ],
+      "source_forms": [
+        "Visual associated with: (Sem 1 AY26-27"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: (Sem 1 AY26-27"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000138"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000060",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Simple epithelium",
+      "canonical_candidate": "Visual associated with: Simple epithelium",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Simple epithelium"
+      ],
+      "source_forms": [
+        "Visual associated with: Simple epithelium"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Simple epithelium"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000139",
+        "HHS3190M-O-00000140",
+        "HHS3190M-O-00000141",
+        "HHS3190M-O-00000142",
+        "HHS3190M-O-00000143",
+        "HHS3190M-O-00000144"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000061",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Slide 25",
+      "canonical_candidate": "Visual associated with: Slide 25",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Slide 25"
+      ],
+      "source_forms": [
+        "Visual associated with: Slide 25"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Slide 25"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000145",
+        "HHS3190M-O-00000146",
+        "HHS3190M-O-00000147",
+        "HHS3190M-O-00000148",
+        "HHS3190M-O-00000149",
+        "HHS3190M-O-00000150",
+        "HHS3190M-O-00000151"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000062",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Slide 28",
+      "canonical_candidate": "Visual associated with: Slide 28",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Slide 28"
+      ],
+      "source_forms": [
+        "Visual associated with: Slide 28"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Slide 28"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000152"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000063",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Slide 5",
+      "canonical_candidate": "Visual associated with: Slide 5",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Slide 5"
+      ],
+      "source_forms": [
+        "Visual associated with: Slide 5"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Slide 5"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000153"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000064",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Visual associated with: Typical Human Cell",
+      "canonical_candidate": "Visual associated with: Typical Human Cell",
+      "keyword_path": [
+        "visual",
+        "Visual associated with: Typical Human Cell"
+      ],
+      "source_forms": [
+        "Visual associated with: Typical Human Cell"
+      ],
+      "retrieval_terms": [
+        "Visual associated with: Typical Human Cell"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000154",
+        "HHS3190M-O-00000155",
+        "HHS3190M-O-00000156"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 64,
+    "occurrences": 156
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

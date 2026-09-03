@@ -1,0 +1,366 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "III",
+      "canonical_candidate": "III",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "III"
+      ],
+      "source_forms": [
+        "III"
+      ],
+      "retrieval_terms": [
+        "III"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "VII",
+      "canonical_candidate": "VII",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "VII"
+      ],
+      "source_forms": [
+        "VII"
+      ],
+      "retrieval_terms": [
+        "VII"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "Modified Functional Ambulation Categories",
+      "canonical_candidate": "Modified Functional Ambulation Categories",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "Modified Functional Ambulation Categories"
+      ],
+      "source_forms": [
+        "Modified Functional Ambulation Categories"
+      ],
+      "retrieval_terms": [
+        "Modified Functional Ambulation Categories",
+        "Modified Functional Ambulation Category"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "ambulation",
+      "canonical_candidate": "ambulation",
+      "keyword_path": [
+        "Rehabilitation",
+        "ambulation"
+      ],
+      "source_forms": [
+        "ambulation"
+      ],
+      "retrieval_terms": [
+        "ambulation"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "ground VI Indoor walker Transfer",
+      "canonical_candidate": "ground VI Indoor walker Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "ground VI Indoor walker Transfer"
+      ],
+      "source_forms": [
+        "ground VI Indoor walker Transfer"
+      ],
+      "retrieval_terms": [
+        "ground VI Indoor walker Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Modified Functional",
+      "canonical_candidate": "Modified Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Modified Functional"
+      ],
+      "source_forms": [
+        "Modified Functional"
+      ],
+      "retrieval_terms": [
+        "Modified Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Transfer",
+      "canonical_candidate": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_forms": [
+        "Transfer"
+      ],
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "body weight",
+      "canonical_candidate": "body weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "body weight"
+      ],
+      "source_forms": [
+        "body weight"
+      ],
+      "retrieval_terms": [
+        "body weight"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "weight",
+      "canonical_candidate": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_forms": [
+        "weight"
+      ],
+      "retrieval_terms": [
+        "weight"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "canonical_candidate": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "keyword_path": [
+        "visual",
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories"
+      ],
+      "source_forms": [
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories"
+      ],
+      "retrieval_terms": [
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Category"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 11,
+    "occurrences": 17
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-MFAC",
+  "source": {
+    "filename": "10 - 4. Modified Functional Ambulation Categories.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L04-MFAC/00 Source/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "sha256": "sha256:c1d4cafdbdfd5ca8c761bf39565769b1450147db5d8c26e06580d5ff0099cf2f",
+    "size_bytes": 116398,
+    "pdf_page_count": 1,
+    "pdfinfo": {
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "CreationDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "ModDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "no",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 1,
+      "Encrypted": "no",
+      "Page size": "594.96 x 842.04 pts (A4)",
+      "Page rot": "0",
+      "File size": 116398,
+      "Optimized": "no",
+      "PDF version": "1.5"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L04-MFAC-VIS-P0001-T01",
+      "table_id": "HHS4867-L04-MFAC-TBL-P0001-C01",
+      "document_id": "HHS4867-L04-MFAC",
+      "source_page_id": "HHS4867-L04-MFAC-P0001",
+      "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "table",
+      "name": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          89.325,
+          102.904,
+          505.909,
+          360.962
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../02 Text and Tables/hhs4867_l04_mfac_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-MFAC-P0001",
+        "document_id": "HHS4867-L04-MFAC",
+        "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+        "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Modified Functional Ambulation Categories",
+          "Lecture 4 - Modified Functional Ambulation Categories",
+          "Lecture 4 - Modified Functional Ambulation Categories"
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "visuals": 1,
+    "tables": 1,
+    "non_table_visuals": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

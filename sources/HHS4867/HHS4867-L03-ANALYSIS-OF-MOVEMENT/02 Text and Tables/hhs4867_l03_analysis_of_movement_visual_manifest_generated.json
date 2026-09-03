@@ -1,0 +1,430 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+  "source": {
+    "filename": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT/00 Source/07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "sha256": "sha256:b27d5b536e86147999c4372ca0ae004723482b49c595f4fc7ab67ce305d13c3c",
+    "pdf_page_count": 27,
+    "pdfinfo": {
+      "Title": "The Mechanics of Movement",
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:51:08 2026 HKT",
+      "ModDate": "Thu Aug 27 11:51:08 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 27,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1031028,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Effects of adding/removing weights on shifting the CG visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          80.88,
+          137.28,
+          647.88,
+          527.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Biomechanical aspects of human movement",
+          "Effects of adding/removing weights on shifting the CG"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Levers (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          49.32,
+          24.0,
+          669.48,
+          520.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Biomechanical aspects of human movement",
+          "Levers (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Moment = Force (N) x Distance (m) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          30.0,
+          174.0,
+          702.0,
+          420.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Biomechanical aspects of human movement",
+          "Moment = Force (N) x Distance (m)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Poor Body Mechanics visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          380.76,
+          59.88,
+          699.0,
+          454.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Proper body mechanics and force direction",
+          "Poor Body Mechanics"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Better Body Mechanics visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          21.12,
+          54.0,
+          338.52,
+          474.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Proper body mechanics and force direction",
+          "Better Body Mechanics"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Positioning for stability visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          25.44,
+          90.72,
+          332.04,
+          509.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Proper body mechanics and force direction",
+          "Positioning for stability"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Directing Forces by Blocking the knees (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          72.0,
+          136.68,
+          660.0,
+          535.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+        "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "document_title": "Lecture 3 - Analysis of Movement",
+        "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Analysis of Movement",
+          "Proper body mechanics and force direction",
+          "Directing Forces by Blocking the knees (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 7,
+    "tables": 0,
+    "non_table_visuals": 7
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

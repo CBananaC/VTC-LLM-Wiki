@@ -1,0 +1,43 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+  "source": {
+    "filename": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+    "path": "/Users/creamybanana/Downloads/Physiology & Anatomy/02 Lectures/11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+    "sha256": "sha256:3f4e2f17aebfc826d44771110fa5c2d545dd0bbae67454c0a655ea3a37adf361",
+    "pdf_page_count": 45,
+    "pdfinfo": {
+      "Title": "HAS3897M Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "Author": "TSANG HIU YAN",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Fri Jul 31 14:42:42 2026 HKT",
+      "ModDate": "Fri Jul 31 14:42:42 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 45,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 1800301,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,1502 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0001-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: (Sem 1 AY26-27",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          150.36,
+          236.04,
+          809.46,
+          315.54
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Cover and Outline",
+          "(Sem 1 AY26-27"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0003-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Visual associated with: Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          625.8,
+          379.68,
+          922.8,
+          493.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Human cells: structure and basic properties",
+          "Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Visual associated with: Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          68.28,
+          355.08,
+          357.72,
+          493.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Human cells: structure and basic properties",
+          "Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0003-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Visual associated with: Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          362.04,
+          379.68,
+          621.36,
+          493.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Human cells: structure and basic properties",
+          "Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          178.8,
+          84.12,
+          787.08,
+          513.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Human cells: structure and basic properties",
+          "Cell Organelles in a Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0005-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 5",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          247.68,
+          19.92,
+          690.96,
+          519.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Human cells: structure and basic properties",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          661.44,
+          149.16,
+          935.64,
+          471.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Cell organelles in a typical human cell",
+          "Cell Organelles in a Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          485.16,
+          250.439,
+          833.04,
+          506.829
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Cell organelles in a typical human cell",
+          "Cell Organelles in a Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          597.72,
+          119.88,
+          930.96,
+          480.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Cell organelles in a typical human cell",
+          "Cell Organelles in a Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Cell Organelles in a Typical Human Cell",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          564.24,
+          170.4,
+          841.44,
+          474.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Cell organelles in a typical human cell",
+          "Cell Organelles in a Typical Human Cell"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with: Primary Tissues in Human Body",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          593.4,
+          278.28,
+          889.68,
+          492.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Primary Tissues in Human Body"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Primary Tissues in Human Body",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          627.48,
+          198.96,
+          817.8,
+          502.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Primary Tissues in Human Body"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          64.44,
+          24.84,
+          364.44,
+          287.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          396.48,
+          24.84,
+          690.48,
+          274.56
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          68.28,
+          287.04,
+          335.28,
+          515.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          153.0,
+          226.68,
+          303.42,
+          262.5
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0004",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          444.0,
+          22.68,
+          626.7,
+          58.5
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0020-C0005",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Simple epithelium",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          62.4,
+          284.64,
+          261.18,
+          320.46
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Simple epithelium"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0022-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: Primary Tissues in Human Body",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          687.72,
+          167.76,
+          932.76,
+          315.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Primary Tissues in Human Body"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          30.48,
+          415.68,
+          270.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          281.64,
+          380.28,
+          470.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          442.68,
+          33.96,
+          715.2,
+          266.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          442.68,
+          270.0,
+          753.0,
+          514.56
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0004",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          129.12,
+          28.08,
+          311.82,
+          63.9
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0005",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          439.8,
+          208.32,
+          622.5,
+          244.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0025-C0006",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          437.64,
+          467.16,
+          604.26,
+          502.98
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0028-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 28",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          190.92,
+          23.64,
+          745.92,
+          507.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "Primary tissues in the human body",
+          "Slide 28"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0029-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+      "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "Visual associated with: L2 Revision Exercise L2",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          329.64,
+          159.72,
+          661.2,
+          492.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+        "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "L2 Revision Exercise",
+          "L2 Revision Exercise L2"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 28,
+    "tables": 0,
+    "non_tables": 28
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

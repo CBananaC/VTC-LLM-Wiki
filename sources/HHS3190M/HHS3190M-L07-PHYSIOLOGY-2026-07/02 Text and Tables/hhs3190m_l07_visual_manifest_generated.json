@@ -1,0 +1,2117 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+  "source": {
+    "filename": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+    "path": "/Users/creamybanana/Downloads/Physiology & Anatomy/02 Lectures/13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+    "sha256": "sha256:4d423c07157e078d32ed7d3a4834aa9ace8b16d158714ee5c935d96101ffe9d6",
+    "pdf_page_count": 24,
+    "pdfinfo": {
+      "Title": "HAS3897M Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "Author": "TSANG HIU YAN",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Fri Jul 31 14:44:18 2026 HKT",
+      "ModDate": "Fri Jul 31 14:44:18 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 24,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 1656947,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          421.08,
+          280.32,
+          931.92,
+          523.68
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          364.2,
+          206.76,
+          492.66,
+          260.34
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          484.68,
+          206.76,
+          613.14,
+          260.34
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          420.72,
+          260.04,
+          487.62,
+          304.74
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          339.0,
+          330.84,
+          405.9,
+          375.54
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0004",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          717.6,
+          279.84,
+          876.24,
+          443.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0006-C0005",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of endocrine system",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          702.36,
+          53.64,
+          891.36,
+          232.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Overview of endocrine system"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: Major endocrine glands",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          618.84,
+          121.44,
+          935.16,
+          520.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Overview of the endocrine system",
+          "Major endocrine glands"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: hormones",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          291.24,
+          54.12,
+          697.32,
+          418.56
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "hormones"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0011-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          663.0,
+          111.0,
+          792.96,
+          255.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          793.68,
+          108.96,
+          923.64,
+          253.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0011-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          734.64,
+          262.44,
+          878.64,
+          406.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0013-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Visual associated with: Cytoplasm",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          134.28,
+          37.08,
+          807.24,
+          519.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Cytoplasm"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          100.2,
+          142.56,
+          252.78,
+          196.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          358.8,
+          201.719,
+          486.06,
+          246.42
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          142.92,
+          253.68,
+          310.86,
+          298.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          304.2,
+          253.68,
+          491.94,
+          298.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0004",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          465.24,
+          253.68,
+          502.021,
+          298.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0005",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          475.32,
+          253.68,
+          542.46,
+          298.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0006",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          515.76,
+          253.68,
+          582.78,
+          298.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0007",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          198.96,
+          306.72,
+          346.38,
+          351.42
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0008",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          319.68,
+          306.72,
+          356.58,
+          351.42
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0009",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          329.88,
+          307.92,
+          418.14,
+          352.62
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0010",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          391.44,
+          306.72,
+          428.34,
+          351.42
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0011",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          518.52,
+          359.76,
+          746.46,
+          404.46
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0012",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          178.8,
+          413.64,
+          306.06,
+          458.34
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0014-C0013",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Mechanisms of Hormone Action",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          299.4,
+          413.64,
+          446.82,
+          458.34
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Mechanisms of Hormone Action"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 15",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          33.84,
+          18.72,
+          454.44,
+          521.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Slide 15"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: Thyroxine (T4) and Triiodothyronine (T3)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          31.08,
+          23.52,
+          584.16,
+          488.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Hormone chemical structures and mechanisms of action",
+          "Thyroxine (T4) and Triiodothyronine (T3)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0018-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Visual associated with: Regulation of Hormone Secretion",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          151.32,
+          174.12,
+          762.36,
+          431.88
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Regulation of hormone secretion",
+          "Regulation of Hormone Secretion"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Regulation of Hormone Secretion",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          432.48,
+          191.52,
+          825.6,
+          518.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Regulation of hormone secretion",
+          "Regulation of Hormone Secretion"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0019-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Regulation of Hormone Secretion",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          30.0,
+          48.0,
+          299.76,
+          523.68
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Regulation of hormone secretion",
+          "Regulation of Hormone Secretion"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Regulation of Hormone Secretion",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          676.8,
+          127.8,
+          913.2,
+          466.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Regulation of hormone secretion",
+          "Regulation of Hormone Secretion"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0022-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          193.56,
+          63.96,
+          452.16,
+          212.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Examples of endocrine disorders",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0022-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          193.56,
+          253.56,
+          365.88,
+          490.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Examples of endocrine disorders",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0022-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          389.28,
+          355.44,
+          761.76,
+          484.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Examples of endocrine disorders",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0022-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          524.4,
+          63.96,
+          761.76,
+          340.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "Examples of endocrine disorders",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0023-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: L7 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          528.72,
+          270.0,
+          838.32,
+          424.68
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "L7 Revision Exercise",
+          "L7 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-VIS-P0023-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+      "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: L7 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          223.32,
+          225.6,
+          487.68,
+          489.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+        "source_file": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+          "L7 Revision Exercise",
+          "L7 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 39,
+    "tables": 0,
+    "non_table_visuals": 39
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

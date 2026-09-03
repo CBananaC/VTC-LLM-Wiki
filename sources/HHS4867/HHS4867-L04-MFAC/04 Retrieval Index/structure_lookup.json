@@ -1,0 +1,185 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS4867",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS4867-COURSE",
+    "level": "course",
+    "course_code": "HHS4867",
+    "title": "HHS4867 - Functional Movement Science",
+    "children": [
+      "HHS4867-L04-MFAC"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS4867-C-0000001",
+      "HHS4867-C-0000002",
+      "HHS4867-C-0000003",
+      "HHS4867-C-0000004",
+      "HHS4867-C-0000005",
+      "HHS4867-C-0000006",
+      "HHS4867-C-0000007",
+      "HHS4867-C-0000008",
+      "HHS4867-C-0000009",
+      "HHS4867-C-0000010"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS4867-COURSE",
+      "level": "course",
+      "course_code": "HHS4867",
+      "title": "HHS4867 - Functional Movement Science",
+      "children": [
+        "HHS4867-L04-MFAC"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L04-MFAC",
+      "level": "document",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L04-MFAC",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+      "parent_id": "HHS4867-COURSE",
+      "children": [
+        "HHS4867-L04-MFAC-PART01"
+      ],
+      "slide_start": 1,
+      "slide_end": 1,
+      "pdf_page_start": 1,
+      "pdf_page_end": 1,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L04-MFAC-PART01",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L04-MFAC",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "parent_id": "HHS4867-L04-MFAC",
+      "children": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "slide_start": 1,
+      "slide_end": 1,
+      "pdf_page_start": 1,
+      "pdf_page_end": 1,
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "visual_ids": [
+        "HHS4867-L04-MFAC-VIS-P0001-T01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L04-MFAC-P0001",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L04-MFAC",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "parent_id": "HHS4867-L04-MFAC-PART01",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS4867-L04-MFAC-P0001",
+      "visual_ids": [
+        "HHS4867-L04-MFAC-VIS-P0001-T01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 1,
+    "slides": 1
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [],
+  "hierarchy_semantics": {
+    "course": "HHS4867 course container",
+    "document": "one source PDF presentation deck",
+    "part": "one synthetic topic container matching the deck title; slide titles remain separate",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata only for non-table visuals",
+    "table": "complete grid reconstruction from pdfplumber cells, with raw cell text retained"
+  },
+  "visual_content_policy": "Non-table visual contents were not separately OCRed or reconstructed; tables were extracted into the table layer when a coordinate grid was detected."
+}

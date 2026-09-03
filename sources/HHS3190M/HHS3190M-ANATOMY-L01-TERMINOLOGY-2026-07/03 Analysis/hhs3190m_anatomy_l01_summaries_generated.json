@@ -1,0 +1,224 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+      "level": "part",
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "title": "Cover and Introduction",
+      "parent_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002"
+      ],
+      "summary": "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627 Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology",
+      "summary_sentences": [
+        "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627",
+        "Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+      "level": "part",
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "title": "Anatomical position, planes, and positions",
+      "parent_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "slide_start": 3,
+      "slide_end": 8,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008"
+      ],
+      "summary": "Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg. Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body",
+      "summary_sentences": [
+        "Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly",
+        "Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet",
+        "Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal",
+        "Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg.",
+        "Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+      "level": "part",
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "title": "Terminology related to movements",
+      "parent_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "slide_start": 9,
+      "slide_end": 14,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014"
+      ],
+      "summary": "Terminology Related to Movements Flexion • Joint bending movement takes place in a sagittal plane • decreasing in joint angle Extension • movement along sagittal plane that straighten the joint with increasing in joint angle. Lateral flexion • Movement of the trunk in the coronal plane Terminology Related to Movements Abduction • The limb moving away from midline of the body, along the coronal plane Adduction • The limb moving towards body in the coronal plane Rotation • Turning of a bone along its longitudinal axis Terminology Related to Movements Medial/ Internal rotation • Movement that results in the anterior surface of the body part facing medially Lateral/ External Rotation • Movement that results in the anterior surface of the body part facing laterally Circumduction • Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially • Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP Terminology Related to Movements Pronation • Medial rotationof forearm in such manner that palm of hand faces posteriorly Supination • Lateral rotationof forearm from pronated position, with palm of hand faces anteriorly ** movement of radiusover the ulna Elbow https://youtu.be/PNWRcx6ZYKg?si=3rNVtKZ6Gwg5mxcW Opposition • Movement at saddle joint between metacarpal I and the trapezium",
+      "summary_sentences": [
+        "Terminology Related to Movements Flexion • Joint bending movement takes place in a sagittal plane • decreasing in joint angle Extension • movement along sagittal plane that straighten the joint with increasing in joint angle.",
+        "Lateral flexion • Movement of the trunk in the coronal plane",
+        "Terminology Related to Movements Abduction • The limb moving away from midline of the body, along the coronal plane Adduction • The limb moving towards body in the coronal plane Rotation • Turning of a bone along its longitudinal axis",
+        "Terminology Related to Movements Medial/ Internal rotation • Movement that results in the anterior surface of the body part facing medially Lateral/ External Rotation • Movement that results in the anterior surface of the body part facing laterally Circumduction • Joint movement that combines Flexion, Abduction, Extension and Adduction sequentially • Hip: https://youtu.be/5J8lmhectY4?si=kUkniLG6wDCvjyyP",
+        "Terminology Related to Movements Pronation • Medial rotationof forearm in such manner that palm of hand faces posteriorly Supination • Lateral rotationof forearm from pronated position, with palm of hand faces anteriorly ** movement of radiusover the ulna Elbow https://youtu.be/PNWRcx6ZYKg?si=3rNVtKZ6Gwg5mxcW Opposition • Movement at saddle joint between metacarpal I and the trapezium"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+      "level": "part",
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "title": "Terminologies related to bone markings",
+      "parent_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "slide_start": 15,
+      "slide_end": 16,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016"
+      ],
+      "summary": "Terminologies related to Bone Markings Condyle • rounded articular projection (e.g. femoral condyle), articulates with corresponding fossa Epicondyle • eminence superior to a condyle Crest • narrow ridge of bone, usually prominent (e.g. iliac crest) Malleolus • rounded prominence (e.g. Terminologies related to Bone Markings Spine • Thorn-like process(e.g. scapula spine)/sharp, slender often pointed projection (e.g.",
+      "summary_sentences": [
+        "Terminologies related to Bone Markings Condyle • rounded articular projection (e.g.",
+        "femoral condyle), articulates with corresponding fossa Epicondyle • eminence superior to a condyle Crest • narrow ridge of bone, usually prominent (e.g.",
+        "iliac crest) Malleolus • rounded prominence (e.g.",
+        "Terminologies related to Bone Markings Spine • Thorn-like process(e.g.",
+        "scapula spine)/sharp, slender often pointed projection (e.g."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+      "level": "part",
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "slide_start": 17,
+      "slide_end": 17,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017"
+      ],
+      "summary": "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K. (2018) Human Anatomy & Physiology (11th ed.). Fundamentals of Anatomy and Physiology (11th ed.). England: Pearson Benjamin Cummings. • Olson, T.R., Pawlina Woichiech (2015) A.D.A.M.",
+      "summary_sentences": [
+        "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K.",
+        "(2018) Human Anatomy & Physiology (11th ed.).",
+        "Fundamentals of Anatomy and Physiology (11th ed.).",
+        "England: Pearson Benjamin Cummings.",
+        "• Olson, T.R., Pawlina Woichiech (2015) A.D.A.M."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "level": "document",
+      "title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+      "parent_id": "HHS3190M-COURSE",
+      "slide_start": 1,
+      "slide_end": 17,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017"
+      ],
+      "summary": "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627 Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg. Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body Terminology Related to Positions Ipsilateral • refers to the same side of the body Bilateral • paired structures in both right & left sides Contralateral • refers to opposite sides of the body Supine • lying face upward Prone • lying face downward",
+      "summary_sentences": [
+        "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627",
+        "Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology",
+        "Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly",
+        "Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet",
+        "Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal",
+        "Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg.",
+        "Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body",
+        "Terminology Related to Positions Ipsilateral • refers to the same side of the body Bilateral • paired structures in both right & left sides Contralateral • refers to opposite sides of the body Supine • lying face upward Prone • lying face downward"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-COURSE",
+      "level": "course",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017"
+      ],
+      "summary": "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627 Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg. Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body Terminology Related to Positions Ipsilateral • refers to the same side of the body Bilateral • paired structures in both right & left sides Contralateral • refers to opposite sides of the body Supine • lying face upward Prone • lying face downward",
+      "summary_sentences": [
+        "AS114206J · HHS3190M Human Physiology & Functional Anatomy in Rehabilitation Services HHS3190MJ Lecture L1 Terminology for anatomy AY2627 Outline ➢ Introduction to Anatomy ➢ Anatomy Terminology Introduction to Anatomy Anatomy • The science of the structures & functions of the body Anatomical Position • Standing erect • Head, eyes, and toes directed anteriorly/ forward • Upper limb by the sides with palms facing anteriorly • Lower limb close together with feet parallel & toes directed anteriorly Body Planes ** Imaginary Planes Sagittal Plane divide body into RIGHT & LEFT Coronal Plane divide body into FRONT & BACK Transverse Plane divide body into Upper body & Lower body Source of Figure: Internet Terminology Related to Positions Anterior The front portion of the body Posterior The back / behind portion of the body Hand • Palmar Foot • Plantar Trunk • Ventral • Dorsal Terminology Related to Positions Describe the relative distances from the roots of limbs Proximal • towards an attached base of limb Distal • away from an attached base of limb • eg.",
+        "Term Definition Term Definition Toward upper part of Closer to the origin Superior Proximal a structure; above of the body part Toward lower part of Away from the origin Inferior Distal a structure; below of body part Toward the front of Toward the body Ventral Superficial body surface Toward the deeper Toward the back of Dorsal Internal part of a structure body Toward the midline Toward the outer Medial External of body part of a structure Away from midline of Lateral body Terminology Related to Positions Ipsilateral • refers to the same side of the body Bilateral • paired structures in both right & left sides Contralateral • refers to opposite sides of the body Supine • lying face upward Prone • lying face downward"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

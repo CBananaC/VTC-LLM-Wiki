@@ -1,0 +1,67 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+  "title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+  "course_code": "HHS3190M",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T02:05:48+08:00",
+  "package_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "original_path": "../Physiology & Anatomy/02 Lectures/03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "size_bytes": 1849847,
+        "sha256": "sha256:01875b5b9fa4418fbdddec870f5db7012e76c18dc60311d446ed50e2a1679c72",
+        "copied_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07/00 Source/03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated lecture PDF; duplicate 04 is not processed.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T02:10:24+08:00",
+    "outputs": {
+      "source_inventory": "source_manifest.json",
+      "ocr_layout": "01 OCR and Layout/hhs3190m_l02_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs3190m_l02_structure_generated.json",
+      "text": "02 Text and Tables/hhs3190m_l02_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs3190m_l02_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs3190m_l02_tables_generated.json",
+      "analysis": "03 Analysis/hhs3190m_l02_analysis_generated.json",
+      "summaries": "03 Analysis/hhs3190m_l02_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../../tools/query_hhs3190m_l02.py"
+    },
+    "counts": {
+      "slides": 30,
+      "parts": 6,
+      "blocks": 232,
+      "concepts": 64,
+      "occurrences": 156,
+      "terms": 66,
+      "passages": 30,
+      "visuals": 28,
+      "tables": 0,
+      "quotation_candidates": 78
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

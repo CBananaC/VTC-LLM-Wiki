@@ -1,0 +1,645 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "balance": {
+      "display_forms": [
+        "balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "betterbodymechanicsvisual": {
+      "display_forms": [
+        "Better Body Mechanics visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "bodyweight": {
+      "display_forms": [
+        "body weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "bone": {
+      "display_forms": [
+        "bone"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bones": {
+      "display_forms": [
+        "bones"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bosmobility": {
+      "display_forms": [
+        "BoS Mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "directingforcesbyblockingthekneesdiagramvisual": {
+      "display_forms": [
+        "Directing Forces by Blocking the knees (diagram) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "dynamicactivities": {
+      "display_forms": [
+        "dynamic activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "dynamicactivity": {
+      "display_forms": [
+        "dynamic activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "effectsofaddingremovingweightsonshiftingthecgvisual": {
+      "display_forms": [
+        "Effects of adding/removing weights on shifting the CG visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "esmuscle": {
+      "display_forms": [
+        "ES muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional",
+        "functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019",
+        "HHS4867-O-00000020"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867j": {
+      "display_forms": [
+        "HHS4867J"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hindermobility": {
+      "display_forms": [
+        "hinder mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000021"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "injury": {
+      "display_forms": [
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "joint": {
+      "display_forms": [
+        "joint"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "joints": {
+      "display_forms": [
+        "joints"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "knee": {
+      "display_forms": [
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "leversdiagramvisual": {
+      "display_forms": [
+        "Levers (diagram) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "lumbarspine": {
+      "display_forms": [
+        "lumbar spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "maintainbalance": {
+      "display_forms": [
+        "maintain balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "mobility": {
+      "display_forms": [
+        "Mobility",
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025",
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "momentforcenxdistancemvisual": {
+      "display_forms": [
+        "Moment = Force (N) x Distance (m) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "movementhhs4867functional": {
+      "display_forms": [
+        "Movement HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004",
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041",
+        "HHS4867-O-00000042",
+        "HHS4867-O-00000043",
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "muscles": {
+      "display_forms": [
+        "muscles"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041",
+        "HHS4867-O-00000042",
+        "HHS4867-O-00000043",
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "objectsbalance": {
+      "display_forms": [
+        "object’s balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "performingtasksachievingfunctional": {
+      "display_forms": [
+        "performing tasks achieving functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "poorbodymechanicsvisual": {
+      "display_forms": [
+        "Poor Body Mechanics visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "positioningforstabilityvisual": {
+      "display_forms": [
+        "Positioning for stability visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "range": {
+      "display_forms": [
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "saferange": {
+      "display_forms": [
+        "safe range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000031"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "skeleton": {
+      "display_forms": [
+        "skeleton"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "spine": {
+      "display_forms": [
+        "spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "stabilitymobility": {
+      "display_forms": [
+        "Stability Mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "stabilityvsmobility": {
+      "display_forms": [
+        "Stability v s Mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "sufficientmuscle": {
+      "display_forms": [
+        "sufficient muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "togethersmallbosevensmallweight": {
+      "display_forms": [
+        "together small BoS even small weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "transfer": {
+      "display_forms": [
+        "transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034",
+        "HHS4867-O-00000035",
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049",
+        "HHS4867-O-00000050"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 43,
+    "concepts_referenced": 39,
+    "occurrences_referenced": 57
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

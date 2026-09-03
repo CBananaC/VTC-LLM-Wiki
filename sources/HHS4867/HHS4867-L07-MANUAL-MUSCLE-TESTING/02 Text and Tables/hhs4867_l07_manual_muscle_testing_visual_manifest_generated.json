@@ -1,0 +1,646 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+  "source": {
+    "filename": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/00 Source/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "sha256": "sha256:ed27b2fe1b3e3966caf2e24d96773d7b878c6a8e3879a4abfb7ee1cb819174a2",
+    "pdf_page_count": 18,
+    "pdfinfo": {
+      "Title": "Manual muscle testing  & Joint range of motion",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 18,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 429426,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Testing Position (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          258.0,
+          12.0,
+          704.28,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "MMT procedure and testing positions",
+          "Testing Position (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Shoulder Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          18.0,
+          58.8,
+          702.0,
+          445.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Shoulder Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Shoulder Abduction visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          4.2,
+          54.0,
+          715.8,
+          456.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Shoulder Abduction"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Shoulder Internal & External Rotation visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          7.8,
+          54.0,
+          719.28,
+          456.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Shoulder Internal & External Rotation"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Elbow Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          18.0,
+          84.0,
+          702.0,
+          470.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Elbow Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Hip Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          54.0,
+          711.48,
+          456.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Hip Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Hip Abduction visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          12.0,
+          48.0,
+          712.92,
+          444.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Hip Abduction"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Hip Internal & External Rotation visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          54.0,
+          710.4,
+          450.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Hip Internal & External Rotation"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Knee Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          4.2,
+          102.0,
+          715.8,
+          504.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Knee Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Dynamometer visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          212.64,
+          93.0,
+          488.52,
+          491.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Dynamometer"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Measuring Strength with Dynamometer visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          12.0,
+          54.0,
+          712.92,
+          450.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+        "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 7.1 - Manual Muscle Testing",
+        "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.1 - Manual Muscle Testing",
+          "Regional manual muscle testing examples",
+          "Measuring Strength with Dynamometer"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 11,
+    "tables": 0,
+    "non_table_visuals": 11
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

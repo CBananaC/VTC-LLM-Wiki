@@ -1,0 +1,410 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-MFAC",
+  "source": {
+    "filename": "10 - 4. Modified Functional Ambulation Categories.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L04-MFAC/00 Source/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "sha256": "sha256:c1d4cafdbdfd5ca8c761bf39565769b1450147db5d8c26e06580d5ff0099cf2f",
+    "size_bytes": 116398,
+    "pdf_page_count": 1,
+    "pdfinfo": {
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "CreationDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "ModDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "no",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 1,
+      "Encrypted": "no",
+      "Page size": "594.96 x 842.04 pts (A4)",
+      "Page rot": "0",
+      "File size": 116398,
+      "Optimized": "no",
+      "PDF version": "1.5"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [
+    {
+      "table_id": "HHS4867-L04-MFAC-TBL-P0001-C01",
+      "visual_id": "HHS4867-L04-MFAC-VIS-P0001-T01",
+      "name": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "source_page_id": "HHS4867-L04-MFAC-P0001",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "bbox_points": [
+        89.325,
+        102.904,
+        505.909,
+        360.962
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": "Categories | S tage | Definition\nI | Lyer | Unable to walk / unable to sit without support>1min / assist to sit\nII | Sitter | Sit without support >1min / unable to walk with 1 person assistance\nIII | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight)\nIV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact)\nV | Supervised walker | Walk with standby guarding from 1 person – level ground\nVI | Indoor walker | Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines\nVII | Outdoor walker | Walk independently on level or non-level surfaces",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "Categories",
+                "raw_text": "Categories",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "S tage",
+                "raw_text": "S tage",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Definition",
+                "raw_text": "Definition",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "I",
+                "raw_text": "I",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Lyer",
+                "raw_text": "Lyer",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Unable to walk / unable to sit without support>1min / assist to sit",
+                "raw_text": "Unable to walk / unable to sit without support>1min / assist to sit",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "II",
+                "raw_text": "II",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Sitter",
+                "raw_text": "Sitter",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Sit without support >1min / unable to walk with 1 person assistance",
+                "raw_text": "Sit without support >1min / unable to walk with 1 person assistance",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "III",
+                "raw_text": "III",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Dependent walker",
+                "raw_text": "Dependent walker",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Walk with 1 person assistance – level ground (continuous manual contact to support body weight)",
+                "raw_text": "Walk with 1 person assistance – level ground (continuous manual contact to support body weight)",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "IV",
+                "raw_text": "IV",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Assisted walker",
+                "raw_text": "Assisted walker",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)",
+                "raw_text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "V",
+                "raw_text": "V",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Supervised walker",
+                "raw_text": "Supervised walker",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Walk with standby guarding from 1 person – level ground",
+                "raw_text": "Walk with standby guarding from 1 person – level ground",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "VI",
+                "raw_text": "VI",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Indoor walker",
+                "raw_text": "Indoor walker",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines",
+                "raw_text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 7,
+            "cells": [
+              {
+                "text": "VII",
+                "raw_text": "VII",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Outdoor walker",
+                "raw_text": "Outdoor walker",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Walk independently on level or non-level surfaces",
+                "raw_text": "Walk independently on level or non-level surfaces",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "Categories",
+            "raw_text": "Categories"
+          },
+          {
+            "text": "S tage",
+            "raw_text": "S tage"
+          },
+          {
+            "text": "Definition",
+            "raw_text": "Definition"
+          }
+        ],
+        [
+          {
+            "text": "I",
+            "raw_text": "I"
+          },
+          {
+            "text": "Lyer",
+            "raw_text": "Lyer"
+          },
+          {
+            "text": "Unable to walk / unable to sit without support>1min / assist to sit",
+            "raw_text": "Unable to walk / unable to sit without support>1min / assist to sit"
+          }
+        ],
+        [
+          {
+            "text": "II",
+            "raw_text": "II"
+          },
+          {
+            "text": "Sitter",
+            "raw_text": "Sitter"
+          },
+          {
+            "text": "Sit without support >1min / unable to walk with 1 person assistance",
+            "raw_text": "Sit without support >1min / unable to walk with 1 person assistance"
+          }
+        ],
+        [
+          {
+            "text": "III",
+            "raw_text": "III"
+          },
+          {
+            "text": "Dependent walker",
+            "raw_text": "Dependent walker"
+          },
+          {
+            "text": "Walk with 1 person assistance – level ground (continuous manual contact to support body weight)",
+            "raw_text": "Walk with 1 person assistance – level ground (continuous manual contact to support body weight)"
+          }
+        ],
+        [
+          {
+            "text": "IV",
+            "raw_text": "IV"
+          },
+          {
+            "text": "Assisted walker",
+            "raw_text": "Assisted walker"
+          },
+          {
+            "text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)",
+            "raw_text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)"
+          }
+        ],
+        [
+          {
+            "text": "V",
+            "raw_text": "V"
+          },
+          {
+            "text": "Supervised walker",
+            "raw_text": "Supervised walker"
+          },
+          {
+            "text": "Walk with standby guarding from 1 person – level ground",
+            "raw_text": "Walk with standby guarding from 1 person – level ground"
+          }
+        ],
+        [
+          {
+            "text": "VI",
+            "raw_text": "VI"
+          },
+          {
+            "text": "Indoor walker",
+            "raw_text": "Indoor walker"
+          },
+          {
+            "text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines",
+            "raw_text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines"
+          }
+        ],
+        [
+          {
+            "text": "VII",
+            "raw_text": "VII"
+          },
+          {
+            "text": "Outdoor walker",
+            "raw_text": "Outdoor walker"
+          },
+          {
+            "text": "Walk independently on level or non-level surfaces",
+            "raw_text": "Walk independently on level or non-level surfaces"
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-MFAC-P0001",
+        "document_id": "HHS4867-L04-MFAC",
+        "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+        "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ]
+    }
+  ],
+  "counts": {
+    "tables": 1
+  },
+  "no_table_result": null,
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

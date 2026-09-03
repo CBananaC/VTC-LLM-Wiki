@@ -1,0 +1,116 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L01-AMBULATION-TRANSFER",
+  "title": "Lecture 1 - Ambulation & Transfer",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:34+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "01 - 1. Ambulation Transfer.pdf",
+        "original_path": "../Movement Science/02 Lectures/01 - 1. Ambulation Transfer.pdf",
+        "size_bytes": 684506,
+        "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+        "copied_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/00 Source/01 - 1. Ambulation Transfer.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/01 - 1. Ambulation Transfer.pdf",
+      "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+      "duplicate_paths": [
+        "03 Workshops/01 - 1. Ambulation Transfer.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, every detected table type, bullet nesting, visual bounding boxes, page references, and exact quotations before changing verification status.",
+  "processing": {
+    "workflow": "register -> SHA-256 duplicate check -> inspect -> embedded text and MuPDF visual trace -> English slide blocks -> visual inventory -> pdfplumber table reconstruction -> slide/part/document/course summaries and keywords -> retrieval index -> validation",
+    "completed_at_hkt": "2026-09-04T01:39:43+08:00",
+    "source_info": {
+      "filename": "01 - 1. Ambulation Transfer.pdf",
+      "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/01 - 1. Ambulation Transfer.pdf",
+      "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/00 Source/01 - 1. Ambulation Transfer.pdf",
+      "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+      "size_bytes": 684506,
+      "pdf_page_count": 10,
+      "pdfinfo": {
+        "Author": "NG SIN IN",
+        "Creator": "Microsoft® Word LTSC",
+        "Producer": "Microsoft® Word LTSC",
+        "CreationDate": "Tue Aug 19 14:02:54 2025 HKT",
+        "ModDate": "Tue Aug 19 14:02:54 2025 HKT",
+        "Custom Metadata": "no",
+        "Metadata Stream": "yes",
+        "Tagged": "yes",
+        "UserProperties": "no",
+        "Suspects": "no",
+        "Form": "none",
+        "JavaScript": "no",
+        "Pages": 10,
+        "Encrypted": "no",
+        "Page size": "595.56 x 842.04 pts (A4)",
+        "Page rot": "0",
+        "File size": 684506,
+        "Optimized": "no",
+        "PDF version": "1.7"
+      },
+      "text_extraction": "embedded PDF text with bbox coordinates",
+      "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+      "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+      "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+    },
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/01 - 1. Ambulation Transfer.pdf",
+      "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+      "duplicate_paths": [
+        "03 Workshops/01 - 1. Ambulation Transfer.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    },
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l01_ambulation_transfer_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l01_ambulation_transfer_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l01_ambulation_transfer_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l01_ambulation_transfer_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l01_ambulation_transfer_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l01_ambulation_transfer_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l01_ambulation_transfer_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "ai_usage": "04 Retrieval Index/AI_USAGE_INSTRUCTIONS.md"
+    },
+    "counts": {
+      "slides": 10,
+      "parts": 1,
+      "blocks": 192,
+      "concepts": 98,
+      "occurrences": 169,
+      "terms": 104,
+      "passages": 10,
+      "visuals": 28,
+      "tables": 0,
+      "quotation_candidates": 127
+    },
+    "all_derived_status": "generated_not_verified",
+    "ocr_layout_coverage": "embedded_text_and_mupdf_fallback"
+  }
+}

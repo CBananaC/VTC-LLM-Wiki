@@ -1,0 +1,75 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-MFAC",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L04-MFAC-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L04-MFAC",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "parent_id": "HHS4867-L04-MFAC",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "summary": "Modified Functional Ambulation Categories This classification does not take account of any aid used.",
+      "summary_sentences": [
+        "Modified Functional Ambulation Categories This classification does not take account of any aid used."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L04-MFAC",
+      "level": "document",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "summary": "Modified Functional Ambulation Categories This classification does not take account of any aid used.",
+      "summary_sentences": [
+        "Modified Functional Ambulation Categories This classification does not take account of any aid used."
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L04-MFAC-PART01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "summary": "Modified Functional Ambulation Categories This classification does not take account of any aid used.",
+      "summary_sentences": [
+        "Modified Functional Ambulation Categories This classification does not take account of any aid used."
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L04-MFAC"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

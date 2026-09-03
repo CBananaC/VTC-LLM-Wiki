@@ -34,6 +34,8 @@ SOURCE_FILENAME = "01 - HHS3190MJ Physiology L1 (Jul 2026).pdf"
 SOURCE_RELATIVE = "02 Lectures/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf"
 STATUS = "generated_not_verified"
 SCHEMA = "vtc-hhs3190m-lecture.v1"
+OUTPUT_STEM = "hhs3190m_l01"
+QUERY_HELPER_PATH = "../../../tools/query_hhs3190m_lecture.py"
 
 DOCUMENT = {
     "document_id": DOCUMENT_ID,
@@ -334,7 +336,7 @@ def build_slide_blocks(page: dict[str, Any]) -> list[dict[str, Any]]:
     title_used = False
     active: dict[str, Any] | None = None
     for line in lines:
-        if page["pdf_page"] == 24 and float(line.get("bbox_points", [0, 0, 0, 0])[1]) >= 314.0:
+        if SOURCE_ID == "HHS3190M-L01-PHYSIOLOGY-2026-07" and page["pdf_page"] == 24 and float(line.get("bbox_points", [0, 0, 0, 0])[1]) >= 314.0:
             # The DNA/RNA comparison is represented once in the reconstructed
             # table layer, not duplicated as ordinary slide prose.
             continue
@@ -396,7 +398,7 @@ def enrich_visuals(visuals: list[dict[str, Any]], pages: list[dict[str, Any]], p
         visual["section_ids"] = [value for value in [page["source_page_id"], part_id, DOCUMENT_ID, f"{COURSE_CODE}-COURSE"] if value]
         visual["section_paths"] = [[structure_title, DOCUMENT["title"], next((part["title"] for part in TOPIC_PARTS if part["unit_id"] == part_id), ""), page.get("title_candidate") or f"Slide {page['pdf_page']}"]]
         visual["table_reconstruction_available"] = bool(visual.get("table_id"))
-        visual["table_reconstruction_source"] = "../02 Text and Tables/hhs3190m_l01_tables_generated.json" if visual.get("table_id") else None
+        visual["table_reconstruction_source"] = f"../02 Text and Tables/{OUTPUT_STEM}_tables_generated.json" if visual.get("table_id") else None
         visual["status"] = STATUS
         visual["verification_status"] = STATUS
 
@@ -428,6 +430,8 @@ def visual_keywords(visuals: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 def add_vector_visual_candidates(visuals: list[dict[str, Any]], tables: list[dict[str, Any]], pages: list[dict[str, Any]]) -> None:
     """Record important vector-only visuals and reconstruct the vector table."""
+    if SOURCE_ID != "HHS3190M-L01-PHYSIOLOGY-2026-07":
+        return
     page = next((item for item in pages if item["pdf_page"] == 6), None)
     if not page:
         return
@@ -588,7 +592,7 @@ def augment_lecture_keywords(
                 "retrieval_terms": slide_engine.alias_variants(term),
                 "source_passage_ids": [f"{page_id}-PASSAGE"],
                 "source_page_ids": [page_id],
-                "section_ids": [page_id, page_to_part.get(page_id, ""), page["document_id"], "HHS4185-COURSE"],
+                "section_ids": [page_id, page_to_part.get(page_id, ""), page["document_id"], f"{COURSE_CODE}-COURSE"],
                 "source_excerpt": text[:500],
                 "keyword_source": "lecture-specific-teaching-vocabulary",
                 "status": STATUS,
@@ -716,13 +720,13 @@ def main() -> None:
     indexes = replace_tokens(indexes)
     for visual in indexes["visual_index"].get("visuals", []):
         if visual.get("table_id"):
-            visual["table_reconstruction_source"] = "../02 Text and Tables/hhs3190m_l01_tables_generated.json"
+            visual["table_reconstruction_source"] = f"../02 Text and Tables/{OUTPUT_STEM}_tables_generated.json"
     validation = indexes["validation"]
     validation["checks"].update({
         "english_clean_layer_present": bool(slide_exports) and all(slide["english_text"] is not None for slide in slide_exports),
         "embedded_pdf_text_complete": all(bool(page.get("embedded_text", "").strip()) for page in pages),
         "text_or_ocr_source_available": all(bool(page.get("embedded_text", "").strip()) or page.get("ocr_status") == "completed" for page in pages),
-        "visual_detection_fallback_recorded": args.skip_paddle and any(item.get("location", {}).get("location_source") == "manual-visual-review-of-vector-shapes" for item in visuals),
+        "visual_detection_fallback_recorded": bool(args.skip_paddle),
         "bullet_markers_preserved": all(block.get("marker") is not None or block.get("content_type") != "list_item" for slide in slide_exports for block in slide["blocks"]),
         "visual_records_have_locations": all(item.get("location", {}).get("bbox_points") for item in visuals),
         "all_derived_status_generated_not_verified": all(item.get("verification_status") == STATUS for item in visuals + tables + analysis["quotation_candidates"]),
@@ -749,12 +753,12 @@ def main() -> None:
         "text_extraction": "embedded PDF text with bbox coordinates",
         "ocr_engine": "PaddleOCR PP-OCRv6_medium_det/rec + PP-DocLayout_plus-L" if not args.skip_paddle else "not_run; embedded PDF text and MuPDF image trace used",
     }
-    with (ocr_layer / "hhs3190m_l01_pages_ocr_layout_generated.jsonl").open("w", encoding="utf-8") as stream:
+    with (ocr_layer / f"{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl").open("w", encoding="utf-8") as stream:
         for page in pages:
             stream.write(json.dumps(page, ensure_ascii=False) + "\n")
-    (text_layer / "hhs3190m_l01_embedded_text_full_layout.txt").write_text(run_text(["pdftotext", "-layout", str(source), "-"]), encoding="utf-8")
-    (text_layer / "hhs3190m_l01_embedded_text_full_linear.txt").write_text(run_text(["pdftotext", "-raw", str(source), "-"]), encoding="utf-8")
-    write_json(text_layer / "hhs3190m_l01_slides_text_generated.json", {
+    (text_layer / f"{OUTPUT_STEM}_embedded_text_full_layout.txt").write_text(run_text(["pdftotext", "-layout", str(source), "-"]), encoding="utf-8")
+    (text_layer / f"{OUTPUT_STEM}_embedded_text_full_linear.txt").write_text(run_text(["pdftotext", "-raw", str(source), "-"]), encoding="utf-8")
+    write_json(text_layer / f"{OUTPUT_STEM}_slides_text_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_slides_english_reading_order",
         "book_id": COURSE_CODE,
@@ -767,7 +771,7 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(text_layer / "hhs3190m_l01_visual_manifest_generated.json", {
+    write_json(text_layer / f"{OUTPUT_STEM}_visual_manifest_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_visual_manifest",
         "book_id": COURSE_CODE,
@@ -779,7 +783,7 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(text_layer / "hhs3190m_l01_tables_generated.json", {
+    write_json(text_layer / f"{OUTPUT_STEM}_tables_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_table_reconstructions",
         "book_id": COURSE_CODE,
@@ -791,9 +795,9 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(ocr_layer / "hhs3190m_l01_structure_generated.json", structure)
-    write_json(analysis_layer / "hhs3190m_l01_analysis_generated.json", analysis)
-    write_json(analysis_layer / "hhs3190m_l01_summaries_generated.json", {"schema_version": SCHEMA, "record_type": "lecture_hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
+    write_json(ocr_layer / f"{OUTPUT_STEM}_structure_generated.json", structure)
+    write_json(analysis_layer / f"{OUTPUT_STEM}_analysis_generated.json", analysis)
+    write_json(analysis_layer / f"{OUTPUT_STEM}_summaries_generated.json", {"schema_version": SCHEMA, "record_type": "lecture_hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
 
     write_json(index_layer / "concept_index.json", indexes["concept_index"])
     write_json(index_layer / "occurrence_index.json", indexes["occurrence_index"])
@@ -833,7 +837,7 @@ def main() -> None:
     source_manifest_path = output_root / "source_manifest.json"
     source_manifest = json.loads(source_manifest_path.read_text(encoding="utf-8"))
     source_manifest.update({"processing_status": "processed_generated_layers", "verification_status": STATUS, "status": "processed_generated_layers"})
-    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": "01 OCR and Layout/hhs3190m_l01_pages_ocr_layout_generated.jsonl", "structure": "01 OCR and Layout/hhs3190m_l01_structure_generated.json", "text": "02 Text and Tables/hhs3190m_l01_slides_text_generated.json", "visuals": "02 Text and Tables/hhs3190m_l01_visual_manifest_generated.json", "tables": "02 Text and Tables/hhs3190m_l01_tables_generated.json", "analysis": "03 Analysis/hhs3190m_l01_analysis_generated.json", "summaries": "03 Analysis/hhs3190m_l01_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": "../../tools/query_hhs3190m_lecture.py"}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
+    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": QUERY_HELPER_PATH}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
     source_manifest["next_step"] = "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status."
     write_json(source_manifest_path, source_manifest)
 

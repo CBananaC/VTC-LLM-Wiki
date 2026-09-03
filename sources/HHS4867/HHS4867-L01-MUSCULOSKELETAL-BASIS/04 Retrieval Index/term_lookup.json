@@ -1,0 +1,1162 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "actionsisometricmuscleactioncontractionmuscle": {
+      "display_forms": [
+        "Actions Isometric Muscle Action Contraction Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "agonist": {
+      "display_forms": [
+        "agonist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "antagonist": {
+      "display_forms": [
+        "antagonist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "anteriorandposteriorviewsofthehumanskeleton": {
+      "display_forms": [
+        "Anterior and posterior views of the human skeleton"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000100"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "aponeurosis": {
+      "display_forms": [
+        "aponeurosis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000031",
+        "HHS4867-O-00000067"
+      ],
+      "categories": [
+        "conditions",
+        "section_topics"
+      ]
+    },
+    "articularcartilage": {
+      "display_forms": [
+        "articular cartilage"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "articularcartilageoftheknee": {
+      "display_forms": [
+        "Articular cartilage of the knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000101"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "bone": {
+      "display_forms": [
+        "bone"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069",
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bonemuscle": {
+      "display_forms": [
+        "Bone Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "bones": {
+      "display_forms": [
+        "bones"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069",
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "bonescomponentbox": {
+      "display_forms": [
+        "Bones component box"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000102"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "bonetissue": {
+      "display_forms": [
+        "bone tissue"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "bonetissuefunction": {
+      "display_forms": [
+        "Bone Tissue Function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "cartilage": {
+      "display_forms": [
+        "cartilage"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000004",
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006",
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "cartilaginousjoint": {
+      "display_forms": [
+        "cartilaginous joint"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cartilaginousjoints": {
+      "display_forms": [
+        "cartilaginous joints"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "concentric": {
+      "display_forms": [
+        "concentric"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "connectivetissue": {
+      "display_forms": [
+        "connective tissue"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073",
+        "HHS4867-O-00000074",
+        "HHS4867-O-00000075"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "connectivetissuecomponentbox": {
+      "display_forms": [
+        "Connective tissue component box"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000103"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "continuousstabilizejointsmuscle": {
+      "display_forms": [
+        "continuous Stabilize Joints Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "eccentric": {
+      "display_forms": [
+        "eccentric"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "fibrocartilage": {
+      "display_forms": [
+        "fibrocartilage"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "fibrousjoint": {
+      "display_forms": [
+        "fibrous joint"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "fibrousjoints": {
+      "display_forms": [
+        "fibrous joints"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "freemovingjointsfunction": {
+      "display_forms": [
+        "free moving joints Function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "function": {
+      "display_forms": [
+        "Function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059",
+        "HHS4867-O-00000060"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "generatedeccentricmuscle": {
+      "display_forms": [
+        "generated Eccentric Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "generatedeccentricmuscleactioncontractionmuscle": {
+      "display_forms": [
+        "generated Eccentric Muscle Action Contraction Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000049"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867j": {
+      "display_forms": [
+        "HHS4867J"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "humanmovementhhs4867functional": {
+      "display_forms": [
+        "human movement HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "insertion": {
+      "display_forms": [
+        "insertion"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "isometric": {
+      "display_forms": [
+        "isometric"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "isometricconcentricandeccentricmuscleactionsdiagram": {
+      "display_forms": [
+        "Isometric, concentric, and eccentric muscle actions diagram"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000104"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "joint": {
+      "display_forms": [
+        "joint"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079",
+        "HHS4867-O-00000080",
+        "HHS4867-O-00000081",
+        "HHS4867-O-00000082"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "jointcapsule": {
+      "display_forms": [
+        "joint capsule"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "jointfunction": {
+      "display_forms": [
+        "joint Function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "jointpositionconcentricmuscle": {
+      "display_forms": [
+        "joint position Concentric Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "joints": {
+      "display_forms": [
+        "joints"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079",
+        "HHS4867-O-00000080",
+        "HHS4867-O-00000081",
+        "HHS4867-O-00000082"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "jointscomponentbox": {
+      "display_forms": [
+        "Joints component box"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000105"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "lessermagnitudemuscle": {
+      "display_forms": [
+        "lesser magnitude Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "ligament": {
+      "display_forms": [
+        "ligament"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "ligamentexamplesaroundtheknee": {
+      "display_forms": [
+        "Ligament examples around the knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000106"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "ligaments": {
+      "display_forms": [
+        "ligaments"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "meniscus": {
+      "display_forms": [
+        "meniscus"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "meniscusoftheknee": {
+      "display_forms": [
+        "Meniscus of the knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000107"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "movementmuscle": {
+      "display_forms": [
+        "movement Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "movementsystem": {
+      "display_forms": [
+        "movement system"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "movementsystemexercisephotograph": {
+      "display_forms": [
+        "Movement-system exercise photograph"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000108"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "Muscle",
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019",
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021",
+        "HHS4867-O-00000022",
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000086",
+        "HHS4867-O-00000087",
+        "HHS4867-O-00000088",
+        "HHS4867-O-00000089"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "muscleforce": {
+      "display_forms": [
+        "muscle force"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000084",
+        "HHS4867-O-00000085"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "musclemuscle": {
+      "display_forms": [
+        "muscle Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "muscles": {
+      "display_forms": [
+        "muscles"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000086",
+        "HHS4867-O-00000087",
+        "HHS4867-O-00000088",
+        "HHS4867-O-00000089"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "musclescomponentbox": {
+      "display_forms": [
+        "Muscles component box"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000109"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "netmuscle": {
+      "display_forms": [
+        "Net Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "netmuscleactionsisometricmuscle": {
+      "display_forms": [
+        "Net Muscle Actions Isometric Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "neutralizer": {
+      "display_forms": [
+        "neutralizer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090",
+        "HHS4867-O-00000091"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "origin": {
+      "display_forms": [
+        "origin"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "positionconcentricmuscleactioncontractionmuscle": {
+      "display_forms": [
+        "position Concentric Muscle Action Contraction Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "positionsmuscle": {
+      "display_forms": [
+        "Positions Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "shoulderabduction": {
+      "display_forms": [
+        "shoulder abduction"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000092",
+        "HHS4867-O-00000093"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "shoulderabductionagonistantagoniststabilizerandneutralizerdiagram": {
+      "display_forms": [
+        "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000110"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "skeletalmuscle": {
+      "display_forms": [
+        "Skeletal muscle",
+        "skeletal muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "anatomy",
+        "conditions"
+      ]
+    },
+    "skeletalmuscles": {
+      "display_forms": [
+        "skeletal muscles"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "skeletalmusclesofthehumanbody": {
+      "display_forms": [
+        "Skeletal muscles of the human body"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000111"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "skeleton": {
+      "display_forms": [
+        "skeleton"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000025"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "stabilizer": {
+      "display_forms": [
+        "stabilizer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000094",
+        "HHS4867-O-00000095"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "synovialfluid": {
+      "display_forms": [
+        "synovial fluid"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "synovialjointanatomydiagram": {
+      "display_forms": [
+        "Synovial joint anatomy diagram"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000112"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "synovialmembrane": {
+      "display_forms": [
+        "synovial membrane"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "tendon": {
+      "display_forms": [
+        "tendon"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029",
+        "HHS4867-O-00000096",
+        "HHS4867-O-00000097",
+        "HHS4867-O-00000098",
+        "HHS4867-O-00000099"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "tendonmuscle": {
+      "display_forms": [
+        "tendon Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "threemuscletoboneattachmentexample": {
+      "display_forms": [
+        "Three muscle-to-bone attachment example"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000113"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "threemuscletoboneattachmentexamples": {
+      "display_forms": [
+        "Three muscle-to-bone attachment examples"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000113"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "torque": {
+      "display_forms": [
+        "torque"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "typesofjointsinthehumanbodydiagram": {
+      "display_forms": [
+        "Types of joints in the human body diagram"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000114"
+      ],
+      "categories": [
+        "visual"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 77,
+    "concepts_referenced": 73,
+    "occurrences_referenced": 114
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

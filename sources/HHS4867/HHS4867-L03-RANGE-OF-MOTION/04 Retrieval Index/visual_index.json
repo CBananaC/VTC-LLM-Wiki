@@ -1,0 +1,337 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0008",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          369.884,
+          98.492,
+          677.952,
+          292.998
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0008",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0008",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0001-T01",
+      "table_id": "HHS4867-L03-RANGE-OF-MOTION-TBL-P0001-C01",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0001",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "table",
+      "name": "Table on slide 1: Lecture 3 - Measurement of Range of Motion (ROM)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          85.041,
+          509.653,
+          501.616,
+          764.473
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0001",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0001",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)"
+        ]
+      ]
+    },
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0003-T01",
+      "table_id": "HHS4867-L03-RANGE-OF-MOTION-TBL-P0003-C01",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0003",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "table",
+      "name": "Table on slide 3: Slide 3",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          85.046,
+          72.613,
+          501.614,
+          726.253
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0003",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0003",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Slide 3"
+        ]
+      ]
+    },
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0004-T01",
+      "table_id": "HHS4867-L03-RANGE-OF-MOTION-TBL-P0004-C01",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0004",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "table",
+      "name": "Table on slide 4: Slide 4",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          85.026,
+          72.493,
+          501.624,
+          765.373
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0004",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0004",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Slide 4"
+        ]
+      ]
+    },
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0005-T01",
+      "table_id": "HHS4867-L03-RANGE-OF-MOTION-TBL-P0005-C01",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0005",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "table",
+      "name": "Table on slide 5: Slide 5",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          85.046,
+          72.493,
+          501.614,
+          765.433
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0005",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0005",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Slide 5"
+        ]
+      ]
+    },
+    {
+      "visual_id": "HHS4867-L03-RANGE-OF-MOTION-VIS-P0007-T01",
+      "table_id": "HHS4867-L03-RANGE-OF-MOTION-TBL-P0007-C01",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0007",
+      "source_file": "09 - 3. Range of Motion.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "table",
+      "name": "Table on slide 7: Slide 7",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          85.046,
+          72.493,
+          501.614,
+          761.773
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L03-RANGE-OF-MOTION-P0007",
+        "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+        "document_title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+        "source_file": "09 - 3. Range of Motion.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "09 - 3. Range of Motion.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0007",
+        "HHS4867-L03-RANGE-OF-MOTION-PART01",
+        "HHS4867-L03-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Lecture 3 - Measurement of Range of Motion (ROM)",
+          "Slide 7"
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "visuals": 6,
+    "tables": 5,
+    "non_tables": 1
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,963 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS4867",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS4867-COURSE",
+    "level": "course",
+    "course_code": "HHS4867",
+    "title": "HHS4867 - Functional Movement Science",
+    "children": [
+      "HHS4867-L03-ANALYSIS-OF-MOVEMENT"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS4867-C-0000001",
+      "HHS4867-C-0000002",
+      "HHS4867-C-0000003",
+      "HHS4867-C-0000004",
+      "HHS4867-C-0000005",
+      "HHS4867-C-0000006",
+      "HHS4867-C-0000007",
+      "HHS4867-C-0000008",
+      "HHS4867-C-0000009",
+      "HHS4867-C-0000010",
+      "HHS4867-C-0000011",
+      "HHS4867-C-0000012",
+      "HHS4867-C-0000013",
+      "HHS4867-C-0000014",
+      "HHS4867-C-0000015",
+      "HHS4867-C-0000016",
+      "HHS4867-C-0000017",
+      "HHS4867-C-0000018",
+      "HHS4867-C-0000019",
+      "HHS4867-C-0000020",
+      "HHS4867-C-0000021",
+      "HHS4867-C-0000022",
+      "HHS4867-C-0000023",
+      "HHS4867-C-0000024",
+      "HHS4867-C-0000025",
+      "HHS4867-C-0000026",
+      "HHS4867-C-0000027",
+      "HHS4867-C-0000028",
+      "HHS4867-C-0000029",
+      "HHS4867-C-0000030",
+      "HHS4867-C-0000031",
+      "HHS4867-C-0000032"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS4867-COURSE",
+      "level": "course",
+      "course_code": "HHS4867",
+      "title": "HHS4867 - Functional Movement Science",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "level": "document",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Lecture 3 - Analysis of Movement",
+      "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "parent_id": "HHS4867-COURSE",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03"
+      ],
+      "slide_start": 1,
+      "slide_end": 27,
+      "pdf_page_start": 1,
+      "pdf_page_end": 27,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Introduction to movement analysis",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "slide_start": 1,
+      "slide_end": 2,
+      "pdf_page_start": 1,
+      "pdf_page_end": 2,
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000021"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Analysis of Movement",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000016"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "The body as an instrument in patient care",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+      "children": [],
+      "slide_number": 2,
+      "pdf_page": 2,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000021"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Biomechanical aspects of human movement",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013"
+      ],
+      "slide_start": 3,
+      "slide_end": 13,
+      "pdf_page_start": 3,
+      "pdf_page_end": 13,
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013"
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Biomechanical Aspects of Human Movement",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 3,
+      "pdf_page": 3,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Mass",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 4,
+      "pdf_page": 4,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Centre of Mass (CM) = Centre of Gravity (CG)",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 5,
+      "pdf_page": 5,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Effects of adding/removing weights on shifting the CG",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 6,
+      "pdf_page": 6,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Force",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 7,
+      "pdf_page": 7,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Gravity",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 8,
+      "pdf_page": 8,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Friction",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 9,
+      "pdf_page": 9,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000019"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Levers",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 10,
+      "pdf_page": 10,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Levers (diagram)",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 11,
+      "pdf_page": 11,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Moments & Moment Arms",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 12,
+      "pdf_page": 12,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Moment = Force (N) x Distance (m)",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+      "children": [],
+      "slide_number": 13,
+      "pdf_page": 13,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Stability and mobility",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "slide_start": 14,
+      "slide_end": 17,
+      "pdf_page_start": 14,
+      "pdf_page_end": 17,
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Stability & Mobility",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+      "children": [],
+      "slide_number": 14,
+      "pdf_page": 14,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000024"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Base of Support (BoS)",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+      "children": [],
+      "slide_number": 15,
+      "pdf_page": 15,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Stability v.s. Mobility",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+      "children": [],
+      "slide_number": 16,
+      "pdf_page": 16,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000025"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Dynamic Trunk Stabilization",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+      "children": [],
+      "slide_number": 17,
+      "pdf_page": 17,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000029"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Proper body mechanics and force direction",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "children": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027"
+      ],
+      "slide_start": 18,
+      "slide_end": 27,
+      "pdf_page_start": 18,
+      "pdf_page_end": 27,
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027"
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Application: Proper Body Mechanics",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 18,
+      "pdf_page": 18,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Proper Body Mechanics",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 19,
+      "pdf_page": 19,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Poor Body Mechanics",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 20,
+      "pdf_page": 20,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000038"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Better Body Mechanics",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 21,
+      "pdf_page": 21,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000033"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Proper Body Mechanics",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 22,
+      "pdf_page": 22,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Patient position",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 23,
+      "pdf_page": 23,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Caregiver position",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 24,
+      "pdf_page": 24,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Positioning for stability",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 25,
+      "pdf_page": 25,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Directing Forces by Blocking the knees",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 26,
+      "pdf_page": 26,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000026"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "title": "Directing Forces by Blocking the knees (diagram)",
+      "parent_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+      "children": [],
+      "slide_number": 27,
+      "pdf_page": 27,
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 4,
+    "slides": 27
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [
+    {
+      "outline_item": "Movement system components",
+      "mapped_slides": [
+        2
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Human skeleton and bone tissue",
+      "mapped_slides": [
+        3,
+        4,
+        5
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Cartilage, ligaments, and joints",
+      "mapped_slides": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Skeletal muscle functions and attachments",
+      "mapped_slides": [
+        13,
+        14,
+        15
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Muscle roles, torque, and contraction types",
+      "mapped_slides": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "mapping_status": "generated_not_verified"
+    }
+  ],
+  "hierarchy_semantics": {
+    "course": "HHS4867 course container",
+    "document": "one lecture PDF/deck",
+    "part": "inferred lecture topic grouping from slide sequence",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata only; visual contents are not reconstructed",
+    "table": "no table candidates detected in this deck"
+  },
+  "visual_content_policy": "Non-table visual contents were not separately OCRed; only source-page location, name, and type are indexed."
+}

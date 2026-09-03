@@ -1,0 +1,2255 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "articular cartilage",
+      "canonical_candidate": "articular cartilage",
+      "keyword_path": [
+        "Anatomy",
+        "articular cartilage"
+      ],
+      "source_forms": [
+        "articular cartilage"
+      ],
+      "retrieval_terms": [
+        "articular cartilage"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "bone tissue",
+      "canonical_candidate": "bone tissue",
+      "keyword_path": [
+        "Anatomy",
+        "bone tissue"
+      ],
+      "source_forms": [
+        "bone tissue"
+      ],
+      "retrieval_terms": [
+        "bone tissue"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "cartilage",
+      "canonical_candidate": "cartilage",
+      "keyword_path": [
+        "Anatomy",
+        "cartilage"
+      ],
+      "source_forms": [
+        "cartilage"
+      ],
+      "retrieval_terms": [
+        "cartilage"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000004",
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006",
+        "HHS4867-O-00000007"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "fibrocartilage",
+      "canonical_candidate": "fibrocartilage",
+      "keyword_path": [
+        "Anatomy",
+        "fibrocartilage"
+      ],
+      "source_forms": [
+        "fibrocartilage"
+      ],
+      "retrieval_terms": [
+        "fibrocartilage"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "joint capsule",
+      "canonical_candidate": "joint capsule",
+      "keyword_path": [
+        "Anatomy",
+        "joint capsule"
+      ],
+      "source_forms": [
+        "joint capsule"
+      ],
+      "retrieval_terms": [
+        "joint capsule"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "ligaments",
+      "canonical_candidate": "ligaments",
+      "keyword_path": [
+        "Anatomy",
+        "ligaments"
+      ],
+      "source_forms": [
+        "ligaments"
+      ],
+      "retrieval_terms": [
+        "ligaments",
+        "ligament"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "meniscus",
+      "canonical_candidate": "meniscus",
+      "keyword_path": [
+        "Anatomy",
+        "meniscus"
+      ],
+      "source_forms": [
+        "meniscus"
+      ],
+      "retrieval_terms": [
+        "meniscus"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "muscle",
+      "canonical_candidate": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_forms": [
+        "muscle",
+        "Muscle"
+      ],
+      "retrieval_terms": [
+        "muscle",
+        "Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019",
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021",
+        "HHS4867-O-00000022",
+        "HHS4867-O-00000023"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "skeletal muscles",
+      "canonical_candidate": "skeletal muscles",
+      "keyword_path": [
+        "Anatomy",
+        "skeletal muscles"
+      ],
+      "source_forms": [
+        "skeletal muscles"
+      ],
+      "retrieval_terms": [
+        "skeletal muscles",
+        "skeletal muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "skeleton",
+      "canonical_candidate": "skeleton",
+      "keyword_path": [
+        "Anatomy",
+        "skeleton"
+      ],
+      "source_forms": [
+        "skeleton"
+      ],
+      "retrieval_terms": [
+        "skeleton"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000025"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "synovial fluid",
+      "canonical_candidate": "synovial fluid",
+      "keyword_path": [
+        "Anatomy",
+        "synovial fluid"
+      ],
+      "source_forms": [
+        "synovial fluid"
+      ],
+      "retrieval_terms": [
+        "synovial fluid"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "synovial membrane",
+      "canonical_candidate": "synovial membrane",
+      "keyword_path": [
+        "Anatomy",
+        "synovial membrane"
+      ],
+      "source_forms": [
+        "synovial membrane"
+      ],
+      "retrieval_terms": [
+        "synovial membrane"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000027"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "tendon",
+      "canonical_candidate": "tendon",
+      "keyword_path": [
+        "Anatomy",
+        "tendon"
+      ],
+      "source_forms": [
+        "tendon"
+      ],
+      "retrieval_terms": [
+        "tendon"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Actions Isometric Muscle Action Contraction Muscle",
+      "canonical_candidate": "Actions Isometric Muscle Action Contraction Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Actions Isometric Muscle Action Contraction Muscle"
+      ],
+      "source_forms": [
+        "Actions Isometric Muscle Action Contraction Muscle"
+      ],
+      "retrieval_terms": [
+        "Actions Isometric Muscle Action Contraction Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "aponeurosis",
+      "canonical_candidate": "aponeurosis",
+      "keyword_path": [
+        "Conditions",
+        "aponeurosis"
+      ],
+      "source_forms": [
+        "aponeurosis"
+      ],
+      "retrieval_terms": [
+        "aponeurosis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000031"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Bone Muscle",
+      "canonical_candidate": "Bone Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Bone Muscle"
+      ],
+      "source_forms": [
+        "Bone Muscle"
+      ],
+      "retrieval_terms": [
+        "Bone Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "continuous Stabilize Joints Muscle",
+      "canonical_candidate": "continuous Stabilize Joints Muscle",
+      "keyword_path": [
+        "Conditions",
+        "continuous Stabilize Joints Muscle"
+      ],
+      "source_forms": [
+        "continuous Stabilize Joints Muscle"
+      ],
+      "retrieval_terms": [
+        "continuous Stabilize Joints Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "generated Eccentric Muscle",
+      "canonical_candidate": "generated Eccentric Muscle",
+      "keyword_path": [
+        "Conditions",
+        "generated Eccentric Muscle"
+      ],
+      "source_forms": [
+        "generated Eccentric Muscle"
+      ],
+      "retrieval_terms": [
+        "generated Eccentric Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "generated Eccentric Muscle Action Contraction Muscle",
+      "canonical_candidate": "generated Eccentric Muscle Action Contraction Muscle",
+      "keyword_path": [
+        "Conditions",
+        "generated Eccentric Muscle Action Contraction Muscle"
+      ],
+      "source_forms": [
+        "generated Eccentric Muscle Action Contraction Muscle"
+      ],
+      "retrieval_terms": [
+        "generated Eccentric Muscle Action Contraction Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "joint position Concentric Muscle",
+      "canonical_candidate": "joint position Concentric Muscle",
+      "keyword_path": [
+        "Conditions",
+        "joint position Concentric Muscle"
+      ],
+      "source_forms": [
+        "joint position Concentric Muscle"
+      ],
+      "retrieval_terms": [
+        "joint position Concentric Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "lesser magnitude Muscle",
+      "canonical_candidate": "lesser magnitude Muscle",
+      "keyword_path": [
+        "Conditions",
+        "lesser magnitude Muscle"
+      ],
+      "source_forms": [
+        "lesser magnitude Muscle"
+      ],
+      "retrieval_terms": [
+        "lesser magnitude Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "movement Muscle",
+      "canonical_candidate": "movement Muscle",
+      "keyword_path": [
+        "Conditions",
+        "movement Muscle"
+      ],
+      "source_forms": [
+        "movement Muscle"
+      ],
+      "retrieval_terms": [
+        "movement Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000023",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "muscle Muscle",
+      "canonical_candidate": "muscle Muscle",
+      "keyword_path": [
+        "Conditions",
+        "muscle Muscle"
+      ],
+      "source_forms": [
+        "muscle Muscle"
+      ],
+      "retrieval_terms": [
+        "muscle Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000024",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Net Muscle",
+      "canonical_candidate": "Net Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Net Muscle"
+      ],
+      "source_forms": [
+        "Net Muscle"
+      ],
+      "retrieval_terms": [
+        "Net Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000025",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Net Muscle Actions Isometric Muscle",
+      "canonical_candidate": "Net Muscle Actions Isometric Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Net Muscle Actions Isometric Muscle"
+      ],
+      "source_forms": [
+        "Net Muscle Actions Isometric Muscle"
+      ],
+      "retrieval_terms": [
+        "Net Muscle Actions Isometric Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "position Concentric Muscle Action Contraction Muscle",
+      "canonical_candidate": "position Concentric Muscle Action Contraction Muscle",
+      "keyword_path": [
+        "Conditions",
+        "position Concentric Muscle Action Contraction Muscle"
+      ],
+      "source_forms": [
+        "position Concentric Muscle Action Contraction Muscle"
+      ],
+      "retrieval_terms": [
+        "position Concentric Muscle Action Contraction Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000027",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Positions Muscle",
+      "canonical_candidate": "Positions Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Positions Muscle"
+      ],
+      "source_forms": [
+        "Positions Muscle"
+      ],
+      "retrieval_terms": [
+        "Positions Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000028",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Skeletal muscle",
+      "canonical_candidate": "Skeletal muscle",
+      "keyword_path": [
+        "Conditions",
+        "Skeletal muscle"
+      ],
+      "source_forms": [
+        "Skeletal muscle"
+      ],
+      "retrieval_terms": [
+        "Skeletal muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "tendon Muscle",
+      "canonical_candidate": "tendon Muscle",
+      "keyword_path": [
+        "Conditions",
+        "tendon Muscle"
+      ],
+      "source_forms": [
+        "tendon Muscle"
+      ],
+      "retrieval_terms": [
+        "tendon Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000030",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "concentric",
+      "canonical_candidate": "concentric",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "concentric"
+      ],
+      "source_forms": [
+        "concentric"
+      ],
+      "retrieval_terms": [
+        "concentric"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000031",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "eccentric",
+      "canonical_candidate": "eccentric",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "eccentric"
+      ],
+      "source_forms": [
+        "eccentric"
+      ],
+      "retrieval_terms": [
+        "eccentric"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000032",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867",
+      "canonical_candidate": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_forms": [
+        "HHS4867"
+      ],
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000049"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000033",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867J",
+      "canonical_candidate": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_forms": [
+        "HHS4867J"
+      ],
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000034",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "human movement HHS4867 Functional",
+      "canonical_candidate": "human movement HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "human movement HHS4867 Functional"
+      ],
+      "source_forms": [
+        "human movement HHS4867 Functional"
+      ],
+      "retrieval_terms": [
+        "human movement HHS4867 Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000035",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "insertion",
+      "canonical_candidate": "insertion",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "insertion"
+      ],
+      "source_forms": [
+        "insertion"
+      ],
+      "retrieval_terms": [
+        "insertion"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000036",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "isometric",
+      "canonical_candidate": "isometric",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "isometric"
+      ],
+      "source_forms": [
+        "isometric"
+      ],
+      "retrieval_terms": [
+        "isometric"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000037",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "origin",
+      "canonical_candidate": "origin",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "origin"
+      ],
+      "source_forms": [
+        "origin"
+      ],
+      "retrieval_terms": [
+        "origin"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000038",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "torque",
+      "canonical_candidate": "torque",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "torque"
+      ],
+      "source_forms": [
+        "torque"
+      ],
+      "retrieval_terms": [
+        "torque"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000039",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Bone Tissue Function",
+      "canonical_candidate": "Bone Tissue Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Bone Tissue Function"
+      ],
+      "source_forms": [
+        "Bone Tissue Function"
+      ],
+      "retrieval_terms": [
+        "Bone Tissue Function"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "free moving joints Function",
+      "canonical_candidate": "free moving joints Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "free moving joints Function"
+      ],
+      "source_forms": [
+        "free moving joints Function"
+      ],
+      "retrieval_terms": [
+        "free moving joints Function"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000041",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Function",
+      "canonical_candidate": "Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "Function"
+      ],
+      "source_forms": [
+        "Function"
+      ],
+      "retrieval_terms": [
+        "Function"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059",
+        "HHS4867-O-00000060"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000042",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "joint Function",
+      "canonical_candidate": "joint Function",
+      "keyword_path": [
+        "Rehabilitation",
+        "joint Function"
+      ],
+      "source_forms": [
+        "joint Function"
+      ],
+      "retrieval_terms": [
+        "joint Function"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000044",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "agonist",
+      "canonical_candidate": "agonist",
+      "keyword_path": [
+        "Section topics",
+        "agonist"
+      ],
+      "source_forms": [
+        "agonist"
+      ],
+      "retrieval_terms": [
+        "agonist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000045",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "antagonist",
+      "canonical_candidate": "antagonist",
+      "keyword_path": [
+        "Section topics",
+        "antagonist"
+      ],
+      "source_forms": [
+        "antagonist"
+      ],
+      "retrieval_terms": [
+        "antagonist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "aponeurosis",
+      "canonical_candidate": "aponeurosis",
+      "keyword_path": [
+        "Section topics",
+        "aponeurosis"
+      ],
+      "source_forms": [
+        "aponeurosis"
+      ],
+      "retrieval_terms": [
+        "aponeurosis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000067"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000047",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "bones",
+      "canonical_candidate": "bones",
+      "keyword_path": [
+        "Section topics",
+        "bones"
+      ],
+      "source_forms": [
+        "bones"
+      ],
+      "retrieval_terms": [
+        "bones",
+        "bone"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069",
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000048",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "cartilaginous joints",
+      "canonical_candidate": "cartilaginous joints",
+      "keyword_path": [
+        "Section topics",
+        "cartilaginous joints"
+      ],
+      "source_forms": [
+        "cartilaginous joints"
+      ],
+      "retrieval_terms": [
+        "cartilaginous joints",
+        "cartilaginous joint"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000049",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "connective tissue",
+      "canonical_candidate": "connective tissue",
+      "keyword_path": [
+        "Section topics",
+        "connective tissue"
+      ],
+      "source_forms": [
+        "connective tissue"
+      ],
+      "retrieval_terms": [
+        "connective tissue"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073",
+        "HHS4867-O-00000074",
+        "HHS4867-O-00000075"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000050",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "fibrous joints",
+      "canonical_candidate": "fibrous joints",
+      "keyword_path": [
+        "Section topics",
+        "fibrous joints"
+      ],
+      "source_forms": [
+        "fibrous joints"
+      ],
+      "retrieval_terms": [
+        "fibrous joints",
+        "fibrous joint"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000051",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "joints",
+      "canonical_candidate": "joints",
+      "keyword_path": [
+        "Section topics",
+        "joints"
+      ],
+      "source_forms": [
+        "joints"
+      ],
+      "retrieval_terms": [
+        "joints",
+        "joint"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079",
+        "HHS4867-O-00000080",
+        "HHS4867-O-00000081",
+        "HHS4867-O-00000082"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000052",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "movement system",
+      "canonical_candidate": "movement system",
+      "keyword_path": [
+        "Section topics",
+        "movement system"
+      ],
+      "source_forms": [
+        "movement system"
+      ],
+      "retrieval_terms": [
+        "movement system"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000053",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "muscle force",
+      "canonical_candidate": "muscle force",
+      "keyword_path": [
+        "Section topics",
+        "muscle force"
+      ],
+      "source_forms": [
+        "muscle force"
+      ],
+      "retrieval_terms": [
+        "muscle force"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000084",
+        "HHS4867-O-00000085"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000054",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "muscles",
+      "canonical_candidate": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_forms": [
+        "muscles"
+      ],
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000086",
+        "HHS4867-O-00000087",
+        "HHS4867-O-00000088",
+        "HHS4867-O-00000089"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000055",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "neutralizer",
+      "canonical_candidate": "neutralizer",
+      "keyword_path": [
+        "Section topics",
+        "neutralizer"
+      ],
+      "source_forms": [
+        "neutralizer"
+      ],
+      "retrieval_terms": [
+        "neutralizer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090",
+        "HHS4867-O-00000091"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000056",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "shoulder abduction",
+      "canonical_candidate": "shoulder abduction",
+      "keyword_path": [
+        "Section topics",
+        "shoulder abduction"
+      ],
+      "source_forms": [
+        "shoulder abduction"
+      ],
+      "retrieval_terms": [
+        "shoulder abduction"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000092",
+        "HHS4867-O-00000093"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000057",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "stabilizer",
+      "canonical_candidate": "stabilizer",
+      "keyword_path": [
+        "Section topics",
+        "stabilizer"
+      ],
+      "source_forms": [
+        "stabilizer"
+      ],
+      "retrieval_terms": [
+        "stabilizer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000094",
+        "HHS4867-O-00000095"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000058",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "tendon",
+      "canonical_candidate": "tendon",
+      "keyword_path": [
+        "Section topics",
+        "tendon"
+      ],
+      "source_forms": [
+        "tendon"
+      ],
+      "retrieval_terms": [
+        "tendon"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000096",
+        "HHS4867-O-00000097",
+        "HHS4867-O-00000098",
+        "HHS4867-O-00000099"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000059",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Anterior and posterior views of the human skeleton",
+      "canonical_candidate": "Anterior and posterior views of the human skeleton",
+      "keyword_path": [
+        "visual",
+        "Anterior and posterior views of the human skeleton"
+      ],
+      "source_forms": [
+        "Anterior and posterior views of the human skeleton"
+      ],
+      "retrieval_terms": [
+        "Anterior and posterior views of the human skeleton"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000100"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000060",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Articular cartilage of the knee",
+      "canonical_candidate": "Articular cartilage of the knee",
+      "keyword_path": [
+        "visual",
+        "Articular cartilage of the knee"
+      ],
+      "source_forms": [
+        "Articular cartilage of the knee"
+      ],
+      "retrieval_terms": [
+        "Articular cartilage of the knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000101"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000061",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Bones component box",
+      "canonical_candidate": "Bones component box",
+      "keyword_path": [
+        "visual",
+        "Bones component box"
+      ],
+      "source_forms": [
+        "Bones component box"
+      ],
+      "retrieval_terms": [
+        "Bones component box"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000102"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000062",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Connective tissue component box",
+      "canonical_candidate": "Connective tissue component box",
+      "keyword_path": [
+        "visual",
+        "Connective tissue component box"
+      ],
+      "source_forms": [
+        "Connective tissue component box"
+      ],
+      "retrieval_terms": [
+        "Connective tissue component box"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000103"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000063",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Isometric, concentric, and eccentric muscle actions diagram",
+      "canonical_candidate": "Isometric, concentric, and eccentric muscle actions diagram",
+      "keyword_path": [
+        "visual",
+        "Isometric, concentric, and eccentric muscle actions diagram"
+      ],
+      "source_forms": [
+        "Isometric, concentric, and eccentric muscle actions diagram"
+      ],
+      "retrieval_terms": [
+        "Isometric, concentric, and eccentric muscle actions diagram"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000104"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000064",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Joints component box",
+      "canonical_candidate": "Joints component box",
+      "keyword_path": [
+        "visual",
+        "Joints component box"
+      ],
+      "source_forms": [
+        "Joints component box"
+      ],
+      "retrieval_terms": [
+        "Joints component box"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000105"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000065",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Ligament examples around the knee",
+      "canonical_candidate": "Ligament examples around the knee",
+      "keyword_path": [
+        "visual",
+        "Ligament examples around the knee"
+      ],
+      "source_forms": [
+        "Ligament examples around the knee"
+      ],
+      "retrieval_terms": [
+        "Ligament examples around the knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000106"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000066",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Meniscus of the knee",
+      "canonical_candidate": "Meniscus of the knee",
+      "keyword_path": [
+        "visual",
+        "Meniscus of the knee"
+      ],
+      "source_forms": [
+        "Meniscus of the knee"
+      ],
+      "retrieval_terms": [
+        "Meniscus of the knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000107"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000067",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Movement-system exercise photograph",
+      "canonical_candidate": "Movement-system exercise photograph",
+      "keyword_path": [
+        "visual",
+        "Movement-system exercise photograph"
+      ],
+      "source_forms": [
+        "Movement-system exercise photograph"
+      ],
+      "retrieval_terms": [
+        "Movement-system exercise photograph"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000108"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000068",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Muscles component box",
+      "canonical_candidate": "Muscles component box",
+      "keyword_path": [
+        "visual",
+        "Muscles component box"
+      ],
+      "source_forms": [
+        "Muscles component box"
+      ],
+      "retrieval_terms": [
+        "Muscles component box"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000109"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000069",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram",
+      "canonical_candidate": "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram",
+      "keyword_path": [
+        "visual",
+        "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram"
+      ],
+      "source_forms": [
+        "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram"
+      ],
+      "retrieval_terms": [
+        "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000110"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000070",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Skeletal muscles of the human body",
+      "canonical_candidate": "Skeletal muscles of the human body",
+      "keyword_path": [
+        "visual",
+        "Skeletal muscles of the human body"
+      ],
+      "source_forms": [
+        "Skeletal muscles of the human body"
+      ],
+      "retrieval_terms": [
+        "Skeletal muscles of the human body"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000111"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000071",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Synovial joint anatomy diagram",
+      "canonical_candidate": "Synovial joint anatomy diagram",
+      "keyword_path": [
+        "visual",
+        "Synovial joint anatomy diagram"
+      ],
+      "source_forms": [
+        "Synovial joint anatomy diagram"
+      ],
+      "retrieval_terms": [
+        "Synovial joint anatomy diagram"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000112"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000072",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Three muscle-to-bone attachment examples",
+      "canonical_candidate": "Three muscle-to-bone attachment examples",
+      "keyword_path": [
+        "visual",
+        "Three muscle-to-bone attachment examples"
+      ],
+      "source_forms": [
+        "Three muscle-to-bone attachment examples"
+      ],
+      "retrieval_terms": [
+        "Three muscle-to-bone attachment examples",
+        "Three muscle-to-bone attachment example"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000113"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000073",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Types of joints in the human body diagram",
+      "canonical_candidate": "Types of joints in the human body diagram",
+      "keyword_path": [
+        "visual",
+        "Types of joints in the human body diagram"
+      ],
+      "source_forms": [
+        "Types of joints in the human body diagram"
+      ],
+      "retrieval_terms": [
+        "Types of joints in the human body diagram"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000114"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 73,
+    "occurrences": 114
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

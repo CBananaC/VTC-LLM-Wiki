@@ -1,0 +1,45 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+  "source": {
+    "filename": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/00 Source/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "sha256": "sha256:ed27b2fe1b3e3966caf2e24d96773d7b878c6a8e3879a4abfb7ee1cb819174a2",
+    "pdf_page_count": 18,
+    "pdfinfo": {
+      "Title": "Manual muscle testing  & Joint range of motion",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 18,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 429426,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

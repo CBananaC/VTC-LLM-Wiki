@@ -1,0 +1,199 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Manual muscle testing overview",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "summary": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "summary_sentences": [
+        "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+        "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.",
+        "• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry)."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Oxford muscle-strength grading scale",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "slide_start": 3,
+      "slide_end": 4,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "summary": "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction",
+      "summary_sentences": [
+        "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+        "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "MMT procedure and testing positions",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "slide_start": 5,
+      "slide_end": 8,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "summary": "How to perform MMT • Patients are asked to hold a position against a therapist’s resistance. • It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) Prone (shoulder abducted 90°) Shoulder External rotation Sitting (shoulder neutral) Prone (shoulder abducted 90°) Elbow Flexion Sidelying Supine Elbow Extension Sidelying Prone (shoulder abducted 90°)",
+      "summary_sentences": [
+        "How to perform MMT • Patients are asked to hold a position against a therapist’s resistance.",
+        "• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison",
+        "Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting",
+        "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) Prone (shoulder abducted 90°) Shoulder External rotation Sitting (shoulder neutral) Prone (shoulder abducted 90°) Elbow Flexion Sidelying Supine Elbow Extension Sidelying Prone (shoulder abducted 90°)"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "level": "part",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Regional manual muscle testing examples",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "slide_start": 9,
+      "slide_end": 18,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "summary": "Measuring Strength with Dynanometer",
+      "summary_sentences": [
+        "Measuring Strength with Dynanometer"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "level": "document",
+      "title": "Lecture 7.1 - Manual Muscle Testing",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 18,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "summary": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry). Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction How to perform MMT • Patients are asked to hold a position against a therapist’s resistance. • It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting",
+      "summary_sentences": [
+        "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+        "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.",
+        "• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+        "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+        "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction",
+        "How to perform MMT • Patients are asked to hold a position against a therapist’s resistance.",
+        "• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison",
+        "Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "summary": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry). Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction How to perform MMT • Patients are asked to hold a position against a therapist’s resistance. • It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting",
+      "summary_sentences": [
+        "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.",
+        "• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+        "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate movement against gravity completes range of motion with gravity eliminated 2- does not complete ROM in a gravity eliminated position muscle contraction can be palpated, but there is no joint movement patient demonstrates no palpable muscle contraction How to perform MMT • Patients are asked to hold a position against a therapist’s resistance.",
+        "• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

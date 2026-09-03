@@ -1,0 +1,3146 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+  "source": {
+    "filename": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/00 Source/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+    "sha256": "sha256:ed27b2fe1b3e3966caf2e24d96773d7b878c6a8e3879a4abfb7ee1cb819174a2",
+    "pdf_page_count": 18,
+    "pdfinfo": {
+      "Title": "Manual muscle testing  & Joint range of motion",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:35 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 18,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 429426,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained, including the deck's ⚫ markers.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+      "slide_number": 1,
+      "title": "Manual Muscle Testing",
+      "english_text": "Manual Muscle Testing\nHHS4867 Functional Movement Science\nHHS4867J",
+      "raw_bilingual_text": "Manual Muscle testing\n手動肌肉測試\nHHS4867 Functional Movement Science\nHHS4867J 功能性運動科學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "slide_number": 1,
+          "content_type": "slide_title",
+          "text": "Manual Muscle Testing",
+          "body_text": "Manual Muscle Testing",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            54.0,
+            177.662,
+            384.156,
+            210.062
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867 Functional Movement Science",
+          "body_text": "HHS4867 Functional Movement Science",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 54.02,
+          "indent_level": 2,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            108.02,
+            310.357,
+            589.261,
+            335.543
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867J",
+          "body_text": "HHS4867J",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 54.02,
+          "indent_level": 2,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            108.02,
+            340.584,
+            440.269,
+            369.047
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+      "slide_number": 2,
+      "title": "Manual Muscle Testing (MMT)",
+      "english_text": "Manual Muscle Testing (MMT)\n• Assessment of muscle strength\n• Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.\n• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "raw_bilingual_text": "Manual Muscle Testing (MMT)\n手動肌肉測試\n肌肉力量評估\n•\nAssessment of muscle strength\n•\n手動肌肉測試是一種評估單獨\n•\n• Manual muscle testing is a\n肌肉及肌肉群功能和力量的程\nprocedure for the evaluation of the\n序，根據有效的運動表現來評\nfunction and strength of individual\n估其對抗重力和手動抵抗的能\nmuscles and muscle groups based on\n力。\nthe effective performance of a\nmovement in relation to the forces of\ngravity and manual resistance.\n• Dynamometry is a method of\n測力計是一種使用先進力量測\n•\nstrength testing using\n量設備（例如，握力計、手持\nsophisticated strength measuring\n式、固定式和等速動力計）進\ndevices (e.g., hand-grip, hand-\n行力量測試的方法。\nheld, fixed, and isokinetic\ndynamometry).",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "slide_number": 2,
+          "content_type": "slide_title",
+          "text": "Manual Muscle Testing (MMT)",
+          "body_text": "Manual Muscle Testing (MMT)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            54.513,
+            339.671,
+            79.677
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Assessment of muscle strength",
+          "body_text": "Assessment of muscle strength",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 21.336,
+          "indent_level": 1,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            64.488,
+            152.956,
+            310.596,
+            171.014
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.",
+          "body_text": "Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.816,
+          "indent_level": 0,
+          "source_line_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "bbox_points": [
+            43.968,
+            182.993,
+            334.222,
+            345.049
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+          "body_text": "Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.816,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            43.968,
+            356.996,
+            299.885,
+            495.101
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+      "slide_number": 3,
+      "title": "Muscle Strength Grading Scale (Oxford Scale)",
+      "english_text": "Muscle Strength Grading Scale (Oxford Scale)\nNo contraction\nVisible/palpable muscle contraction but no movement\nMovement with gravity eliminated\nMovement against gravity only\nMovement against gravity with some resistance\nMovement against gravity with full resistance",
+      "raw_bilingual_text": "Muscle Strength Grading Scale (Oxford Scale)\n肌肉力量分級量表（牛津量表）\n0\nNo contraction\n無收縮\n1\nVisible/palpable muscle contraction but no movement\n可見/可觸及的肌肉收縮，但無活動\n2\nMovement with gravity eliminated\n消除重力後的活動\n3\nMovement against gravity only\n僅對抗重力的活動\n4\nMovement against gravity with some resistance\n對抗重力且有部分抵抗的活動\n5\nMovement against gravity with full resistance\n對抗重力並具有完全抵抗的活動",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "slide_title",
+          "text": "Muscle Strength Grading Scale (Oxford Scale)",
+          "body_text": "Muscle Strength Grading Scale (Oxford Scale)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            44.547,
+            606.592,
+            73.383
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "No contraction",
+          "body_text": "No contraction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 90.288,
+          "indent_level": 4,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            133.44,
+            139.34,
+            245.333,
+            159.38
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "Visible/palpable muscle contraction but no movement",
+          "body_text": "Visible/palpable muscle contraction but no movement",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 90.288,
+          "indent_level": 4,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            133.44,
+            194.54,
+            537.654,
+            214.58
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "Movement with gravity eliminated",
+          "body_text": "Movement with gravity eliminated",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 90.288,
+          "indent_level": 4,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            133.44,
+            253.36,
+            391.579,
+            273.4
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B005",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "Movement against gravity only",
+          "body_text": "Movement against gravity only",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 91.248,
+          "indent_level": 4,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            134.4,
+            308.542,
+            365.393,
+            328.606
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B006",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "Movement against gravity with some resistance",
+          "body_text": "Movement against gravity with some resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 90.288,
+          "indent_level": 4,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            133.44,
+            366.79,
+            489.522,
+            386.83
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-B007",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "slide_number": 3,
+          "content_type": "subtitle",
+          "text": "Movement against gravity with full resistance",
+          "body_text": "Movement against gravity with full resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 90.288,
+          "indent_level": 4,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            133.44,
+            422.01,
+            472.482,
+            442.05
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+      "slide_number": 4,
+      "title": "Muscle Strength Grading Scale (Oxford Scale) - grades",
+      "english_text": "subject completes ROM against gravity with maximal resistance\n4+\ncompletes ROM against gravity with moderate-maximal resistance\ncompletes ROM against gravity with moderate resistance\n4-\ncompletes ROM against gravity with minimal-moderate resistance\n3+\ncompletes ROM against gravity with only minimal resistance\ncompletes ROM against gravity without manual resistance\n3-\ndoes not complete the range of motion against gravity, but does complete more than half of the range\n2+\nis able to initiate movement against gravity\ncompletes range of motion with gravity eliminated\n2-\ndoes not complete ROM in a gravity eliminated position\nmuscle contraction can be palpated, but there is no joint movement\npatient demonstrates no palpable muscle contraction",
+      "raw_bilingual_text": "5\nsubject completes ROM against gravity with maximal resistance\n受試者以最大阻力完成對抗重力的 ROM\n4+\ncompletes ROM against gravity with moderate-maximal resistance\n以中等-最大阻力完成對抗重力的 ROM\n4\ncompletes ROM against gravity with moderate resistance\n以中等阻力完成對抗重力的 ROM\n4-\ncompletes ROM against gravity with minimal-moderate resistance\n以最小-中等阻力完成 ROM 抵抗重力\n3+\ncompletes ROM against gravity with only minimal resistance\n以最小的阻力完成對抗重力的 ROM\n3\ncompletes ROM against gravity without manual resistance\n在沒有手動阻力的情況下完成對抗重力的 ROM\n3-\ndoes not complete the range of motion against gravity, but does complete more than half of the range\n沒有完成抵抗重力的運動範圍，但確實完成了一半以上的範圍\n2+\nis able to initiate movement against gravity\n能夠啟動對抗重力的運動\n2\ncompletes range of motion with gravity eliminated\n消除重力，完成運動範圍\n2-\ndoes not complete ROM in a gravity eliminated position\n未在重力消除位置完成 ROM\n1\nmuscle contraction can be palpated, but there is no joint movement\n可以觸診肌肉收縮，但沒有關節運動\n0\npatient demonstrates no palpable muscle contraction\n患者沒有明顯的肌肉收縮",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "subject completes ROM against gravity with maximal resistance",
+          "body_text": "subject completes ROM against gravity with maximal resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            67.272,
+            36.304,
+            402.609,
+            48.962
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "4+",
+          "body_text": "4+",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            20.328,
+            77.001,
+            34.511,
+            89.637
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes ROM against gravity with moderate-maximal resistance",
+          "body_text": "completes ROM against gravity with moderate-maximal resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            67.272,
+            77.001,
+            413.152,
+            89.637
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes ROM against gravity with moderate resistance",
+          "body_text": "completes ROM against gravity with moderate resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            67.272,
+            115.024,
+            365.029,
+            127.682
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B005",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "4-",
+          "body_text": "4-",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            27
+          ],
+          "bbox_points": [
+            20.328,
+            153.111,
+            31.603,
+            165.747
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B006",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes ROM against gravity with minimal-moderate resistance",
+          "body_text": "completes ROM against gravity with minimal-moderate resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            67.272,
+            153.111,
+            410.386,
+            165.747
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B007",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "3+",
+          "body_text": "3+",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            28
+          ],
+          "bbox_points": [
+            20.328,
+            191.481,
+            34.511,
+            204.117
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B008",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes ROM against gravity with only minimal resistance",
+          "body_text": "completes ROM against gravity with only minimal resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            67.272,
+            191.481,
+            386.632,
+            204.117
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B009",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes ROM against gravity without manual resistance",
+          "body_text": "completes ROM against gravity without manual resistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            67.272,
+            229.551,
+            371.244,
+            242.187
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B010",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "3-",
+          "body_text": "3-",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            30
+          ],
+          "bbox_points": [
+            20.328,
+            267.711,
+            31.603,
+            280.347
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B011",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "does not complete the range of motion against gravity, but does complete more than half of the range",
+          "body_text": "does not complete the range of motion against gravity, but does complete more than half of the range",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            67.272,
+            267.711,
+            591.276,
+            280.347
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B012",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "2+",
+          "body_text": "2+",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            31
+          ],
+          "bbox_points": [
+            20.328,
+            306.871,
+            34.511,
+            319.507
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B013",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "is able to initiate movement against gravity",
+          "body_text": "is able to initiate movement against gravity",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            67.272,
+            306.871,
+            291.749,
+            319.507
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B014",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "completes range of motion with gravity eliminated",
+          "body_text": "completes range of motion with gravity eliminated",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            67.272,
+            346.004,
+            330.038,
+            358.662
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B015",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "2-",
+          "body_text": "2-",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            33
+          ],
+          "bbox_points": [
+            20.328,
+            385.191,
+            31.603,
+            397.827
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B016",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "does not complete ROM in a gravity eliminated position",
+          "body_text": "does not complete ROM in a gravity eliminated position",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            20
+          ],
+          "bbox_points": [
+            67.272,
+            385.191,
+            360.519,
+            397.827
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B017",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "muscle contraction can be palpated, but there is no joint movement",
+          "body_text": "muscle contraction can be palpated, but there is no joint movement",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            22
+          ],
+          "bbox_points": [
+            67.272,
+            424.401,
+            414.572,
+            437.037
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-B018",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "patient demonstrates no palpable muscle contraction",
+          "body_text": "patient demonstrates no palpable muscle contraction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 46.944,
+          "indent_level": 2,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            67.272,
+            463.667,
+            339.144,
+            476.303
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+      "slide_number": 5,
+      "title": "How to perform MMT",
+      "english_text": "How to perform MMT\n• Patients are asked to hold a position against a therapist’s resistance.\n• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested\n• Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested\n• Both sides should be tested to provide a comparison",
+      "raw_bilingual_text": "How to perform MMT\n如何執行 MMT\n• 患者被要求在治療師的抵\n• Patients are asked to hold a\n抗下保持一個姿勢\nposition against a therapist’s\nresistance.\n• 穩定被測試區域的近端部\n• It is important to stabilize proximal\n分很重要，以減少其他肌\npart of the area being tested to\n肉的補償動作\nreduce compensatory action by\nmuscles other than those being\ntested\n• 抵抗需要逐漸施加（「抵\n• Resistance needs to be applied\n抗我的力量」或「不讓我\ngradually (\"meet my resistance\" or\n移動你」），方向與被測\n\"don't let me move you\") in the\n試的肌肉相反\nopposite direction of muscle being\ntested\n• 應該檢測雙側以提供比較。\n• Both sides should be tested to\nprovide a comparison",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "slide_number": 5,
+          "content_type": "slide_title",
+          "text": "How to perform MMT",
+          "body_text": "How to perform MMT",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            44.544,
+            40.02,
+            318.697,
+            68.878
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Patients are asked to hold a position against a therapist’s resistance.",
+          "body_text": "Patients are asked to hold a position against a therapist’s resistance.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 23.832,
+          "indent_level": 1,
+          "source_line_indices": [
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            68.376,
+            142.834,
+            317.809,
+            213.319
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested",
+          "body_text": "It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 23.832,
+          "indent_level": 1,
+          "source_line_indices": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "bbox_points": [
+            68.376,
+            214.812,
+            372.976,
+            333.344
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested",
+          "body_text": "Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 23.832,
+          "indent_level": 1,
+          "source_line_indices": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "bbox_points": [
+            68.376,
+            334.884,
+            368.69,
+            453.389
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-B005",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Both sides should be tested to provide a comparison",
+          "body_text": "Both sides should be tested to provide a comparison",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 23.832,
+          "indent_level": 1,
+          "source_line_indices": [
+            15,
+            16
+          ],
+          "bbox_points": [
+            68.376,
+            454.904,
+            328.871,
+            501.389
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+      "slide_number": 6,
+      "title": "Testing Position",
+      "english_text": "Testing Position\n• Anti-Gravity\n• Gravity Eliminated (for weaker muscle)\n• Supine\n• Side-lying\n• Prone\n• Sitting",
+      "raw_bilingual_text": "Testing Position 測試位置\n反重力\n•\n•\nAnti-Gravity\n消除重力（適用於較弱的\n•\n•\nGravity Eliminated (for\n肌肉）\nweaker muscle)\n•\nSupine\n仰臥\n•\n•\nSide-lying\n側臥\n•\n•\nProne\n俯臥\n•\n•\nSitting\n坐\n•",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "slide_title",
+          "text": "Testing Position",
+          "body_text": "Testing Position",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            59.516,
+            357.952,
+            92.133
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Anti-Gravity",
+          "body_text": "Anti-Gravity",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            70.272,
+            153.868,
+            185.11,
+            175.468
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Gravity Eliminated (for weaker muscle)",
+          "body_text": "Gravity Eliminated (for weaker muscle)",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            6,
+            7
+          ],
+          "bbox_points": [
+            70.272,
+            190.708,
+            278.932,
+            241.128
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Supine",
+          "body_text": "Supine",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            70.272,
+            293.072,
+            137.011,
+            314.693
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B005",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Side-lying",
+          "body_text": "Side-lying",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            70.272,
+            329.948,
+            170.446,
+            351.548
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B006",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Prone",
+          "body_text": "Prone",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            20
+          ],
+          "bbox_points": [
+            70.272,
+            366.668,
+            126.264,
+            388.268
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-B007",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "slide_number": 6,
+          "content_type": "list_item",
+          "text": "• Sitting",
+          "body_text": "Sitting",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.12,
+          "indent_level": 1,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            70.272,
+            403.492,
+            134.44,
+            425.113
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+      "slide_number": 7,
+      "title": "Testing Position (visual)",
+      "english_text": "Flexion\nAbduction\nInternal",
+      "raw_bilingual_text": "Flexion 屈曲 / Extension 伸展\nAbduction 外展 / Addiction 內收\nInternal 內旋/ External Rotation 外旋",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+          "slide_number": 7,
+          "content_type": "subtitle",
+          "text": "Flexion",
+          "body_text": "Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            31.2,
+            174.152,
+            249.764,
+            193.07
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+          "slide_number": 7,
+          "content_type": "subtitle",
+          "text": "Abduction",
+          "body_text": "Abduction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            31.2,
+            217.333,
+            272.594,
+            236.276
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+          "slide_number": 7,
+          "content_type": "subtitle",
+          "text": "Internal",
+          "body_text": "Internal",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            31.2,
+            260.572,
+            306.05,
+            279.49
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001",
+          "visual_type": "image",
+          "name": "Testing Position (visual) visual",
+          "pdf_page": 7,
+          "slide_number": 7,
+          "location": {
+            "bbox_points": [
+              258.0,
+              12.0,
+              704.28,
+              540.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+      "slide_number": 8,
+      "title": "Testing Position Summary",
+      "english_text": "Testing Position Summary\nGravity eliminated\nAnti-gravity (Grade 3-5)\n(Grade 0-2)\nHip Flexion\nSidelying\nSupine\nHip Extension\nProne\nSidelying\nHip Abduction\nSupine\nSidelying\nHip Internal rotation\nSupine (hip flexed 90°)\nSitting\nHip External rotation\nSupine (hip flexed 90°)\nSitting\nKnee Flexion\nProne\nSidelying\nKnee Extension\nSidelying\nSupine\nShoulder Flexion\nSidelying\nSitting\nShoulder Extension\nSidelying\nSitting\nShoulder Abduction\nSupine\nSitting\nShoulder Internal rotation\nSitting (shoulder neutral)\nProne (shoulder abducted 90°)\nShoulder External rotation\nSitting (shoulder neutral)\nProne (shoulder abducted 90°)\nElbow Flexion\nSidelying\nSupine\nElbow Extension\nSidelying\nProne (shoulder abducted 90°)",
+      "raw_bilingual_text": "Testing Position Summary 測試位置摘要\nGravity eliminated\nAnti-gravity (Grade 3-5)\n反重力（3-5 級）\n(Grade 0-2)\n消除重力（0-2 級）\nHip Flexion 髖關節屈曲\nSidelying 側臥\nSupine 仰臥\nHip Extension 髖關節伸展\nProne 俯臥\nSidelying側臥\nHip Abduction 髖關節外展\nSupine仰臥\nSidelying側臥\nHip Internal rotation 髖關節內旋\nSupine (hip flexed 90°)\nSitting坐姿\n仰臥（髖屈 90°）\nHip External rotation髖關節外旋\nSupine (hip flexed 90°)\nSitting坐姿\n仰臥（髖屈 90°）\nKnee Flexion 膝關節屈曲\nProne 俯臥\nSidelying側臥\nKnee Extension 膝關節伸展\nSidelying側臥\nSupine仰臥\nShoulder Flexion 肩屈曲\nSidelying側臥\nSitting坐姿\nShoulder Extension 肩部伸展\nSidelying側臥\nSitting坐姿\nShoulder Abduction 肩部外展\nSupine仰臥\nSitting坐姿\nShoulder Internal rotation 肩部內旋\nSitting (shoulder neutral)\nProne (shoulder abducted 90°)\n坐姿（肩部中立）\n俯臥（肩部外展 90°）\nShoulder External rotation 肩部外旋\nSitting (shoulder neutral)\nProne (shoulder abducted 90°)\n坐姿（肩部中立）\n俯臥（肩部外展 90°）\nElbow Flexion 肘部屈曲\nSidelying側臥\nSupine仰臥\nElbow Extension肘部伸展\nSidelying側臥\nProne (shoulder abducted 90°)\n俯臥（肩部外展 90°）",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "slide_title",
+          "text": "Testing Position Summary",
+          "body_text": "Testing Position Summary",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 18.6,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            54.0,
+            26.614,
+            547.01,
+            55.077
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B002",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Gravity eliminated",
+          "body_text": "Gravity eliminated",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            275.45,
+            86.93,
+            383.797,
+            100.97
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B003",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Anti-gravity (Grade 3-5)",
+          "body_text": "Anti-gravity (Grade 3-5)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            432.74,
+            86.93,
+            570.239,
+            100.97
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B004",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "(Grade 0-2)",
+          "body_text": "(Grade 0-2)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            275.45,
+            104.93,
+            341.03,
+            118.97
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B005",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Hip Flexion",
+          "body_text": "Hip Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            35.4,
+            139.284,
+            173.638,
+            154.04
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B006",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            275.45,
+            139.284,
+            357.53,
+            154.04
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B007",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine",
+          "body_text": "Supine",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            52
+          ],
+          "bbox_points": [
+            432.74,
+            139.284,
+            502.7,
+            154.04
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B008",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Hip Extension",
+          "body_text": "Hip Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            35.4,
+            160.474,
+            188.638,
+            175.23
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B009",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Prone",
+          "body_text": "Prone",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            432.74,
+            160.474,
+            497.78,
+            175.23
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B010",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            275.45,
+            161.19,
+            354.29,
+            175.23
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B011",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Hip Abduction",
+          "body_text": "Hip Abduction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            35.4,
+            181.644,
+            192.118,
+            196.4
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B012",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine",
+          "body_text": "Supine",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            275.45,
+            182.36,
+            342.17,
+            196.4
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B013",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            432.74,
+            182.36,
+            511.58,
+            196.4
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B014",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Hip Internal rotation",
+          "body_text": "Hip Internal rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            35.4,
+            202.814,
+            228.725,
+            217.57
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B015",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine (hip flexed 90°)",
+          "body_text": "Supine (hip flexed 90°)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            275.45,
+            203.53,
+            404.044,
+            217.57
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B016",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting",
+          "body_text": "Sitting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            432.74,
+            203.53,
+            497.06,
+            217.57
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B017",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Hip External rotation",
+          "body_text": "Hip External rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            50
+          ],
+          "bbox_points": [
+            35.4,
+            238.61,
+            227.534,
+            252.65
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B018",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine (hip flexed 90°)",
+          "body_text": "Supine (hip flexed 90°)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            19
+          ],
+          "bbox_points": [
+            275.45,
+            238.61,
+            404.044,
+            252.65
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B019",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting",
+          "body_text": "Sitting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            53
+          ],
+          "bbox_points": [
+            432.74,
+            238.61,
+            497.06,
+            252.65
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B020",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Knee Flexion",
+          "body_text": "Knee Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            35.4,
+            272.984,
+            182.878,
+            287.74
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B021",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Prone",
+          "body_text": "Prone",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            54
+          ],
+          "bbox_points": [
+            432.74,
+            272.984,
+            497.78,
+            287.74
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B022",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            21
+          ],
+          "bbox_points": [
+            275.45,
+            273.7,
+            354.29,
+            287.74
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B023",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Knee Extension",
+          "body_text": "Knee Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            22
+          ],
+          "bbox_points": [
+            35.4,
+            294.174,
+            197.878,
+            308.93
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B024",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            23
+          ],
+          "bbox_points": [
+            275.45,
+            294.89,
+            354.29,
+            308.93
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B025",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine",
+          "body_text": "Supine",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            432.74,
+            294.89,
+            499.46,
+            308.93
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B026",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Shoulder Flexion",
+          "body_text": "Shoulder Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            25
+          ],
+          "bbox_points": [
+            35.4,
+            315.344,
+            177.86,
+            330.1
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B027",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            26
+          ],
+          "bbox_points": [
+            275.45,
+            316.06,
+            354.29,
+            330.1
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B028",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting",
+          "body_text": "Sitting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            27
+          ],
+          "bbox_points": [
+            432.74,
+            316.06,
+            497.06,
+            330.1
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B029",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Shoulder Extension",
+          "body_text": "Shoulder Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            28
+          ],
+          "bbox_points": [
+            35.4,
+            336.514,
+            206.885,
+            351.27
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B030",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            29
+          ],
+          "bbox_points": [
+            275.45,
+            337.23,
+            354.29,
+            351.27
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B031",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting",
+          "body_text": "Sitting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            30
+          ],
+          "bbox_points": [
+            432.74,
+            337.23,
+            497.06,
+            351.27
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B032",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Shoulder Abduction",
+          "body_text": "Shoulder Abduction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            31
+          ],
+          "bbox_points": [
+            35.4,
+            357.704,
+            210.485,
+            372.46
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B033",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine",
+          "body_text": "Supine",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            32
+          ],
+          "bbox_points": [
+            275.45,
+            358.42,
+            342.17,
+            372.46
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B034",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting",
+          "body_text": "Sitting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            33
+          ],
+          "bbox_points": [
+            432.74,
+            358.42,
+            497.06,
+            372.46
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B035",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Shoulder Internal rotation",
+          "body_text": "Shoulder Internal rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            34
+          ],
+          "bbox_points": [
+            35.4,
+            378.874,
+            246.965,
+            393.63
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B036",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting (shoulder neutral)",
+          "body_text": "Sitting (shoulder neutral)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            36
+          ],
+          "bbox_points": [
+            275.45,
+            379.59,
+            417.773,
+            393.63
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B037",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Prone (shoulder abducted 90°)",
+          "body_text": "Prone (shoulder abducted 90°)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            41
+          ],
+          "bbox_points": [
+            432.74,
+            379.59,
+            607.544,
+            393.63
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B038",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Shoulder External rotation",
+          "body_text": "Shoulder External rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            51
+          ],
+          "bbox_points": [
+            35.4,
+            413.964,
+            248.885,
+            428.72
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B039",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sitting (shoulder neutral)",
+          "body_text": "Sitting (shoulder neutral)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            38
+          ],
+          "bbox_points": [
+            275.45,
+            414.68,
+            417.773,
+            428.72
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B040",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Prone (shoulder abducted 90°)",
+          "body_text": "Prone (shoulder abducted 90°)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            43
+          ],
+          "bbox_points": [
+            432.74,
+            414.68,
+            607.544,
+            428.72
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B041",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Elbow Flexion",
+          "body_text": "Elbow Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            35
+          ],
+          "bbox_points": [
+            35.4,
+            449.05,
+            175.565,
+            463.806
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B042",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            40
+          ],
+          "bbox_points": [
+            275.45,
+            449.766,
+            354.29,
+            463.806
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B043",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Supine",
+          "body_text": "Supine",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            45
+          ],
+          "bbox_points": [
+            432.74,
+            449.766,
+            499.46,
+            463.806
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B044",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Elbow Extension",
+          "body_text": "Elbow Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            46
+          ],
+          "bbox_points": [
+            35.4,
+            470.934,
+            187.454,
+            484.974
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B045",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Sidelying",
+          "body_text": "Sidelying",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 240.05,
+          "indent_level": 10,
+          "source_line_indices": [
+            47
+          ],
+          "bbox_points": [
+            275.45,
+            470.934,
+            354.29,
+            484.974
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-B046",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "slide_number": 8,
+          "content_type": "subtitle",
+          "text": "Prone (shoulder abducted 90°)",
+          "body_text": "Prone (shoulder abducted 90°)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 397.34,
+          "indent_level": 17,
+          "source_line_indices": [
+            48
+          ],
+          "bbox_points": [
+            432.74,
+            470.934,
+            607.544,
+            484.974
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+      "slide_number": 9,
+      "title": "Shoulder Flexion & Extension",
+      "english_text": "Shoulder Flexion & Extension",
+      "raw_bilingual_text": "Shoulder Flexion & Extension 肩屈曲及伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+          "slide_number": 9,
+          "content_type": "slide_title",
+          "text": "Shoulder Flexion & Extension",
+          "body_text": "Shoulder Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            122.18,
+            14.065,
+            584.754,
+            42.553
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Flexion & Extension visual",
+          "pdf_page": 9,
+          "slide_number": 9,
+          "location": {
+            "bbox_points": [
+              18.0,
+              58.8,
+              702.0,
+              445.2
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+      "slide_number": 10,
+      "title": "Shoulder Abduction",
+      "english_text": "Shoulder Abduction",
+      "raw_bilingual_text": "ShoulderAbduction 肩外展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+          "slide_number": 10,
+          "content_type": "slide_title",
+          "text": "Shoulder Abduction",
+          "body_text": "Shoulder Abduction",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            170.18,
+            20.904,
+            463.27,
+            49.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Abduction visual",
+          "pdf_page": 10,
+          "slide_number": 10,
+          "location": {
+            "bbox_points": [
+              4.2,
+              54.0,
+              715.8,
+              456.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+      "slide_number": 11,
+      "title": "Shoulder Internal & External Rotation",
+      "english_text": "Shoulder Int & Ext Rotation",
+      "raw_bilingual_text": "Shoulder Int & Ext Rotation 肩內及外旋",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+          "slide_number": 11,
+          "content_type": "subtitle",
+          "text": "Shoulder Int & Ext Rotation",
+          "body_text": "Shoulder Int & Ext Rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            113.69,
+            20.904,
+            534.87,
+            49.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Internal & External Rotation visual",
+          "pdf_page": 11,
+          "slide_number": 11,
+          "location": {
+            "bbox_points": [
+              7.8,
+              54.0,
+              719.28,
+              456.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+      "slide_number": 12,
+      "title": "Elbow Flexion & Extension",
+      "english_text": "Elbow Flexion & Extension",
+      "raw_bilingual_text": "Elbow Flexion & Extension 肘屈曲和伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+          "slide_number": 12,
+          "content_type": "slide_title",
+          "text": "Elbow Flexion & Extension",
+          "body_text": "Elbow Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            102.98,
+            38.034,
+            539.23,
+            66.497
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001",
+          "visual_type": "image",
+          "name": "Elbow Flexion & Extension visual",
+          "pdf_page": 12,
+          "slide_number": 12,
+          "location": {
+            "bbox_points": [
+              18.0,
+              84.0,
+              702.0,
+              470.52
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+      "slide_number": 13,
+      "title": "Hip Flexion & Extension",
+      "english_text": "Hip Flexion & Extension",
+      "raw_bilingual_text": "Hip Flexion & Extension 髖屈曲及伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+          "slide_number": 13,
+          "content_type": "slide_title",
+          "text": "Hip Flexion & Extension",
+          "body_text": "Hip Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            134.18,
+            20.274,
+            543.55,
+            48.737
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001",
+          "visual_type": "image",
+          "name": "Hip Flexion & Extension visual",
+          "pdf_page": 13,
+          "slide_number": 13,
+          "location": {
+            "bbox_points": [
+              0.0,
+              54.0,
+              711.48,
+              456.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+      "slide_number": 14,
+      "title": "Hip Abduction",
+      "english_text": "Hip Abduction",
+      "raw_bilingual_text": "Hip Abduction 髖外展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+          "slide_number": 14,
+          "content_type": "slide_title",
+          "text": "Hip Abduction",
+          "body_text": "Hip Abduction",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            182.18,
+            14.904,
+            422.09,
+            43.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001",
+          "visual_type": "image",
+          "name": "Hip Abduction visual",
+          "pdf_page": 14,
+          "slide_number": 14,
+          "location": {
+            "bbox_points": [
+              12.0,
+              48.0,
+              712.92,
+              444.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+      "slide_number": 15,
+      "title": "Hip Internal & External Rotation",
+      "english_text": "Hip Int & Ext Rotation",
+      "raw_bilingual_text": "Hip Int & Ext Rotation 髖內及外旋",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+          "slide_number": 15,
+          "content_type": "subtitle",
+          "text": "Hip Int & Ext Rotation",
+          "body_text": "Hip Int & Ext Rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            176.18,
+            22.945,
+            544.19,
+            51.433
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001",
+          "visual_type": "image",
+          "name": "Hip Internal & External Rotation visual",
+          "pdf_page": 15,
+          "slide_number": 15,
+          "location": {
+            "bbox_points": [
+              9.6,
+              54.0,
+              710.4,
+              450.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+      "slide_number": 16,
+      "title": "Knee Flexion & Extension",
+      "english_text": "Knee Flexion & Extension",
+      "raw_bilingual_text": "Knee Flexion & Extension 膝關節屈伸",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+          "slide_number": 16,
+          "content_type": "slide_title",
+          "text": "Knee Flexion & Extension",
+          "body_text": "Knee Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            102.98,
+            38.034,
+            501.37,
+            66.497
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001",
+          "visual_type": "image",
+          "name": "Knee Flexion & Extension visual",
+          "pdf_page": 16,
+          "slide_number": 16,
+          "location": {
+            "bbox_points": [
+              4.2,
+              102.0,
+              715.8,
+              504.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+      "slide_number": 17,
+      "title": "Dynamometer",
+      "english_text": "Dynanometer",
+      "raw_bilingual_text": "Dynanometer 測力計",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+          "slide_number": 17,
+          "content_type": "subtitle",
+          "text": "Dynanometer",
+          "body_text": "Dynanometer",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            93.384,
+            40.062,
+            428.95,
+            80.741
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001",
+          "visual_type": "image",
+          "name": "Dynamometer visual",
+          "pdf_page": 17,
+          "slide_number": 17,
+          "location": {
+            "bbox_points": [
+              212.64,
+              93.0,
+              488.52,
+              491.16
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+      "slide_number": 18,
+      "title": "Measuring Strength with Dynamometer",
+      "english_text": "Measuring Strength with Dynanometer",
+      "raw_bilingual_text": "Measuring Strength with Dynanometer 以測力計量度肌力",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018-B001",
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+          "slide_number": 18,
+          "content_type": "subtitle",
+          "text": "Measuring Strength with Dynanometer",
+          "body_text": "Measuring Strength with Dynanometer",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            68.16,
+            20.904,
+            677.831,
+            49.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001",
+          "visual_type": "image",
+          "name": "Measuring Strength with Dynamometer visual",
+          "pdf_page": 18,
+          "slide_number": 18,
+          "location": {
+            "bbox_points": [
+              12.0,
+              54.0,
+              712.92,
+              450.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 18,
+    "blocks": 103,
+    "list_items": 13
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

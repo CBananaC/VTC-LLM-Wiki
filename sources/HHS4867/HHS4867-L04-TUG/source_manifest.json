@@ -1,0 +1,115 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L04-TUG",
+  "title": "Lecture 4 - Timed Up and Go (TUG) Test",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:35+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L04-TUG",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "11 - 4. Timed up and go.pdf",
+        "original_path": "../Movement Science/02 Lectures/11 - 4. Timed up and go.pdf",
+        "size_bytes": 80974,
+        "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+        "copied_path": "sources/HHS4867/HHS4867-L04-TUG/00 Source/11 - 4. Timed up and go.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/11 - 4. Timed up and go.pdf",
+      "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+      "duplicate_paths": [
+        "03 Workshops/05 - 4. Timed up and go.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, every detected table type, bullet nesting, visual bounding boxes, page references, and exact quotations before changing verification status.",
+  "processing": {
+    "workflow": "register -> SHA-256 duplicate check -> inspect -> embedded text and MuPDF visual trace -> English slide blocks -> visual inventory -> pdfplumber table reconstruction -> slide/part/document/course summaries and keywords -> retrieval index -> validation",
+    "completed_at_hkt": "2026-09-04T01:40:12+08:00",
+    "source_info": {
+      "filename": "11 - 4. Timed up and go.pdf",
+      "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/11 - 4. Timed up and go.pdf",
+      "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L04-TUG/00 Source/11 - 4. Timed up and go.pdf",
+      "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+      "size_bytes": 80974,
+      "pdf_page_count": 1,
+      "pdfinfo": {
+        "Creator": "Macromedia FlashPaper 2.01.2283.0",
+        "Producer": "PDFlib 5.0.3 (C++/Win32)",
+        "CreationDate": "Wed Sep 14 06:31:35 2005 HKT",
+        "ModDate": "Sun Mar 16 00:10:17 2014 HKT",
+        "Custom Metadata": "no",
+        "Metadata Stream": "yes",
+        "Tagged": "no",
+        "UserProperties": "no",
+        "Suspects": "no",
+        "Form": "none",
+        "JavaScript": "no",
+        "Pages": 1,
+        "Encrypted": "no",
+        "Page size": "612 x 792 pts (letter)",
+        "Page rot": "0",
+        "File size": 80974,
+        "Optimized": "yes",
+        "PDF version": "1.4"
+      },
+      "text_extraction": "embedded PDF text with bbox coordinates",
+      "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+      "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+      "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+    },
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/11 - 4. Timed up and go.pdf",
+      "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+      "duplicate_paths": [
+        "03 Workshops/05 - 4. Timed up and go.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    },
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l04_tug_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l04_tug_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l04_tug_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l04_tug_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l04_tug_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l04_tug_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l04_tug_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "ai_usage": "04 Retrieval Index/AI_USAGE_INSTRUCTIONS.md"
+    },
+    "counts": {
+      "slides": 1,
+      "parts": 1,
+      "blocks": 28,
+      "concepts": 14,
+      "occurrences": 16,
+      "terms": 14,
+      "passages": 1,
+      "visuals": 3,
+      "tables": 0,
+      "quotation_candidates": 20
+    },
+    "all_derived_status": "generated_not_verified",
+    "ocr_layout_coverage": "embedded_text_and_mupdf_fallback"
+  }
+}

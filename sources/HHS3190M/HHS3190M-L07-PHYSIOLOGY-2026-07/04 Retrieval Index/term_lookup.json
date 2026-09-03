@@ -1,0 +1,1585 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS3190M",
+  "source_priority": "course_materials",
+  "terms": {
+    "acromegaly": {
+      "display_forms": [
+        "acromegaly"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000116"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "acth": {
+      "display_forms": [
+        "ACTH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019",
+        "HHS3190M-O-00000020"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091",
+        "HHS3190M-O-00000092",
+        "HHS3190M-O-00000093",
+        "HHS3190M-O-00000094"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091",
+        "HHS3190M-O-00000092",
+        "HHS3190M-O-00000093",
+        "HHS3190M-O-00000094"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "adh": {
+      "display_forms": [
+        "ADH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000021",
+        "HHS3190M-O-00000022"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "amp": {
+      "display_forms": [
+        "AMP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000023"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "atp": {
+      "display_forms": [
+        "ATP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000024"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "balance": {
+      "display_forms": [
+        "Balance"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "blood": {
+      "display_forms": [
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000063",
+        "HHS3190M-O-00000064",
+        "HHS3190M-O-00000065",
+        "HHS3190M-O-00000066",
+        "HHS3190M-O-00000067",
+        "HHS3190M-O-00000068",
+        "HHS3190M-O-00000069",
+        "HHS3190M-O-00000070",
+        "HHS3190M-O-00000071",
+        "HHS3190M-O-00000072"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "bloodglucosepancreasglucagonincreaseblood": {
+      "display_forms": [
+        "blood glucose Pancreas Glucagon Increase blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000073"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "camp": {
+      "display_forms": [
+        "cAMP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000117",
+        "HHS3190M-O-00000118"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cbo9780511800160": {
+      "display_forms": [
+        "CBO9780511800160"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000025"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "cellularactivities": {
+      "display_forms": [
+        "cellular activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000097",
+        "HHS3190M-O-00000098"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "cellularactivity": {
+      "display_forms": [
+        "cellular activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000097",
+        "HHS3190M-O-00000098"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "cholesterol": {
+      "display_forms": [
+        "cholesterol"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084"
+      ],
+      "categories": [
+        "medications"
+      ]
+    },
+    "cnyzygjs7659202403bdb6d9140b734323b49c9764deba8c45": {
+      "display_forms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000026"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "crh": {
+      "display_forms": [
+        "CRH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000027"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "cushingssyndrome": {
+      "display_forms": [
+        "Cushing’s syndrome"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000009"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "cushingssyndromehighblood": {
+      "display_forms": [
+        "Cushing’s syndrome High blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000074"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "developmenteggrowthhormonebalance": {
+      "display_forms": [
+        "development E g growth hormone Balance"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000099"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "diabete": {
+      "display_forms": [
+        "Diabete"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000010"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "diabetes": {
+      "display_forms": [
+        "Diabetes"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000010"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "diabetesmellitusdmexcessurine": {
+      "display_forms": [
+        "Diabetes mellitus DM Excess urine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000075"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "dna": {
+      "display_forms": [
+        "DNA"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000028",
+        "HHS3190M-O-00000029"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "endocrinefunction": {
+      "display_forms": [
+        "endocrine function"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000100"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "endocrinegland": {
+      "display_forms": [
+        "endocrine gland"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000119",
+        "HHS3190M-O-00000120",
+        "HHS3190M-O-00000121",
+        "HHS3190M-O-00000122",
+        "HHS3190M-O-00000123",
+        "HHS3190M-O-00000124"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "endocrinesystem": {
+      "display_forms": [
+        "endocrine system"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000125",
+        "HHS3190M-O-00000126",
+        "HHS3190M-O-00000127",
+        "HHS3190M-O-00000128",
+        "HHS3190M-O-00000129",
+        "HHS3190M-O-00000130"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "excessthirstexcesshungerenlargedthyroid": {
+      "display_forms": [
+        "Excess thirst Excess hunger Enlarged thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000011"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "exercise": {
+      "display_forms": [
+        "exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000082"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "exocrinegland": {
+      "display_forms": [
+        "exocrine gland"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000131"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "feelingcoldpuffyeyeshighblood": {
+      "display_forms": [
+        "feeling cold Puffy eyes High blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000076"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "feelinghotbulgingeyesenlargedthyroid": {
+      "display_forms": [
+        "feeling hot Bulging eyes Enlarged thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000012"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "fsh": {
+      "display_forms": [
+        "FSH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000030"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "function": {
+      "display_forms": [
+        "function"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000101",
+        "HHS3190M-O-00000102",
+        "HHS3190M-O-00000103"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000104"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gdp": {
+      "display_forms": [
+        "GDP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000031"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "glandmajorhormonesmajorfunction": {
+      "display_forms": [
+        "gland Major hormone s Major function"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000105"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gprotein": {
+      "display_forms": [
+        "G protein"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000132"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "gtp": {
+      "display_forms": [
+        "GTP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000032"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs3190m": {
+      "display_forms": [
+        "HHS3190M"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000033"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs3190mj": {
+      "display_forms": [
+        "HHS3190MJ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000034"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "highkblood": {
+      "display_forms": [
+        "high K blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000077"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hormone": {
+      "display_forms": [
+        "hormone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000035",
+        "HHS3190M-O-00000036",
+        "HHS3190M-O-00000037",
+        "HHS3190M-O-00000038",
+        "HHS3190M-O-00000039",
+        "HHS3190M-O-00000040",
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042",
+        "HHS3190M-O-00000043",
+        "HHS3190M-O-00000044",
+        "HHS3190M-O-00000045",
+        "HHS3190M-O-00000046",
+        "HHS3190M-O-00000047",
+        "HHS3190M-O-00000048",
+        "HHS3190M-O-00000049",
+        "HHS3190M-O-00000050",
+        "HHS3190M-O-00000051",
+        "HHS3190M-O-00000052",
+        "HHS3190M-O-00000053"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hormoneimbalancefeatureshighblood": {
+      "display_forms": [
+        "Hormone imbalance Features High blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000078"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hormonesecretionpancrea": {
+      "display_forms": [
+        "Hormone Secretion Pancrea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hormonesecretionpancreas": {
+      "display_forms": [
+        "Hormone Secretion Pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hypothalamuspituitaryadrenalaxis": {
+      "display_forms": [
+        "hypothalamus-pituitary-adrenal axis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000133"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "hypothalamuspituitarythyroidaxis": {
+      "display_forms": [
+        "hypothalamus-pituitary-thyroid axis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000134"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "inactivateenzymesinsidecytoplasmcellularactivities": {
+      "display_forms": [
+        "inactivate enzymes inside cytoplasm Cellular activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000106"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "inactivateenzymesinsidecytoplasmcellularactivity": {
+      "display_forms": [
+        "inactivate enzymes inside cytoplasm Cellular activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000106"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "integrateactivities": {
+      "display_forms": [
+        "integrate activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000107"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "integrateactivity": {
+      "display_forms": [
+        "integrate activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000107"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "intracellularreceptor": {
+      "display_forms": [
+        "intracellular receptor"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000135"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "ionsinsulindecreasebloodglucosepancrea": {
+      "display_forms": [
+        "ions Insulin Decrease blood glucose Pancrea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "ionsinsulindecreasebloodglucosepancreas": {
+      "display_forms": [
+        "ions Insulin Decrease blood glucose Pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "l7revisionexercise": {
+      "display_forms": [
+        "L7 Revision Exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000054"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "lipidsolublehormone": {
+      "display_forms": [
+        "lipid-soluble hormone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000136"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "luteinizinghormonelhstimulateovulationthyroid": {
+      "display_forms": [
+        "Luteinizing hormone LH Stimulate ovulation Thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000014"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "mechanism": {
+      "display_forms": [
+        "Mechanism",
+        "mechanism"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085",
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087",
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089"
+      ],
+      "categories": [
+        "pathophysiology"
+      ]
+    },
+    "mechanisms": {
+      "display_forms": [
+        "Mechanisms",
+        "mechanisms"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085",
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087",
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089"
+      ],
+      "categories": [
+        "pathophysiology"
+      ]
+    },
+    "negativefeedback": {
+      "display_forms": [
+        "negative feedback"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000137"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "normalrange": {
+      "display_forms": [
+        "normal range"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000108",
+        "HHS3190M-O-00000109"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "normalrangecorticotropinreleasinghighblood": {
+      "display_forms": [
+        "normal range Corticotropin releasing High blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000110"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "org10": {
+      "display_forms": [
+        "org/10"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000055"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "pancrea": {
+      "display_forms": [
+        "Pancrea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001",
+        "HHS3190M-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "pancreas": {
+      "display_forms": [
+        "Pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001",
+        "HHS3190M-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "parathyroidglandparathyroidhormonepthbalance": {
+      "display_forms": [
+        "Parathyroid gland Parathyroid hormone PTH Balance"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000111"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "potassiumionsinsulindecreaseblood": {
+      "display_forms": [
+        "potassium ions Insulin Decrease blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000080"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "prl": {
+      "display_forms": [
+        "PRL"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000056"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "prolongstressresponsesaldosteronebalance": {
+      "display_forms": [
+        "prolong stress responses Aldosterone Balance"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000112"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "pth": {
+      "display_forms": [
+        "PTH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000057"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "range": {
+      "display_forms": [
+        "range"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000113",
+        "HHS3190M-O-00000114"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "regulatingbiologicalclockthyroxinet4thyroid": {
+      "display_forms": [
+        "Regulating biological clock Thyroxine T4 Thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000058"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000115"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "revisionexercise": {
+      "display_forms": [
+        "revision exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "secondmessenger": {
+      "display_forms": [
+        "second messenger"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000138",
+        "HHS3190M-O-00000139"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "secretethyroid": {
+      "display_forms": [
+        "secrete thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000015"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "syndrome": {
+      "display_forms": [
+        "syndrome"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "t4highblood": {
+      "display_forms": [
+        "T4 High blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000059"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "targetcell": {
+      "display_forms": [
+        "target cell"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000140",
+        "HHS3190M-O-00000141",
+        "HHS3190M-O-00000142",
+        "HHS3190M-O-00000143",
+        "HHS3190M-O-00000144",
+        "HHS3190M-O-00000145"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "thyroid": {
+      "display_forms": [
+        "Thyroid",
+        "thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000003",
+        "HHS3190M-O-00000004",
+        "HHS3190M-O-00000005",
+        "HHS3190M-O-00000006",
+        "HHS3190M-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "thyroidhormone": {
+      "display_forms": [
+        "thyroid hormone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000146",
+        "HHS3190M-O-00000147",
+        "HHS3190M-O-00000148"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "thyroidhormones": {
+      "display_forms": [
+        "thyroid hormones"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000146",
+        "HHS3190M-O-00000147",
+        "HHS3190M-O-00000148"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "thyroidstimulatinghormonetshstimulatethyroid": {
+      "display_forms": [
+        "Thyroid stimulating hormone TSH Stimulate thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000017"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "trh": {
+      "display_forms": [
+        "TRH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000060"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "tsh": {
+      "display_forms": [
+        "TSH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000061",
+        "HHS3190M-O-00000062"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "tshthyroid": {
+      "display_forms": [
+        "TSH Thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "urine": {
+      "display_forms": [
+        "urine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000081"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "uterus": {
+      "display_forms": [
+        "uterus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000008"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "visualassociatedwithcytoplasm": {
+      "display_forms": [
+        "Visual associated with: Cytoplasm"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000153"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithhormone": {
+      "display_forms": [
+        "Visual associated with: hormone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000154"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithhormones": {
+      "display_forms": [
+        "Visual associated with: hormones"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000154"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithl7revisionexercise": {
+      "display_forms": [
+        "Visual associated with: L7 Revision Exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000155",
+        "HHS3190M-O-00000156"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithmajorendocrinegland": {
+      "display_forms": [
+        "Visual associated with: Major endocrine gland"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000157"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithmajorendocrineglands": {
+      "display_forms": [
+        "Visual associated with: Major endocrine glands"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000157"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithmechanismsofhormoneaction": {
+      "display_forms": [
+        "Visual associated with: Mechanisms of Hormone Action"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000158",
+        "HHS3190M-O-00000159",
+        "HHS3190M-O-00000160",
+        "HHS3190M-O-00000161",
+        "HHS3190M-O-00000162",
+        "HHS3190M-O-00000163",
+        "HHS3190M-O-00000164",
+        "HHS3190M-O-00000165",
+        "HHS3190M-O-00000166",
+        "HHS3190M-O-00000167",
+        "HHS3190M-O-00000168",
+        "HHS3190M-O-00000169",
+        "HHS3190M-O-00000170",
+        "HHS3190M-O-00000171",
+        "HHS3190M-O-00000172",
+        "HHS3190M-O-00000173",
+        "HHS3190M-O-00000174"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithoverviewofendocrinesystem": {
+      "display_forms": [
+        "Visual associated with: Overview of endocrine system"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000175",
+        "HHS3190M-O-00000176",
+        "HHS3190M-O-00000177",
+        "HHS3190M-O-00000178",
+        "HHS3190M-O-00000179",
+        "HHS3190M-O-00000180",
+        "HHS3190M-O-00000181"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithregulationofhormonesecretion": {
+      "display_forms": [
+        "Visual associated with: Regulation of Hormone Secretion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000182",
+        "HHS3190M-O-00000183",
+        "HHS3190M-O-00000184",
+        "HHS3190M-O-00000185"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithselfstudy": {
+      "display_forms": [
+        "Visual associated with: (Self-Study"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000186",
+        "HHS3190M-O-00000187",
+        "HHS3190M-O-00000188",
+        "HHS3190M-O-00000189"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithslide15": {
+      "display_forms": [
+        "Visual associated with: Slide 15"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000190"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwiththyroxinet4andtriiodothyroninet3": {
+      "display_forms": [
+        "Visual associated with: Thyroxine (T4) and Triiodothyronine (T3)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000191"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "watersolublehormone": {
+      "display_forms": [
+        "water-soluble hormone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000149",
+        "HHS3190M-O-00000150"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000151"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "weightgainlackthyroid": {
+      "display_forms": [
+        "weight gain Lack thyroid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000152"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 104,
+    "concepts_referenced": 92,
+    "occurrences_referenced": 191
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

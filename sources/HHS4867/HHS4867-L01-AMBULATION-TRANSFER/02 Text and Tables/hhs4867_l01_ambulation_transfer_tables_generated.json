@@ -1,0 +1,46 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L01-AMBULATION-TRANSFER",
+  "source": {
+    "filename": "01 - 1. Ambulation Transfer.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/01 - 1. Ambulation Transfer.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/00 Source/01 - 1. Ambulation Transfer.pdf",
+    "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+    "size_bytes": 684506,
+    "pdf_page_count": 10,
+    "pdfinfo": {
+      "Author": "NG SIN IN",
+      "Creator": "Microsoft® Word LTSC",
+      "Producer": "Microsoft® Word LTSC",
+      "CreationDate": "Tue Aug 19 14:02:54 2025 HKT",
+      "ModDate": "Tue Aug 19 14:02:54 2025 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 10,
+      "Encrypted": "no",
+      "Page size": "595.56 x 842.04 pts (A4)",
+      "Page rot": "0",
+      "File size": 684506,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No coordinate table grids were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

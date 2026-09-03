@@ -1,0 +1,813 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0001-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: Physiology L3: Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          150.12,
+          237.84,
+          809.22,
+          317.34
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Cover and Outline",
+          "Physiology L3: Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: proteins) to pass cell membrane",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          179.52,
+          243.6,
+          773.64,
+          504.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Revision: structure and properties of the cell membrane",
+          "proteins) to pass cell membrane"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Passive Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          322.2,
+          362.76,
+          719.04,
+          518.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Passive Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: Passive Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          689.16,
+          75.12,
+          851.16,
+          480.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Passive Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 9",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          164.4,
+          29.52,
+          451.92,
+          501.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Slide 9"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 9",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          508.08,
+          29.52,
+          716.76,
+          501.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Slide 9"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: Passive Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          687.84,
+          39.12,
+          918.36,
+          489.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Passive Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 12",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          77.64,
+          56.4,
+          826.44,
+          504.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Passive membrane transport",
+          "Slide 12"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Active Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          537.24,
+          133.32,
+          823.68,
+          256.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Active membrane transport",
+          "Active Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: ATP",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          144.0,
+          42.48,
+          816.0,
+          472.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Active membrane transport",
+          "ATP"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with: Active Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          679.92,
+          125.16,
+          907.56,
+          479.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Active membrane transport",
+          "Active Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Active Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          701.88,
+          166.92,
+          901.68,
+          393.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Active membrane transport",
+          "Active Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Active Membrane Transport",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          712.08,
+          75.84,
+          902.4,
+          475.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Active membrane transport",
+          "Active Membrane Transport"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0022-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: Membrane Transport and Membrane Potential",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          665.04,
+          377.88,
+          920.28,
+          492.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "Membrane transport and membrane potential",
+          "Membrane Transport and Membrane Potential"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0023-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: L3 Revision Exercise L3",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          338.16,
+          197.04,
+          621.84,
+          481.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+        "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 3 - Membrane Transport (July 2026)",
+        "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 3 - Membrane Transport (July 2026)",
+          "L3 Revision Exercise",
+          "L3 Revision Exercise L3"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 15,
+    "tables": 0,
+    "non_tables": 15
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

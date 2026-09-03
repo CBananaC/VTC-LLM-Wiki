@@ -1,0 +1,74 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+  "title": "Lecture 5 - Mobility and Walking Aids",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:35+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "original_path": "../Movement Science/02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "size_bytes": 1738941,
+        "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+        "copied_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/00 Source/17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+      "duplicate_paths": [
+        "02 Lectures/18 - 5. Mobility Walking Aids 助行工具.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T01:57:40+08:00",
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l05_mobility_walking_aids_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l05_mobility_walking_aids_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l05_mobility_walking_aids_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l05_mobility_walking_aids_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l05_mobility_walking_aids_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l05_mobility_walking_aids_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l05_mobility_walking_aids_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs4867_l05_mobility_walking_aids.py"
+    },
+    "counts": {
+      "slides": 47,
+      "parts": 5,
+      "blocks": 247,
+      "concepts": 114,
+      "occurrences": 189,
+      "terms": 113,
+      "passages": 47,
+      "visuals": 26,
+      "tables": 0,
+      "quotation_candidates": 70
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

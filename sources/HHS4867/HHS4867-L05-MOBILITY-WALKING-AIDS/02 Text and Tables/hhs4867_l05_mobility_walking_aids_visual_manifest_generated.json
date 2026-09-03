@@ -1,0 +1,1456 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+  "source": {
+    "filename": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/00 Source/17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+    "pdf_page_count": 47,
+    "pdfinfo": {
+      "Title": "投影片 1",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:51:54 2026 HKT",
+      "ModDate": "Thu Aug 27 11:51:54 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 47,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1738941,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0003",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Walking aids (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          54.0,
+          718.44,
+          460.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0003",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0003",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART00",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Aims, selection, and weight-bearing status",
+          "Walking aids (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Different Types of Walking Aids visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          43.92,
+          162.0,
+          676.08,
+          244.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART00",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Aims, selection, and weight-bearing status",
+          "Different Types of Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0004-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Different Types of Walking Aids visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          46.92,
+          163.44,
+          674.16,
+          240.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0004",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART00",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Aims, selection, and weight-bearing status",
+          "Different Types of Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0008",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Weight Bearing Status (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          65.88,
+          714.96,
+          457.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0008",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0008",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART00",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Aims, selection, and weight-bearing status",
+          "Weight Bearing Status (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0009",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Walking aid selection (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          37.56,
+          720.0,
+          501.36
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0009",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0009",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART00",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Aims, selection, and weight-bearing status",
+          "Walking aid selection (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Walking Frame visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          148.68,
+          200.52,
+          316.56,
+          410.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Walking Frame"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0011-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Walking Frame visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          396.0,
+          204.0,
+          579.6,
+          432.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0011",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Walking Frame"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0014-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Axillary Crutches visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          172.2,
+          155.4,
+          333.12,
+          393.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Axillary Crutches"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0014-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Axillary Crutches visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          348.0,
+          144.0,
+          494.04,
+          447.36
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0014",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Axillary Crutches"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0017-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Aid - Elbow crutches visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          390.0,
+          240.0,
+          510.6,
+          439.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Aid - Elbow crutches"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0017-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Aid - Elbow crutches visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          252.48,
+          151.44,
+          353.16,
+          441.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0017",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Aid - Elbow crutches"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0020-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Quadripod visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          50.28,
+          220.08,
+          215.64,
+          440.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Quadripod"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0020-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Quadripod visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          243.36,
+          183.84,
+          669.36,
+          447.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0020",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Quadripod"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0023-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Stick visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          246.84,
+          186.0,
+          684.72,
+          428.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Stick"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0023-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Stick visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          72.0,
+          150.0,
+          233.4,
+          437.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0023",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART01",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Types of walking aids",
+          "Stick"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0025-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0025",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Fitting walking aids (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          66.6,
+          719.52,
+          473.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0025",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0025",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART02",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Fitting walking aids",
+          "Fitting walking aids (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0026-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0026",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Standing upright visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          184.2,
+          0.0,
+          487.8,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0026",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0026",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART02",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Fitting walking aids",
+          "Standing upright"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0027-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0027",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Elbow bend at 20 to 30 degrees visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          189.96,
+          0.0,
+          498.48,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0027",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0027",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART02",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Fitting walking aids",
+          "Elbow bend at 20 to 30 degrees"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0028-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0028",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "image",
+      "name": "Stick placing anterolaterally visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          176.4,
+          0.0,
+          488.76,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0028",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0028",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART02",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Fitting walking aids",
+          "Stick placing anterolaterally"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0029-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0029",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "For axillary/elbow crutches visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          156.72,
+          165.84,
+          562.2,
+          479.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0029",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0029",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART02",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Fitting walking aids",
+          "For axillary/elbow crutches"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0032-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0032",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Gait patterns (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          60.0,
+          720.0,
+          466.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0032",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0032",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART03",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Gait patterns",
+          "Gait patterns (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0039-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0039",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 39,
+      "slide_number": 39,
+      "visual_type": "image",
+      "name": "Gait pattern comparison (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          54.0,
+          720.0,
+          460.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0039",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 39,
+        "page_number_type": "slide_number",
+        "slide_number": 39,
+        "pdf_page": 39,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 39 (PDF p. 39)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0039",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART03",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Gait patterns",
+          "Gait pattern comparison (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0043-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0043",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Stairs (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          54.0,
+          720.0,
+          460.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0043",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0043",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART04",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Stairs",
+          "Stairs (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0044-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0044",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 44,
+      "slide_number": 44,
+      "visual_type": "image",
+      "name": "Stairs (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          4.92,
+          60.0,
+          715.08,
+          462.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0044",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 44,
+        "page_number_type": "slide_number",
+        "slide_number": 44,
+        "pdf_page": 44,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 44 (PDF p. 44)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0044",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART04",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Stairs",
+          "Stairs (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0046-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0046",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 46,
+      "slide_number": 46,
+      "visual_type": "image",
+      "name": "Stairs (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          55.8,
+          720.0,
+          463.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0046",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 46,
+        "page_number_type": "slide_number",
+        "slide_number": 46,
+        "pdf_page": 46,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 46 (PDF p. 46)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0046",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART04",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Stairs",
+          "Stairs (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-VIS-P0047-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0047",
+      "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "pdf_page": 47,
+      "slide_number": 47,
+      "visual_type": "image",
+      "name": "Stairs (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          72.0,
+          720.0,
+          480.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L05-MOBILITY-WALKING-AIDS-P0047",
+        "document_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "document_title": "Lecture 5 - Mobility and Walking Aids",
+        "source_file": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+        "page_number": 47,
+        "page_number_type": "slide_number",
+        "slide_number": 47,
+        "pdf_page": 47,
+        "formatted": "17 - 5. Mobility Walking Aids 助行工具.pdf, slide 47 (PDF p. 47)"
+      },
+      "section_ids": [
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-P0047",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS-PART04",
+        "HHS4867-L05-MOBILITY-WALKING-AIDS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 5 - Mobility and Walking Aids",
+          "Stairs",
+          "Stairs (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 26,
+    "tables": 0,
+    "non_table_visuals": 26
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

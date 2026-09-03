@@ -1,0 +1,1039 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS3190M",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS3190M-COURSE",
+    "level": "course",
+    "course_code": "HHS3190M",
+    "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+    "children": [
+      "HHS3190M-L03-PHYSIOLOGY-2026-07"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS3190M-C-0000001",
+      "HHS3190M-C-0000002",
+      "HHS3190M-C-0000003",
+      "HHS3190M-C-0000004",
+      "HHS3190M-C-0000005",
+      "HHS3190M-C-0000006",
+      "HHS3190M-C-0000007",
+      "HHS3190M-C-0000008",
+      "HHS3190M-C-0000009",
+      "HHS3190M-C-0000010",
+      "HHS3190M-C-0000011",
+      "HHS3190M-C-0000012",
+      "HHS3190M-C-0000013",
+      "HHS3190M-C-0000014",
+      "HHS3190M-C-0000015",
+      "HHS3190M-C-0000016",
+      "HHS3190M-C-0000017",
+      "HHS3190M-C-0000018",
+      "HHS3190M-C-0000019",
+      "HHS3190M-C-0000020",
+      "HHS3190M-C-0000022",
+      "HHS3190M-C-0000023",
+      "HHS3190M-C-0000024",
+      "HHS3190M-C-0000025",
+      "HHS3190M-C-0000026"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS3190M-COURSE",
+      "level": "course",
+      "course_code": "HHS3190M",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "level": "document",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Lecture 3 - Membrane Transport (July 2026)",
+      "source_file": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "parent_id": "HHS3190M-COURSE",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-PART06"
+      ],
+      "slide_start": 1,
+      "slide_end": 24,
+      "pdf_page_start": 1,
+      "pdf_page_end": 24,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000033",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000035",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000038",
+        "HHS3190M-C-0000039",
+        "HHS3190M-C-0000040",
+        "HHS3190M-C-0000041",
+        "HHS3190M-C-0000042",
+        "HHS3190M-C-0000043",
+        "HHS3190M-C-0000044",
+        "HHS3190M-C-0000045",
+        "HHS3190M-C-0000046",
+        "HHS3190M-C-0000047"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Cover and Outline",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "slide_start": 1,
+      "slide_end": 2,
+      "pdf_page_start": 1,
+      "pdf_page_end": 2,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0001-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Physiology L3: Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0001",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0001-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Outline",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART00",
+      "children": [],
+      "slide_number": 2,
+      "pdf_page": 2,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0002",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Revision: structure and properties of the cell membrane",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005"
+      ],
+      "slide_start": 3,
+      "slide_end": 5,
+      "pdf_page_start": 3,
+      "pdf_page_end": 5,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0004-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000045"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Revision: Structure and Properties of Cell Membrane",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 3,
+      "pdf_page": 3,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0003",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000021"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "proteins) to pass cell membrane",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 4,
+      "pdf_page": 4,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0004",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0004-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000045"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 5,
+      "pdf_page": 5,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0005",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive membrane transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012"
+      ],
+      "slide_start": 6,
+      "slide_end": 12,
+      "pdf_page_start": 6,
+      "pdf_page_end": 12,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0006-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0007-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0001",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0010-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0012-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000033",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000043",
+        "HHS3190M-C-0000046",
+        "HHS3190M-C-0000047"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 6,
+      "pdf_page": 6,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0006",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0006-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000033",
+        "HHS3190M-C-0000043"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 7,
+      "pdf_page": 7,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0007",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0007-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000043"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 8,
+      "pdf_page": 8,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0008",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000030"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Slide 9",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 9,
+      "pdf_page": 9,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0009",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000047"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Passive Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 10,
+      "pdf_page": 10,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0010",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0010-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000043"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "• Tonicity",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 11,
+      "pdf_page": 11,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0011",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Slide 12",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 12,
+      "pdf_page": 12,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0012",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0012-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000046"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active membrane transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "slide_start": 13,
+      "slide_end": 20,
+      "pdf_page_start": 13,
+      "pdf_page_end": 20,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0015-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0019-C0000",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0020-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000038",
+        "HHS3190M-C-0000039",
+        "HHS3190M-C-0000040"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 13,
+      "pdf_page": 13,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0013",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000027"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 14,
+      "pdf_page": 14,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0014",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000027"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 15,
+      "pdf_page": 15,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0015",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0015-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "ATP",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 16,
+      "pdf_page": 16,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0016",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0016-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000040"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 17,
+      "pdf_page": 17,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0017",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0017-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000038",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 18,
+      "pdf_page": 18,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0018",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 19,
+      "pdf_page": 19,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0019",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0019-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Active Membrane Transport",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 20,
+      "pdf_page": 20,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0020",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0020-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Membrane transport and membrane potential",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "slide_start": 21,
+      "slide_end": 22,
+      "pdf_page_start": 21,
+      "pdf_page_end": 22,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0022-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000035",
+        "HHS3190M-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Membrane Transport and Membrane Potential",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 21,
+      "pdf_page": 21,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0021",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000035"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "Membrane Transport and Membrane Potential",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 22,
+      "pdf_page": 22,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0022",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0022-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000035",
+        "HHS3190M-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "L3 Revision Exercise",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023"
+      ],
+      "slide_start": 23,
+      "slide_end": 23,
+      "pdf_page_start": 23,
+      "pdf_page_end": 23,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023"
+      ],
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0023-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000041"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "L3 Revision Exercise L3",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART05",
+      "children": [],
+      "slide_number": 23,
+      "pdf_page": 23,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0023",
+      "visual_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-VIS-P0023-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000041"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART06",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "slide_start": 24,
+      "slide_end": 24,
+      "pdf_page_start": 24,
+      "pdf_page_end": 24,
+      "source_page_ids": [
+        "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000020"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-PART06",
+      "children": [],
+      "slide_number": 24,
+      "pdf_page": 24,
+      "source_page_id": "HHS3190M-L03-PHYSIOLOGY-2026-07-P0024",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000020"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 7,
+    "slides": 24
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [
+    {
+      "outline_item": "Revision: structure and properties of the cell membrane",
+      "mapped_slides": [
+        3,
+        4,
+        5
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Passive membrane transport",
+      "mapped_slides": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Active membrane transport",
+      "mapped_slides": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Membrane transport and membrane potential",
+      "mapped_slides": [
+        21,
+        22
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "L3 Revision Exercise",
+      "mapped_slides": [
+        23
+      ],
+      "mapping_status": "generated_not_verified"
+    }
+  ],
+  "hierarchy_semantics": {
+    "course": "HHS3190M course container",
+    "document": "one lecture PDF/deck",
+    "part": "explicit lecture topic/front-matter grouping",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata; contents not reconstructed unless a table candidate exists"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "vtc-hhs4867.retrieval-index-manifest.v1",
+  "record_type": "retrieval_index_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L03-RANGE-OF-MOTION",
+  "package_path": "sources/HHS4867/HHS4867-L03-RANGE-OF-MOTION",
+  "index_files": {
+    "concepts": "concept_index.json",
+    "occurrences": "occurrence_index.json",
+    "terms": "term_lookup.json",
+    "passages": "passage_index.jsonl",
+    "visuals": "visual_index.json",
+    "structure": "structure_lookup.json",
+    "summaries": "hierarchical_summaries.json",
+    "formal_output": "formal_output_schema.json",
+    "validation": "retrieval_index_validation_report.json"
+  },
+  "source_separation": "This deck remains separate from all other HHS4867 and supplemental source packages.",
+  "retrieval_policy": {
+    "course_priority": "This is primary HHS4867 course evidence.",
+    "source_passages_primary": true,
+    "summaries_context_only": true,
+    "non_table_visuals_metadata_only": true,
+    "tables_full_reconstruction_when_detected": true,
+    "exact_quotes_require_manual_verification": true,
+    "claims_index": "not_created"
+  },
+  "counts": {
+    "slides": 8,
+    "parts": 1,
+    "blocks": 81,
+    "concepts": 67,
+    "occurrences": 133,
+    "terms": 67,
+    "passages": 8,
+    "visuals": 6,
+    "tables": 5,
+    "quotation_candidates": 51
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

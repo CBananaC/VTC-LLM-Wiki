@@ -1,0 +1,286 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART00",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "Cover and Outline",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "summary": "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27 Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study",
+      "summary_sentences": [
+        "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27",
+        "Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "Overview of the endocrine system",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 3,
+      "slide_end": 8,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008"
+      ],
+      "summary": "Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes. Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical. • The chemical (Hormone) travel through the blood. • Another cell (Target cell) is stimulated to change activities.",
+      "summary_sentences": [
+        "Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes.",
+        "Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses",
+        "Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical.",
+        "• The chemical (Hormone) travel through the blood.",
+        "• Another cell (Target cell) is stimulated to change activities."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "Hormone chemical structures and mechanisms of action",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 9,
+      "slide_end": 16,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "summary": "Hormone Chemical Structure • Chemical structure of a hormone determines its solubility in water. This is related to: • How is it transported in blood? • How does it affect its target cells? • Two classes: • (1) Protein or amino acid based Most hormones are proteins or amino acid based. LH, Epi, ADH) These are usually water soluble and cannot cross cell membrane.",
+      "summary_sentences": [
+        "Hormone Chemical Structure • Chemical structure of a hormone determines its solubility in water.",
+        "This is related to: • How is it transported in blood?",
+        "• How does it affect its target cells?",
+        "• Two classes: • (1) Protein or amino acid based Most hormones are proteins or amino acid based.",
+        "LH, Epi, ADH) These are usually water soluble and cannot cross cell membrane."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "Regulation of hormone secretion",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 17,
+      "slide_end": 20,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "summary": "Regulation of Hormone Secretion • The synthesis and release of most hormones are regulated by some type of negative feedback mechanism. • 3 types of stimuli trigger endocrine glands to release more hormones. • (1) Humoral stimuli concentrations of certain molecules (E.g. Calcium ions) in blood • “Low Na + or high K + blood levels ➔ Adrenal gland secretes more aldosterone ➔ Increase Na + and decrease K + • (2) Neural stimuli • “Sympathetic nervous system ➔ Adrenal gland secretes more epinephrine (Epi) ➔ Enhance “Fight-or-flight” responses • (3) Hormonal stimuli concentrations of other hormones in blood Regulation of Hormone Secretion • Pancreas and its endocrine function This is an example of “humoral stimulus”",
+      "summary_sentences": [
+        "Regulation of Hormone Secretion • The synthesis and release of most hormones are regulated by some type of negative feedback mechanism.",
+        "• 3 types of stimuli trigger endocrine glands to release more hormones.",
+        "• (1) Humoral stimuli concentrations of certain molecules (E.g.",
+        "Calcium ions) in blood • “Low Na + or high K + blood levels ➔ Adrenal gland secretes more aldosterone ➔ Increase Na + and decrease K + • (2) Neural stimuli • “Sympathetic nervous system ➔ Adrenal gland secretes more epinephrine (Epi) ➔ Enhance “Fight-or-flight” responses • (3) Hormonal stimuli concentrations of other hormones in blood",
+        "Regulation of Hormone Secretion • Pancreas and its endocrine function This is an example of “humoral stimulus”"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "Examples of endocrine disorders",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 21,
+      "slide_end": 22,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "summary": "Examples of Hormone Imbalance Condition Hormone imbalance Features High blood glucose level Lack insulin OR Diabetes mellitus (DM) Excess urine Cells do NOT response to insulin Excess thirst Excess hunger Enlarged thyroid (goiter) Rapid metabolism and weight loss Hyperthyroidism Rapid heartbeat Too much thyroid hormone Sweating, nervousness, feeling hot Bulging eyes Enlarged thyroid (goiter) Hypothyroidism Slow metabolism and weight gain Lack thyroid hormone Mental sluggishness, feeling cold Puffy eyes High blood glucose level Too much cortisol (or other Cushing’s syndrome High blood pressure chemicals with similar structure) Central obesity with thin limbs Moon face and buffalo hump Acromegaly Excess growth hormone in adult Overgrowth of bones in hands, feet, and face",
+      "summary_sentences": [
+        "Examples of Hormone Imbalance Condition Hormone imbalance Features High blood glucose level Lack insulin OR Diabetes mellitus (DM) Excess urine Cells do NOT response to insulin Excess thirst Excess hunger Enlarged thyroid (goiter) Rapid metabolism and weight loss Hyperthyroidism Rapid heartbeat Too much thyroid hormone Sweating, nervousness, feeling hot Bulging eyes Enlarged thyroid (goiter) Hypothyroidism Slow metabolism and weight gain Lack thyroid hormone Mental sluggishness, feeling cold Puffy eyes High blood glucose level Too much cortisol (or other Cushing’s syndrome High blood pressure chemicals with similar structure) Central obesity with thin limbs Moon face and buffalo hump Acromegaly Excess growth hormone in adult Overgrowth of bones in hands, feet, and face"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART05",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "L7 Revision Exercise",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 23,
+      "slide_end": 23,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023"
+      ],
+      "summary": "L7 Revision Exercise ● Screen the QR code below to complete all questions in this revision exercise.",
+      "summary_sentences": [
+        "L7 Revision Exercise ● Screen the QR code below to complete all questions in this revision exercise."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07-PART06",
+      "level": "part",
+      "document_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "slide_start": 24,
+      "slide_end": 24,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K. (2018) Human Anatomy & Physiology (11th ed.). Pearson International • Martini, F. Fundamentals of Anatomy and Physiology (11th ed.). England: Pearson Benjamin Cummings.",
+      "summary_sentences": [
+        "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K.",
+        "(2018) Human Anatomy & Physiology (11th ed.).",
+        "Pearson International • Martini, F.",
+        "Fundamentals of Anatomy and Physiology (11th ed.).",
+        "England: Pearson Benjamin Cummings."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "level": "document",
+      "title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+      "parent_id": "HHS3190M-COURSE",
+      "slide_start": 1,
+      "slide_end": 24,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27 Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes. Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical. • The chemical (Hormone) travel through the blood. • Another cell (Target cell) is stimulated to change activities. Overview of endocrine system • Different effects of hormones • Reproduction (E.g.",
+      "summary_sentences": [
+        "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27",
+        "Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study",
+        "Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes.",
+        "Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses",
+        "Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical.",
+        "• The chemical (Hormone) travel through the blood.",
+        "• Another cell (Target cell) is stimulated to change activities.",
+        "Overview of endocrine system • Different effects of hormones • Reproduction (E.g."
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-COURSE",
+      "level": "course",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "summary": "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27 Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes. Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical. • The chemical (Hormone) travel through the blood. • Another cell (Target cell) is stimulated to change activities. Overview of endocrine system • Different effects of hormones • Reproduction (E.g.",
+      "summary_sentences": [
+        "HHS3190M Human Physiology and Functional Anatomy for Rehabilitation Services HHS3190MJ Physiology L7: Endocrine System (Sem 1 AY 26-27 26-27 Outline • Endocrine system and major endocrine glands • Hormone chemical structures • Mechanisms of hormone action • Regulation of hormone secretion • Examples of hormone imbalance (Self-Study Overview of endocrine system • The endocrine system and nervous system are two major parts of human’s coordinating system to integrate activities of all cells and responses to both internal and external changes.",
+        "Coordinating System Endocrine System Nervous System Affect target cells by Provide sustained Affect target cells by Provide fast Widespread effects Precise effects neurotransmitters responses hormones responses Overview of endocrine system • Endocrine system • A cell (Endocrine gland cell) secretes a chemical.",
+        "• The chemical (Hormone) travel through the blood.",
+        "• Another cell (Target cell) is stimulated to change activities.",
+        "Overview of endocrine system • Different effects of hormones • Reproduction (E.g."
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

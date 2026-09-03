@@ -1,0 +1,42 @@
+{
+  "schema_version": "vtc-hhs3190m.retrieval-index-manifest.v1",
+  "record_type": "retrieval_index_manifest",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+  "package_path": "sources/HHS3190M/HHS3190M-L07-PHYSIOLOGY-2026-07",
+  "index_files": {
+    "concepts": "concept_index.json",
+    "occurrences": "occurrence_index.json",
+    "terms": "term_lookup.json",
+    "passages": "passage_index.jsonl",
+    "visuals": "visual_index.json",
+    "structure": "structure_lookup.json",
+    "summaries": "hierarchical_summaries.json",
+    "formal_output": "formal_output_schema.json",
+    "validation": "retrieval_index_validation_report.json"
+  },
+  "source_separation": "This lecture package remains separate from other HHS3190M sources and all HHS4185 packages.",
+  "retrieval_policy": {
+    "course_priority": "This is primary HHS3190M lecture evidence.",
+    "source_passages_primary": true,
+    "summaries_context_only": true,
+    "non_table_visuals_metadata_only": true,
+    "tables_full_reconstruction_when_detected": true,
+    "exact_quotes_require_manual_verification": true,
+    "claims_index": "not_created"
+  },
+  "counts": {
+    "slides": 24,
+    "parts": 7,
+    "blocks": 284,
+    "concepts": 92,
+    "occurrences": 191,
+    "terms": 104,
+    "passages": 24,
+    "visuals": 39,
+    "tables": 0,
+    "quotation_candidates": 98
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

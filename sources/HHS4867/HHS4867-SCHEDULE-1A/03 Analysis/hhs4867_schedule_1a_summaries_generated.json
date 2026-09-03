@@ -1,0 +1,75 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-SCHEDULE-1A",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-SCHEDULE-1A-PART01",
+      "level": "part",
+      "document_id": "HHS4867-SCHEDULE-1A",
+      "title": "Functional Movement Science - Class 1A Lecture Schedule",
+      "parent_id": "HHS4867-SCHEDULE-1A",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-SCHEDULE-1A-P0001"
+      ],
+      "summary": "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)",
+      "summary_sentences": [
+        "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-SCHEDULE-1A",
+      "level": "document",
+      "title": "Functional Movement Science - Class 1A Lecture Schedule",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-SCHEDULE-1A-P0001"
+      ],
+      "summary": "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)",
+      "summary_sentences": [
+        "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-SCHEDULE-1A-PART01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-SCHEDULE-1A-P0001"
+      ],
+      "summary": "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)",
+      "summary_sentences": [
+        "Module Code: HAS4867_ Class 1A Module Title: Functional Movement Science Lecture (Total 8 hour) Workshop (Total 31 hour)"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-SCHEDULE-1A"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

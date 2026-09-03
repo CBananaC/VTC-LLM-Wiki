@@ -1,0 +1,71 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L04-MFAC-VIS-P0001-T01",
+      "table_id": "HHS4867-L04-MFAC-TBL-P0001-C01",
+      "document_id": "HHS4867-L04-MFAC",
+      "source_page_id": "HHS4867-L04-MFAC-P0001",
+      "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "table",
+      "name": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          89.325,
+          102.904,
+          505.909,
+          360.962
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-MFAC-P0001",
+        "document_id": "HHS4867-L04-MFAC",
+        "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+        "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Modified Functional Ambulation Categories",
+          "Lecture 4 - Modified Functional Ambulation Categories",
+          "Lecture 4 - Modified Functional Ambulation Categories"
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "visuals": 1,
+    "tables": 1,
+    "non_tables": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

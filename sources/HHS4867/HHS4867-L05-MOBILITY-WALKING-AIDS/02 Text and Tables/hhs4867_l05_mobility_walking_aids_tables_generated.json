@@ -1,0 +1,45 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+  "source": {
+    "filename": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/00 Source/17 - 5. Mobility Walking Aids 助行工具.pdf",
+    "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+    "pdf_page_count": 47,
+    "pdfinfo": {
+      "Title": "投影片 1",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:51:54 2026 HKT",
+      "ModDate": "Thu Aug 27 11:51:54 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 47,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1738941,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

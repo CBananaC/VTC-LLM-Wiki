@@ -1,0 +1,1089 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS3190M",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS3190M-COURSE",
+    "level": "course",
+    "course_code": "HHS3190M",
+    "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+    "children": [
+      "HHS3190M-L04-PHYSIOLOGY-2026-07"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS3190M-C-0000001",
+      "HHS3190M-C-0000002",
+      "HHS3190M-C-0000003",
+      "HHS3190M-C-0000004",
+      "HHS3190M-C-0000006",
+      "HHS3190M-C-0000007",
+      "HHS3190M-C-0000008",
+      "HHS3190M-C-0000009",
+      "HHS3190M-C-0000010",
+      "HHS3190M-C-0000011",
+      "HHS3190M-C-0000012",
+      "HHS3190M-C-0000013",
+      "HHS3190M-C-0000014",
+      "HHS3190M-C-0000015",
+      "HHS3190M-C-0000016",
+      "HHS3190M-C-0000017",
+      "HHS3190M-C-0000018",
+      "HHS3190M-C-0000019",
+      "HHS3190M-C-0000020",
+      "HHS3190M-C-0000021",
+      "HHS3190M-C-0000022"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS3190M-COURSE",
+      "level": "course",
+      "course_code": "HHS3190M",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000022"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "level": "document",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "parent_id": "HHS3190M-COURSE",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART06"
+      ],
+      "slide_start": 1,
+      "slide_end": 28,
+      "pdf_page_start": 1,
+      "pdf_page_end": 28,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000007",
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000033",
+        "HHS3190M-C-0000034",
+        "HHS3190M-C-0000035",
+        "HHS3190M-C-0000036",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000038",
+        "HHS3190M-C-0000039",
+        "HHS3190M-C-0000040",
+        "HHS3190M-C-0000041",
+        "HHS3190M-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART00",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Cover and Outline",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "slide_start": 1,
+      "slide_end": 2,
+      "pdf_page_start": 1,
+      "pdf_page_end": 2,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0001-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "(Sem 1 AY 26-27",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART00",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0001-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0002",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Outline",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART00",
+      "children": [],
+      "slide_number": 2,
+      "pdf_page": 2,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0002",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000030"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Basic concepts of cellular energetics and metabolism",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006"
+      ],
+      "slide_start": 3,
+      "slide_end": 6,
+      "pdf_page_start": 3,
+      "pdf_page_end": 6,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0005-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0006-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000030",
+        "HHS3190M-C-0000035",
+        "HHS3190M-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0003",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Basic Concepts of Cellular Energetics and Metabolism",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 3,
+      "pdf_page": 3,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0003",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000030"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0004",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Basic Concepts of Cellular Energetics and Metabolism",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 4,
+      "pdf_page": 4,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0004",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000024",
+        "HHS3190M-C-0000025",
+        "HHS3190M-C-0000026",
+        "HHS3190M-C-0000030"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "H 2 O",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 5,
+      "pdf_page": 5,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0005-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000035"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Slide 6",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+      "children": [],
+      "slide_number": 6,
+      "pdf_page": 6,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0006-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and functions of enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018"
+      ],
+      "slide_start": 7,
+      "slide_end": 18,
+      "pdf_page_start": 7,
+      "pdf_page_end": 18,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0008-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0018-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000016",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000033",
+        "HHS3190M-C-0000037",
+        "HHS3190M-C-0000038",
+        "HHS3190M-C-0000040"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0007",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 7,
+      "pdf_page": 7,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0007",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000019",
+        "HHS3190M-C-0000023"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 8,
+      "pdf_page": 8,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0008-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0009",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 9,
+      "pdf_page": 9,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0009",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000001",
+        "HHS3190M-C-0000002",
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000023",
+        "HHS3190M-C-0000033"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0010",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "What is the function of following enzyme?",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 10,
+      "pdf_page": 10,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0010",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000017"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0011",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 11,
+      "pdf_page": 11,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0011",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000017",
+        "HHS3190M-C-0000023"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0012",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 12,
+      "pdf_page": 12,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0012",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000027"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0013",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 13,
+      "pdf_page": 13,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0013",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000014",
+        "HHS3190M-C-0000016"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Slide 14",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 14,
+      "pdf_page": 14,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0014-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000040"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0015",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 15,
+      "pdf_page": 15,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0015",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000020",
+        "HHS3190M-C-0000022"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "pH 7-9 (Alkaline)",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 16,
+      "pdf_page": 16,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0016-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000038"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 17,
+      "pdf_page": 17,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0017-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000027",
+        "HHS3190M-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Nature and Functions of Enzymes",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+      "children": [],
+      "slide_number": 18,
+      "pdf_page": 18,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0018-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000029",
+        "HHS3190M-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Concepts of homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "slide_start": 19,
+      "slide_end": 22,
+      "pdf_page_start": 19,
+      "pdf_page_end": 22,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0022"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0020-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000041"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0019",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Concepts of Homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 19,
+      "pdf_page": 19,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0019",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000015",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Slide 20",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 20,
+      "pdf_page": 20,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0020-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000041"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0021",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Concepts of Homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 21,
+      "pdf_page": 21,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0021",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000021",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0022",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Concepts of Homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+      "children": [],
+      "slide_number": 22,
+      "pdf_page": 22,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0022",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Examples of homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0026"
+      ],
+      "slide_start": 23,
+      "slide_end": 26,
+      "pdf_page_start": 23,
+      "pdf_page_end": 26,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0026"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0023-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0024-C0000",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0025-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000034"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Examples of",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 23,
+      "pdf_page": 23,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0023-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000034"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Examples of",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 24,
+      "pdf_page": 24,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0024-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000034"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Examples of",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 25,
+      "pdf_page": 25,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0025-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000028",
+        "HHS3190M-C-0000031",
+        "HHS3190M-C-0000032",
+        "HHS3190M-C-0000034"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0026",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "Examples of Homeostasis",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+      "children": [],
+      "slide_number": 26,
+      "pdf_page": 26,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0026",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000008",
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000010",
+        "HHS3190M-C-0000011",
+        "HHS3190M-C-0000018",
+        "HHS3190M-C-0000022",
+        "HHS3190M-C-0000028"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART05",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "L4 Revision Exercise",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027"
+      ],
+      "slide_start": 27,
+      "slide_end": 27,
+      "pdf_page_start": 27,
+      "pdf_page_end": 27,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027"
+      ],
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0027-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000036"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "L4 Revision Exercise L4",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART05",
+      "children": [],
+      "slide_number": 27,
+      "pdf_page": 27,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027",
+      "visual_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0027-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000006",
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000013",
+        "HHS3190M-C-0000036"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART06",
+      "level": "part",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "children": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0028"
+      ],
+      "slide_start": 28,
+      "slide_end": 28,
+      "pdf_page_start": 28,
+      "pdf_page_end": 28,
+      "source_page_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0028"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000007"
+      ]
+    },
+    {
+      "section_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0028",
+      "level": "slide",
+      "course_code": "HHS3190M",
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-PART06",
+      "children": [],
+      "slide_number": 28,
+      "pdf_page": 28,
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0028",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS3190M-C-0000003",
+        "HHS3190M-C-0000004",
+        "HHS3190M-C-0000007"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 7,
+    "slides": 28
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [
+    {
+      "outline_item": "Basic concepts of cellular energetics and metabolism",
+      "mapped_slides": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Nature and functions of enzymes",
+      "mapped_slides": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Concepts of homeostasis",
+      "mapped_slides": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Examples of homeostasis",
+      "mapped_slides": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "L4 Revision Exercise",
+      "mapped_slides": [
+        27
+      ],
+      "mapping_status": "generated_not_verified"
+    }
+  ],
+  "hierarchy_semantics": {
+    "course": "HHS3190M course container",
+    "document": "one lecture PDF/deck",
+    "part": "explicit lecture topic/front-matter grouping",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata; contents not reconstructed unless a table candidate exists"
+  }
+}

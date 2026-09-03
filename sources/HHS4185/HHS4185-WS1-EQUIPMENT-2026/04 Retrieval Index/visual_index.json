@@ -1,0 +1,1024 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4185",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0008",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Equipment for Monitoring",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          49.826,
+          239.559,
+          256.099,
+          372.761
+        ],
+        "bbox_px": [
+          103.80497741699219,
+          499.0821533203125,
+          533.5405883789062,
+          776.5853271484375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0008",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "02 - WS1 Equipment.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0008",
+        "HHS4185-WS1-PART04",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Equipment for Monitoring",
+          "Equipment for Monitoring"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0008",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Equipment for Monitoring",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          358.974,
+          247.35,
+          545.632,
+          432.591
+        ],
+        "bbox_px": [
+          747.86328125,
+          515.312744140625,
+          1136.73291015625,
+          901.2318115234375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0008",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "02 - WS1 Equipment.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0008",
+        "HHS4185-WS1-PART04",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Equipment for Monitoring",
+          "Equipment for Monitoring"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0009",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Blood pressure (BP) & pulse (bpm)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          94.498,
+          169.459,
+          629.491,
+          471.825
+        ],
+        "bbox_px": [
+          196.87155151367188,
+          353.0385437011719,
+          1311.43994140625,
+          982.968017578125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0009",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "02 - WS1 Equipment.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0009",
+        "HHS4185-WS1-PART05",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Blood pressure (BP) & pulse (bpm)",
+          "Blood pressure (BP) & pulse (bpm)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0010-C0006",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0010",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: American Heart Association, 2022",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          61.881,
+          138.924,
+          661.788,
+          403.508
+        ],
+        "bbox_px": [
+          128.9184112548828,
+          289.4248352050781,
+          1378.725830078125,
+          840.641845703125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0010",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "02 - WS1 Equipment.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0010",
+        "HHS4185-WS1-PART05",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Blood pressure (BP) & pulse (bpm)",
+          "American Heart Association, 2022"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0011-C0000",
+      "table_id": "HHS4185-WS1-TBL-P0011-C01",
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0011",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "table",
+      "name": "Table on slide 11",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          53.056,
+          145.047,
+          665.458,
+          414.901
+        ],
+        "bbox_px": [
+          110.53419494628906,
+          302.180419921875,
+          1386.3707275390625,
+          864.3770751953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "location_only_language_boundary",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "table_reconstruction_available": false,
+      "table_reconstruction_status": "english_only_visual_text_not_transcribed",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0011",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "02 - WS1 Equipment.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0011",
+        "HHS4185-WS1-PART05",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Blood pressure (BP) & pulse (bpm)",
+          "American Heart Association, 2022"
+        ]
+      ],
+      "table_reconstruction_source": "../../02 Text and Tables/tables_reconstructed_generated.json",
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0012",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: oxygen level in tissues &",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          493.909,
+          17.822,
+          694.623,
+          152.309
+        ],
+        "bbox_px": [
+          1028.97607421875,
+          37.12865447998047,
+          1447.132080078125,
+          317.3110656738281
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0012",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "02 - WS1 Equipment.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0012",
+        "HHS4185-WS1-PART05",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Blood pressure (BP) & pulse (bpm)",
+          "oxygen level in tissues &"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0015",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Factors affecting Choice of Walking Aids",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          489.853,
+          280.634,
+          716.58,
+          454.259
+        ],
+        "bbox_px": [
+          1020.5274047851562,
+          584.6532592773438,
+          1492.874755859375,
+          946.3734130859375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0015",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "02 - WS1 Equipment.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0015",
+        "HHS4185-WS1-PART06",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Factors affecting Choice of Walking Aids",
+          "Factors affecting Choice of Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0016-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0016",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: One side",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          264.394,
+          236.518,
+          574.113,
+          439.798
+        ],
+        "bbox_px": [
+          550.8204345703125,
+          492.74603271484375,
+          1196.0692138671875,
+          916.2456665039062
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0016",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "02 - WS1 Equipment.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0016",
+        "HHS4185-WS1-PART07",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "One side",
+          "One side"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0017-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0017",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with:: Quadripod",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          480.787,
+          165.677,
+          687.741,
+          475.11
+        ],
+        "bbox_px": [
+          1001.6398315429688,
+          345.160400390625,
+          1432.7945556640625,
+          989.8126831054688
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0017",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "02 - WS1 Equipment.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0017",
+        "HHS4185-WS1-PART07",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "One side",
+          ": Quadripod"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0018-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0018",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Visual associated with: Walking Aids",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          577.391,
+          182.736,
+          692.458,
+          429.215
+        ],
+        "bbox_px": [
+          1202.898681640625,
+          380.6994323730469,
+          1442.619873046875,
+          894.1976318359375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0018",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "02 - WS1 Equipment.pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0018",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0019-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0019",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Walking Aids",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          516.619,
+          41.768,
+          687.882,
+          231.411
+        ],
+        "bbox_px": [
+          1076.2890625,
+          87.01669311523438,
+          1433.087890625,
+          482.1072082519531
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0019",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "02 - WS1 Equipment.pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0019",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0019-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0019",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Walking Aids",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          542.208,
+          266.18,
+          673.926,
+          433.013
+        ],
+        "bbox_px": [
+          1129.5994873046875,
+          554.5421752929688,
+          1404.0120849609375,
+          902.1094970703125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0019",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "02 - WS1 Equipment.pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0019",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Walking Aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0020",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Checking & Maintenance walking aids",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          485.166,
+          49.686,
+          691.876,
+          141.968
+        ],
+        "bbox_px": [
+          1010.7623291015625,
+          103.5129165649414,
+          1441.408447265625,
+          295.765625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0020",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "02 - WS1 Equipment.pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0020",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Checking & Maintenance walking aids"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0022-C0000",
+      "table_id": "HHS4185-WS1-TBL-P0022-C01",
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0022",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "table",
+      "name": "Table on slide 22",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          11.634,
+          95.09,
+          677.063,
+          464.924
+        ],
+        "bbox_px": [
+          24.23805046081543,
+          198.10423278808594,
+          1410.5482177734375,
+          968.5924682617188
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "full_table_reconstruction",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "table_reconstruction_available": true,
+      "table_reconstruction_status": "visual_reviewed_logical_english_layer",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0022",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "02 - WS1 Equipment.pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0022",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Summary of walking aids"
+        ]
+      ],
+      "table_reconstruction_source": "../../02 Text and Tables/tables_reconstructed_generated.json",
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0023-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0023",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: Manual Wheelchair",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          184.888,
+          339.169,
+          549.189,
+          525.806
+        ],
+        "bbox_px": [
+          385.18426513671875,
+          706.6024780273438,
+          1144.1435546875,
+          1095.4285888671875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0023",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "02 - WS1 Equipment.pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0023",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Manual Wheelchair"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0024-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0024",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 24,
+      "slide_number": 24,
+      "visual_type": "image",
+      "name": "Visual associated with: Manual Wheelchair",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          42.268,
+          224.628,
+          245.804,
+          434.172
+        ],
+        "bbox_px": [
+          88.05745697021484,
+          467.97589111328125,
+          512.0924682617188,
+          904.5249633789062
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0024",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 24,
+        "page_number_type": "slide_number",
+        "slide_number": 24,
+        "pdf_page": 24,
+        "formatted": "02 - WS1 Equipment.pdf, slide 24 (PDF p. 24)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0024",
+        "HHS4185-WS1-PART08",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Walking Aids",
+          "Manual Wheelchair"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS1-VIS-P0025-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-WS1",
+      "source_page_id": "HHS4185-WS1-P0025",
+      "source_file": "02 - WS1 Equipment.pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Electrical Wheelchair",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          357.323,
+          125.753,
+          710.424,
+          388.378
+        ],
+        "bbox_px": [
+          744.422119140625,
+          261.98614501953125,
+          1480.04931640625,
+          809.1204223632812
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS1-P0025",
+        "document_id": "HHS4185-WS1",
+        "document_title": "Workshop 1 - Introduction to rehabilitation equipment",
+        "source_file": "02 - WS1 Equipment.pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "02 - WS1 Equipment.pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4185-WS1-P0025",
+        "HHS4185-WS1-PART09",
+        "HHS4185-WS1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 1 - Introduction to rehabilitation equipment",
+          "Electrical Wheelchair",
+          "Electrical Wheelchair"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    }
+  ],
+  "counts": {
+    "visuals": 17,
+    "tables": 2,
+    "non_tables": 15
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+}

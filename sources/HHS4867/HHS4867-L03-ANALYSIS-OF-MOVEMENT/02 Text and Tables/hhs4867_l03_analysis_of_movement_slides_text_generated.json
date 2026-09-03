@@ -1,0 +1,3696 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+  "source": {
+    "filename": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT/00 Source/07 - 3. Analysis of Movement 運動動作分析.pdf",
+    "sha256": "sha256:b27d5b536e86147999c4372ca0ae004723482b49c595f4fc7ab67ce305d13c3c",
+    "pdf_page_count": 27,
+    "pdfinfo": {
+      "Title": "The Mechanics of Movement",
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:51:08 2026 HKT",
+      "ModDate": "Thu Aug 27 11:51:08 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 27,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1031028,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained, including the deck's ⚫ markers.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+      "slide_number": 1,
+      "title": "Analysis of Movement",
+      "english_text": "Analysis of Movement\nHHS4867 Functional Movement Science\nHHS4867J",
+      "raw_bilingual_text": "Analysis of Movement\n運動分析\nHHS4867 Functional Movement Science\nHHS4867J 功能性運動科學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "slide_number": 1,
+          "content_type": "slide_title",
+          "text": "Analysis of Movement",
+          "body_text": "Analysis of Movement",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 22.2,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            141.5,
+            180.443,
+            578.302,
+            221.829
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867 Functional Movement Science",
+          "body_text": "HHS4867 Functional Movement Science",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            119.3,
+            310.357,
+            600.541,
+            335.543
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867J",
+          "body_text": "HHS4867J",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 74.4,
+          "indent_level": 3,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            193.7,
+            340.584,
+            525.949,
+            369.047
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+      "slide_number": 2,
+      "title": "The body as an instrument in patient care",
+      "english_text": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals.\n• To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+      "raw_bilingual_text": "•\n•\n在病人護理技術中，您的\nIn patient care techniques,\n身體成為執行任務和實現\nyour body becomes the most\n功能目標的最重要工具。\nessential instrument you have\nfor performing tasks &\nachieving functional goals.\n•\nTo use your body effectively to\n•\n為了有效地利用您的身體\nachieve patient mobility while\n來實現病人的活動能力，\nprotecting yourself against injury,\n同時保護自己免受傷害，\nand to educate patients in the safe\n並教育病人安全有效地使\n& effective use of their bodies, you\n用他們的身體，您必須對\nmust have a fundamental\n某些物理定律有基本的瞭\nunderstanding of certain lawsof\n解。\nphysics.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals.",
+          "body_text": "In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            85.488,
+            108.573,
+            313.798,
+            222.629
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+          "body_text": "To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "bbox_points": [
+            85.488,
+            248.633,
+            359.398,
+            434.719
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+      "slide_number": 3,
+      "title": "Biomechanical Aspects of Human Movement",
+      "english_text": "Biomechanical Aspects of Human Movement",
+      "raw_bilingual_text": "Biomechanical Aspects of Human Movement\n人體運動的生物力學層面",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0003",
+          "slide_number": 3,
+          "content_type": "slide_title",
+          "text": "Biomechanical Aspects of Human Movement",
+          "body_text": "Biomechanical Aspects of Human Movement",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            39.552,
+            190.776,
+            698.26,
+            223.197
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+      "slide_number": 4,
+      "title": "Mass",
+      "english_text": "Mass\nThe amount of\nmatter of which an\nobject, segment, or\nbody is composed\nRemain the same regardless\nof the environment in\nwhich the mass exists",
+      "raw_bilingual_text": "Mass 質量\n•物體、身體部分或身\n•\nThe amount of\n體所組成的物質量\nmatter of which an\nobject, segment, or\nbody is composed\n•\n•無論質量存在於何種\nRemain the same regardless\nof the environment in\n環境中，其數量保持\nwhich the mass exists\n不變",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "slide_title",
+          "text": "Mass",
+          "body_text": "Mass",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 159.626,
+          "indent_level": 7,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            259.01,
+            44.025,
+            450.458,
+            88.882
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "The amount of",
+          "body_text": "The amount of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            99.384,
+            189.492,
+            242.65,
+            211.113
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "matter of which an",
+          "body_text": "matter of which an",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            99.384,
+            218.328,
+            275.81,
+            239.928
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "object, segment, or",
+          "body_text": "object, segment, or",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            99.384,
+            247.128,
+            275.402,
+            268.728
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "body is composed",
+          "body_text": "body is composed",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            99.384,
+            275.928,
+            265.61,
+            297.528
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Remain the same regardless",
+          "body_text": "Remain the same regardless",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            99.384,
+            324.788,
+            357.166,
+            346.388
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B007",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "of the environment in",
+          "body_text": "of the environment in",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            99.384,
+            353.588,
+            306.31,
+            375.188
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004-B008",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "which the mass exists",
+          "body_text": "which the mass exists",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            99.384,
+            382.388,
+            298.826,
+            403.988
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+      "slide_number": 5,
+      "title": "Centre of Mass (CM) = Centre of Gravity (CG)",
+      "english_text": "Centre of Mass (CM) = Centre of Gravity (CG)\n• CM: an object’s balance point\n• The body is composed of many parts. Each part can be considered as a single entity, and has a CG\n• The entire body can be considered as a single mass\n• S2\n• The CG of the typical human body is located in the pelvic region, just anterior to S2\n• The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+      "raw_bilingual_text": "Centre of Mass (CM) = Centre of Gravity (CG)\n質心 （CM）\n= 重心 （CG）\n•\n•\nCM：物體的平衡點\nCM: an object’s balance point\n•\n•\n身體由許多部分組成。每個部分都可\nThe body is composed of many parts.\n以被視為一個實體，並且有一個 CG\nEach part can be considered as a single\nentity, and has a CG\n•\n整個身體可以被認為是一個單一的品\n質\n•\nThe entire body can be considered as a\nsingle mass\n•\n典型人體的 CG 位於骨盆區域，就在\nS2 的前面\n•\nThe CG of the typical human body is\nlocated in the pelvic region, just\n•\n重心會隨著身體的組成部分改變位置\nanterior to S2\n或重量的增加或從身體中增加或移除\n而移動\n•\nThe CG shifts as the component\nsegments of the body change position or\nas weight is added or removed from the\nbody",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "slide_title",
+          "text": "Centre of Mass (CM) = Centre of Gravity (CG)",
+          "body_text": "Centre of Mass (CM) = Centre of Gravity (CG)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 3.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            66.96,
+            48.13,
+            686.97,
+            76.988
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• CM: an object’s balance point",
+          "body_text": "CM: an object’s balance point",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            63.96,
+            156.12,
+            273.772,
+            172.341
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• The body is composed of many parts. Each part can be considered as a single entity, and has a CG",
+          "body_text": "The body is composed of many parts. Each part can be considered as a single entity, and has a CG",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8,
+            9,
+            10
+          ],
+          "bbox_points": [
+            63.96,
+            199.846,
+            336.218,
+            268.131
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• The entire body can be considered as a single mass",
+          "body_text": "The entire body can be considered as a single mass",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            27,
+            28
+          ],
+          "bbox_points": [
+            63.96,
+            292.746,
+            336.002,
+            330.546
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• S2",
+          "body_text": "S2",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 347.78,
+          "indent_level": 14,
+          "source_line_indices": [
+            19
+          ],
+          "bbox_points": [
+            411.74,
+            352.542,
+            488.45,
+            370.866
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• The CG of the typical human body is located in the pelvic region, just anterior to S2",
+          "body_text": "The CG of the typical human body is located in the pelvic region, just anterior to S2",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            29,
+            30,
+            31
+          ],
+          "bbox_points": [
+            63.96,
+            358.13,
+            326.381,
+            426.326
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-B007",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+          "body_text": "The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            32,
+            33,
+            34,
+            35
+          ],
+          "bbox_points": [
+            63.96,
+            451.874,
+            345.524,
+            526.434
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+      "slide_number": 6,
+      "title": "Effects of adding/removing weights on shifting the CG",
+      "english_text": "Effects of adding/removing weights on shifting the CG",
+      "raw_bilingual_text": "Effects of adding /removing weights on shifting the CG\n添加/刪除權重對移動重心的影響",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+          "slide_number": 6,
+          "content_type": "slide_title",
+          "text": "Effects of adding/removing weights on shifting the CG",
+          "body_text": "Effects of adding/removing weights on shifting the CG",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            36.264,
+            32.863,
+            658.953,
+            58.027
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000",
+          "visual_type": "image",
+          "name": "Effects of adding/removing weights on shifting the CG visual",
+          "pdf_page": 6,
+          "slide_number": 6,
+          "location": {
+            "bbox_points": [
+              80.88,
+              137.28,
+              647.88,
+              527.28
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+      "slide_number": 7,
+      "title": "Force",
+      "english_text": "Force\n• Push or pull that can produce, arrest or modify movement\n• 2 types of force:\n• Linear movements (in a line)\n• Rotational /Angular movements\n• Forces can be further divided into\n• External Force, those that act on the body, e.g. gravity\n• Internal Force,those that produced bythe body,\n• e.g. forces generated by the muscles",
+      "raw_bilingual_text": "Force 力\n•\nPush or pull that can produce,\n•\n可以產生、阻止或改變運動\narrest or modify movement\n的推或拉\n•\n2 types of force:\n•\n2 種力：\n•\nLinear movements (in a line)\n• 線性運動（在一條線上）\n•\nRotational /Angular movements\n• 旋轉/角度運動\n•\nForces can be further divided into\n•\nExternal Force, those that act on\n•\n力可進一步分為\nthe body,\n• 外力，那些作用於身體\n的力，例如重力\ne.g. gravity\n• 內力，身體產生的力，\n•\nInternal Force,those that produced\n例如肌肉產生的力\nbythe body,\n•\ne.g. forces generated by the muscles",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "slide_title",
+          "text": "Force",
+          "body_text": "Force",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 175.486,
+          "indent_level": 7,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            260.47,
+            26.267,
+            422.734,
+            73.079
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• Push or pull that can produce, arrest or modify movement",
+          "body_text": "Push or pull that can produce, arrest or modify movement",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3
+          ],
+          "bbox_points": [
+            84.984,
+            120.186,
+            298.892,
+            157.991
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• 2 types of force:",
+          "body_text": "2 types of force:",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            84.984,
+            183.446,
+            192.464,
+            199.646
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• Linear movements (in a line)",
+          "body_text": "Linear movements (in a line)",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.516,
+          "indent_level": 1,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            120.5,
+            208.046,
+            319.61,
+            224.246
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• Rotational /Angular movements",
+          "body_text": "Rotational /Angular movements",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.516,
+          "indent_level": 1,
+          "source_line_indices": [
+            23
+          ],
+          "bbox_points": [
+            120.5,
+            235.63,
+            343.781,
+            251.851
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• Forces can be further divided into",
+          "body_text": "Forces can be further divided into",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            84.984,
+            280.196,
+            321.29,
+            296.396
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B007",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• External Force, those that act on the body, e.g. gravity",
+          "body_text": "External Force, those that act on the body, e.g. gravity",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.516,
+          "indent_level": 1,
+          "source_line_indices": [
+            26,
+            27,
+            28
+          ],
+          "bbox_points": [
+            120.5,
+            314.636,
+            340.97,
+            392.896
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B008",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• Internal Force,those that produced bythe body,",
+          "body_text": "Internal Force,those that produced bythe body,",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.516,
+          "indent_level": 1,
+          "source_line_indices": [
+            30,
+            31
+          ],
+          "bbox_points": [
+            120.5,
+            411.736,
+            357.344,
+            458.903
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-B009",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "slide_number": 7,
+          "content_type": "list_item",
+          "text": "• e.g. forces generated by the muscles",
+          "body_text": "e.g. forces generated by the muscles",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.516,
+          "indent_level": 1,
+          "source_line_indices": [
+            33
+          ],
+          "bbox_points": [
+            120.5,
+            473.682,
+            362.252,
+            489.882
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+      "slide_number": 8,
+      "title": "Gravity",
+      "english_text": "Gravity\n• A fundamental force that wemust all contend with\n• A force exerted on a mass pulling it towards the Earth\n• When the internal forces (body) are weakened, moving against gravity, e.g. standing up, can be a challenging task",
+      "raw_bilingual_text": "Gravity 重力\n•\n•一種我們都必須面對的基本力\nA fundamental force that\nwemust all contend\nwith\n•施加在質量上的力，將其拉向地\n•\nA force exerted on a mass\n球\npulling it towards the Earth\n•\nWhen the internal forces\n•當身體的內部力量變弱時，逆著\n(body) are weakened,\n重力移動，例如站立，會是一項\nmoving against gravity, e.g.\n具有挑戰性的任務\nstanding up, can be a\nchallenging task",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+          "slide_number": 8,
+          "content_type": "slide_title",
+          "text": "Gravity",
+          "body_text": "Gravity",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 138.39,
+          "indent_level": 6,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            247.01,
+            50.446,
+            497.47,
+            97.233
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "• A fundamental force that wemust all contend with",
+          "body_text": "A fundamental force that wemust all contend with",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            108.62,
+            156.733,
+            294.272,
+            222.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "• A force exerted on a mass pulling it towards the Earth",
+          "body_text": "A force exerted on a mass pulling it towards the Earth",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6,
+            7
+          ],
+          "bbox_points": [
+            108.62,
+            248.756,
+            309.709,
+            290.839
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0008",
+          "slide_number": 8,
+          "content_type": "list_item",
+          "text": "• When the internal forces (body) are weakened, moving against gravity, e.g. standing up, can be a challenging task",
+          "body_text": "When the internal forces (body) are weakened, moving against gravity, e.g. standing up, can be a challenging task",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            108.62,
+            316.723,
+            312.864,
+            430.779
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+      "slide_number": 9,
+      "title": "Friction",
+      "english_text": "Friction\n• The force resisting movement between two contacting surfaces\n• It can be used to promote stability\n• Too much friction can damage tissues and hinder mobility",
+      "raw_bilingual_text": "Friction 摩擦\n• The force resisting\n• 兩個接觸面之間抵抗\n運動的力\nmovement between two\ncontacting surfaces\n• It can be used to promote\n• 可用於促進穩定性\nstability\n• Too much friction\n• 過多的摩擦會損壞組\ncan damage tissues\n織並阻礙活動能力\nand hinder mobility",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "slide_number": 9,
+          "content_type": "slide_title",
+          "text": "Friction",
+          "body_text": "Friction",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 158.376,
+          "indent_level": 7,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            231.36,
+            44.616,
+            491.204,
+            91.403
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• The force resisting movement between two contacting surfaces",
+          "body_text": "The force resisting movement between two contacting surfaces",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3
+          ],
+          "bbox_points": [
+            72.984,
+            128.47,
+            325.97,
+            213.028
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• It can be used to promote stability",
+          "body_text": "It can be used to promote stability",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6,
+            7
+          ],
+          "bbox_points": [
+            72.984,
+            234.918,
+            340.81,
+            290.688
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• Too much friction can damage tissues and hinder mobility",
+          "body_text": "Too much friction can damage tissues and hinder mobility",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            72.984,
+            312.48,
+            289.244,
+            397.028
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+      "slide_number": 10,
+      "title": "Levers",
+      "english_text": "Levers\n• We can consider the mechanisms by which muscles act on bones using descriptions based on levers\n• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation\n• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement\n• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.\n• Movement of the skeleton occurs at joints, so there has to be sufficient muscle power to move all the bones at these joints.",
+      "raw_bilingual_text": "Levers 槓杆\n•\n•\nWe can consider the mechanisms by which muscles\n我們可以使用基於槓桿的描述來考慮肌肉作\nact on bones using descriptions based on levers\n用於骨骼的機制\n•\nAlever is a rigid structure, in this case a bone, that\n•\n槓桿是一種剛性結構，在本例中為骨頭，在\nmoves on a fixed point called the fulcrum 支點,\n稱為支點的固定點上移動，在本例中為關節\nin this case an articulation\n•\n•\nA lever moves when an applied force or effort is\n當施加的力或力足以克服任何會反對或阻止\nsufficient to overcome any load or resistance that\n此類運動的負載或阻力時，槓桿就會移動\nwould oppose or prevent such movement\n•\n在身體中，每塊骨頭都是一個槓桿，每個關\n•\nIn the body, each bone is a lever and each joint is a\n節都是一個支點，肌肉提供施加的力。\nfulcrum, and muscles supply the applied forces.\n•\nMovement of the skeleton occurs at joints, so\n•\n骨骼的運動發生在關節處，因此必須有足夠\nthere has to be sufficient muscle power to\n的肌肉力量來移動這些關節處的所有骨骼。\nmove all the bones at these joints.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "slide_title",
+          "text": "Levers",
+          "body_text": "Levers",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 182.83,
+          "indent_level": 8,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            229.99,
+            28.996,
+            456.22,
+            75.783
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• We can consider the mechanisms by which muscles act on bones using descriptions based on levers",
+          "body_text": "We can consider the mechanisms by which muscles act on bones using descriptions based on levers",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            4
+          ],
+          "bbox_points": [
+            47.16,
+            101.659,
+            366.502,
+            143.983
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation",
+          "body_text": "Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6,
+            7,
+            13
+          ],
+          "bbox_points": [
+            47.16,
+            176.179,
+            357.887,
+            242.523
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement",
+          "body_text": "A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            17,
+            20
+          ],
+          "bbox_points": [
+            47.16,
+            274.239,
+            346.444,
+            340.593
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.",
+          "body_text": "In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            22,
+            25
+          ],
+          "bbox_points": [
+            47.16,
+            368.709,
+            360.416,
+            411.053
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• Movement of the skeleton occurs at joints, so there has to be sufficient muscle power to move all the bones at these joints.",
+          "body_text": "Movement of the skeleton occurs at joints, so there has to be sufficient muscle power to move all the bones at these joints.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            27,
+            28,
+            29
+          ],
+          "bbox_points": [
+            47.16,
+            444.211,
+            328.423,
+            510.679
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+      "slide_number": 11,
+      "title": "Levers (diagram)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001",
+          "visual_type": "image",
+          "name": "Levers (diagram) visual",
+          "pdf_page": 11,
+          "slide_number": 11,
+          "location": {
+            "bbox_points": [
+              49.32,
+              24.0,
+              669.48,
+              520.08
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+      "slide_number": 12,
+      "title": "Moments & Moment Arms",
+      "english_text": "Moments & Moment Arms\n• The Moment of a force is a measure of its tendency to cause a body to rotate about a specific point or axis\n• The magnitude of the moment of a force acting about a point or axis is directly proportional to the distance of the force from the point or axis\n• The moment arm or lever arm is the perpendicular distance between the line of action of the force and the center of moments\n• The Center of Moments may be the actual point about which the force causes rotation.",
+      "raw_bilingual_text": "Moments & Moment Arms\n力矩和力矩臂\n•\n•\nThe Moment of a force is a measure of\n力矩是衡量其導致物體繞特定點或\nits tendency to cause a body to rotate\n軸旋轉的趨勢的指標\nabout a specific point or axis\n•\nThe magnitude of the moment of a\n•\n作用於某一點或軸的力矩大小與該\nforce acting about a point or axis is\n力距離該點或軸的距離成正比。\ndirectly proportional to the distance\nof the force from the point or axis\n•\n力矩臂或槓桿臂是力作用線與力矩\n•\nThe moment arm or lever arm is the\n中心之間的垂直距離\nperpendicular distance between the line\nof action of the force and the center of\nmoments\n•\n力矩中心可能是力引起旋轉的實際\n點。\n•\nThe Center of Moments may be the\nactual point about which the force\ncauses rotation.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+          "slide_number": 12,
+          "content_type": "slide_title",
+          "text": "Moments & Moment Arms",
+          "body_text": "Moments & Moment Arms",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 95.33,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            153.29,
+            29.156,
+            568.644,
+            61.577
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+          "slide_number": 12,
+          "content_type": "list_item",
+          "text": "• The Moment of a force is a measure of its tendency to cause a body to rotate about a specific point or axis",
+          "body_text": "The Moment of a force is a measure of its tendency to cause a body to rotate about a specific point or axis",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            57.96,
+            125.756,
+            330.044,
+            185.156
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+          "slide_number": 12,
+          "content_type": "list_item",
+          "text": "• The magnitude of the moment of a force acting about a point or axis is directly proportional to the distance of the force from the point or axis",
+          "body_text": "The magnitude of the moment of a force acting about a point or axis is directly proportional to the distance of the force from the point or axis",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            57.96,
+            210.616,
+            312.362,
+            291.621
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+          "slide_number": 12,
+          "content_type": "list_item",
+          "text": "• The moment arm or lever arm is the perpendicular distance between the line of action of the force and the center of moments",
+          "body_text": "The moment arm or lever arm is the perpendicular distance between the line of action of the force and the center of moments",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "bbox_points": [
+            57.96,
+            316.966,
+            338.744,
+            397.971
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0012",
+          "slide_number": 12,
+          "content_type": "list_item",
+          "text": "• The Center of Moments may be the actual point about which the force causes rotation.",
+          "body_text": "The Center of Moments may be the actual point about which the force causes rotation.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            29,
+            30,
+            31
+          ],
+          "bbox_points": [
+            57.96,
+            423.426,
+            309.698,
+            482.831
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+      "slide_number": 13,
+      "title": "Moment = Force (N) x Distance (m)",
+      "english_text": "Moment = Force (N) x Distance (m)",
+      "raw_bilingual_text": "Moment = Force (N) x Distance (m)\n力矩 = 力 (N) x 距離 (m)",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+          "slide_number": 13,
+          "content_type": "slide_title",
+          "text": "Moment = Force (N) x Distance (m)",
+          "body_text": "Moment = Force (N) x Distance (m)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            157.75,
+            107.507,
+            582.213,
+            132.693
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001",
+          "visual_type": "image",
+          "name": "Moment = Force (N) x Distance (m) visual",
+          "pdf_page": 13,
+          "slide_number": 13,
+          "location": {
+            "bbox_points": [
+              30.0,
+              174.0,
+              702.0,
+              420.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+      "slide_number": 14,
+      "title": "Stability & Mobility",
+      "english_text": "Stability & Mobility\nCenter of Gravity\nBase of Support",
+      "raw_bilingual_text": "Stability & Mobility\nCenter of Gravity\nBase of Support\n穩定性和機動性\n支撐重心\n支撐基底",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+          "slide_number": 14,
+          "content_type": "slide_title",
+          "text": "Stability & Mobility",
+          "body_text": "Stability & Mobility",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            54.96,
+            156.493,
+            430.822,
+            197.879
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+          "slide_number": 14,
+          "content_type": "subtitle",
+          "text": "Center of Gravity",
+          "body_text": "Center of Gravity",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 3.6,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            58.56,
+            206.965,
+            210.092,
+            226.751
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+          "slide_number": 14,
+          "content_type": "subtitle",
+          "text": "Base of Support",
+          "body_text": "Base of Support",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 3.6,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            58.56,
+            233.401,
+            195.365,
+            253.165
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+      "slide_number": 15,
+      "title": "Base of Support (BoS)",
+      "english_text": "Base of Support (BoS)\n• BoS\n• BoS: the contact area of an object with its supporting surface\n• A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back\n• If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "raw_bilingual_text": "Base of Support (BoS) 支撐基底\n• BoS：物體與其支撐面的接觸\n• BoS: the contact area of an object\n面積\nwith its supporting surface\n• 較大的BoS允許工作者在減少\n• A largerBoS allows the health worker\n下背部力量的情況下完成某些\nto accomplish certain tasks with\n任務\ndecreased force on the lower back\n• If the worker’s feet are close together\n• 如果工作者的雙腳靠得很近\n(small BoS), even small weight shifts\n（小 BoS），即使是很小的體\nwill move the body’s CG beyond the\n重轉移也會將身體的重心移動\nBoS, requiring the worker bend at\n到 BoS 之外，需要工人在軀幹\nthe trunk to maintain balance, thus\n處彎曲以保持平衡，從而對下\nplaces a great deal of stress on the\n背部肌肉施加很大的壓力\nlower back muscles",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "slide_number": 15,
+          "content_type": "slide_title",
+          "text": "Base of Support (BoS)",
+          "body_text": "Base of Support (BoS)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 21.192,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            66.96,
+            48.785,
+            553.726,
+            85.457
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• BoS",
+          "body_text": "BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 358.222,
+          "indent_level": 15,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            403.99,
+            134.094,
+            675.1,
+            156.579
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• BoS: the contact area of an object with its supporting surface",
+          "body_text": "BoS: the contact area of an object with its supporting surface",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2
+          ],
+          "bbox_points": [
+            45.768,
+            140.192,
+            334.321,
+            186.729
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back",
+          "body_text": "A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5,
+            6,
+            7
+          ],
+          "bbox_points": [
+            45.768,
+            208.284,
+            360.258,
+            278.789
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+          "body_text": "If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "bbox_points": [
+            45.768,
+            301.304,
+            357.409,
+            467.818
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+      "slide_number": 16,
+      "title": "Stability v.s. Mobility",
+      "english_text": "Stability v.s. Mobility\nStability is promoted when:\n• The BoS is greater in area\n• BoS\n• The Line of Gravity (LoG) is near the center of BoS\n• The CG is lower & closer to the BoS\nMobility is promoted when:\n• The BoS is smaller in area\n• The LoG is allowed to move\n• BoS\nbeyond the center of the BoS\n• The distance of CG above the BoS\n• BoS\nis greater\nRemarks: The Line of Gravity (LoG) means\nthe orientation & direction of gravity acting\non the full body’s CoM",
+      "raw_bilingual_text": "Stability v.s. Mobility 穩定性與流動性\nStability is promoted when:\n在以下情況下，穩定性會得到提升：\n• The BoS is greater in area\n• BoS 的面積更大\n• The Line of Gravity (LoG) is near\n• 重力線 （LoG） 靠近 BoS 的中心\nthe center of BoS\n• 重心更低，更接近BoS\n• The CG is lower & closer to the\nBoS\nMobility is promoted when:\n• The BoS is smaller in area\n在以下情況下，移動性得到提升：\n• The LoG is allowed to move\n• BoS 的面積較小\nbeyond the center of the BoS\n• 允許 LoG 放在 BoS 中心之外\n• The distance of CG above the BoS\n• BoS 上方的重心距離更大\nis greater\nRemarks: The Line of Gravity (LoG) means\nthe orientation & direction of gravity acting\n備註：重力線 （LoG）表示作用於\non the full body’s CoM\n全身CoM的方向和方向",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "slide_title",
+          "text": "Stability v.s. Mobility",
+          "body_text": "Stability v.s. Mobility",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 35.784,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            84.984,
+            38.925,
+            658.414,
+            75.597
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "subtitle",
+          "text": "Stability is promoted when:",
+          "body_text": "Stability is promoted when:",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            49.2,
+            116.71,
+            248.672,
+            132.931
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The BoS is greater in area",
+          "body_text": "The BoS is greater in area",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            85.224,
+            134.36,
+            295.34,
+            154.556
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• BoS",
+          "body_text": "BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 354.07,
+          "indent_level": 15,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            403.27,
+            142.18,
+            551.35,
+            162.376
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The Line of Gravity (LoG) is near the center of BoS",
+          "body_text": "The Line of Gravity (LoG) is near the center of BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            3,
+            4
+          ],
+          "bbox_points": [
+            85.224,
+            155.96,
+            353.882,
+            197.756
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The CG is lower & closer to the BoS",
+          "body_text": "The CG is lower & closer to the BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            5,
+            6
+          ],
+          "bbox_points": [
+            85.224,
+            199.16,
+            338.234,
+            240.961
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B007",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "subheading",
+          "text": "Mobility is promoted when:",
+          "body_text": "Mobility is promoted when:",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            49.2,
+            267.976,
+            250.656,
+            284.176
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B008",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The BoS is smaller in area",
+          "body_text": "The BoS is smaller in area",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            85.224,
+            285.58,
+            298.31,
+            305.776
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B009",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The LoG is allowed to move",
+          "body_text": "The LoG is allowed to move",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            85.224,
+            307.158,
+            314.218,
+            327.381
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B010",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• BoS",
+          "body_text": "BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 354.07,
+          "indent_level": 15,
+          "source_line_indices": [
+            21
+          ],
+          "bbox_points": [
+            403.27,
+            314.988,
+            551.374,
+            335.211
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B011",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "subheading",
+          "text": "beyond the center of the BoS",
+          "body_text": "beyond the center of the BoS",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 58.58,
+          "indent_level": 2,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            107.78,
+            332.806,
+            317.372,
+            349.006
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B012",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• The distance of CG above the BoS",
+          "body_text": "The distance of CG above the BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            85.224,
+            350.41,
+            357.812,
+            370.606
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B013",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "list_item",
+          "text": "• BoS",
+          "body_text": "BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 354.07,
+          "indent_level": 15,
+          "source_line_indices": [
+            23
+          ],
+          "bbox_points": [
+            403.27,
+            358.23,
+            623.35,
+            378.426
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B014",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "subheading",
+          "text": "is greater",
+          "body_text": "is greater",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 58.58,
+          "indent_level": 2,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            107.78,
+            376.006,
+            174.29,
+            392.206
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B015",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "paragraph",
+          "text": "Remarks: The Line of Gravity (LoG) means",
+          "body_text": "Remarks: The Line of Gravity (LoG) means",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            49.2,
+            419.19,
+            366.929,
+            435.411
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B016",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "paragraph",
+          "text": "the orientation & direction of gravity acting",
+          "body_text": "the orientation & direction of gravity acting",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            49.2,
+            440.826,
+            364.092,
+            457.026
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-B017",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "slide_number": 16,
+          "content_type": "paragraph",
+          "text": "on the full body’s CoM",
+          "body_text": "on the full body’s CoM",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            49.2,
+            458.682,
+            221.696,
+            478.626
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+      "slide_number": 17,
+      "title": "Dynamic Trunk Stabilization",
+      "english_text": "Dynamic Trunk Stabilization\n• Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS\n• In any active human movement, some components of the body are stabilized so that other components can move\n• The body has to maintain postural control during dynamic activities\n• The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles\n• Dynamic trunk stabilization is maintaining the stability of the trunk and the lumbar spine, within a safe range of movement through activation of core musculature, like transverse abdominis muscles",
+      "raw_bilingual_text": "動態軀幹穩定性\nDynamic Trunk Stabilization\n• 靜態穩定性是指通過將LoG保持\n• Static stability refers to the property of\nmaintaining and controlling the body’s\n在BoS內來維持和控制物體在空\n間中的方向的特性\norientation in space, usually by keeping the\nLoG within the BoS\n• 在任何活躍的人體運動中，身\n• In any active human movement, some\n體的某些組成部分都被穩定下\n來，以便其他組成部分可以移\ncomponents of the body are stabilized so\n動\nthat other components can move\n• 在動態活動期間，身體必須保\n• The body has to maintain postural control\n持姿勢控制\nduring dynamic activities\n• 實現姿勢控制的關鍵是積極收\n• The key to achieve postural control is\n縮身體最中央的肌肉，即核心\nactively contracting the most central\n肌肉\nmuscles of the body, i.e. the core muscles\n• 動態軀幹穩定是通過啟動核心\n• Dynamic trunk stabilization is maintaining\n肌肉組織（如腹橫肌）將軀幹\nthe stability of the trunk and the lumbar\n和腰椎的穩定性維持在安全的\nspine, within a safe range of movement\n運動範圍內\nthrough activation of core musculature, like\ntransverse abdominis muscles",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "slide_title",
+          "text": "Dynamic Trunk Stabilization",
+          "body_text": "Dynamic Trunk Stabilization",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 32.784,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            75.984,
+            31.973,
+            412.592,
+            57.137
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "• Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS",
+          "body_text": "Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            43.2,
+            78.01,
+            383.082,
+            163.026
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "• In any active human movement, some components of the body are stabilized so that other components can move",
+          "body_text": "In any active human movement, some components of the body are stabilized so that other components can move",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            43.2,
+            186.008,
+            364.686,
+            249.446
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "• The body has to maintain postural control during dynamic activities",
+          "body_text": "The body has to maintain postural control during dynamic activities",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16,
+            17
+          ],
+          "bbox_points": [
+            43.2,
+            272.45,
+            367.296,
+            314.251
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "• The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles",
+          "body_text": "The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            20,
+            21,
+            22
+          ],
+          "bbox_points": [
+            43.2,
+            337.28,
+            365.085,
+            400.681
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "slide_number": 17,
+          "content_type": "list_item",
+          "text": "• Dynamic trunk stabilization is maintaining the stability of the trunk and the lumbar spine, within a safe range of movement through activation of core musculature, like transverse abdominis muscles",
+          "body_text": "Dynamic trunk stabilization is maintaining the stability of the trunk and the lumbar spine, within a safe range of movement through activation of core musculature, like transverse abdominis muscles",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "bbox_points": [
+            43.2,
+            423.7,
+            381.468,
+            530.322
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+      "slide_number": 18,
+      "title": "Application: Proper Body Mechanics",
+      "english_text": "Application: Proper Body Mechanics",
+      "raw_bilingual_text": "Application:\nProper Body Mechanics\n應用：\n正確的身體力學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0018",
+          "slide_number": 18,
+          "content_type": "slide_title",
+          "text": "Application: Proper Body Mechanics",
+          "body_text": "Application: Proper Body Mechanics",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0,
+            1
+          ],
+          "bbox_points": [
+            42.96,
+            134.773,
+            493.598,
+            226.213
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+      "slide_number": 19,
+      "title": "Proper Body Mechanics",
+      "english_text": "Proper Body Mechanics\n• Body Mechanics: the wayin which we position our bodies during tasks\n• Because our bodies are subject to the principles of biomechanics\n• How we position our bodies affects the efficiency of our movements & the stress that is placed on the body tissues\n• During all patient interaction, the caregiver should position himself using the best body mechanics possible to maximize the ability to accomplish the task with minimal effort in a safe manner",
+      "raw_bilingual_text": "Proper Body Mechanics 正確的身體力學\n•\n•\n身體力學：我們在任務中定位\nBody Mechanics: the wayin\n身體的方式\nwhich we position our bodies\nduring tasks\n•\n•\nBecause our bodies are subject\n因為我們的身體受制於生物力\nto the principles of\n學原理\nbiomechanics\n•\n我們如何定位我們的身體\n會影響我們運動的效率和\n•\nHow we position our bodies affects\n施加在身體組織上的壓\nthe efficiency of our movements &\nthe stress that is placed on the body\ntissues\n•\n在所有病人互動過程中，護理\n•\n人員應使用盡可能最好的身體\nDuring all patient interaction, the\n力學來定位自己，以最大限度\ncaregiver should position himself using\n地提高以安全方式以最小的努\nthe best body mechanics possible to\n力完成任務的能力\nmaximize the ability to accomplish the\ntask with minimal effort in a safe manner",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+          "slide_number": 19,
+          "content_type": "slide_title",
+          "text": "Proper Body Mechanics",
+          "body_text": "Proper Body Mechanics",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 2.04,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            60.0,
+            35.826,
+            621.374,
+            68.443
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• Body Mechanics: the wayin which we position our bodies during tasks",
+          "body_text": "Body Mechanics: the wayin which we position our bodies during tasks",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 9.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            66.96,
+            131.659,
+            250.923,
+            184.443
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• Because our bodies are subject to the principles of biomechanics",
+          "body_text": "Because our bodies are subject to the principles of biomechanics",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 9.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            66.96,
+            209.199,
+            253.607,
+            261.969
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• How we position our bodies affects the efficiency of our movements & the stress that is placed on the body tissues",
+          "body_text": "How we position our bodies affects the efficiency of our movements & the stress that is placed on the body tissues",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 35.424,
+          "indent_level": 1,
+          "source_line_indices": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "bbox_points": [
+            93.384,
+            272.829,
+            315.23,
+            344.793
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• During all patient interaction, the caregiver should position himself using the best body mechanics possible to maximize the ability to accomplish the task with minimal effort in a safe manner",
+          "body_text": "During all patient interaction, the caregiver should position himself using the best body mechanics possible to maximize the ability to accomplish the task with minimal effort in a safe manner",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "bbox_points": [
+            57.96,
+            369.689,
+            315.813,
+            460.861
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+      "slide_number": 20,
+      "title": "Poor Body Mechanics",
+      "english_text": "• The caregiver assists the client up from the wheelchair, but her upper body bends at the waist with knees straight& trunk angled forward at about 70°\n• The ES muscle of the trunk must generate sufficient force to maintain the trunk in this flexed position\nPoor Body Mechanics",
+      "raw_bilingual_text": "•\nThe caregiver assists the client up\nfrom the wheelchair, but her upper\nErector Spinae\nbody bends at the waist with knees\nmuscle (ES)\nstraight& trunk angled forward at\nabout 70°\nAxis\n•\nThe ES muscle of the trunk must\ngenerate sufficient force to maintain\nthe trunk in this flexed position\nWeight of\nHead, arms\n& trunk\n•\n護理人員協助客戶從輪椅上站起\n(HAT)\n來，但她的上半身在腰部彎曲，\n膝蓋伸直，軀幹向前傾斜約 70°\n•\n軀幹的 ES 肌肉必須產生足夠的\n力來將軀幹保持在這種彎曲位置\nPoor Body Mechanics\n不良的身體力學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "slide_number": 20,
+          "content_type": "list_item",
+          "text": "• The caregiver assists the client up from the wheelchair, but her upper body bends at the waist with knees straight& trunk angled forward at about 70°",
+          "body_text": "The caregiver assists the client up from the wheelchair, but her upper body bends at the waist with knees straight& trunk angled forward at about 70°",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "bbox_points": [
+            61.296,
+            55.63,
+            311.394,
+            158.281
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "slide_number": 20,
+          "content_type": "list_item",
+          "text": "• The ES muscle of the trunk must generate sufficient force to maintain the trunk in this flexed position",
+          "body_text": "The ES muscle of the trunk must generate sufficient force to maintain the trunk in this flexed position",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11,
+            12
+          ],
+          "bbox_points": [
+            61.296,
+            183.736,
+            310.224,
+            243.136
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "slide_number": 20,
+          "content_type": "slide_title",
+          "text": "Poor Body Mechanics",
+          "body_text": "Poor Body Mechanics",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 350.684,
+          "indent_level": 15,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            411.98,
+            466.16,
+            619.235,
+            487.781
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001",
+          "visual_type": "image",
+          "name": "Poor Body Mechanics visual",
+          "pdf_page": 20,
+          "slide_number": 20,
+          "location": {
+            "bbox_points": [
+              380.76,
+              59.88,
+              699.0,
+              454.8
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+      "slide_number": 21,
+      "title": "Better Body Mechanics",
+      "english_text": "• The distance between the caregiver and patient decrease, and her knee bent with trunk more upright\n• The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position.\n• Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks.\nBetter Body Mechanics",
+      "raw_bilingual_text": "•\nThe distance between the caregiver and patient\ndecrease, and her knee bent with trunk more\nupright\n•\nThe force of ES muscles in this knee-bent & trunk\nmore upright position is lower than the previous\nstraight leg position.\n•\nLow back injuries are one of the most common\nmusculoskeletal disorders experienced by people\ninvolved in patient mobility tasks.\n•\n護理人員和病人之間的距離縮短，膝蓋彎\n曲，軀幹更直立\n•\n這種膝蓋彎曲和軀幹更直立的姿勢下 ES\n肌肉的力量低於之前的直腿姿勢。\n•\n腰傷是參與病人行動任務的人最常見的肌\n肉骨骼疾病之一。\nBetter Body Mechanics\n更好的身體力學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "slide_number": 21,
+          "content_type": "list_item",
+          "text": "• The distance between the caregiver and patient decrease, and her knee bent with trunk more upright",
+          "body_text": "The distance between the caregiver and patient decrease, and her knee bent with trunk more upright",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 353.474,
+          "indent_level": 15,
+          "source_line_indices": [
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            388.25,
+            60.309,
+            679.057,
+            113.073
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "slide_number": 21,
+          "content_type": "list_item",
+          "text": "• The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position.",
+          "body_text": "The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 353.474,
+          "indent_level": 15,
+          "source_line_indices": [
+            7,
+            8,
+            9
+          ],
+          "bbox_points": [
+            388.25,
+            137.813,
+            705.945,
+            190.613
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "slide_number": 21,
+          "content_type": "list_item",
+          "text": "• Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks.",
+          "body_text": "Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 353.474,
+          "indent_level": 15,
+          "source_line_indices": [
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            388.25,
+            215.489,
+            689.157,
+            268.283
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "slide_number": 21,
+          "content_type": "slide_title",
+          "text": "Better Body Mechanics",
+          "body_text": "Better Body Mechanics",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            34.776,
+            482.376,
+            255.696,
+            503.976
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001",
+          "visual_type": "image",
+          "name": "Better Body Mechanics visual",
+          "pdf_page": 21,
+          "slide_number": 21,
+          "location": {
+            "bbox_points": [
+              21.12,
+              54.0,
+              338.52,
+              474.48
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+      "slide_number": 22,
+      "title": "Proper Body Mechanics",
+      "english_text": "Proper Body Mechanics\n• In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position\n• To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation\n• For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+      "raw_bilingual_text": "Proper Body Mechanics 正確的身體力學\n•\nIn the previous example, we only\n•\n在前面的例子中，我們只考慮\nconsider the force exerted on the\n通過簡單地保持軀幹彎曲位置\ncaregiver’slower back muscles by\n施加在護理人員下背部肌肉上\nsimply maintaining a flexed trunk\n的力\nposition\n•\n•\n為了完成轉移任務，護理人員\nTo complete the transfer task, the\n必須將病人體重的運動添加到\ncaregiver must add the movement of\n等式中\nthe patient’s body weight into the\nequation\n•\n為了獲得最佳性能，病人和護\n•\nFor optimal performance, both the\n理人員都必須利用良好的身體\npatient and the caregiver must utilize\n力學\ngood body mechanics",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "slide_number": 22,
+          "content_type": "slide_title",
+          "text": "Proper Body Mechanics",
+          "body_text": "Proper Body Mechanics",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            72.0,
+            35.826,
+            633.374,
+            68.443
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position",
+          "body_text": "In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.984,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "bbox_points": [
+            72.984,
+            126.713,
+            333.857,
+            240.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation",
+          "body_text": "To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.984,
+          "indent_level": 0,
+          "source_line_indices": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            72.984,
+            266.803,
+            353.523,
+            356.844
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+          "body_text": "For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.984,
+          "indent_level": 0,
+          "source_line_indices": [
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            72.984,
+            382.743,
+            359.108,
+            448.786
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+      "slide_number": 23,
+      "title": "Patient position",
+      "english_text": "Patient position\nTo achieve good body\nmechanics in the transfer\ntask, the patient:\n• Moves forward in the chair, decreasing the distance between patient & caregiver\n• Place the feet under the CG and slightly apart to maximize the BoS BoS\n• Leans forward so that the LoG is as close as possible to the BoS\n• Places the hands on the armrests",
+      "raw_bilingual_text": "Patient position 病人位置\n•\nTo achieve good body\nmechanics in the transfer\n•\n為了在轉移任務中實現良好的身體\ntask, the patient:\n力學，病人：\n• Moves forward in the chair,\n•\n在椅子上向前移動，減少病人\ndecreasing the distance between\n和護理人員之間的距離\npatient & caregiver\n•\n將腳放在重心下方並稍微分開\n• Place the feet under the CG and\n以最大化BoS\nslightly apart to maximize the\n•\n向前傾斜，使LoG盡可能靠近\nBoS\nBoS\n• Leans forward so that the\n•\n將手放在扶手上\nLoG is as close as possible\nto the BoS\n• Places the hands on the armrests",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "slide_title",
+          "text": "Patient position",
+          "body_text": "Patient position",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 47.516,
+          "indent_level": 2,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            126.02,
+            36.532,
+            564.31,
+            77.211
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "subtitle",
+          "text": "To achieve good body",
+          "body_text": "To achieve good body",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.48,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            78.984,
+            115.848,
+            277.49,
+            137.448
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "subtitle",
+          "text": "mechanics in the transfer",
+          "body_text": "mechanics in the transfer",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.48,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            78.984,
+            144.632,
+            314.89,
+            166.253
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "subtitle",
+          "text": "task, the patient:",
+          "body_text": "task, the patient:",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.48,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            78.984,
+            173.468,
+            238.442,
+            195.068
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "list_item",
+          "text": "• Moves forward in the chair, decreasing the distance between patient & caregiver",
+          "body_text": "Moves forward in the chair, decreasing the distance between patient & caregiver",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5,
+            6,
+            7
+          ],
+          "bbox_points": [
+            78.504,
+            202.684,
+            353.859,
+            273.199
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B006",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "list_item",
+          "text": "• Place the feet under the CG and slightly apart to maximize the BoS BoS",
+          "body_text": "Place the feet under the CG and slightly apart to maximize the BoS BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8,
+            9,
+            10,
+            27
+          ],
+          "bbox_points": [
+            78.504,
+            280.714,
+            461.807,
+            370.779
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B007",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "list_item",
+          "text": "• Leans forward so that the LoG is as close as possible to the BoS",
+          "body_text": "Leans forward so that the LoG is as close as possible to the BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            11,
+            12,
+            13
+          ],
+          "bbox_points": [
+            78.504,
+            358.734,
+            305.795,
+            429.219
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-B008",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "slide_number": 23,
+          "content_type": "list_item",
+          "text": "• Places the hands on the armrests",
+          "body_text": "Places the hands on the armrests",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            78.504,
+            436.714,
+            359.935,
+            459.226
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+      "slide_number": 24,
+      "title": "Caregiver position",
+      "english_text": "Caregiver position\n• Toachieve good body mechanics in the transfer task, the caregiver:\n• Closes the distance between the caregiver and the patient by:\n• Bringing the feet into or close to the patient’s BoS\n• Flexing the trunk so that the caregiver is leaning slightly toward the patient",
+      "raw_bilingual_text": "Caregiver position 護理人員體位\n•\n•\n為了在轉移任務中實現良好的身體力學，\nToachieve good body mechanics in the\n護理人員：\ntransfer task, the caregiver:\n•\n通過以下方式拉近護理人員和病人之\n•\nCloses the distance between the caregiver\n間的距離：\nand the patient by:\n•\n• Bringing the feet into or close to the\n將雙腳帶入或靠近病人的BoS\n•\npatient’s BoS\n彎曲軀幹，使護理人員稍微向病\n人傾斜\n• Flexing the trunk so that the\ncaregiver is leaning slightly toward the\npatient\n•\n在開始轉移之前和整個運動期間執行\n•\nPerform dynamic trunk stabilization\n動態軀幹穩定\nbefore initiating the transfer & during\nthe entire movement\n•\nDirect forces with arms & legs as\n•\n根據需要用手臂和腿直接用力來阻擋\nneeded to block the patient’s\n病人的膝蓋和/或支撐病人的軀幹\nknee and/or to support the\npatient’s trunk",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "slide_number": 24,
+          "content_type": "slide_title",
+          "text": "Caregiver position",
+          "body_text": "Caregiver position",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 37.032,
+          "indent_level": 2,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            89.784,
+            34.265,
+            605.228,
+            70.937
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "slide_number": 24,
+          "content_type": "list_item",
+          "text": "• Toachieve good body mechanics in the transfer task, the caregiver:",
+          "body_text": "Toachieve good body mechanics in the transfer task, the caregiver:",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3
+          ],
+          "bbox_points": [
+            52.752,
+            121.286,
+            320.664,
+            159.086
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "slide_number": 24,
+          "content_type": "list_item",
+          "text": "• Closes the distance between the caregiver and the patient by:",
+          "body_text": "Closes the distance between the caregiver and the patient by:",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 26.52,
+          "indent_level": 1,
+          "source_line_indices": [
+            5,
+            6
+          ],
+          "bbox_points": [
+            79.272,
+            169.943,
+            334.13,
+            203.553
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "slide_number": 24,
+          "content_type": "list_item",
+          "text": "• Bringing the feet into or close to the patient’s BoS",
+          "body_text": "Bringing the feet into or close to the patient’s BoS",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 26.4,
+          "indent_level": 1,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            79.152,
+            206.766,
+            330.574,
+            247.953
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-B005",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "slide_number": 24,
+          "content_type": "list_item",
+          "text": "• Flexing the trunk so that the caregiver is leaning slightly toward the patient",
+          "body_text": "Flexing the trunk so that the caregiver is leaning slightly toward the patient",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 26.4,
+          "indent_level": 1,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            79.152,
+            253.206,
+            337.548,
+            317.693
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+      "slide_number": 25,
+      "title": "Positioning for stability",
+      "english_text": "Positioning for stability\n• The caregiver’s BoS is large. The CG of the caregiver is low and over the BoS.\n• The patient’s CG is low & moving forward to be over the center of BoS\n• The distance between the caregiver and the patient is decreased as much as possible while allowing for necessary movement",
+      "raw_bilingual_text": "定位以確保穩定性\nPositioning for stability\n•\nThe caregiver’s BoS is large. The CG of the\ncaregiver is low and over the BoS.\n•\nThe patient’s CG is low & moving forward to be\nover the center of BoS\n•\nThe distance between the caregiver and the\npatient is decreased as much as possible while\nallowing for necessary movement\n•\n護理人員的BoS很大。護理人員的 CG 較低\n且在 BoS內。\n•\n病人的 CG 較低，並向前移動以超過 BoS 中\n心\n•\n儘可能縮短護理人員和病人之間的距離，同\n時允許必要的運動",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+          "slide_number": 25,
+          "content_type": "slide_title",
+          "text": "Positioning for stability",
+          "body_text": "Positioning for stability",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            44.088,
+            31.88,
+            346.939,
+            60.738
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+          "slide_number": 25,
+          "content_type": "list_item",
+          "text": "• The caregiver’s BoS is large. The CG of the caregiver is low and over the BoS.",
+          "body_text": "The caregiver’s BoS is large. The CG of the caregiver is low and over the BoS.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 359.212,
+          "indent_level": 15,
+          "source_line_indices": [
+            3,
+            4
+          ],
+          "bbox_points": [
+            403.3,
+            106.819,
+            649.594,
+            139.227
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+          "slide_number": 25,
+          "content_type": "list_item",
+          "text": "• The patient’s CG is low & moving forward to be over the center of BoS",
+          "body_text": "The patient’s CG is low & moving forward to be over the center of BoS",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 359.212,
+          "indent_level": 15,
+          "source_line_indices": [
+            6,
+            7
+          ],
+          "bbox_points": [
+            403.3,
+            157.27,
+            675.578,
+            189.627
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025-B004",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+          "slide_number": 25,
+          "content_type": "list_item",
+          "text": "• The distance between the caregiver and the patient is decreased as much as possible while allowing for necessary movement",
+          "body_text": "The distance between the caregiver and the patient is decreased as much as possible while allowing for necessary movement",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 359.212,
+          "indent_level": 15,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            403.3,
+            210.574,
+            669.218,
+            256.847
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001",
+          "visual_type": "image",
+          "name": "Positioning for stability visual",
+          "pdf_page": 25,
+          "slide_number": 25,
+          "location": {
+            "bbox_points": [
+              25.44,
+              90.72,
+              332.04,
+              509.28
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+      "slide_number": 26,
+      "title": "Directing Forces by Blocking the knees",
+      "english_text": "Directing Forces by Blocking the knees\n• During standing or partial standing for a transfer, if the patient cannot generate sufficient internal force to maintain the knee in extension.\n• The caregiver may apply an external force, “blocking the knee” to assist the patient to stand.",
+      "raw_bilingual_text": "Directing Forces by Blocking the knees\n通過阻擋膝蓋來引導力\n•\nDuring standing or partial standing for a transfer, if the patient\ncannot generate sufficient internal force to maintain the knee in\nextension.\n•\nThe caregiver may apply an external force, “blocking the knee” to\nassist the patient to stand.\n•\n在站立或部分站立轉移期間，如果病人無法產生足夠的內力來\n保持膝關節伸展。\n•\n護理人員可能會施加外力，「阻擋膝蓋」以説明病人站立。",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+          "slide_number": 26,
+          "content_type": "slide_title",
+          "text": "Directing Forces by Blocking the knees",
+          "body_text": "Directing Forces by Blocking the knees",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            86.688,
+            38.897,
+            514.59,
+            64.083
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026-B002",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+          "slide_number": 26,
+          "content_type": "list_item",
+          "text": "• During standing or partial standing for a transfer, if the patient cannot generate sufficient internal force to maintain the knee in extension.",
+          "body_text": "During standing or partial standing for a transfer, if the patient cannot generate sufficient internal force to maintain the knee in extension.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 42.312,
+          "indent_level": 2,
+          "source_line_indices": [
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            129.0,
+            134.756,
+            584.976,
+            194.156
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026-B003",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+          "slide_number": 26,
+          "content_type": "list_item",
+          "text": "• The caregiver may apply an external force, “blocking the knee” to assist the patient to stand.",
+          "body_text": "The caregiver may apply an external force, “blocking the knee” to assist the patient to stand.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 42.312,
+          "indent_level": 2,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            129.0,
+            217.391,
+            605.284,
+            258.976
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+      "slide_number": 27,
+      "title": "Directing Forces by Blocking the knees (diagram)",
+      "english_text": "Directing Forces by Blocking the knees",
+      "raw_bilingual_text": "Directing Forces by Blocking the knees\n通過阻擋膝蓋來引導力",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027-B001",
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "Directing Forces by Blocking the knees",
+          "body_text": "Directing Forces by Blocking the knees",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            86.688,
+            38.897,
+            514.59,
+            64.083
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001",
+          "visual_type": "image",
+          "name": "Directing Forces by Blocking the knees (diagram) visual",
+          "pdf_page": 27,
+          "slide_number": 27,
+          "location": {
+            "bbox_points": [
+              72.0,
+              136.68,
+              660.0,
+              535.92
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 27,
+    "blocks": 120,
+    "list_items": 74
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

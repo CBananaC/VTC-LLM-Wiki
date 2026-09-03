@@ -1,0 +1,138 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-MFAC",
+  "source": {
+    "filename": "10 - 4. Modified Functional Ambulation Categories.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L04-MFAC/00 Source/10 - 4. Modified Functional Ambulation Categories.pdf",
+    "sha256": "sha256:c1d4cafdbdfd5ca8c761bf39565769b1450147db5d8c26e06580d5ff0099cf2f",
+    "size_bytes": 116398,
+    "pdf_page_count": 1,
+    "pdfinfo": {
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "CreationDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "ModDate": "Mon Nov 26 09:13:20 2018 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "no",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 1,
+      "Encrypted": "no",
+      "Page size": "594.96 x 842.04 pts (A4)",
+      "Page rot": "0",
+      "File size": 116398,
+      "Optimized": "no",
+      "PDF version": "1.5"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR text retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained when readable from the embedded text layer.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L04-MFAC-P0001",
+      "slide_number": 1,
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "english_text": "Modified Functional Ambulation Categories\nThis classification does not take account of any aid used.",
+      "raw_bilingual_text": "Modified Functional Ambulation Categories\nCategories Stage\nDefinition\nUnable to walk / unable to sit without support>1min /\nI\nLyer\nassist to sit\nSit without support >1min / unable to walk with 1 person\nII\nSitter\nassistance\nWalk with 1 person assistance – level ground (continuous\nDependent\nIII\nwalker\nmanual contact to support body weight)\nWalk with 1 person assistance – level ground (continuous\nAssisted\nIV\nwalker\nor intermittent manual contact)\nSupervised\nWalk with standby guarding from 1 person – level ground\nV\nwalker\nTransfer, turn & walk on level ground independently,\nVI\nIndoor walker\nneeds assistance on stairs/inclines\nOutdoor\nVII\nWalk independently on level or non-level surfaces\nwalker\nThis classification does not take account of any aid used.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L04-MFAC-P0001-B001",
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "Modified Functional Ambulation Categories",
+          "body_text": "Modified Functional Ambulation Categories",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            90.024,
+            75.251,
+            354.762,
+            87.887
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L04-MFAC-P0001-B002",
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "This classification does not take account of any aid used.",
+          "body_text": "This classification does not take account of any aid used.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            33
+          ],
+          "bbox_points": [
+            90.024,
+            378.374,
+            363.18,
+            389.174
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L04-MFAC-VIS-P0001-T01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L04-MFAC-VIS-P0001-T01",
+          "visual_type": "table",
+          "name": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+          "pdf_page": 1,
+          "slide_number": 1,
+          "location": {
+            "bbox_points": [
+              89.325,
+              102.904,
+              505.909,
+              360.962
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "pdfplumber-find-tables"
+          },
+          "policy": "full_table_reconstruction",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 1,
+    "blocks": 2,
+    "list_items": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

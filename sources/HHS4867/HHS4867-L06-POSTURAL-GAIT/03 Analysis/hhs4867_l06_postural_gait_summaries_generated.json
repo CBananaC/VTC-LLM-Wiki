@@ -1,0 +1,272 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L06-POSTURAL-GAIT",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural assessment basics",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0001",
+        "HHS4867-L06-POSTURAL-GAIT-P0002"
+      ],
+      "summary": "Postural Assessment HHS4867 Functional Movement Science HHS4867J • Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952)",
+      "summary_sentences": [
+        "Postural Assessment HHS4867 Functional Movement Science HHS4867J",
+        "• Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952)"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural features and assessment",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "slide_start": 3,
+      "slide_end": 16,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-P0016"
+      ],
+      "summary": "Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis Effect of Pelvic Tilt on lower body posture Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain",
+      "summary_sentences": [
+        "Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control",
+        "Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis",
+        "Effect of Pelvic Tilt on lower body posture",
+        "Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree",
+        "Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Gait fundamentals",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "slide_start": 17,
+      "slide_end": 23,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0017",
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-P0019",
+        "HHS4867-L06-POSTURAL-GAIT-P0020",
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-P0022",
+        "HHS4867-L06-POSTURAL-GAIT-P0023"
+      ],
+      "summary": "Gait cycle The gait cycle is defined as the time interval between two successive occurrence of one of the repetitive events of walking. Stance phase & Swing phase • Swing phase • when the foot is moving forward through the air • Stance phase • Support phase, last from initial contact to toe off Gait cycle So the gait cycle can subdivide into 1. Stride length • Distance between two successive placements of the same foot. • Consists of two step lengths, left and right.",
+      "summary_sentences": [
+        "Gait cycle The gait cycle is defined as the time interval between two successive occurrence of one of the repetitive events of walking.",
+        "Stance phase & Swing phase • Swing phase • when the foot is moving forward through the air • Stance phase • Support phase, last from initial contact to toe off",
+        "Gait cycle So the gait cycle can subdivide into 1.",
+        "Stride length • Distance between two successive placements of the same foot.",
+        "• Consists of two step lengths, left and right."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "level": "part",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Pathological gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "slide_start": 24,
+      "slide_end": 32,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0024",
+        "HHS4867-L06-POSTURAL-GAIT-P0025",
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-P0027",
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-P0029",
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-P0031",
+        "HHS4867-L06-POSTURAL-GAIT-P0032"
+      ],
+      "summary": "Spastic hemiplegia • the commonest neurological abnormal gait. It can occurs in cerebral palsy, cerebrovascular accident and traumatic brain injury. • A hemiplegic patient usually possesses a mixture of normal motor control, spasticity and patterned responses, he exact combination depending on the severity and location of the brain damage. Typical problems are as follows: o Foot drop on the affected side o Contracture of the calf muscles o Overactivity of both quadriceps and hamstrings o Reduced range of hip motion due to overactivity of ilipsaoas and the adductors Spastic diplegia A common manifestation of cerebral palsy.",
+      "summary_sentences": [
+        "Spastic hemiplegia • the commonest neurological abnormal gait.",
+        "It can occurs in cerebral palsy, cerebrovascular accident and traumatic brain injury.",
+        "• A hemiplegic patient usually possesses a mixture of normal motor control, spasticity and patterned responses, he exact combination depending on the severity and location of the brain damage.",
+        "Typical problems are as follows: o Foot drop on the affected side o Contracture of the calf muscles o Overactivity of both quadriceps and hamstrings o Reduced range of hip motion due to overactivity of ilipsaoas and the adductors",
+        "Spastic diplegia A common manifestation of cerebral palsy."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT-PART04",
+      "level": "part",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Functional mobility tests",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "slide_start": 33,
+      "slide_end": 34,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0033",
+        "HHS4867-L06-POSTURAL-GAIT-P0034"
+      ],
+      "summary": "Modified Functional Ambulation Categories (MFAC) Cat. Stage Definition Lyer Unable to walk / unable to sit without support>1min / assist to sit Sitter Sit without support >1min / unable to walk with 1 person assistance III Dependent Walk with 1 person assistance – level ground (continuous manual contact to support body Walker weight) Assisted Walker Walk with 1 person assistance – level ground (continuous or intermittent manual contact) Supervised Walk with standby guarding from 1 person – level ground Walker Indoor Walker Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines VII Outdoor Walker Walk independently on level or non-level surfaces Timed up and Go test A score of more than or equal to fourteen seconds has been shown to indicate high risk of falls.",
+      "summary_sentences": [
+        "Modified Functional Ambulation Categories (MFAC) Cat.",
+        "Stage Definition Lyer Unable to walk / unable to sit without support>1min / assist to sit Sitter Sit without support >1min / unable to walk with 1 person assistance III Dependent Walk with 1 person assistance – level ground (continuous manual contact to support body Walker weight) Assisted Walker Walk with 1 person assistance – level ground (continuous or intermittent manual contact) Supervised Walk with standby guarding from 1 person – level ground Walker Indoor Walker Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines VII Outdoor Walker Walk independently on level or non-level surfaces",
+        "Timed up and Go test A score of more than or equal to fourteen seconds has been shown to indicate high risk of falls."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L06-POSTURAL-GAIT",
+      "level": "document",
+      "title": "Lecture 6 - Postural Assessment and Gait",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 34,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0001",
+        "HHS4867-L06-POSTURAL-GAIT-P0002",
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-P0016",
+        "HHS4867-L06-POSTURAL-GAIT-P0017",
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-P0019",
+        "HHS4867-L06-POSTURAL-GAIT-P0020",
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-P0022",
+        "HHS4867-L06-POSTURAL-GAIT-P0023",
+        "HHS4867-L06-POSTURAL-GAIT-P0024",
+        "HHS4867-L06-POSTURAL-GAIT-P0025",
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-P0027",
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-P0029",
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-P0031",
+        "HHS4867-L06-POSTURAL-GAIT-P0032",
+        "HHS4867-L06-POSTURAL-GAIT-P0033",
+        "HHS4867-L06-POSTURAL-GAIT-P0034"
+      ],
+      "summary": "Postural Assessment HHS4867 Functional Movement Science HHS4867J • Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952) Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis Effect of Pelvic Tilt on lower body posture Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain Hip / Knee Genu Varum: Bow-legged Genu Valgum: Knock-kneed",
+      "summary_sentences": [
+        "Postural Assessment HHS4867 Functional Movement Science HHS4867J",
+        "• Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952)",
+        "Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control",
+        "Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis",
+        "Effect of Pelvic Tilt on lower body posture",
+        "Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree",
+        "Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain",
+        "Hip / Knee Genu Varum: Bow-legged Genu Valgum: Knock-kneed"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-PART00",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT-PART02",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0001",
+        "HHS4867-L06-POSTURAL-GAIT-P0002",
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-P0016",
+        "HHS4867-L06-POSTURAL-GAIT-P0017",
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-P0019",
+        "HHS4867-L06-POSTURAL-GAIT-P0020",
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-P0022",
+        "HHS4867-L06-POSTURAL-GAIT-P0023",
+        "HHS4867-L06-POSTURAL-GAIT-P0024",
+        "HHS4867-L06-POSTURAL-GAIT-P0025",
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-P0027",
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-P0029",
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-P0031",
+        "HHS4867-L06-POSTURAL-GAIT-P0032",
+        "HHS4867-L06-POSTURAL-GAIT-P0033",
+        "HHS4867-L06-POSTURAL-GAIT-P0034"
+      ],
+      "summary": "Postural Assessment HHS4867 Functional Movement Science HHS4867J • Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952) Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis Effect of Pelvic Tilt on lower body posture Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain Hip / Knee Genu Varum: Bow-legged Genu Valgum: Knock-kneed",
+      "summary_sentences": [
+        "Postural Assessment HHS4867 Functional Movement Science HHS4867J • Posture a composite of the positions of all the joints of the body at any given moment • Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain • Faulty posture the posture that is not an ideal posture (Muscles Testing and function, Kendall et al, 1952) Ideal Erect Posture • Erect posture: the posture that an individual is standing at attention or told to “stand up straight” • In this posture, a plumb line falls through • Ear lob • Tip of the shoulder • Center of the hip / greater trochanter • Anterior 1/3 to middle of the knee • Just behind the ankle bone • need conscious control Understanding the Posture • Natural Spine • Cervical Lordosis • Thoracic Kyphosis • Lumbar Lordosis Effect of Pelvic Tilt on lower body posture Elbow - Carrying angle • In elbow extension & forearm supination position • Angle between the long axis of arm & the long axis of forearm • NORMAL: around 5 -15 degree Hip / Knee Q angle (Quadriceps angle • The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle • Normally • Female: 15-17 degree (because of wider pelvis) • Male: 10-14 degree • A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain Hip / Knee Genu Varum: Bow-legged Genu Valgum: Knock-kneed"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L06-POSTURAL-GAIT"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

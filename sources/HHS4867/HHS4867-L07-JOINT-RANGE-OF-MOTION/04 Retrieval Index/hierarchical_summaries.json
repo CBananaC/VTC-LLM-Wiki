@@ -1,0 +1,159 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Joint range-of-motion concepts",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+        "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Goniometry and normal ROM",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 3,
+      "slide_end": 4,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "summary": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Joint ROM examples",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 5,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Shoulder Flexion & Extension Shoulder Abduction Shoulder Int & Ext Rotation Elbow Flexion & Extension Hip Flexion & Extension",
+      "summary_sentences": [
+        "Shoulder Flexion & Extension",
+        "Shoulder Abduction",
+        "Shoulder Int & Ext Rotation",
+        "Elbow Flexion & Extension",
+        "Hip Flexion & Extension"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "level": "document",
+      "title": "Lecture 7.2 - Joint Range of Motion",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+        "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+        "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

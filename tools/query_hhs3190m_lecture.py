@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Return an agent-neutral retrieval packet for the HHS3190M Lecture 1 deck."""
+"""Return an agent-neutral retrieval packet for any HHS3190M deck."""
 
 from __future__ import annotations
 
@@ -119,14 +119,16 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--query", required=True)
     parser.add_argument("--term", action="append", default=[])
-    parser.add_argument("--index-root", type=Path, default=DEFAULT_INDEX)
-    parser.add_argument("--text-root", type=Path, default=DEFAULT_TEXT)
+    parser.add_argument("--source-id", default=SOURCE_ID, help="Registered HHS3190M source ID; defaults to Lecture 1.")
+    parser.add_argument("--index-root", type=Path, help="Override the selected package's retrieval-index directory.")
+    parser.add_argument("--text-root", type=Path, help="Override the selected package's text/table directory.")
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--max-terms", type=int, default=20)
     args = parser.parse_args()
 
-    index = args.index_root.expanduser().resolve()
-    text_root = args.text_root.expanduser().resolve()
+    package_root = ROOT / "sources" / COURSE_CODE / args.source_id
+    index = (args.index_root or package_root / "04 Retrieval Index").expanduser().resolve()
+    text_root = (args.text_root or package_root / "02 Text and Tables").expanduser().resolve()
     term_index = load(index / "term_lookup.json")
     concept_index = load(index / "concept_index.json")
     occurrence_index = load(index / "occurrence_index.json")
@@ -134,7 +136,12 @@ def main() -> None:
     visual_index = load(index / "visual_index.json")
     summaries = load(index / "hierarchical_summaries.json")
     formal_schema = load(index / "formal_output_schema.json")
-    tables = {item["table_id"]: item for item in load(text_root / "hhs3190m_l01_tables_generated.json").get("tables", [])}
+    table_files = sorted(text_root.glob("*_tables_generated.json"))
+    tables = {
+        item["table_id"]: item
+        for table_file in table_files
+        for item in load(table_file).get("tables", [])
+    }
     passages = load_passages(index / "passage_index.jsonl")
 
     terms = term_index.get("terms", {})
@@ -201,7 +208,7 @@ def main() -> None:
         "record_type": "retrieval_packet",
         "course_code": COURSE_CODE,
         "book_id": COURSE_CODE,
-        "source_id": SOURCE_ID,
+        "source_id": args.source_id,
         "query": args.query,
         "matched_terms": selected_terms,
         "concept_candidates": [concepts[concept_id] for concept_id in concept_ids if concept_id in concepts][: args.limit],

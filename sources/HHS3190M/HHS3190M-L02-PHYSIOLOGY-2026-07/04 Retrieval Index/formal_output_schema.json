@@ -1,0 +1,14 @@
+{
+  "schema_version": "vtc-hhs3190m.formal-answer.v1",
+  "record_type": "formal_answer_contract",
+  "required_sections": [
+    "answer",
+    "source_quotations",
+    "references"
+  ],
+  "reference_rule": "Cite lecture filename and slide number; PDF page equals slide number for this export.",
+  "visual_rule": "Cite visual name/type/location; reconstruct contents only for returned tables.",
+  "verification_rule": "Generated text, quotations, visual mappings, and summaries require manual source-slide verification.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

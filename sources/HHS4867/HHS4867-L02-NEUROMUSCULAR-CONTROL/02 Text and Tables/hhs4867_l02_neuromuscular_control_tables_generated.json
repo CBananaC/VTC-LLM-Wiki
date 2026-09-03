@@ -1,0 +1,45 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+  "source": {
+    "filename": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/00 Source/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+    "pdf_page_count": 18,
+    "pdfinfo": {
+      "Title": "Neuromuscular control of human movement",
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:50:49 2026 HKT",
+      "ModDate": "Thu Aug 27 11:50:49 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 18,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 886506,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

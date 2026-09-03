@@ -1,0 +1,972 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0001-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: HHS3190MJ",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0001",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Cover and Introduction",
+          "HHS3190MJ"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0002-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: Outline",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0002",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART00",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Cover and Introduction",
+          "Outline"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0003-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Visual associated with: Introduction to Anatomy",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0003",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Introduction to Anatomy"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Body Planes",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Body Planes"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Body Planes",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          120.0,
+          96.0,
+          522.0,
+          510.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0004",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Body Planes"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0005-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Positions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0005",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Terminology Related to Positions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Positions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0006",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Terminology Related to Positions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: Inferior",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0007",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Inferior"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Positions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0008",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART01",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Anatomical position, planes, and positions",
+          "Terminology Related to Positions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0009",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0010",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0011-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0011",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0012",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0013-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0013",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminology Related to Movements",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0014",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART02",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminology related to movements",
+          "Terminology Related to Movements"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminologies related to Bone Markings",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0015",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminologies related to bone markings",
+          "Terminologies related to Bone Markings"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: Terminologies related to Bone Markings",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0016",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART03",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "Terminologies related to bone markings",
+          "Terminologies related to Bone Markings"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-VIS-P0017-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+      "source_file": "15 - J L1 Terminology for anatomy.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with: References",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          -0.0,
+          960.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "document_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "document_title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+        "source_file": "15 - J L1 Terminology for anatomy.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "15 - J L1 Terminology for anatomy.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-P0017",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07-PART04",
+        "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Anatomy L1 - Terminology for Anatomy (July 2026)",
+          "References",
+          "References"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 18,
+    "tables": 0,
+    "non_tables": 18
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

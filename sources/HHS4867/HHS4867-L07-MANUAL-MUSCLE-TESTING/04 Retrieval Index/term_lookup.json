@@ -1,0 +1,658 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "contractionvisiblepalpablemuscle": {
+      "display_forms": [
+        "contraction Visible/palpable muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "dynamometervisual": {
+      "display_forms": [
+        "Dynamometer visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "elbowflexionextensionvisual": {
+      "display_forms": [
+        "Elbow Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "function": {
+      "display_forms": [
+        "function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gradehipflexionsidelyingsupinehip": {
+      "display_forms": [
+        "Grade Hip Flexion Sidelying Supine Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "gravitycompletesrange": {
+      "display_forms": [
+        "gravity completes range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gravityeliminatedantigravitygradegradehip": {
+      "display_forms": [
+        "Gravity eliminated Anti-gravity Grade Grade Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "gravityeliminatedpositionmuscle": {
+      "display_forms": [
+        "gravity eliminated position muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867j": {
+      "display_forms": [
+        "HHS4867J"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hip": {
+      "display_forms": [
+        "Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "hipabductionvisual": {
+      "display_forms": [
+        "Hip Abduction visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "hipflexionextensionvisual": {
+      "display_forms": [
+        "Hip Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "hipinternalexternalrotationvisual": {
+      "display_forms": [
+        "Hip Internal & External Rotation visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "knee": {
+      "display_forms": [
+        "Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "kneeflexionextensionvisual": {
+      "display_forms": [
+        "Knee Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "manualmuscle": {
+      "display_forms": [
+        "Manual Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "manualmuscletestinghhs4867functional": {
+      "display_forms": [
+        "Manual Muscle Testing HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "measuringstrength": {
+      "display_forms": [
+        "Measuring Strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "measuringstrengthwithdynamometervisual": {
+      "display_forms": [
+        "Measuring Strength with Dynamometer visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "mmt": {
+      "display_forms": [
+        "MMT"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000031",
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "Muscle",
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009",
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000046",
+        "HHS4867-O-00000047",
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "muscles": {
+      "display_forms": [
+        "muscles"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046",
+        "HHS4867-O-00000047",
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "musclestrength": {
+      "display_forms": [
+        "Muscle Strength",
+        "muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038",
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "musclestrengthmanualmuscle": {
+      "display_forms": [
+        "muscle strength Manual muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "palpablemuscle": {
+      "display_forms": [
+        "palpable muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "range": {
+      "display_forms": [
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "rom": {
+      "display_forms": [
+        "ROM"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "rotationsupinehipflexedsittinghip": {
+      "display_forms": [
+        "rotation Supine hip flexed Sitting Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "rotationsupinehipflexedsittingknee": {
+      "display_forms": [
+        "rotation Supine hip flexed Sitting Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000021"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "shoulderabduction": {
+      "display_forms": [
+        "shoulder abduction"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050",
+        "HHS4867-O-00000051"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "shoulderabductionvisual": {
+      "display_forms": [
+        "Shoulder Abduction visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000059"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "shoulderflexionextensionvisual": {
+      "display_forms": [
+        "Shoulder Flexion & Extension visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "shoulderinternalexternalrotationvisual": {
+      "display_forms": [
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "sidelyinghipabductionsupinesidelyinghip": {
+      "display_forms": [
+        "Sidelying Hip Abduction Supine Sidelying Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "sidelyinghipinternalrotationsupinehip": {
+      "display_forms": [
+        "Sidelying Hip Internal rotation Supine hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "sittinghipexternalrotationsupinehip": {
+      "display_forms": [
+        "Sitting Hip External rotation Supine hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "sittingkneeflexionpronesidelyingknee": {
+      "display_forms": [
+        "Sitting Knee Flexion Prone Sidelying Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000025"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "sophisticatedstrength": {
+      "display_forms": [
+        "sophisticated strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "strength": {
+      "display_forms": [
+        "Strength",
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043",
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "supinehipextensionpronesidelyinghip": {
+      "display_forms": [
+        "Supine Hip Extension Prone Sidelying Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "testingpositionvisualvisual": {
+      "display_forms": [
+        "Testing Position (visual) visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "weakermuscle": {
+      "display_forms": [
+        "weaker muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 44,
+    "concepts_referenced": 44,
+    "occurrences_referenced": 62
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

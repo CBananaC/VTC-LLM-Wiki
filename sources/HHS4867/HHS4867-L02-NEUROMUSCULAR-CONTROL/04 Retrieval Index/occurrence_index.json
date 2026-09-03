@@ -1,0 +1,3510 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "abdomen",
+      "keyword_path": [
+        "Anatomy",
+        "abdomen"
+      ],
+      "source_form": "abdomen",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "abdomen"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Brain",
+      "keyword_path": [
+        "Anatomy",
+        "Brain"
+      ],
+      "source_form": "Brain",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "Brain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Cervical",
+      "keyword_path": [
+        "Anatomy",
+        "Cervical"
+      ],
+      "source_form": "Cervical",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair",
+      "retrieval_terms": [
+        "Cervical"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Cervical",
+      "keyword_path": [
+        "Anatomy",
+        "Cervical"
+      ],
+      "source_form": "Cervical",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "Cervical"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Chest",
+      "keyword_path": [
+        "Anatomy",
+        "Chest"
+      ],
+      "source_form": "Chest",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "Chest"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "diaphragm",
+      "keyword_path": [
+        "Anatomy",
+        "diaphragm"
+      ],
+      "source_form": "diaphragm",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "diaphragm"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles t",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Sensoryneurons:the nerves that entering the spinal cord on the dorsal root (posterior) ⚫ Transmit information into the system from the muscle ⚫ Afferent pathway – carries all incoming information ⚫ Motorneurons: the nerves that exiting on the ventralroot (anterior) of the spinal cord ⚫ Carry impulses away from the system to the muscle ⚫ Efferent pathway – carries all outgoing information ⚫ Both dorsal & ventral roots join together as spinal nervesas they exit the spinal cord",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron. ⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers.",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ The body requires an input system to provide feedbackon the condition & changing characteristics of the musculoskeletal system and other body tissues, such as skin ⚫ Sensors collect the following information: ⚫ Stretch in the muscle ⚫ Heat / pressure on the muscle ⚫ Tension in the muscle ⚫ Pain in the extremity",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_form": "nerve",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_form": "nerve",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "neuron",
+      "keyword_path": [
+        "Anatomy",
+        "neuron"
+      ],
+      "source_form": "neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000017",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "neuron",
+      "keyword_path": [
+        "Anatomy",
+        "neuron"
+      ],
+      "source_form": "neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000018",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "neuron",
+      "keyword_path": [
+        "Anatomy",
+        "neuron"
+      ],
+      "source_form": "neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron. ⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers.",
+      "retrieval_terms": [
+        "neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000019",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "neuron",
+      "keyword_path": [
+        "Anatomy",
+        "neuron"
+      ],
+      "source_form": "neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ These sensors send information to the spinal cord ⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles ⚫ These sensors are connected to the spinal cord via sensory neurons ⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex",
+      "retrieval_terms": [
+        "neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000020",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "peripheral",
+      "keyword_path": [
+        "Anatomy",
+        "peripheral"
+      ],
+      "source_form": "peripheral",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "peripheral",
+        "Peripheral"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000021",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "peripheral",
+      "keyword_path": [
+        "Anatomy",
+        "peripheral"
+      ],
+      "source_form": "Peripheral",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Peripheral Nervous System ⚫ The upper extremity nerves",
+      "retrieval_terms": [
+        "peripheral",
+        "Peripheral"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000022",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "peripheral",
+      "keyword_path": [
+        "Anatomy",
+        "peripheral"
+      ],
+      "source_form": "Peripheral",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Peripheral Nervous System ⚫ The lower extremity nerves",
+      "retrieval_terms": [
+        "peripheral",
+        "Peripheral"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000023",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles t",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000024",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000025",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "Spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000026",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "Spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Sensoryneurons:the nerves that entering the spinal cord on the dorsal root (posterior) ⚫ Transmit information into the system from the muscle ⚫ Afferent pathway – carries all incoming information ⚫ Motorneurons: the nerves that exiting on the ventralroot (anterior) of the spinal cord ⚫ Carry impulses away from the system to the muscle ⚫ Efferent pathway – carries all outgoing information ⚫ Both dorsal & ventral roots join together as spinal nervesas they exit the spinal cord",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000027",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "Spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000028",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron. ⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers.",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000029",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ These sensors send information to the spinal cord ⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles ⚫ These sensors are connected to the spinal cord via sensory neurons ⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000030",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Reflex ⚫ Asimple reflex arc ⚫ Sensory information from receptors is sent into the spinal cord ➢ Motor response is sent out to the extremities ➢ e.g. stretch reflex",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000031",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_form": "spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000032",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Thoracic",
+      "keyword_path": [
+        "Anatomy",
+        "Thoracic"
+      ],
+      "source_form": "Thoracic",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair",
+      "retrieval_terms": [
+        "Thoracic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000033",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Thoracic",
+      "keyword_path": [
+        "Anatomy",
+        "Thoracic"
+      ],
+      "source_form": "Thoracic",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "Thoracic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000034",
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "arms hands diaphragm Thoracic pairs Chest",
+      "keyword_path": [
+        "Conditions",
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "source_form": "arms hands diaphragm Thoracic pairs Chest",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000035",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Central nervous system CNS Brain spinal",
+      "keyword_path": [
+        "Conditions",
+        "Central nervous system CNS Brain spinal"
+      ],
+      "source_form": "Central nervous system CNS Brain spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "Central nervous system CNS Brain spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000036",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Cervical region pairs Thoracic",
+      "keyword_path": [
+        "Conditions",
+        "Cervical region pairs Thoracic"
+      ],
+      "source_form": "Cervical region pairs Thoracic",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair",
+      "retrieval_terms": [
+        "Cervical region pairs Thoracic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000037",
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "few muscle",
+      "keyword_path": [
+        "Conditions",
+        "few muscle"
+      ],
+      "source_form": "few muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "few muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000038",
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Head neck shoulders arms hands diaphragm",
+      "keyword_path": [
+        "Conditions",
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "source_form": "Head neck shoulders arms hands diaphragm",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000039",
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "monitored Peripheral",
+      "keyword_path": [
+        "Conditions",
+        "monitored Peripheral"
+      ],
+      "source_form": "monitored Peripheral",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "monitored Peripheral"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000040",
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "motorend plate neuromuscular",
+      "keyword_path": [
+        "Conditions",
+        "motorend plate neuromuscular"
+      ],
+      "source_form": "motorend plate neuromuscular",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "motorend plate neuromuscular"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000041",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "motor neuron",
+      "keyword_path": [
+        "Conditions",
+        "motor neuron"
+      ],
+      "source_form": "motor neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "motor neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000042",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "motor neuron",
+      "keyword_path": [
+        "Conditions",
+        "motor neuron"
+      ],
+      "source_form": "motor neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron. ⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers.",
+      "retrieval_terms": [
+        "motor neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000043",
+      "concept_id": "HHS4867-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "motor response Examples Muscle",
+      "keyword_path": [
+        "Conditions",
+        "motor response Examples Muscle"
+      ],
+      "source_form": "motor response Examples Muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "motor response Examples Muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000044",
+      "concept_id": "HHS4867-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Motor Unit Skeletal muscle",
+      "keyword_path": [
+        "Conditions",
+        "Motor Unit Skeletal muscle"
+      ],
+      "source_form": "Motor Unit Skeletal muscle",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "Motor Unit Skeletal muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000045",
+      "concept_id": "HHS4867-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "nature magnitude motor neuron",
+      "keyword_path": [
+        "Conditions",
+        "nature magnitude motor neuron"
+      ],
+      "source_form": "nature magnitude motor neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "nature magnitude motor neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000046",
+      "concept_id": "HHS4867-C-0000023",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "neck shoulders arms hands diaphragm Thoracic",
+      "keyword_path": [
+        "Conditions",
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "source_form": "neck shoulders arms hands diaphragm Thoracic",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000047",
+      "concept_id": "HHS4867-C-0000024",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "nerves Spinal nerve Area supplied Cervical",
+      "keyword_path": [
+        "Conditions",
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "source_form": "nerves Spinal nerve Area supplied Cervical",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000048",
+      "concept_id": "HHS4867-C-0000025",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "nervous system sensory neuron",
+      "keyword_path": [
+        "Conditions",
+        "nervous system sensory neuron"
+      ],
+      "source_form": "nervous system sensory neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "nervous system sensory neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000049",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Neuromuscular",
+      "keyword_path": [
+        "Conditions",
+        "Neuromuscular"
+      ],
+      "source_form": "Neuromuscular",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Neuromuscular",
+        "neuromuscular"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000050",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Neuromuscular",
+      "keyword_path": [
+        "Conditions",
+        "Neuromuscular"
+      ],
+      "source_form": "neuromuscular",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "Neuromuscular",
+        "neuromuscular"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000051",
+      "concept_id": "HHS4867-C-0000027",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "parts Central nervous system CNS Brain",
+      "keyword_path": [
+        "Conditions",
+        "parts Central nervous system CNS Brain"
+      ],
+      "source_form": "parts Central nervous system CNS Brain",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "parts Central nervous system CNS Brain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000052",
+      "concept_id": "HHS4867-C-0000028",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "sensory neuron",
+      "keyword_path": [
+        "Conditions",
+        "sensory neuron"
+      ],
+      "source_form": "sensory neuron",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ These sensors send information to the spinal cord ⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles ⚫ These sensors are connected to the spinal cord via sensory neurons ⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex",
+      "retrieval_terms": [
+        "sensory neuron"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000053",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "spinal nerves Spinal",
+      "keyword_path": [
+        "Conditions",
+        "spinal nerves Spinal"
+      ],
+      "source_form": "spinal nerves Spinal",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "spinal nerves Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000054",
+      "concept_id": "HHS4867-C-0000030",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "spinal nerves Spinal nerve",
+      "keyword_path": [
+        "Conditions",
+        "spinal nerves Spinal nerve"
+      ],
+      "source_form": "spinal nerves Spinal nerve",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "retrieval_terms": [
+        "spinal nerves Spinal nerve"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000055",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "CNS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CNS"
+      ],
+      "source_form": "CNS",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles t",
+      "retrieval_terms": [
+        "CNS"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000056",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "CNS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CNS"
+      ],
+      "source_form": "CNS",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "CNS"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000057",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "GTO",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "GTO"
+      ],
+      "source_form": "GTO",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "GTO"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000058",
+      "concept_id": "HHS4867-C-0000033",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_form": "HHS4867",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000059",
+      "concept_id": "HHS4867-C-0000034",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_form": "HHS4867J",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000060",
+      "concept_id": "HHS4867-C-0000035",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "human movement HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "human movement HHS4867 Functional"
+      ],
+      "source_form": "human movement HHS4867 Functional",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "human movement HHS4867 Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000061",
+      "concept_id": "HHS4867-C-0000036",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "PNS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "PNS"
+      ],
+      "source_form": "PNS",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Nervous System ⚫ Consists of two parts 1. 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. Peripheral nervous system (PNS) 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+      "retrieval_terms": [
+        "PNS"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000062",
+      "concept_id": "HHS4867-C-0000037",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "activities",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000063",
+      "concept_id": "HHS4867-C-0000038",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Functional",
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000064",
+      "concept_id": "HHS4867-C-0000038",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "functional",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neu",
+      "retrieval_terms": [
+        "Functional",
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000065",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction\n⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system\n⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle\n⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues\n⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles t",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000066",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Introduction\n⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system\n⚫ Information exits the muscle & provides input to the nervous system (sensory neuron)\n⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron)\n⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or ac",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000067",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves\n⚫ Area of the body supplied by the spinal nerves Spinal nerve\nArea supplied\nCervical: 8 pairs\nHead, neck, shoulders, arms, hands, diaphragm\nThoracic: 12 pairs\nChest, some back muscles, parts of abdomen\nLumbar: 5 pairs\nLower parts of abdomen & back, buttocks, parts of\nthe external genital organs, parts of the legs\nSacral: 5 pairs\nThigh, lower parts of legs, feet, most of the external genital organs, area\naround the anus",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000068",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors\n⚫ These sensors send information to the spinal cord\n⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles\n⚫ These sensors are connected to the spinal cord via sensory neurons\n⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000069",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors\n⚫ Proprioceptors\n⚫ Mainsensory receptors in the musculoskeletal system\n⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response\n⚫ Examples:\n⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch\n⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000070",
+      "concept_id": "HHS4867-C-0000040",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "tendon",
+      "keyword_path": [
+        "Section topics",
+        "tendon"
+      ],
+      "source_form": "tendon",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proprioceptors\n⚫ Proprioceptors\n⚫ Mainsensory receptors in the musculoskeletal system\n⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response\n⚫ Examples:\n⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch\n⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "retrieval_terms": [
+        "tendon"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000071",
+      "concept_id": "HHS4867-C-0000041",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "muscle Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "muscle Pain"
+      ],
+      "source_form": "muscle Pain",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ The body requires an input system to provide feedbackon the condition & changing characteristics of the musculoskeletal system and other body tissues, such as skin ⚫ Sensors collect the following information: ⚫ Stretch in the muscle ⚫ Heat / pressure on the muscle ⚫ Tension in the muscle ⚫ Pain in the extremity",
+      "retrieval_terms": [
+        "muscle Pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000072",
+      "concept_id": "HHS4867-C-0000042",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_form": "Pain",
+      "source_passage_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Sensory Receptors ⚫ The body requires an input system to provide feedbackon the condition & changing characteristics of the musculoskeletal system and other body tissues, such as skin ⚫ Sensors collect the following information: ⚫ Stretch in the muscle ⚫ Heat / pressure on the muscle ⚫ Tension in the muscle ⚫ Pain in the extremity",
+      "retrieval_terms": [
+        "Pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000073",
+      "concept_id": "HHS4867-C-0000043",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Central Nervous System visual",
+      "keyword_path": [
+        "visual",
+        "Central Nervous System visual"
+      ],
+      "source_form": "Central Nervous System visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0005-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Central Nervous System visual",
+      "retrieval_terms": [
+        "Central Nervous System visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000074",
+      "concept_id": "HHS4867-C-0000044",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Motor Unit visual",
+      "keyword_path": [
+        "visual",
+        "Motor Unit visual"
+      ],
+      "source_form": "Motor Unit visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0013-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Motor Unit visual",
+      "retrieval_terms": [
+        "Motor Unit visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000075",
+      "concept_id": "HHS4867-C-0000045",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Peripheral Nervous System - Lower Extremity visual",
+      "keyword_path": [
+        "visual",
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "source_form": "Peripheral Nervous System - Lower Extremity visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0007-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Peripheral Nervous System - Lower Extremity visual",
+      "retrieval_terms": [
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000076",
+      "concept_id": "HHS4867-C-0000046",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "keyword_path": [
+        "visual",
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "source_form": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0006-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "retrieval_terms": [
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000077",
+      "concept_id": "HHS4867-C-0000047",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Reflex (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Reflex (diagram) visual"
+      ],
+      "source_form": "Reflex (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0017-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Reflex (diagram) visual",
+      "retrieval_terms": [
+        "Reflex (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000078",
+      "concept_id": "HHS4867-C-0000048",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Reflex visual",
+      "keyword_path": [
+        "visual",
+        "Reflex visual"
+      ],
+      "source_form": "Reflex visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0016-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Reflex visual",
+      "retrieval_terms": [
+        "Reflex visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000079",
+      "concept_id": "HHS4867-C-0000049",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Spinal Nerves (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Spinal Nerves (diagram) visual"
+      ],
+      "source_form": "Spinal Nerves (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0010-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+          "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+          "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+          "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Spinal Nerves (diagram) visual",
+      "retrieval_terms": [
+        "Spinal Nerves (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 79
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

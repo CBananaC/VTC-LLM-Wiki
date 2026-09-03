@@ -1,0 +1,203 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "ambulation": {
+      "display_forms": [
+        "ambulation"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "bodyweight": {
+      "display_forms": [
+        "body weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "groundviindoorwalkertransfer": {
+      "display_forms": [
+        "ground VI Indoor walker Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "iii": {
+      "display_forms": [
+        "III"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "modifiedfunctional": {
+      "display_forms": [
+        "Modified Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "modifiedfunctionalambulationcategories": {
+      "display_forms": [
+        "Modified Functional Ambulation Categories"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "modifiedfunctionalambulationcategory": {
+      "display_forms": [
+        "Modified Functional Ambulation Category"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "tableonslide1lecture4modifiedfunctionalambulationcategories": {
+      "display_forms": [
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "tableonslide1lecture4modifiedfunctionalambulationcategory": {
+      "display_forms": [
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Category"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "transfer": {
+      "display_forms": [
+        "Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "vii": {
+      "display_forms": [
+        "VII"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 13,
+    "concepts_referenced": 11,
+    "occurrences_referenced": 17
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

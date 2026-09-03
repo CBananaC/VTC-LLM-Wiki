@@ -1,0 +1,180 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L04-TUG-VIS-P0001-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TUG",
+      "source_page_id": "HHS4867-L04-TUG-P0001",
+      "source_file": "11 - 4. Timed up and go.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          36.24,
+          696.72,
+          576.24,
+          756.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TUG-P0001",
+        "document_id": "HHS4867-L04-TUG",
+        "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+        "source_file": "11 - 4. Timed up and go.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TUG-VIS-P0001-C0003",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TUG",
+      "source_page_id": "HHS4867-L04-TUG-P0001",
+      "source_file": "11 - 4. Timed up and go.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          147.36,
+          704.16,
+          437.52,
+          704.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TUG-P0001",
+        "document_id": "HHS4867-L04-TUG",
+        "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+        "source_file": "11 - 4. Timed up and go.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TUG-VIS-P0001-C0004",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TUG",
+      "source_page_id": "HHS4867-L04-TUG-P0001",
+      "source_file": "11 - 4. Timed up and go.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          207.12,
+          723.36,
+          572.16,
+          723.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TUG-P0001",
+        "document_id": "HHS4867-L04-TUG",
+        "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+        "source_file": "11 - 4. Timed up and go.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test",
+          "Lecture 4 - Timed Up and Go (TUG) Test"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 3,
+    "tables": 0,
+    "non_tables": 3
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

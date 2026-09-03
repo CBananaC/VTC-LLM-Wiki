@@ -1,0 +1,828 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Movement-system exercise photograph",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          24.96,
+          110.4,
+          402.96,
+          459.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "The movement system: parts working together"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Bones component box",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          432.84,
+          116.64,
+          683.46,
+          189.66
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "The movement system: parts working together"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0003",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Joints component box",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          427.08,
+          202.08,
+          683.46,
+          275.1
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "The movement system: parts working together"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0004",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Muscles component box",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          432.84,
+          284.16,
+          683.46,
+          357.18
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "The movement system: parts working together"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0002-C0005",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Connective tissue component box",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          427.08,
+          370.56,
+          683.46,
+          443.58
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "The movement system: parts working together"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Anterior and posterior views of the human skeleton",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          231.84,
+          11.64,
+          706.68,
+          531.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Overview of the movement system",
+          "Anterior & Posterior View of Human Body"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Articular cartilage of the knee",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          18.0,
+          24.0,
+          456.36,
+          270.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Skeleton, cartilage, and ligaments",
+          "Meniscus"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0007-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Meniscus of the knee",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          275.04,
+          282.0,
+          690.96,
+          516.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Skeleton, cartilage, and ligaments",
+          "Meniscus"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Ligament examples around the knee",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.28,
+          38.52,
+          647.76,
+          444.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Skeleton, cartilage, and ligaments",
+          "Ligaments: Bone → bone • guides and limits movement"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0010-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Synovial joint anatomy diagram",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          486.0,
+          24.0,
+          664.68,
+          192.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Joint types",
+          "Joint – Synovial Joint"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0012-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Types of joints in the human body diagram",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          174.48,
+          5.16,
+          529.2,
+          537.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Joint types",
+          "Types of Joints in the Human Body (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Skeletal muscles of the human body",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          210.48,
+          21.36,
+          705.0,
+          531.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Skeletal muscles and force transmission",
+          "Skeletal muscles of human body"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0015-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Three muscle-to-bone attachment examples",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          302.76,
+          135.96,
+          720.0,
+          430.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Skeletal muscles and force transmission",
+          "Transmission of Muscle force to Bone"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0018-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Shoulder-abduction agonist, antagonist, stabilizer, and neutralizer diagram",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          330.0,
+          12.0,
+          604.68,
+          190.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Muscle roles and actions",
+          "Role of Muscle – Shoulder Abduction"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-VIS-P0020-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+      "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Isometric, concentric, and eccentric muscle actions diagram",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          91.68,
+          96.72,
+          642.24,
+          525.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+        "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "document_title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+        "source_file": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Musculoskeletal Basis for Human Movement",
+          "Muscle roles and actions",
+          "Net Muscle Actions (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 15,
+    "tables": 0,
+    "non_tables": 15
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
