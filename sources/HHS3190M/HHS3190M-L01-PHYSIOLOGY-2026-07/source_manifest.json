@@ -48,7 +48,7 @@
       "analysis": "03 Analysis/hhs3190m_l01_analysis_generated.json",
       "summaries": "03 Analysis/hhs3190m_l01_summaries_generated.json",
       "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
-      "query_helper": "../../tools/query_hhs3190m_lecture.py"
+      "query_helper": "../../../tools/query_hhs3190m_lecture.py"
     },
     "counts": {
       "slides": 26,
