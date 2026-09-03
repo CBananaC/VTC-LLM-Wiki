@@ -2,7 +2,7 @@
   "schema_version": "vtc-llm-wiki.source-registry.v1",
   "record_type": "source_registry",
   "project_root": ".",
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-09-04",
   "default_new_source_package": "sources/<course-code>/<source-id>/",
   "verification_policy": {
     "raw_sources_immutable": true,
@@ -152,6 +152,86 @@
       "retrieval_policy": "This is primary HHS3190M course evidence; use HHS3190M supplemental sources only after course materials.",
       "coverage_status": "processed_lecture_package",
       "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "course_code": "HHS4867",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/source_manifest.json",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs4867_lecture.py",
+      "retrieval_group": "HHS4867-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+          "original_path": "../Movement Science/02 Lectures/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+          "size_bytes": 1357806,
+          "sha256": "sha256:79b0752b58456a48ac0daad88d0f3b905f475c22adb646461aa39b112559bf7d",
+          "copied_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/00 Source/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "retrieval_policy": "This is primary HHS4867 course evidence; use HHS4867 supplemental sources only after course materials.",
+      "coverage_status": "processed_lecture_package",
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4185-T1-ICF-2026",
+      "course_code": "HHS4185",
+      "source_role": "course_materials",
+      "source_kind": "tutorial",
+      "title": "Tutorial 1 - ICF",
+      "package_status": "registered",
+      "package_path": "sources/HHS4185/HHS4185-T1-ICF-2026",
+      "source_manifest_path": "sources/HHS4185/HHS4185-T1-ICF-2026/source_manifest.json",
+      "query_helper_path": null,
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "01 - T1 ICF.pdf",
+          "original_path": "../Rehabilitation Conditions/03 Workshops/01 - T1 ICF.pdf",
+          "size_bytes": 1558477,
+          "sha256": "sha256:fcdfe5cd463b91b3ef26902571fc9e88716933521696cae412e3d228b2e2101f",
+          "copied_path": "sources/HHS4185/HHS4185-T1-ICF-2026/00 Source/01 - T1 ICF.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "not_verified",
+      "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026",
+      "course_code": "HHS4185",
+      "source_role": "course_materials",
+      "source_kind": "workshop",
+      "title": "Workshop 1 - Introduction to Rehabilitation Equipment",
+      "package_status": "registered",
+      "package_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026",
+      "source_manifest_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/source_manifest.json",
+      "query_helper_path": null,
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "02 - WS1 Equipment.pdf",
+          "original_path": "../Rehabilitation Conditions/03 Workshops/02 - WS1 Equipment.pdf",
+          "size_bytes": 1196980,
+          "sha256": "sha256:6f7d548b19d89422c9736b1585c2a1f7148f57eb523e9b1a0e21147ea6da9bb3",
+          "copied_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/00 Source/02 - WS1 Equipment.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "not_verified",
       "claims_index": "not_created"
     }
   ]
