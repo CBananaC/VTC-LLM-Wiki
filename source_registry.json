@@ -152,7 +152,8 @@
       "retrieval_policy": "This is primary HHS3190M course evidence; use HHS3190M supplemental sources only after course materials.",
       "coverage_status": "processed_lecture_package",
       "verification_status": "generated_not_verified",
-      "claims_index": "not_created"
+      "claims_index": "not_created",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
     },
     {
       "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
@@ -343,6 +344,216 @@
         "raw_pdf_exists": true,
         "raw_hash_matches_registered_source": true
       }
+    },
+    {
+      "source_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l02.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "size_bytes": 1849847,
+          "sha256": "sha256:01875b5b9fa4418fbdddec870f5db7012e76c18dc60311d446ed50e2a1679c72",
+          "copied_path": "sources/HHS3190M/HHS3190M-L02-PHYSIOLOGY-2026-07/00 Source/03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 3 - Membrane Transport (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L03-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L03-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l03.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+          "size_bytes": 1148674,
+          "sha256": "sha256:263e7aef265cca450888affa86f28fa208a2ca19cdb7af01a907315bbfeae483",
+          "copied_path": "sources/HHS3190M/HHS3190M-L03-PHYSIOLOGY-2026-07/00 Source/05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L04-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L04-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l04.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+          "size_bytes": 5171881,
+          "sha256": "sha256:16ec145f1be5e780196e7ebb1a5e64277dbe18ecbbdb242388dba249a7500fd2",
+          "copied_path": "sources/HHS3190M/HHS3190M-L04-PHYSIOLOGY-2026-07/00 Source/07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L05-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L05-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l05.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+          "size_bytes": 2130440,
+          "sha256": "sha256:b49dd0655a258e3d12917da438982c3e5bd4d60093d2578bafe0da3391dcbb15",
+          "copied_path": "sources/HHS3190M/HHS3190M-L05-PHYSIOLOGY-2026-07/00 Source/09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L06-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L06-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l06.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "size_bytes": 1800301,
+          "sha256": "sha256:3f4e2f17aebfc826d44771110fa5c2d545dd0bbae67454c0a655ea3a37adf361",
+          "copied_path": "sources/HHS3190M/HHS3190M-L06-PHYSIOLOGY-2026-07/00 Source/11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 7 - Endocrine System and Hormone Regulation (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-L07-PHYSIOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-L07-PHYSIOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_l07.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+          "size_bytes": 1656947,
+          "sha256": "sha256:4d423c07157e078d32ed7d3a4834aa9ace8b16d158714ee5c935d96101ffe9d6",
+          "copied_path": "sources/HHS3190M/HHS3190M-L07-PHYSIOLOGY-2026-07/00 Source/13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS3190M/HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07/source_manifest.json",
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_anatomy_l01.py",
+      "retrieval_group": "HHS3190M-course-first",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "15 - J L1 Terminology for anatomy.pdf",
+          "original_path": "../Physiology & Anatomy/02 Lectures/15 - J L1 Terminology for anatomy.pdf",
+          "size_bytes": 568184,
+          "sha256": "sha256:839fcb12ec60a51c8ca68699b9fd39b9d8a2c3fa2b78c72c2b2674c5c02caceb",
+          "copied_path": "sources/HHS3190M/HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07/00 Source/15 - J L1 Terminology for anatomy.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_lecture_package",
+      "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
     }
   ]
 }
