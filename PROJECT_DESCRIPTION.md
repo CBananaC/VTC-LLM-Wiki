@@ -16,7 +16,7 @@
 
 - Scope: Maintain one project-level catalogue and retrieval entry point for VTC course materials and additional study sources across courses and semesters. Preserve each source package's raw, OCR/layout, text/table, analysis, and retrieval layers, while allowing source-specific processors to remain inside their package.
 - Current packages: `HHS4185 Course Materials - LLM Wiki/` and `Davidson 25th Edition - LLM Wiki/`, both moved into this project from the HHS4185 study folder with their files intact.
-- Processed course source packages also include `sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/` and `sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/`; each remains separate from the other course and supplemental packages.
+- Processed course source packages also include `sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/` and the eight unique HHS4867 Functional Movement Science presentation packages under `sources/HHS4867/`; each source remains separate from the other course and supplemental packages.
 - Future package location: `sources/<course-code>/<source-id>/`, created by `tools/register_source.py`.
 - Non-goals: Do not infer unrequested features, uploads, deployments, or publication. Do not treat generated extraction as verified medical or academic evidence.
 - Inputs: VTC lecture/workshop/tutorial slides, official course documents, assessment material, past papers, books, journal or web sources, source metadata, and manually reviewed page images.
