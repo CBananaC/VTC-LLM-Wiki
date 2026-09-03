@@ -33,11 +33,1008 @@
     "text_extraction": "embedded PDF text with bbox coordinates",
     "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
   },
-  "tables": [],
+  "tables": [
+    {
+      "table_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-TBL-P0014-01",
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0014-TABLE01",
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "name": "Muscles of mastication",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "bbox_points": [
+        35.0,
+        70.0,
+        930.0,
+        300.0
+      ],
+      "layout_grid": {
+        "row_count": 3,
+        "column_count": 5,
+        "columns": [
+          "Name of Muscle",
+          "Description",
+          "Origin (O)",
+          "Insertion (I)",
+          "Action"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Masseter | Powerful muscle that covers lateral aspect of mandibular ramus | Zygomatic arch and zygomatic bone | Angle and ramus of mandible | Prime mover of jaw closure; elevates mandible",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Masseter",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Powerful muscle that covers lateral aspect of mandibular ramus",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Zygomatic arch and zygomatic bone",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Angle and ramus of mandible",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Prime mover of jaw closure; elevates mandible",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Temporalis | Fan-shaped muscle covering parts of temporal, frontal, and parietal bones | Temporal fossa | Coronoid process of mandible via a tendon passing deep to zygomatic arch | Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Temporalis",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Temporal fossa",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Coronoid process of mandible via a tendon passing deep to zygomatic arch",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Buccinator | Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter | Molar region of maxilla and mandible | Orbicularis oris | Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Buccinator",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Molar region of maxilla and mandible",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Orbicularis oris",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Masseter | Powerful muscle that covers lateral aspect of mandibular ramus | Zygomatic arch and zygomatic bone | Angle and ramus of mandible | Prime mover of jaw closure; elevates mandible\nTemporalis | Fan-shaped muscle covering parts of temporal, frontal, and parietal bones | Temporal fossa | Coronoid process of mandible via a tendon passing deep to zygomatic arch | Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible\nBuccinator | Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter | Molar region of maxilla and mandible | Orbicularis oris | Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Masseter | Powerful muscle that covers lateral aspect of mandibular ramus | Zygomatic arch and zygomatic bone | Angle and ramus of mandible | Prime mover of jaw closure; elevates mandible",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Masseter",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Powerful muscle that covers lateral aspect of mandibular ramus",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Zygomatic arch and zygomatic bone",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Angle and ramus of mandible",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Prime mover of jaw closure; elevates mandible",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Temporalis | Fan-shaped muscle covering parts of temporal, frontal, and parietal bones | Temporal fossa | Coronoid process of mandible via a tendon passing deep to zygomatic arch | Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Temporalis",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Temporal fossa",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Coronoid process of mandible via a tendon passing deep to zygomatic arch",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Buccinator | Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter | Molar region of maxilla and mandible | Orbicularis oris | Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Buccinator",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Molar region of maxilla and mandible",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Orbicularis oris",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-TBL-P0033-02",
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0033-TABLE02",
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "name": "Digestion and absorption of carbohydrates",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+      "pdf_page": 33,
+      "slide_number": 33,
+      "bbox_points": [
+        55.0,
+        75.0,
+        915.0,
+        505.0
+      ],
+      "layout_grid": {
+        "row_count": 5,
+        "column_count": 5,
+        "columns": [
+          "Enzyme",
+          "Site of action",
+          "Source of enzyme",
+          "Substrate",
+          "Products"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Salivary amylase | Oral cavity | Saliva | 5% starch / glycogen | Maltose",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Salivary amylase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Oral cavity",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Saliva",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "5% starch / glycogen",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Maltose",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Pancreatic amylase | Duodenum | Pancreatic juice | 95% starch / glycogen | Maltose",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Pancreatic amylase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Duodenum",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Pancreatic juice",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "95% starch / glycogen",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Maltose",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Maltase | Small intestine | Attached to microvilli; brush border enzyme | Maltose | Glucose + glucose",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Maltase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Attached to microvilli; brush border enzyme",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Maltose",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Glucose + glucose",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "Sucrase | Small intestine | Attached to microvilli; brush border enzyme | Sucrose | Glucose + fructose",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Sucrase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Attached to microvilli; brush border enzyme",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Sucrose",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Glucose + fructose",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": "Lactase | Small intestine | Attached to microvilli; brush border enzyme | Lactose | Glucose + galactose",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Lactase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Attached to microvilli; brush border enzyme",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Lactose",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Glucose + galactose",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Salivary amylase | Oral cavity | Saliva | 5% starch / glycogen | Maltose\nPancreatic amylase | Duodenum | Pancreatic juice | 95% starch / glycogen | Maltose\nMaltase | Small intestine | Attached to microvilli; brush border enzyme | Maltose | Glucose + glucose\nSucrase | Small intestine | Attached to microvilli; brush border enzyme | Sucrose | Glucose + fructose\nLactase | Small intestine | Attached to microvilli; brush border enzyme | Lactose | Glucose + galactose",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Salivary amylase | Oral cavity | Saliva | 5% starch / glycogen | Maltose",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Salivary amylase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Oral cavity",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Saliva",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "5% starch / glycogen",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Maltose",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Pancreatic amylase | Duodenum | Pancreatic juice | 95% starch / glycogen | Maltose",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Pancreatic amylase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Duodenum",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Pancreatic juice",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "95% starch / glycogen",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Maltose",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Maltase | Small intestine | Attached to microvilli; brush border enzyme | Maltose | Glucose + glucose",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Maltase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Attached to microvilli; brush border enzyme",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Maltose",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Glucose + glucose",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": "Sucrase | Small intestine | Attached to microvilli; brush border enzyme | Sucrose | Glucose + fructose",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Sucrase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Attached to microvilli; brush border enzyme",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Sucrose",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Glucose + fructose",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 4,
+            "text": "Lactase | Small intestine | Attached to microvilli; brush border enzyme | Lactose | Glucose + galactose",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Lactase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Attached to microvilli; brush border enzyme",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Lactose",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Glucose + galactose",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-TBL-P0035-03",
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0035-TABLE03",
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "name": "Digestion and absorption of proteins",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+      "pdf_page": 35,
+      "slide_number": 35,
+      "bbox_points": [
+        55.0,
+        75.0,
+        915.0,
+        505.0
+      ],
+      "layout_grid": {
+        "row_count": 3,
+        "column_count": 5,
+        "columns": [
+          "Enzyme",
+          "Site of action",
+          "Source of enzyme",
+          "Substrate",
+          "Products"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Pepsin | Stomach | Gastric juice | Large polypeptides | Small polypeptides",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Pepsin",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Stomach",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Gastric juice",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Large polypeptides",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Small polypeptides",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Trypsin; chymotrypsin; carboxypeptidase | Small intestine | Pancreatic juice | Small polypeptides | Amino acids",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Trypsin; chymotrypsin; carboxypeptidase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Pancreatic juice",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Small polypeptides",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Amino acids",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Aminopeptidase | Small intestine | Brush border enzyme | Small polypeptides | Amino acids",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Aminopeptidase",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Brush border enzyme",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Small polypeptides",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "Amino acids",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Pepsin | Stomach | Gastric juice | Large polypeptides | Small polypeptides\nTrypsin; chymotrypsin; carboxypeptidase | Small intestine | Pancreatic juice | Small polypeptides | Amino acids\nAminopeptidase | Small intestine | Brush border enzyme | Small polypeptides | Amino acids",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Pepsin | Stomach | Gastric juice | Large polypeptides | Small polypeptides",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Pepsin",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Stomach",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Gastric juice",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Large polypeptides",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Small polypeptides",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Trypsin; chymotrypsin; carboxypeptidase | Small intestine | Pancreatic juice | Small polypeptides | Amino acids",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Trypsin; chymotrypsin; carboxypeptidase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Pancreatic juice",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Small polypeptides",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Amino acids",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Aminopeptidase | Small intestine | Brush border enzyme | Small polypeptides | Amino acids",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Aminopeptidase",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Brush border enzyme",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Small polypeptides",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "Amino acids",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-TBL-P0043-04",
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0043-TABLE04",
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "name": "Hormonal control of digestion",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "bbox_points": [
+        130.0,
+        75.0,
+        900.0,
+        500.0
+      ],
+      "layout_grid": {
+        "row_count": 4,
+        "column_count": 3,
+        "columns": [
+          "Hormone",
+          "Secreted by",
+          "Effects"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Gastrin | Stomach | Stimulate secretion of HCl; Stimulate secretion of pepsin",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Gastrin",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Stomach",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Stimulate secretion of HCl; Stimulate secretion of pepsin",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Secretin | Small intestine | Stimulate bicarbonate secretion in pancreatic juice and bile",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Secretin",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Stimulate bicarbonate secretion in pancreatic juice and bile",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Cholecystokinin (CCK) | Small intestine | Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Cholecystokinin (CCK)",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "Gastric inhibitory peptide (GIP) | Small intestine | Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Gastric inhibitory peptide (GIP)",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Small intestine",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Gastrin | Stomach | Stimulate secretion of HCl; Stimulate secretion of pepsin\nSecretin | Small intestine | Stimulate bicarbonate secretion in pancreatic juice and bile\nCholecystokinin (CCK) | Small intestine | Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion\nGastric inhibitory peptide (GIP) | Small intestine | Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Gastrin | Stomach | Stimulate secretion of HCl; Stimulate secretion of pepsin",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Gastrin",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Stomach",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Stimulate secretion of HCl; Stimulate secretion of pepsin",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Secretin | Small intestine | Stimulate bicarbonate secretion in pancreatic juice and bile",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Secretin",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Stimulate bicarbonate secretion in pancreatic juice and bile",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Cholecystokinin (CCK) | Small intestine | Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Cholecystokinin (CCK)",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": "Gastric inhibitory peptide (GIP) | Small intestine | Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Gastric inhibitory peptide (GIP)",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Small intestine",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
   "counts": {
-    "tables": 0
+    "tables": 4
   },
-  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "no_table_result": null,
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
 }

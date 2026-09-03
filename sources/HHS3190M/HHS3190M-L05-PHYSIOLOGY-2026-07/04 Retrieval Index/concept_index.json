@@ -115,8 +115,8 @@
         "HHS3190M-COURSE",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0032",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0041"
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0041",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -125,17 +125,17 @@
       "concept_id": "HHS3190M-C-0000004",
       "category": "anatomy",
       "broad_area": "Anatomy",
-      "preferred_label": "Esophagus",
-      "canonical_candidate": "Esophagus",
+      "preferred_label": "esophagus",
+      "canonical_candidate": "esophagus",
       "keyword_path": [
         "Anatomy",
-        "Esophagus"
+        "esophagus"
       ],
       "source_forms": [
-        "Esophagus"
+        "esophagus"
       ],
       "retrieval_terms": [
-        "Esophagus"
+        "esophagus"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000008"
@@ -224,17 +224,20 @@
         "muscle"
       ],
       "source_forms": [
-        "muscle"
+        "muscle",
+        "Muscle"
       ],
       "retrieval_terms": [
-        "muscle"
+        "muscle",
+        "Muscle"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000012",
         "HHS3190M-O-00000013",
-        "HHS3190M-O-00000014"
+        "HHS3190M-O-00000014",
+        "HHS3190M-O-00000015"
       ],
-      "occurrence_count": 3,
+      "occurrence_count": 4,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0011",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART02",
@@ -264,7 +267,7 @@
         "nerve"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000015"
+        "HHS3190M-O-00000016"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -297,8 +300,8 @@
         "pancrea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000016",
-        "HHS3190M-O-00000017"
+        "HHS3190M-O-00000017",
+        "HHS3190M-O-00000018"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -329,7 +332,7 @@
         "pharynx"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000018"
+        "HHS3190M-O-00000019"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -358,7 +361,7 @@
         "plexus"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000019"
+        "HHS3190M-O-00000020"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -389,12 +392,12 @@
         "stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000020",
         "HHS3190M-O-00000021",
         "HHS3190M-O-00000022",
         "HHS3190M-O-00000023",
         "HHS3190M-O-00000024",
-        "HHS3190M-O-00000025"
+        "HHS3190M-O-00000025",
+        "HHS3190M-O-00000026"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -430,7 +433,7 @@
         "tendon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000026"
+        "HHS3190M-O-00000027"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -459,8 +462,8 @@
         "trachea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000027",
-        "HHS3190M-O-00000028"
+        "HHS3190M-O-00000028",
+        "HHS3190M-O-00000029"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -490,7 +493,7 @@
         "abdominal cavity Sigmoid colon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000029"
+        "HHS3190M-O-00000030"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -519,7 +522,7 @@
         "abdominal cavity Transverse colon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000030"
+        "HHS3190M-O-00000031"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -548,7 +551,7 @@
         "air Esophagus"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000031"
+        "HHS3190M-O-00000032"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -577,7 +580,7 @@
         "blood/lymph Organs mouth Stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000032"
+        "HHS3190M-O-00000033"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -606,7 +609,7 @@
         "canal Internal anal sphincter smooth muscle"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000033"
+        "HHS3190M-O-00000034"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -635,7 +638,7 @@
         "cancer"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000034"
+        "HHS3190M-O-00000035"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -651,6 +654,35 @@
       "concept_id": "HHS3190M-C-0000021",
       "category": "conditions",
       "broad_area": "Conditions",
+      "preferred_label": "closure elevates mandible Temporalis Fan-shaped muscle",
+      "canonical_candidate": "closure elevates mandible Temporalis Fan-shaped muscle",
+      "keyword_path": [
+        "Conditions",
+        "closure elevates mandible Temporalis Fan-shaped muscle"
+      ],
+      "source_forms": [
+        "closure elevates mandible Temporalis Fan-shaped muscle"
+      ],
+      "retrieval_terms": [
+        "closure elevates mandible Temporalis Fan-shaped muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000036"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "preferred_label": "cm sections Duodenum",
       "canonical_candidate": "cm sections Duodenum",
       "keyword_path": [
@@ -664,7 +696,7 @@
         "cm sections Duodenum"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000035"
+        "HHS3190M-O-00000037"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -677,7 +709,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000022",
+      "concept_id": "HHS3190M-C-0000023",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "Digestive System Pharynx",
@@ -693,7 +725,7 @@
         "Digestive System Pharynx"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000036"
+        "HHS3190M-O-00000038"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -706,7 +738,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000023",
+      "concept_id": "HHS3190M-C-0000024",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "Digestive System Stomach",
@@ -722,7 +754,7 @@
         "Digestive System Stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000037"
+        "HHS3190M-O-00000039"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -735,7 +767,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000024",
+      "concept_id": "HHS3190M-C-0000025",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "down food chemically Salivary glands Liver",
@@ -752,7 +784,7 @@
         "down food chaemically Salivary glands Liver"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000038"
+        "HHS3190M-O-00000040"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -765,7 +797,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000025",
+      "concept_id": "HHS3190M-C-0000026",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "endocytosis",
@@ -781,8 +813,8 @@
         "endocytosis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000039",
-        "HHS3190M-O-00000040"
+        "HHS3190M-O-00000041",
+        "HHS3190M-O-00000042"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -796,7 +828,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000026",
+      "concept_id": "HHS3190M-C-0000027",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "food chemically Salivary glands Liver Pancreas",
@@ -814,7 +846,7 @@
         "food chemically Salivary glands Liver Pancrea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000041"
+        "HHS3190M-O-00000043"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -827,23 +859,23 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000027",
+      "concept_id": "HHS3190M-C-0000028",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "HCl Gastrin Stomach",
-      "canonical_candidate": "HCl Gastrin Stomach",
+      "preferred_label": "Gastrin Stomach",
+      "canonical_candidate": "Gastrin Stomach",
       "keyword_path": [
         "Conditions",
-        "HCl Gastrin Stomach"
+        "Gastrin Stomach"
       ],
       "source_forms": [
-        "HCl Gastrin Stomach"
+        "Gastrin Stomach"
       ],
       "retrieval_terms": [
-        "HCl Gastrin Stomach"
+        "Gastrin Stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000042"
+        "HHS3190M-O-00000044"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -856,7 +888,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000028",
+      "concept_id": "HHS3190M-C-0000029",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "intestine Cecum Appendix Colon Ascending colon",
@@ -872,36 +904,7 @@
         "intestine Cecum Appendix Colon Ascending colon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000043"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0026",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000029",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "preferred_label": "large intestine Cecum Appendix Colon",
-      "canonical_candidate": "large intestine Cecum Appendix Colon",
-      "keyword_path": [
-        "Conditions",
-        "large intestine Cecum Appendix Colon"
-      ],
-      "source_forms": [
-        "large intestine Cecum Appendix Colon"
-      ],
-      "retrieval_terms": [
-        "large intestine Cecum Appendix Colon"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000044"
+        "HHS3190M-O-00000045"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -917,6 +920,35 @@
       "concept_id": "HHS3190M-C-0000030",
       "category": "conditions",
       "broad_area": "Conditions",
+      "preferred_label": "large intestine Cecum Appendix Colon",
+      "canonical_candidate": "large intestine Cecum Appendix Colon",
+      "keyword_path": [
+        "Conditions",
+        "large intestine Cecum Appendix Colon"
+      ],
+      "source_forms": [
+        "large intestine Cecum Appendix Colon"
+      ],
+      "retrieval_terms": [
+        "large intestine Cecum Appendix Colon"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000031",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "preferred_label": "large intestine Net osmosis",
       "canonical_candidate": "large intestine Net osmosis",
       "keyword_path": [
@@ -930,40 +962,11 @@
         "large intestine Net osmosis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000045"
+        "HHS3190M-O-00000047"
       ],
       "occurrence_count": 1,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0039",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000031",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "preferred_label": "Large polypeptides Small polypeptides Pepsin Stomach",
-      "canonical_candidate": "Large polypeptides Small polypeptides Pepsin Stomach",
-      "keyword_path": [
-        "Conditions",
-        "Large polypeptides Small polypeptides Pepsin Stomach"
-      ],
-      "source_forms": [
-        "Large polypeptides Small polypeptides Pepsin Stomach"
-      ],
-      "retrieval_terms": [
-        "Large polypeptides Small polypeptides Pepsin Stomach"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000046"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
@@ -988,7 +991,7 @@
         "left side Descending colon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000047"
+        "HHS3190M-O-00000048"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1004,25 +1007,25 @@
       "concept_id": "HHS3190M-C-0000033",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "Maltose Glycogen Pancreatic Amylase Starch Duodenum",
-      "canonical_candidate": "Maltose Glycogen Pancreatic Amylase Starch Duodenum",
+      "preferred_label": "mandible Buccinator Thin horizontal cheek muscle",
+      "canonical_candidate": "mandible Buccinator Thin horizontal cheek muscle",
       "keyword_path": [
         "Conditions",
-        "Maltose Glycogen Pancreatic Amylase Starch Duodenum"
+        "mandible Buccinator Thin horizontal cheek muscle"
       ],
       "source_forms": [
-        "Maltose Glycogen Pancreatic Amylase Starch Duodenum"
+        "mandible Buccinator Thin horizontal cheek muscle"
       ],
       "retrieval_terms": [
-        "Maltose Glycogen Pancreatic Amylase Starch Duodenum"
+        "mandible Buccinator Thin horizontal cheek muscle"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000048"
+        "HHS3190M-O-00000049"
       ],
       "occurrence_count": 1,
       "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
@@ -1031,6 +1034,35 @@
     },
     {
       "concept_id": "HHS3190M-C-0000034",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Masseter Powerful muscle",
+      "canonical_candidate": "Masseter Powerful muscle",
+      "keyword_path": [
+        "Conditions",
+        "Masseter Powerful muscle"
+      ],
+      "source_forms": [
+        "Masseter Powerful muscle"
+      ],
+      "retrieval_terms": [
+        "Masseter Powerful muscle"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000050"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000035",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "muscle External anal sphincter skeletal muscle",
@@ -1046,7 +1078,7 @@
         "muscle External anal sphincter skeletal muscle"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000049"
+        "HHS3190M-O-00000051"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1059,7 +1091,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000035",
+      "concept_id": "HHS3190M-C-0000036",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "nerve plexus",
@@ -1075,41 +1107,12 @@
         "nerve plexus"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000050"
+        "HHS3190M-O-00000052"
       ],
       "occurrence_count": 1,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0011",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART02",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000036",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "preferred_label": "O Insertion I Action Powerful muscle",
-      "canonical_candidate": "O Insertion I Action Powerful muscle",
-      "keyword_path": [
-        "Conditions",
-        "O Insertion I Action Powerful muscle"
-      ],
-      "source_forms": [
-        "O Insertion I Action Powerful muscle"
-      ],
-      "retrieval_terms": [
-        "O Insertion I Action Powerful muscle"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000051"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
@@ -1133,7 +1136,7 @@
         "osmosis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000052"
+        "HHS3190M-O-00000053"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1149,25 +1152,25 @@
       "concept_id": "HHS3190M-C-0000038",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "retracts mandible Fan-shaped muscle",
-      "canonical_candidate": "retracts mandible Fan-shaped muscle",
+      "preferred_label": "Pepsin Stomach",
+      "canonical_candidate": "Pepsin Stomach",
       "keyword_path": [
         "Conditions",
-        "retracts mandible Fan-shaped muscle"
+        "Pepsin Stomach"
       ],
       "source_forms": [
-        "retracts mandible Fan-shaped muscle"
+        "Pepsin Stomach"
       ],
       "retrieval_terms": [
-        "retracts mandible Fan-shaped muscle"
+        "Pepsin Stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000053"
+        "HHS3190M-O-00000054"
       ],
       "occurrence_count": 1,
       "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
@@ -1191,7 +1194,7 @@
         "sigmoid colon"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000054"
+        "HHS3190M-O-00000055"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1220,7 +1223,7 @@
         "smooth muscle"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000055"
+        "HHS3190M-O-00000056"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1249,7 +1252,7 @@
         "squeezing bolus toward stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000056"
+        "HHS3190M-O-00000057"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1265,6 +1268,35 @@
       "concept_id": "HHS3190M-C-0000042",
       "category": "conditions",
       "broad_area": "Conditions",
+      "preferred_label": "starch glycogen Maltose Pancreatic amylase Duodenum",
+      "canonical_candidate": "starch glycogen Maltose Pancreatic amylase Duodenum",
+      "keyword_path": [
+        "Conditions",
+        "starch glycogen Maltose Pancreatic amylase Duodenum"
+      ],
+      "source_forms": [
+        "starch glycogen Maltose Pancreatic amylase Duodenum"
+      ],
+      "retrieval_terms": [
+        "starch glycogen Maltose Pancreatic amylase Duodenum"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000058"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000043",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "preferred_label": "taste Closes off trachea",
       "canonical_candidate": "taste Closes off trachea",
       "keyword_path": [
@@ -1278,7 +1310,7 @@
         "taste Closes off trachea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000057"
+        "HHS3190M-O-00000059"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1291,7 +1323,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000043",
+      "concept_id": "HHS3190M-C-0000044",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "Thin horizontal cheek muscle principal muscle",
@@ -1307,7 +1339,7 @@
         "Thin horizontal cheek muscle principal muscle"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000058"
+        "HHS3190M-O-00000060"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1320,7 +1352,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000044",
+      "concept_id": "HHS3190M-C-0000045",
       "category": "conditions",
       "broad_area": "Conditions",
       "preferred_label": "Transverse colon feces travels across abdominal",
@@ -1336,40 +1368,11 @@
         "Transverse colon feces travels across abdominal"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000059"
+        "HHS3190M-O-00000061"
       ],
       "occurrence_count": 1,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0026",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000045",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "preferred_label": "zygomatic arch Thin horizontal cheek muscle",
-      "canonical_candidate": "zygomatic arch Thin horizontal cheek muscle",
-      "keyword_path": [
-        "Conditions",
-        "zygomatic arch Thin horizontal cheek muscle"
-      ],
-      "source_forms": [
-        "zygomatic arch Thin horizontal cheek muscle"
-      ],
-      "retrieval_terms": [
-        "zygomatic arch Thin horizontal cheek muscle"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000060"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
@@ -1394,7 +1397,7 @@
         "ANATOMY"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000061"
+        "HHS3190M-O-00000062"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1423,7 +1426,7 @@
         "ANS"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000062"
+        "HHS3190M-O-00000063"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1452,7 +1455,7 @@
         "AY26-27"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000063"
+        "HHS3190M-O-00000064"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1481,9 +1484,9 @@
         "B12"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000064",
         "HHS3190M-O-00000065",
-        "HHS3190M-O-00000066"
+        "HHS3190M-O-00000066",
+        "HHS3190M-O-00000067"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -1515,7 +1518,7 @@
         "CBO9780511800160"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000067"
+        "HHS3190M-O-00000068"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1544,8 +1547,8 @@
         "CCK"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000068",
-        "HHS3190M-O-00000069"
+        "HHS3190M-O-00000069",
+        "HHS3190M-O-00000070"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -1575,7 +1578,7 @@
         "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000070"
+        "HHS3190M-O-00000071"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1604,7 +1607,7 @@
         "empty-50"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000071"
+        "HHS3190M-O-00000072"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1633,7 +1636,7 @@
         "expand-4"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000072"
+        "HHS3190M-O-00000073"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1662,7 +1665,7 @@
         "FUNCTIONAL"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000073"
+        "HHS3190M-O-00000074"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1691,8 +1694,8 @@
         "GIP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000074",
-        "HHS3190M-O-00000075"
+        "HHS3190M-O-00000075",
+        "HHS3190M-O-00000076"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -1722,7 +1725,7 @@
         "HHS3190M"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000076"
+        "HHS3190M-O-00000077"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1751,7 +1754,7 @@
         "HHS3190MJ"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000077"
+        "HHS3190M-O-00000078"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1780,7 +1783,7 @@
         "HUMAN"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000078"
+        "HHS3190M-O-00000079"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1809,7 +1812,7 @@
         "L5 Revision Exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000079"
+        "HHS3190M-O-00000080"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1838,7 +1841,7 @@
         "org/10"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000080"
+        "HHS3190M-O-00000081"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1867,7 +1870,7 @@
         "PHYSIOLOGY"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000081"
+        "HHS3190M-O-00000082"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1896,7 +1899,7 @@
         "PTH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000082"
+        "HHS3190M-O-00000083"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1925,7 +1928,7 @@
         "REHABILITATION"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000083"
+        "HHS3190M-O-00000084"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1955,7 +1958,7 @@
         "SERVICE"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000084"
+        "HHS3190M-O-00000085"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1984,12 +1987,12 @@
         "blood"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000085",
         "HHS3190M-O-00000086",
         "HHS3190M-O-00000087",
         "HHS3190M-O-00000088",
         "HHS3190M-O-00000089",
-        "HHS3190M-O-00000090"
+        "HHS3190M-O-00000090",
+        "HHS3190M-O-00000091"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2026,7 +2029,7 @@
         "Submucosa Connective tissue Contains blood"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000091"
+        "HHS3190M-O-00000092"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2055,7 +2058,7 @@
         "exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000092"
+        "HHS3190M-O-00000093"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2084,7 +2087,7 @@
         "revision exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000093"
+        "HHS3190M-O-00000094"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2113,8 +2116,8 @@
         "peptide"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000094",
-        "HHS3190M-O-00000095"
+        "HHS3190M-O-00000095",
+        "HHS3190M-O-00000096"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2144,7 +2147,7 @@
         "Secretin Cholecystokinin CCK Gastric inhibitory peptide"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000096"
+        "HHS3190M-O-00000097"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2173,7 +2176,7 @@
         "secretion Gastric inhibitory peptide"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000097"
+        "HHS3190M-O-00000098"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2203,10 +2206,10 @@
         "activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000098",
         "HHS3190M-O-00000099",
         "HHS3190M-O-00000100",
-        "HHS3190M-O-00000101"
+        "HHS3190M-O-00000101",
+        "HHS3190M-O-00000102"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -2239,7 +2242,7 @@
         "digestive system Functional"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000102"
+        "HHS3190M-O-00000103"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2269,9 +2272,9 @@
         "digestive system involves activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000103",
         "HHS3190M-O-00000104",
-        "HHS3190M-O-00000105"
+        "HHS3190M-O-00000105",
+        "HHS3190M-O-00000106"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -2302,7 +2305,7 @@
         "Functional"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000106"
+        "HHS3190M-O-00000107"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2332,7 +2335,7 @@
         "nervous activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000107"
+        "HHS3190M-O-00000108"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2348,6 +2351,64 @@
       "concept_id": "HHS3190M-C-0000078",
       "category": "section_topics",
       "broad_area": "Section topics",
+      "preferred_label": "5% starch / glycogen",
+      "canonical_candidate": "5% starch / glycogen",
+      "keyword_path": [
+        "Section topics",
+        "5% starch / glycogen"
+      ],
+      "source_forms": [
+        "5% starch / glycogen"
+      ],
+      "retrieval_terms": [
+        "5% starch / glycogen"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000109"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000079",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "95% starch / glycogen",
+      "canonical_candidate": "95% starch / glycogen",
+      "keyword_path": [
+        "Section topics",
+        "95% starch / glycogen"
+      ],
+      "source_forms": [
+        "95% starch / glycogen"
+      ],
+      "retrieval_terms": [
+        "95% starch / glycogen"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000110"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000080",
+      "category": "section_topics",
+      "broad_area": "Section topics",
       "preferred_label": "absorption",
       "canonical_candidate": "absorption",
       "keyword_path": [
@@ -2361,9 +2422,6 @@
         "absorption"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000108",
-        "HHS3190M-O-00000109",
-        "HHS3190M-O-00000110",
         "HHS3190M-O-00000111",
         "HHS3190M-O-00000112",
         "HHS3190M-O-00000113",
@@ -2378,7 +2436,10 @@
         "HHS3190M-O-00000122",
         "HHS3190M-O-00000123",
         "HHS3190M-O-00000124",
-        "HHS3190M-O-00000125"
+        "HHS3190M-O-00000125",
+        "HHS3190M-O-00000126",
+        "HHS3190M-O-00000127",
+        "HHS3190M-O-00000128"
       ],
       "occurrence_count": 18,
       "section_ids": [
@@ -2411,7 +2472,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000079",
+      "concept_id": "HHS3190M-C-0000081",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "alimentary canal",
@@ -2427,9 +2488,9 @@
         "alimentary canal"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000126",
-        "HHS3190M-O-00000127",
-        "HHS3190M-O-00000128"
+        "HHS3190M-O-00000129",
+        "HHS3190M-O-00000130",
+        "HHS3190M-O-00000131"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -2445,7 +2506,124 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000080",
+      "concept_id": "HHS3190M-C-0000082",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Amino acids",
+      "canonical_candidate": "Amino acids",
+      "keyword_path": [
+        "Section topics",
+        "Amino acids"
+      ],
+      "source_forms": [
+        "Amino acids"
+      ],
+      "retrieval_terms": [
+        "Amino acids",
+        "Amino acid"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000132"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000083",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Aminopeptidase",
+      "canonical_candidate": "Aminopeptidase",
+      "keyword_path": [
+        "Section topics",
+        "Aminopeptidase"
+      ],
+      "source_forms": [
+        "Aminopeptidase"
+      ],
+      "retrieval_terms": [
+        "Aminopeptidase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000133"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000084",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Angle and ramus of mandible",
+      "canonical_candidate": "Angle and ramus of mandible",
+      "keyword_path": [
+        "Section topics",
+        "Angle and ramus of mandible"
+      ],
+      "source_forms": [
+        "Angle and ramus of mandible"
+      ],
+      "retrieval_terms": [
+        "Angle and ramus of mandible"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000134"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000085",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Attached to microvilli; brush border enzyme",
+      "canonical_candidate": "Attached to microvilli; brush border enzyme",
+      "keyword_path": [
+        "Section topics",
+        "Attached to microvilli; brush border enzyme"
+      ],
+      "source_forms": [
+        "Attached to microvilli; brush border enzyme"
+      ],
+      "retrieval_terms": [
+        "Attached to microvilli; brush border enzyme"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000135"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000086",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "bile",
@@ -2461,24 +2639,80 @@
         "bile"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000129",
-        "HHS3190M-O-00000130",
-        "HHS3190M-O-00000131"
+        "HHS3190M-O-00000136",
+        "HHS3190M-O-00000137"
       ],
-      "occurrence_count": 3,
+      "occurrence_count": 2,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0032",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0037",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043"
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0037"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000081",
+      "concept_id": "HHS3190M-C-0000087",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Brush border enzyme",
+      "canonical_candidate": "Brush border enzyme",
+      "keyword_path": [
+        "Section topics",
+        "Brush border enzyme"
+      ],
+      "source_forms": [
+        "Brush border enzyme"
+      ],
+      "retrieval_terms": [
+        "Brush border enzyme"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000138"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000088",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Buccinator",
+      "canonical_candidate": "Buccinator",
+      "keyword_path": [
+        "Section topics",
+        "Buccinator"
+      ],
+      "source_forms": [
+        "Buccinator"
+      ],
+      "retrieval_terms": [
+        "Buccinator"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000139"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000089",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "chemical digestion",
@@ -2495,11 +2729,11 @@
         "chaemical digestion"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000132",
-        "HHS3190M-O-00000133",
-        "HHS3190M-O-00000134",
-        "HHS3190M-O-00000135",
-        "HHS3190M-O-00000136"
+        "HHS3190M-O-00000140",
+        "HHS3190M-O-00000141",
+        "HHS3190M-O-00000142",
+        "HHS3190M-O-00000143",
+        "HHS3190M-O-00000144"
       ],
       "occurrence_count": 5,
       "section_ids": [
@@ -2518,7 +2752,123 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000082",
+      "concept_id": "HHS3190M-C-0000090",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Cholecystokinin (CCK)",
+      "canonical_candidate": "Cholecystokinin (CCK)",
+      "keyword_path": [
+        "Section topics",
+        "Cholecystokinin (CCK)"
+      ],
+      "source_forms": [
+        "Cholecystokinin (CCK)"
+      ],
+      "retrieval_terms": [
+        "Cholecystokinin (CCK)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000145"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000091",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+      "canonical_candidate": "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible",
+      "keyword_path": [
+        "Section topics",
+        "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible"
+      ],
+      "source_forms": [
+        "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible"
+      ],
+      "retrieval_terms": [
+        "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000146"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000092",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+      "canonical_candidate": "Compresses cheek; keeps food between grinding surfaces of teeth during chewing",
+      "keyword_path": [
+        "Section topics",
+        "Compresses cheek; keeps food between grinding surfaces of teeth during chewing"
+      ],
+      "source_forms": [
+        "Compresses cheek; keeps food between grinding surfaces of teeth during chewing"
+      ],
+      "retrieval_terms": [
+        "Compresses cheek; keeps food between grinding surfaces of teeth during chewing"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000147"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000093",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Coronoid process of mandible via a tendon passing deep to zygomatic arch",
+      "canonical_candidate": "Coronoid process of mandible via a tendon passing deep to zygomatic arch",
+      "keyword_path": [
+        "Section topics",
+        "Coronoid process of mandible via a tendon passing deep to zygomatic arch"
+      ],
+      "source_forms": [
+        "Coronoid process of mandible via a tendon passing deep to zygomatic arch"
+      ],
+      "retrieval_terms": [
+        "Coronoid process of mandible via a tendon passing deep to zygomatic arch"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000148"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000094",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "digestive enzymes",
@@ -2535,9 +2885,9 @@
         "digestive enzyme"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000137",
-        "HHS3190M-O-00000138",
-        "HHS3190M-O-00000139"
+        "HHS3190M-O-00000149",
+        "HHS3190M-O-00000150",
+        "HHS3190M-O-00000151"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -2553,7 +2903,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000083",
+      "concept_id": "HHS3190M-C-0000095",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "digestive system",
@@ -2569,18 +2919,6 @@
         "digestive system"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000140",
-        "HHS3190M-O-00000141",
-        "HHS3190M-O-00000142",
-        "HHS3190M-O-00000143",
-        "HHS3190M-O-00000144",
-        "HHS3190M-O-00000145",
-        "HHS3190M-O-00000146",
-        "HHS3190M-O-00000147",
-        "HHS3190M-O-00000148",
-        "HHS3190M-O-00000149",
-        "HHS3190M-O-00000150",
-        "HHS3190M-O-00000151",
         "HHS3190M-O-00000152",
         "HHS3190M-O-00000153",
         "HHS3190M-O-00000154",
@@ -2590,7 +2928,19 @@
         "HHS3190M-O-00000158",
         "HHS3190M-O-00000159",
         "HHS3190M-O-00000160",
-        "HHS3190M-O-00000161"
+        "HHS3190M-O-00000161",
+        "HHS3190M-O-00000162",
+        "HHS3190M-O-00000163",
+        "HHS3190M-O-00000164",
+        "HHS3190M-O-00000165",
+        "HHS3190M-O-00000166",
+        "HHS3190M-O-00000167",
+        "HHS3190M-O-00000168",
+        "HHS3190M-O-00000169",
+        "HHS3190M-O-00000170",
+        "HHS3190M-O-00000171",
+        "HHS3190M-O-00000172",
+        "HHS3190M-O-00000173"
       ],
       "occurrence_count": 22,
       "section_ids": [
@@ -2628,7 +2978,37 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000084",
+      "concept_id": "HHS3190M-C-0000096",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones",
+      "canonical_candidate": "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones",
+      "keyword_path": [
+        "Section topics",
+        "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones"
+      ],
+      "source_forms": [
+        "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones"
+      ],
+      "retrieval_terms": [
+        "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones",
+        "Fan-shaped muscle covering parts of temporal, frontal, and parietal bone"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000174"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000097",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "gallbladder",
@@ -2644,25 +3024,255 @@
         "gallbladder"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000162",
-        "HHS3190M-O-00000163",
-        "HHS3190M-O-00000164"
+        "HHS3190M-O-00000175",
+        "HHS3190M-O-00000176"
       ],
-      "occurrence_count": 3,
+      "occurrence_count": 2,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0006",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0032",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043"
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000085",
+      "concept_id": "HHS3190M-C-0000098",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Gastric inhibitory peptide (GIP)",
+      "canonical_candidate": "Gastric inhibitory peptide (GIP)",
+      "keyword_path": [
+        "Section topics",
+        "Gastric inhibitory peptide (GIP)"
+      ],
+      "source_forms": [
+        "Gastric inhibitory peptide (GIP)"
+      ],
+      "retrieval_terms": [
+        "Gastric inhibitory peptide (GIP)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000177"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000099",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Gastric juice",
+      "canonical_candidate": "Gastric juice",
+      "keyword_path": [
+        "Section topics",
+        "Gastric juice"
+      ],
+      "source_forms": [
+        "Gastric juice"
+      ],
+      "retrieval_terms": [
+        "Gastric juice"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000178"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000100",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Gastrin",
+      "canonical_candidate": "Gastrin",
+      "keyword_path": [
+        "Section topics",
+        "Gastrin"
+      ],
+      "source_forms": [
+        "Gastrin"
+      ],
+      "retrieval_terms": [
+        "Gastrin"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000179"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000101",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Glucose + fructose",
+      "canonical_candidate": "Glucose + fructose",
+      "keyword_path": [
+        "Section topics",
+        "Glucose + fructose"
+      ],
+      "source_forms": [
+        "Glucose + fructose"
+      ],
+      "retrieval_terms": [
+        "Glucose + fructose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000180"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000102",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Glucose + galactose",
+      "canonical_candidate": "Glucose + galactose",
+      "keyword_path": [
+        "Section topics",
+        "Glucose + galactose"
+      ],
+      "source_forms": [
+        "Glucose + galactose"
+      ],
+      "retrieval_terms": [
+        "Glucose + galactose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000181"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000103",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Glucose + glucose",
+      "canonical_candidate": "Glucose + glucose",
+      "keyword_path": [
+        "Section topics",
+        "Glucose + glucose"
+      ],
+      "source_forms": [
+        "Glucose + glucose"
+      ],
+      "retrieval_terms": [
+        "Glucose + glucose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000182"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000104",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Lactase",
+      "canonical_candidate": "Lactase",
+      "keyword_path": [
+        "Section topics",
+        "Lactase"
+      ],
+      "source_forms": [
+        "Lactase"
+      ],
+      "retrieval_terms": [
+        "Lactase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000183"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000105",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Lactose",
+      "canonical_candidate": "Lactose",
+      "keyword_path": [
+        "Section topics",
+        "Lactose"
+      ],
+      "source_forms": [
+        "Lactose"
+      ],
+      "retrieval_terms": [
+        "Lactose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000184"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000106",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "large intestine",
@@ -2678,12 +3288,12 @@
         "large intestine"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000165",
-        "HHS3190M-O-00000166",
-        "HHS3190M-O-00000167",
-        "HHS3190M-O-00000168",
-        "HHS3190M-O-00000169",
-        "HHS3190M-O-00000170"
+        "HHS3190M-O-00000185",
+        "HHS3190M-O-00000186",
+        "HHS3190M-O-00000187",
+        "HHS3190M-O-00000188",
+        "HHS3190M-O-00000189",
+        "HHS3190M-O-00000190"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2703,7 +3313,37 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000086",
+      "concept_id": "HHS3190M-C-0000107",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Large polypeptides",
+      "canonical_candidate": "Large polypeptides",
+      "keyword_path": [
+        "Section topics",
+        "Large polypeptides"
+      ],
+      "source_forms": [
+        "Large polypeptides"
+      ],
+      "retrieval_terms": [
+        "Large polypeptides",
+        "Large polypeptide"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000191"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000108",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "liver",
@@ -2719,9 +3359,9 @@
         "liver"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000171",
-        "HHS3190M-O-00000172",
-        "HHS3190M-O-00000173"
+        "HHS3190M-O-00000192",
+        "HHS3190M-O-00000193",
+        "HHS3190M-O-00000194"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -2738,7 +3378,123 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000087",
+      "concept_id": "HHS3190M-C-0000109",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Maltase",
+      "canonical_candidate": "Maltase",
+      "keyword_path": [
+        "Section topics",
+        "Maltase"
+      ],
+      "source_forms": [
+        "Maltase"
+      ],
+      "retrieval_terms": [
+        "Maltase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000195"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000110",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Maltose",
+      "canonical_candidate": "Maltose",
+      "keyword_path": [
+        "Section topics",
+        "Maltose"
+      ],
+      "source_forms": [
+        "Maltose"
+      ],
+      "retrieval_terms": [
+        "Maltose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000196"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000111",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Masseter",
+      "canonical_candidate": "Masseter",
+      "keyword_path": [
+        "Section topics",
+        "Masseter"
+      ],
+      "source_forms": [
+        "Masseter"
+      ],
+      "retrieval_terms": [
+        "Masseter"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000197"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000112",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Molar region of maxilla and mandible",
+      "canonical_candidate": "Molar region of maxilla and mandible",
+      "keyword_path": [
+        "Section topics",
+        "Molar region of maxilla and mandible"
+      ],
+      "source_forms": [
+        "Molar region of maxilla and mandible"
+      ],
+      "retrieval_terms": [
+        "Molar region of maxilla and mandible"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000198"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000113",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "mouth",
@@ -2754,10 +3510,10 @@
         "mouth"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000174",
-        "HHS3190M-O-00000175",
-        "HHS3190M-O-00000176",
-        "HHS3190M-O-00000177"
+        "HHS3190M-O-00000199",
+        "HHS3190M-O-00000200",
+        "HHS3190M-O-00000201",
+        "HHS3190M-O-00000202"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -2774,7 +3530,65 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000088",
+      "concept_id": "HHS3190M-C-0000114",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Oral cavity",
+      "canonical_candidate": "Oral cavity",
+      "keyword_path": [
+        "Section topics",
+        "Oral cavity"
+      ],
+      "source_forms": [
+        "Oral cavity"
+      ],
+      "retrieval_terms": [
+        "Oral cavity"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000203"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000115",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Orbicularis oris",
+      "canonical_candidate": "Orbicularis oris",
+      "keyword_path": [
+        "Section topics",
+        "Orbicularis oris"
+      ],
+      "source_forms": [
+        "Orbicularis oris"
+      ],
+      "retrieval_terms": [
+        "Orbicularis oris"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000204"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000116",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "pancreas",
@@ -2791,8 +3605,8 @@
         "pancrea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000178",
-        "HHS3190M-O-00000179"
+        "HHS3190M-O-00000205",
+        "HHS3190M-O-00000206"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2807,7 +3621,96 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000089",
+      "concept_id": "HHS3190M-C-0000117",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pancreatic amylase",
+      "canonical_candidate": "Pancreatic amylase",
+      "keyword_path": [
+        "Section topics",
+        "Pancreatic amylase"
+      ],
+      "source_forms": [
+        "Pancreatic amylase"
+      ],
+      "retrieval_terms": [
+        "Pancreatic amylase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000207"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000118",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pancreatic juice",
+      "canonical_candidate": "Pancreatic juice",
+      "keyword_path": [
+        "Section topics",
+        "Pancreatic juice"
+      ],
+      "source_forms": [
+        "Pancreatic juice"
+      ],
+      "retrieval_terms": [
+        "Pancreatic juice"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000208",
+        "HHS3190M-O-00000209"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000119",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pepsin",
+      "canonical_candidate": "Pepsin",
+      "keyword_path": [
+        "Section topics",
+        "Pepsin"
+      ],
+      "source_forms": [
+        "Pepsin"
+      ],
+      "retrieval_terms": [
+        "Pepsin"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000210"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000120",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "peristalsis",
@@ -2823,12 +3726,12 @@
         "peristalsis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000180",
-        "HHS3190M-O-00000181",
-        "HHS3190M-O-00000182",
-        "HHS3190M-O-00000183",
-        "HHS3190M-O-00000184",
-        "HHS3190M-O-00000185"
+        "HHS3190M-O-00000211",
+        "HHS3190M-O-00000212",
+        "HHS3190M-O-00000213",
+        "HHS3190M-O-00000214",
+        "HHS3190M-O-00000215",
+        "HHS3190M-O-00000216"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2849,7 +3752,152 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000090",
+      "concept_id": "HHS3190M-C-0000121",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Powerful muscle that covers lateral aspect of mandibular ramus",
+      "canonical_candidate": "Powerful muscle that covers lateral aspect of mandibular ramus",
+      "keyword_path": [
+        "Section topics",
+        "Powerful muscle that covers lateral aspect of mandibular ramus"
+      ],
+      "source_forms": [
+        "Powerful muscle that covers lateral aspect of mandibular ramus"
+      ],
+      "retrieval_terms": [
+        "Powerful muscle that covers lateral aspect of mandibular ramus"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000217"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000122",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Prime mover of jaw closure; elevates mandible",
+      "canonical_candidate": "Prime mover of jaw closure; elevates mandible",
+      "keyword_path": [
+        "Section topics",
+        "Prime mover of jaw closure; elevates mandible"
+      ],
+      "source_forms": [
+        "Prime mover of jaw closure; elevates mandible"
+      ],
+      "retrieval_terms": [
+        "Prime mover of jaw closure; elevates mandible"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000218"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000123",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Saliva",
+      "canonical_candidate": "Saliva",
+      "keyword_path": [
+        "Section topics",
+        "Saliva"
+      ],
+      "source_forms": [
+        "Saliva"
+      ],
+      "retrieval_terms": [
+        "Saliva"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000219"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000124",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Salivary amylase",
+      "canonical_candidate": "Salivary amylase",
+      "keyword_path": [
+        "Section topics",
+        "Salivary amylase"
+      ],
+      "source_forms": [
+        "Salivary amylase"
+      ],
+      "retrieval_terms": [
+        "Salivary amylase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000220"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000125",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Secretin",
+      "canonical_candidate": "Secretin",
+      "keyword_path": [
+        "Section topics",
+        "Secretin"
+      ],
+      "source_forms": [
+        "Secretin"
+      ],
+      "retrieval_terms": [
+        "Secretin"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000221"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000126",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "small intestine",
@@ -2859,25 +3907,27 @@
         "small intestine"
       ],
       "source_forms": [
-        "small intestine"
+        "small intestine",
+        "Small intestine"
       ],
       "retrieval_terms": [
-        "small intestine"
+        "small intestine",
+        "Small intestine"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000186",
-        "HHS3190M-O-00000187",
-        "HHS3190M-O-00000188",
-        "HHS3190M-O-00000189",
-        "HHS3190M-O-00000190",
-        "HHS3190M-O-00000191",
-        "HHS3190M-O-00000192",
-        "HHS3190M-O-00000193",
-        "HHS3190M-O-00000194",
-        "HHS3190M-O-00000195",
-        "HHS3190M-O-00000196",
-        "HHS3190M-O-00000197",
-        "HHS3190M-O-00000198"
+        "HHS3190M-O-00000222",
+        "HHS3190M-O-00000223",
+        "HHS3190M-O-00000224",
+        "HHS3190M-O-00000225",
+        "HHS3190M-O-00000226",
+        "HHS3190M-O-00000227",
+        "HHS3190M-O-00000228",
+        "HHS3190M-O-00000229",
+        "HHS3190M-O-00000230",
+        "HHS3190M-O-00000231",
+        "HHS3190M-O-00000232",
+        "HHS3190M-O-00000233",
+        "HHS3190M-O-00000234"
       ],
       "occurrence_count": 13,
       "section_ids": [
@@ -2893,18 +3943,164 @@
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0031",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0032",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0037",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0039",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0040",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000091",
+      "concept_id": "HHS3190M-C-0000127",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Small polypeptides",
+      "canonical_candidate": "Small polypeptides",
+      "keyword_path": [
+        "Section topics",
+        "Small polypeptides"
+      ],
+      "source_forms": [
+        "Small polypeptides"
+      ],
+      "retrieval_terms": [
+        "Small polypeptides",
+        "Small polypeptide"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000235"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000128",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate bicarbonate secretion in pancreatic juice and bile",
+      "canonical_candidate": "Stimulate bicarbonate secretion in pancreatic juice and bile",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate bicarbonate secretion in pancreatic juice and bile"
+      ],
+      "source_forms": [
+        "Stimulate bicarbonate secretion in pancreatic juice and bile"
+      ],
+      "retrieval_terms": [
+        "Stimulate bicarbonate secretion in pancreatic juice and bile"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000236"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000129",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate secretion of HCl; Stimulate secretion of pepsin",
+      "canonical_candidate": "Stimulate secretion of HCl; Stimulate secretion of pepsin",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate secretion of HCl; Stimulate secretion of pepsin"
+      ],
+      "source_forms": [
+        "Stimulate secretion of HCl; Stimulate secretion of pepsin"
+      ],
+      "retrieval_terms": [
+        "Stimulate secretion of HCl; Stimulate secretion of pepsin"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000237"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000130",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+      "canonical_candidate": "Stimulate secretion of insulin; Inhibit gastric motility and secretion",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate secretion of insulin; Inhibit gastric motility and secretion"
+      ],
+      "source_forms": [
+        "Stimulate secretion of insulin; Inhibit gastric motility and secretion"
+      ],
+      "retrieval_terms": [
+        "Stimulate secretion of insulin; Inhibit gastric motility and secretion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000238"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000131",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+      "canonical_candidate": "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion"
+      ],
+      "source_forms": [
+        "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion"
+      ],
+      "retrieval_terms": [
+        "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000239"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000132",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "stomach",
@@ -2920,14 +4116,12 @@
         "stomach"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000199",
-        "HHS3190M-O-00000200",
-        "HHS3190M-O-00000201",
-        "HHS3190M-O-00000202",
-        "HHS3190M-O-00000203",
-        "HHS3190M-O-00000204"
+        "HHS3190M-O-00000240",
+        "HHS3190M-O-00000241",
+        "HHS3190M-O-00000242",
+        "HHS3190M-O-00000243"
       ],
-      "occurrence_count": 6,
+      "occurrence_count": 4,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0005",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
@@ -2936,16 +4130,187 @@
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0017",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0019",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0021",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043"
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0021"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000092",
+      "concept_id": "HHS3190M-C-0000133",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Sucrase",
+      "canonical_candidate": "Sucrase",
+      "keyword_path": [
+        "Section topics",
+        "Sucrase"
+      ],
+      "source_forms": [
+        "Sucrase"
+      ],
+      "retrieval_terms": [
+        "Sucrase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000244"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000134",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Sucrose",
+      "canonical_candidate": "Sucrose",
+      "keyword_path": [
+        "Section topics",
+        "Sucrose"
+      ],
+      "source_forms": [
+        "Sucrose"
+      ],
+      "retrieval_terms": [
+        "Sucrose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000245"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000135",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Temporal fossa",
+      "canonical_candidate": "Temporal fossa",
+      "keyword_path": [
+        "Section topics",
+        "Temporal fossa"
+      ],
+      "source_forms": [
+        "Temporal fossa"
+      ],
+      "retrieval_terms": [
+        "Temporal fossa"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000246"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000136",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Temporalis",
+      "canonical_candidate": "Temporalis",
+      "keyword_path": [
+        "Section topics",
+        "Temporalis"
+      ],
+      "source_forms": [
+        "Temporalis"
+      ],
+      "retrieval_terms": [
+        "Temporalis"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000247"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000137",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter",
+      "canonical_candidate": "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter",
+      "keyword_path": [
+        "Section topics",
+        "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter"
+      ],
+      "source_forms": [
+        "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter"
+      ],
+      "retrieval_terms": [
+        "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000248"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000138",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Trypsin; chymotrypsin; carboxypeptidase",
+      "canonical_candidate": "Trypsin; chymotrypsin; carboxypeptidase",
+      "keyword_path": [
+        "Section topics",
+        "Trypsin; chymotrypsin; carboxypeptidase"
+      ],
+      "source_forms": [
+        "Trypsin; chymotrypsin; carboxypeptidase"
+      ],
+      "retrieval_terms": [
+        "Trypsin; chymotrypsin; carboxypeptidase"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000249"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000139",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "villi",
@@ -2961,27 +4326,53 @@
         "villi"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000205",
-        "HHS3190M-O-00000206",
-        "HHS3190M-O-00000207",
-        "HHS3190M-O-00000208"
+        "HHS3190M-O-00000250",
+        "HHS3190M-O-00000251",
+        "HHS3190M-O-00000252"
       ],
-      "occurrence_count": 4,
+      "occurrence_count": 3,
       "section_ids": [
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0023",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L05-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
         "HHS3190M-L05-PHYSIOLOGY-2026-07-P0024",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0028",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
-        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04"
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0028"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000093",
+      "concept_id": "HHS3190M-C-0000140",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Zygomatic arch and zygomatic bone",
+      "canonical_candidate": "Zygomatic arch and zygomatic bone",
+      "keyword_path": [
+        "Section topics",
+        "Zygomatic arch and zygomatic bone"
+      ],
+      "source_forms": [
+        "Zygomatic arch and zygomatic bone"
+      ],
+      "retrieval_terms": [
+        "Zygomatic arch and zygomatic bone"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000253"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000141",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "Constipation",
@@ -2997,7 +4388,7 @@
         "Constipation"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000209"
+        "HHS3190M-O-00000254"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3010,7 +4401,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000094",
+      "concept_id": "HHS3190M-C-0000142",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "develops Constipation",
@@ -3026,7 +4417,7 @@
         "develops Constipation"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000210"
+        "HHS3190M-O-00000255"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3039,7 +4430,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000095",
+      "concept_id": "HHS3190M-C-0000143",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "develops Constipation fecal incontinence",
@@ -3055,7 +4446,7 @@
         "develops Constipation fecal incontinence"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000211"
+        "HHS3190M-O-00000256"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3068,7 +4459,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000096",
+      "concept_id": "HHS3190M-C-0000144",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "incontinence",
@@ -3084,7 +4475,7 @@
         "incontinence"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000212"
+        "HHS3190M-O-00000257"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3097,7 +4488,125 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000097",
+      "concept_id": "HHS3190M-C-0000145",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Digestion and absorption of carbohydrates",
+      "canonical_candidate": "Digestion and absorption of carbohydrates",
+      "keyword_path": [
+        "visual",
+        "Digestion and absorption of carbohydrates"
+      ],
+      "source_forms": [
+        "Digestion and absorption of carbohydrates"
+      ],
+      "retrieval_terms": [
+        "Digestion and absorption of carbohydrates",
+        "Digestion and absorption of carbohydrate"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000258"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0033",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000146",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Digestion and absorption of proteins",
+      "canonical_candidate": "Digestion and absorption of proteins",
+      "keyword_path": [
+        "visual",
+        "Digestion and absorption of proteins"
+      ],
+      "source_forms": [
+        "Digestion and absorption of proteins"
+      ],
+      "retrieval_terms": [
+        "Digestion and absorption of proteins",
+        "Digestion and absorption of protein"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000259"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0035",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000147",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Hormonal control of digestion",
+      "canonical_candidate": "Hormonal control of digestion",
+      "keyword_path": [
+        "visual",
+        "Hormonal control of digestion"
+      ],
+      "source_forms": [
+        "Hormonal control of digestion"
+      ],
+      "retrieval_terms": [
+        "Hormonal control of digestion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000260"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0043",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000148",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Muscles of mastication",
+      "canonical_candidate": "Muscles of mastication",
+      "keyword_path": [
+        "visual",
+        "Muscles of mastication"
+      ],
+      "source_forms": [
+        "Muscles of mastication"
+      ],
+      "retrieval_terms": [
+        "Muscles of mastication"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000261"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000149",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Anatomy of Digestive System",
@@ -3113,10 +4622,10 @@
         "Visual associated with: Anatomy of Digestive System"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000213",
-        "HHS3190M-O-00000214",
-        "HHS3190M-O-00000215",
-        "HHS3190M-O-00000216"
+        "HHS3190M-O-00000262",
+        "HHS3190M-O-00000263",
+        "HHS3190M-O-00000264",
+        "HHS3190M-O-00000265"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -3132,7 +4641,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000098",
+      "concept_id": "HHS3190M-C-0000150",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: and secondary active transport!",
@@ -3148,7 +4657,7 @@
         "Visual associated with: and secondary active transport!"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000217"
+        "HHS3190M-O-00000266"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3161,7 +4670,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000099",
+      "concept_id": "HHS3190M-C-0000151",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: ➢ Begins breakdown of starch with",
@@ -3177,7 +4686,7 @@
         "Visual associated with: ➢ Begins breakdown of starch with"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000218"
+        "HHS3190M-O-00000267"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3190,7 +4699,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000100",
+      "concept_id": "HHS3190M-C-0000152",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: blood via facilitated diffusion and",
@@ -3206,7 +4715,7 @@
         "Visual associated with: blood via facilitated diffusion and"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000219"
+        "HHS3190M-O-00000268"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3219,7 +4728,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000101",
+      "concept_id": "HHS3190M-C-0000153",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: L5 Revision Exercise",
@@ -3235,8 +4744,8 @@
         "Visual associated with: L5 Revision Exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000220",
-        "HHS3190M-O-00000221"
+        "HHS3190M-O-00000269",
+        "HHS3190M-O-00000270"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -3249,7 +4758,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000102",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Muscles of Mastication",
@@ -3265,7 +4774,7 @@
         "Visual associated with: Muscles of Mastication"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000222"
+        "HHS3190M-O-00000271"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3278,7 +4787,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000103",
+      "concept_id": "HHS3190M-C-0000155",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Overview of Digestive System",
@@ -3294,9 +4803,9 @@
         "Visual associated with: Overview of Digestive System"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000223",
-        "HHS3190M-O-00000224",
-        "HHS3190M-O-00000225"
+        "HHS3190M-O-00000272",
+        "HHS3190M-O-00000273",
+        "HHS3190M-O-00000274"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -3311,7 +4820,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000104",
+      "concept_id": "HHS3190M-C-0000156",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Physiology of Digestion and Absorption",
@@ -3327,7 +4836,7 @@
         "Visual associated with: Physiology of Digestion and Absorption"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000226"
+        "HHS3190M-O-00000275"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3340,7 +4849,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000105",
+      "concept_id": "HHS3190M-C-0000157",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Secretions of gastric gland",
@@ -3356,8 +4865,8 @@
         "Visual associated with: Secretions of gastric gland"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000227",
-        "HHS3190M-O-00000228"
+        "HHS3190M-O-00000276",
+        "HHS3190M-O-00000277"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -3370,7 +4879,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000106",
+      "concept_id": "HHS3190M-C-0000158",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: (Self-Study",
@@ -3386,9 +4895,9 @@
         "Visual associated with: (Self-Study"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000229",
-        "HHS3190M-O-00000230",
-        "HHS3190M-O-00000231"
+        "HHS3190M-O-00000278",
+        "HHS3190M-O-00000279",
+        "HHS3190M-O-00000280"
       ],
       "occurrence_count": 3,
       "section_ids": [
@@ -3403,7 +4912,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000107",
+      "concept_id": "HHS3190M-C-0000159",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Slide 12",
@@ -3419,7 +4928,7 @@
         "Visual associated with: Slide 12"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000232"
+        "HHS3190M-O-00000281"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3432,7 +4941,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000108",
+      "concept_id": "HHS3190M-C-0000160",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Slide 25",
@@ -3448,7 +4957,7 @@
         "Visual associated with: Slide 25"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000233"
+        "HHS3190M-O-00000282"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3461,7 +4970,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000109",
+      "concept_id": "HHS3190M-C-0000161",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Slide 38",
@@ -3477,10 +4986,10 @@
         "Visual associated with: Slide 38"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000234",
-        "HHS3190M-O-00000235",
-        "HHS3190M-O-00000236",
-        "HHS3190M-O-00000237"
+        "HHS3190M-O-00000283",
+        "HHS3190M-O-00000284",
+        "HHS3190M-O-00000285",
+        "HHS3190M-O-00000286"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -3493,7 +5002,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000110",
+      "concept_id": "HHS3190M-C-0000162",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Slide 7",
@@ -3509,7 +5018,7 @@
         "Visual associated with: Slide 7"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000238"
+        "HHS3190M-O-00000287"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -3523,8 +5032,8 @@
     }
   ],
   "counts": {
-    "concepts": 110,
-    "occurrences": 238
+    "concepts": 162,
+    "occurrences": 287
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
