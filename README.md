@@ -18,7 +18,7 @@ VTC LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
 ├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
 ├── sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/
-└── sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/
+└── sources/HHS4867/
 ```
 
 The two existing wiki packages were moved here with their original files
@@ -70,7 +70,7 @@ The HHS3190M package remains separate from HHS4185 and contains the raw PDF,
 English slide blocks with preserved point form, visual locations, the
 reconstructed DNA/RNA table, hierarchical summaries, and portable indexes.
 
-For the HHS4867 Functional Movement Science Lecture 1 deck:
+For the HHS4867 Functional Movement Science presentation decks:
 
 ```bash
 python3 tools/query_vtc_wiki.py \
@@ -78,11 +78,17 @@ python3 tools/query_vtc_wiki.py \
   --query "shoulder abduction agonist antagonist"
 ```
 
-The HHS4867 package remains separate and contains the raw bilingual PDF,
-English slide blocks with preserved `⚫` point form, five inferred topic parts,
-15 non-table visual locations, a recorded no-table result, hierarchical
-summaries, formal quotations/references, and portable indexes. Visual
-contents were intentionally not separately OCRed or reconstructed.
+Each of the eight unique PowerPoint-export PDFs is a separate package under
+`sources/HHS4867/`: musculoskeletal basis, neuromuscular control, analysis of
+movement, transfer techniques and standard wheelchairs, mobility and walking
+aids, postural and gait assessment, manual muscle testing, and joint range of
+motion. Exact-byte duplicate lecture/workshop copies are recorded in
+`sources/HHS4867/duplicate_audit_generated.json` and are not processed again.
+Each package contains the raw bilingual PDF, English slide blocks with
+preserved point form, inferred topic parts, visual locations, hierarchical
+summaries, formal quotations/references, and portable indexes. Visual contents
+were intentionally not separately OCRed or reconstructed; no table was
+invented where the slide export contained no coordinate table grid.
 
 ## Add a source
 
