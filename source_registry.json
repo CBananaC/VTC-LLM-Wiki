@@ -233,6 +233,116 @@
       "source_urls": [],
       "verification_status": "not_verified",
       "claims_index": "not_created"
+    },
+    {
+      "source_id": "HHS4185-T1-ICF-2026",
+      "course_code": "HHS4185",
+      "source_role": "course_materials",
+      "source_kind": "tutorial",
+      "title": "Tutorial 1 - ICF",
+      "package_status": "processed_source_package",
+      "package_path": "sources/HHS4185/HHS4185-T1-ICF-2026",
+      "source_manifest_path": "sources/HHS4185/HHS4185-T1-ICF-2026/source_manifest.json",
+      "query_helper_path": "sources/HHS4185/HHS4185-T1-ICF-2026/query_source.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "01 - T1 ICF.pdf",
+          "original_path": "../Rehabilitation Conditions/03 Workshops/01 - T1 ICF.pdf",
+          "size_bytes": 1558477,
+          "sha256": "sha256:fcdfe5cd463b91b3ef26902571fc9e88716933521696cae412e3d228b2e2101f",
+          "copied_path": "sources/HHS4185/HHS4185-T1-ICF-2026/00 Source/01 - T1 ICF.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "retrieval_index_path": "sources/HHS4185/HHS4185-T1-ICF-2026/04 Retrieval Index",
+      "coverage_status": "processed_source_package",
+      "processing_counts": {
+        "documents": 1,
+        "pages": 16,
+        "passages": 16,
+        "parts": 7,
+        "concepts": 80,
+        "occurrences": 108,
+        "terms": 88,
+        "visuals": 15,
+        "tables": 0
+      },
+      "processing_validation": {
+        "documents_present": true,
+        "canonical_sha256_unique": true,
+        "all_pages_have_ocr": true,
+        "all_pages_have_layout": true,
+        "concept_ids_unique": true,
+        "occurrence_ids_unique": true,
+        "occurrence_concept_links_resolve": true,
+        "term_concept_links_resolve": true,
+        "passage_count_matches_pages": true,
+        "passage_page_references_present": true,
+        "visual_page_references_present": true,
+        "generated_not_verified_preserved": true,
+        "source_package_id_present": true,
+        "raw_pdf_exists": true,
+        "raw_hash_matches_registered_source": true
+      }
+    },
+    {
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026",
+      "course_code": "HHS4185",
+      "source_role": "course_materials",
+      "source_kind": "workshop",
+      "title": "Workshop 1 - Introduction to Rehabilitation Equipment",
+      "package_status": "processed_source_package",
+      "package_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026",
+      "source_manifest_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/source_manifest.json",
+      "query_helper_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/query_source.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "02 - WS1 Equipment.pdf",
+          "original_path": "../Rehabilitation Conditions/03 Workshops/02 - WS1 Equipment.pdf",
+          "size_bytes": 1196980,
+          "sha256": "sha256:6f7d548b19d89422c9736b1585c2a1f7148f57eb523e9b1a0e21147ea6da9bb3",
+          "copied_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/00 Source/02 - WS1 Equipment.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "retrieval_index_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/04 Retrieval Index",
+      "coverage_status": "processed_source_package",
+      "processing_counts": {
+        "documents": 1,
+        "pages": 26,
+        "passages": 26,
+        "parts": 9,
+        "concepts": 92,
+        "occurrences": 135,
+        "terms": 94,
+        "visuals": 17,
+        "tables": 2
+      },
+      "processing_validation": {
+        "documents_present": true,
+        "canonical_sha256_unique": true,
+        "all_pages_have_ocr": true,
+        "all_pages_have_layout": true,
+        "concept_ids_unique": true,
+        "occurrence_ids_unique": true,
+        "occurrence_concept_links_resolve": true,
+        "term_concept_links_resolve": true,
+        "passage_count_matches_pages": true,
+        "passage_page_references_present": true,
+        "visual_page_references_present": true,
+        "generated_not_verified_preserved": true,
+        "source_package_id_present": true,
+        "raw_pdf_exists": true,
+        "raw_hash_matches_registered_source": true
+      }
     }
   ]
 }

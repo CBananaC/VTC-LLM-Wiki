@@ -1,0 +1,2522 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4185-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "hip",
+      "canonical_candidate": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_forms": [
+        "hip"
+      ],
+      "retrieval_terms": [
+        "hip"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001",
+        "HHS4185-O-00000002"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "knee",
+      "canonical_candidate": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_forms": [
+        "knee"
+      ],
+      "retrieval_terms": [
+        "knee"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000003",
+        "HHS4185-O-00000004"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "muscle",
+      "canonical_candidate": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_forms": [
+        "muscle"
+      ],
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000005",
+        "HHS4185-O-00000006"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "nerve",
+      "canonical_candidate": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_forms": [
+        "nerve"
+      ],
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Arthritis",
+      "canonical_candidate": "Arthritis",
+      "keyword_path": [
+        "Conditions",
+        "Arthritis"
+      ],
+      "source_forms": [
+        "Arthritis"
+      ],
+      "retrieval_terms": [
+        "Arthritis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000008"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "diabetes",
+      "canonical_candidate": "diabetes",
+      "keyword_path": [
+        "Conditions",
+        "diabetes"
+      ],
+      "source_forms": [
+        "diabetes"
+      ],
+      "retrieval_terms": [
+        "diabetes",
+        "diabete"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Diploma",
+      "canonical_candidate": "Diploma",
+      "keyword_path": [
+        "Conditions",
+        "Diploma"
+      ],
+      "source_forms": [
+        "Diploma"
+      ],
+      "retrieval_terms": [
+        "Diploma"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "eye church social gathering ear nerve",
+      "canonical_candidate": "eye church social gathering ear nerve",
+      "keyword_path": [
+        "Conditions",
+        "eye church social gathering ear nerve"
+      ],
+      "source_forms": [
+        "eye church social gathering ear nerve"
+      ],
+      "retrieval_terms": [
+        "eye church social gathering ear nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "functions e g decrease muscle",
+      "canonical_candidate": "functions e g decrease muscle",
+      "keyword_path": [
+        "Conditions",
+        "functions e g decrease muscle"
+      ],
+      "source_forms": [
+        "functions e g decrease muscle"
+      ],
+      "retrieval_terms": [
+        "functions e g decrease muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "hand joints Rheumatoid Arthritis",
+      "canonical_candidate": "hand joints Rheumatoid Arthritis",
+      "keyword_path": [
+        "Conditions",
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "source_forms": [
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "retrieval_terms": [
+        "hand joints Rheumatoid Arthritis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "left knee",
+      "canonical_candidate": "left knee",
+      "keyword_path": [
+        "Conditions",
+        "left knee"
+      ],
+      "source_forms": [
+        "left knee"
+      ],
+      "retrieval_terms": [
+        "left knee"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000014"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "orthosis",
+      "canonical_candidate": "orthosis",
+      "keyword_path": [
+        "Conditions",
+        "orthosis"
+      ],
+      "source_forms": [
+        "orthosis"
+      ],
+      "retrieval_terms": [
+        "orthosis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000015"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "right hip",
+      "canonical_candidate": "right hip",
+      "keyword_path": [
+        "Conditions",
+        "right hip"
+      ],
+      "source_forms": [
+        "right hip"
+      ],
+      "retrieval_terms": [
+        "right hip"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "right knee",
+      "canonical_candidate": "right knee",
+      "keyword_path": [
+        "Conditions",
+        "right knee"
+      ],
+      "source_forms": [
+        "right knee"
+      ],
+      "retrieval_terms": [
+        "right knee"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "right shoulder E g decrease muscle",
+      "canonical_candidate": "right shoulder E g decrease muscle",
+      "keyword_path": [
+        "Conditions",
+        "right shoulder E g decrease muscle"
+      ],
+      "source_forms": [
+        "right shoulder E g decrease muscle"
+      ],
+      "retrieval_terms": [
+        "right shoulder E g decrease muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "total hip",
+      "canonical_candidate": "total hip",
+      "keyword_path": [
+        "Conditions",
+        "total hip"
+      ],
+      "source_forms": [
+        "total hip"
+      ],
+      "retrieval_terms": [
+        "total hip"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000017",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AFO",
+      "canonical_candidate": "AFO",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AFO"
+      ],
+      "source_forms": [
+        "AFO"
+      ],
+      "retrieval_terms": [
+        "AFO"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000020"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206",
+      "canonical_candidate": "AS114206",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206"
+      ],
+      "source_forms": [
+        "AS114206"
+      ],
+      "retrieval_terms": [
+        "AS114206"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000021"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206 Higher Diploma",
+      "canonical_candidate": "AS114206 Higher Diploma",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206 Higher Diploma"
+      ],
+      "source_forms": [
+        "AS114206 Higher Diploma"
+      ],
+      "retrieval_terms": [
+        "AS114206 Higher Diploma"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000022"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AY2627",
+      "canonical_candidate": "AY2627",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AY2627"
+      ],
+      "source_forms": [
+        "AY2627"
+      ],
+      "retrieval_terms": [
+        "AY2627"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000023"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "dag2d1",
+      "canonical_candidate": "dag2d1",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "dag2d1"
+      ],
+      "source_forms": [
+        "dag2d1"
+      ],
+      "retrieval_terms": [
+        "dag2d1"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000024"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4185",
+      "canonical_candidate": "HHS4185",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185"
+      ],
+      "source_forms": [
+        "HHS4185"
+      ],
+      "retrieval_terms": [
+        "HHS4185"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000025"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4185J",
+      "canonical_candidate": "HHS4185J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185J"
+      ],
+      "source_forms": [
+        "HHS4185J"
+      ],
+      "retrieval_terms": [
+        "HHS4185J"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000026"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ICF",
+      "canonical_candidate": "ICF",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ICF"
+      ],
+      "source_forms": [
+        "ICF"
+      ],
+      "retrieval_terms": [
+        "ICF"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027",
+        "HHS4185-O-00000028",
+        "HHS4185-O-00000029",
+        "HHS4185-O-00000030",
+        "HHS4185-O-00000031",
+        "HHS4185-O-00000032"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000025",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "MTk3M",
+      "canonical_candidate": "MTk3M",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MTk3M"
+      ],
+      "source_forms": [
+        "MTk3M"
+      ],
+      "retrieval_terms": [
+        "MTk3M"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000026",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ppm77864",
+      "canonical_candidate": "ppm77864",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ppm77864"
+      ],
+      "source_forms": [
+        "ppm77864"
+      ],
+      "retrieval_terms": [
+        "ppm77864"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000027",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N",
+      "canonical_candidate": "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "source_forms": [
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "retrieval_terms": [
+        "TExMTEyLjE3NTE5NDgyMTguMTcxNTkyNjAyNS4xNzUxOTQ4MjI4LjE3NTE5N"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000035"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000028",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "THR",
+      "canonical_candidate": "THR",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "THR"
+      ],
+      "source_forms": [
+        "THR"
+      ],
+      "retrieval_terms": [
+        "THR"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000036"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000029",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "blood",
+      "canonical_candidate": "blood",
+      "keyword_path": [
+        "Investigations",
+        "blood"
+      ],
+      "source_forms": [
+        "blood"
+      ],
+      "retrieval_terms": [
+        "blood"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000037"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0010",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000030",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "genetic",
+      "canonical_candidate": "genetic",
+      "keyword_path": [
+        "Investigations",
+        "genetic"
+      ],
+      "source_forms": [
+        "genetic"
+      ],
+      "retrieval_terms": [
+        "genetic"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000038"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000031",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "stix e g high low blood",
+      "canonical_candidate": "stix e g high low blood",
+      "keyword_path": [
+        "Investigations",
+        "stix e g high low blood"
+      ],
+      "source_forms": [
+        "stix e g high low blood"
+      ],
+      "retrieval_terms": [
+        "stix e g high low blood"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000039"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0010",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000032",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "virus bacteria genetic",
+      "canonical_candidate": "virus bacteria genetic",
+      "keyword_path": [
+        "Investigations",
+        "virus bacteria genetic"
+      ],
+      "source_forms": [
+        "virus bacteria genetic"
+      ],
+      "retrieval_terms": [
+        "virus bacteria genetic"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000040"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0005",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000033",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "aids ankle-foot orthosis AFO Stump management",
+      "canonical_candidate": "aids ankle-foot orthosis AFO Stump management",
+      "keyword_path": [
+        "Management and treatment",
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "source_forms": [
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "retrieval_terms": [
+        "aids ankle-foot orthosis AFO Stump management"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000041"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000034",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "chronic diseases e g pain management",
+      "canonical_candidate": "chronic diseases e g pain management",
+      "keyword_path": [
+        "Management and treatment",
+        "chronic diseases e g pain management"
+      ],
+      "source_forms": [
+        "chronic diseases e g pain management"
+      ],
+      "retrieval_terms": [
+        "chronic diseases e g pain management"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000042"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000035",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "diseases e g pain management diabetes",
+      "canonical_candidate": "diseases e g pain management diabetes",
+      "keyword_path": [
+        "Management and treatment",
+        "diseases e g pain management diabetes"
+      ],
+      "source_forms": [
+        "diseases e g pain management diabetes"
+      ],
+      "retrieval_terms": [
+        "diseases e g pain management diabetes",
+        "diseases e g pain management diabete"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000036",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "management",
+      "canonical_candidate": "management",
+      "keyword_path": [
+        "Management and treatment",
+        "management"
+      ],
+      "source_forms": [
+        "management"
+      ],
+      "retrieval_terms": [
+        "management"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000037",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "physical therapy",
+      "canonical_candidate": "physical therapy",
+      "keyword_path": [
+        "Management and treatment",
+        "physical therapy"
+      ],
+      "source_forms": [
+        "physical therapy"
+      ],
+      "retrieval_terms": [
+        "physical therapy"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000038",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "surgery",
+      "canonical_candidate": "surgery",
+      "keyword_path": [
+        "Management and treatment",
+        "surgery"
+      ],
+      "source_forms": [
+        "surgery"
+      ],
+      "retrieval_terms": [
+        "surgery"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000039",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "therapy",
+      "canonical_candidate": "therapy",
+      "keyword_path": [
+        "Management and treatment",
+        "therapy"
+      ],
+      "source_forms": [
+        "therapy"
+      ],
+      "retrieval_terms": [
+        "therapy"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000047"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities",
+      "canonical_candidate": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_forms": [
+        "activities",
+        "Activities"
+      ],
+      "retrieval_terms": [
+        "activities",
+        "activity",
+        "Activities",
+        "Activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049",
+        "HHS4185-O-00000050",
+        "HHS4185-O-00000051"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000041",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activity participation",
+      "canonical_candidate": "activity participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "activity participation"
+      ],
+      "source_forms": [
+        "activity participation"
+      ],
+      "retrieval_terms": [
+        "activity participation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000042",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "body function",
+      "canonical_candidate": "body function",
+      "keyword_path": [
+        "Rehabilitation",
+        "body function"
+      ],
+      "source_forms": [
+        "body function"
+      ],
+      "retrieval_terms": [
+        "body function"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Disability",
+      "canonical_candidate": "Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Disability"
+      ],
+      "source_forms": [
+        "Disability",
+        "disability"
+      ],
+      "retrieval_terms": [
+        "Disability",
+        "disability"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000054",
+        "HHS4185-O-00000055"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000044",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "function",
+      "canonical_candidate": "function",
+      "keyword_path": [
+        "Rehabilitation",
+        "function"
+      ],
+      "source_forms": [
+        "function"
+      ],
+      "retrieval_terms": [
+        "function"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000056"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000045",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functional",
+      "canonical_candidate": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_forms": [
+        "functional"
+      ],
+      "retrieval_terms": [
+        "functional"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000057",
+        "HHS4185-O-00000058"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000046",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functional activities",
+      "canonical_candidate": "functional activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional activities"
+      ],
+      "source_forms": [
+        "functional activities"
+      ],
+      "retrieval_terms": [
+        "functional activities",
+        "functional activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000059"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000047",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functional activities e g wheelchair walking",
+      "canonical_candidate": "functional activities e g wheelchair walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional activities e g wheelchair walking"
+      ],
+      "source_forms": [
+        "functional activities e g wheelchair walking"
+      ],
+      "retrieval_terms": [
+        "functional activities e g wheelchair walking"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000060"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000048",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functioning activities",
+      "canonical_candidate": "functioning activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functioning activities"
+      ],
+      "source_forms": [
+        "functioning activities"
+      ],
+      "retrieval_terms": [
+        "functioning activities",
+        "functioning activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000061"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000049",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functioning Disability",
+      "canonical_candidate": "Functioning Disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functioning Disability"
+      ],
+      "source_forms": [
+        "Functioning Disability"
+      ],
+      "retrieval_terms": [
+        "Functioning Disability"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000062",
+        "HHS4185-O-00000063"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0003",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000050",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functions daily activities",
+      "canonical_candidate": "functions daily activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions daily activities"
+      ],
+      "source_forms": [
+        "functions daily activities"
+      ],
+      "retrieval_terms": [
+        "functions daily activities",
+        "functions daily activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000064"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functions e g decrease muscle strength",
+      "canonical_candidate": "functions e g decrease muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions e g decrease muscle strength"
+      ],
+      "source_forms": [
+        "functions e g decrease muscle strength"
+      ],
+      "retrieval_terms": [
+        "functions e g decrease muscle strength"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000065"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000052",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functions e g sensory functions mobility",
+      "canonical_candidate": "functions e g sensory functions mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions e g sensory functions mobility"
+      ],
+      "source_forms": [
+        "functions e g sensory functions mobility"
+      ],
+      "retrieval_terms": [
+        "functions e g sensory functions mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000066"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000053",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functions mobility communication speech functions Participation",
+      "canonical_candidate": "functions mobility communication speech functions Participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "functions mobility communication speech functions Participation"
+      ],
+      "source_forms": [
+        "functions mobility communication speech functions Participation"
+      ],
+      "retrieval_terms": [
+        "functions mobility communication speech functions Participation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000067"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000054",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "g wheelchair walking aids ankle-foot orthosis",
+      "canonical_candidate": "g wheelchair walking aids ankle-foot orthosis",
+      "keyword_path": [
+        "Rehabilitation",
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "source_forms": [
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "retrieval_terms": [
+        "g wheelchair walking aids ankle-foot orthosis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000068"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000055",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Healthcare Rehabilitation",
+      "canonical_candidate": "Healthcare Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Healthcare Rehabilitation"
+      ],
+      "source_forms": [
+        "Healthcare Rehabilitation"
+      ],
+      "retrieval_terms": [
+        "Healthcare Rehabilitation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000069"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000056",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "ICF Body functions physiological functions Activities",
+      "canonical_candidate": "ICF Body functions physiological functions Activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "ICF Body functions physiological functions Activities"
+      ],
+      "source_forms": [
+        "ICF Body functions physiological functions Activities"
+      ],
+      "retrieval_terms": [
+        "ICF Body functions physiological functions Activities",
+        "ICF Body functions physiological functions Activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000057",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "ICF functional",
+      "canonical_candidate": "ICF functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "ICF functional"
+      ],
+      "source_forms": [
+        "ICF functional"
+      ],
+      "retrieval_terms": [
+        "ICF functional"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000058",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "knee e g improve active range",
+      "canonical_candidate": "knee e g improve active range",
+      "keyword_path": [
+        "Rehabilitation",
+        "knee e g improve active range"
+      ],
+      "source_forms": [
+        "knee e g improve active range"
+      ],
+      "retrieval_terms": [
+        "knee e g improve active range"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000072"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000059",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "left knee E g decrease range",
+      "canonical_candidate": "left knee E g decrease range",
+      "keyword_path": [
+        "Rehabilitation",
+        "left knee E g decrease range"
+      ],
+      "source_forms": [
+        "left knee E g decrease range"
+      ],
+      "retrieval_terms": [
+        "left knee E g decrease range"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000073"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000060",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "left shoulder e g fair walking",
+      "canonical_candidate": "left shoulder e g fair walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "left shoulder e g fair walking"
+      ],
+      "source_forms": [
+        "left shoulder e g fair walking"
+      ],
+      "retrieval_terms": [
+        "left shoulder e g fair walking"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000074"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000061",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "limb e g decrease active range",
+      "canonical_candidate": "limb e g decrease active range",
+      "keyword_path": [
+        "Rehabilitation",
+        "limb e g decrease active range"
+      ],
+      "source_forms": [
+        "limb e g decrease active range"
+      ],
+      "retrieval_terms": [
+        "limb e g decrease active range"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000075"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000062",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "mobility",
+      "canonical_candidate": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_forms": [
+        "mobility"
+      ],
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076",
+        "HHS4185-O-00000077"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0008"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000063",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "participation",
+      "canonical_candidate": "participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "participation"
+      ],
+      "source_forms": [
+        "participation",
+        "Participation"
+      ],
+      "retrieval_terms": [
+        "participation",
+        "Participation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078",
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0006",
+        "HHS4185-T1-ICF-P0015",
+        "HHS4185-T1-ICF-PART07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000064",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "range",
+      "canonical_candidate": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_forms": [
+        "range"
+      ],
+      "retrieval_terms": [
+        "range"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081",
+        "HHS4185-O-00000082",
+        "HHS4185-O-00000083"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000065",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Rehabilitation",
+      "canonical_candidate": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_forms": [
+        "Rehabilitation"
+      ],
+      "retrieval_terms": [
+        "Rehabilitation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084",
+        "HHS4185-O-00000085",
+        "HHS4185-O-00000086",
+        "HHS4185-O-00000087"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0001",
+        "HHS4185-T1-ICF-PART01",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0002",
+        "HHS4185-T1-ICF-PART02",
+        "HHS4185-T1-ICF-P0009",
+        "HHS4185-T1-ICF-PART04",
+        "HHS4185-T1-ICF-P0016",
+        "HHS4185-T1-ICF-PART07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000066",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "shoulder E g decrease muscle strength",
+      "canonical_candidate": "shoulder E g decrease muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "shoulder E g decrease muscle strength"
+      ],
+      "source_forms": [
+        "shoulder E g decrease muscle strength"
+      ],
+      "retrieval_terms": [
+        "shoulder E g decrease muscle strength"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000088"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000067",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "strength",
+      "canonical_candidate": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_forms": [
+        "strength"
+      ],
+      "retrieval_terms": [
+        "strength"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0012"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000068",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "structures activities",
+      "canonical_candidate": "structures activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "structures activities"
+      ],
+      "source_forms": [
+        "structures activities"
+      ],
+      "retrieval_terms": [
+        "structures activities",
+        "structures activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000091"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000069",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "structures activities participation",
+      "canonical_candidate": "structures activities participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "structures activities participation"
+      ],
+      "source_forms": [
+        "structures activities participation"
+      ],
+      "retrieval_terms": [
+        "structures activities participation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000092"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0004",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000070",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "total hip replacement THR Transfer",
+      "canonical_candidate": "total hip replacement THR Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "total hip replacement THR Transfer"
+      ],
+      "source_forms": [
+        "total hip replacement THR Transfer"
+      ],
+      "retrieval_terms": [
+        "total hip replacement THR Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000093"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000071",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "total hip replacement THR Transfer mobility",
+      "canonical_candidate": "total hip replacement THR Transfer mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "total hip replacement THR Transfer mobility"
+      ],
+      "source_forms": [
+        "total hip replacement THR Transfer mobility"
+      ],
+      "retrieval_terms": [
+        "total hip replacement THR Transfer mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000094"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000072",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Transfer",
+      "canonical_candidate": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_forms": [
+        "Transfer"
+      ],
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000095"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000073",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "walking",
+      "canonical_candidate": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_forms": [
+        "walking"
+      ],
+      "retrieval_terms": [
+        "walking"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097",
+        "HHS4185-O-00000098"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0011",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF-P0013",
+        "HHS4185-T1-ICF-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000074",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "chronic diseases e g pain",
+      "canonical_candidate": "chronic diseases e g pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "chronic diseases e g pain"
+      ],
+      "source_forms": [
+        "chronic diseases e g pain"
+      ],
+      "retrieval_terms": [
+        "chronic diseases e g pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000075",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "low back muscles wasting",
+      "canonical_candidate": "low back muscles wasting",
+      "keyword_path": [
+        "Symptoms and signs",
+        "low back muscles wasting"
+      ],
+      "source_forms": [
+        "low back muscles wasting"
+      ],
+      "retrieval_terms": [
+        "low back muscles wasting"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000100"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000076",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "Pain",
+      "canonical_candidate": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_forms": [
+        "Pain",
+        "pain"
+      ],
+      "retrieval_terms": [
+        "Pain",
+        "pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000101",
+        "HHS4185-O-00000102",
+        "HHS4185-O-00000103",
+        "HHS4185-O-00000104"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE",
+        "HHS4185-T1-ICF-P0008",
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000077",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "physical problems E g pain",
+      "canonical_candidate": "physical problems E g pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "physical problems E g pain"
+      ],
+      "source_forms": [
+        "physical problems E g pain"
+      ],
+      "retrieval_terms": [
+        "physical problems E g pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000078",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "purchase necessary Pain",
+      "canonical_candidate": "purchase necessary Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "purchase necessary Pain"
+      ],
+      "source_forms": [
+        "purchase necessary Pain"
+      ],
+      "retrieval_terms": [
+        "purchase necessary Pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0007",
+        "HHS4185-T1-ICF-PART03",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000079",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "shorter period e g decrease pain",
+      "canonical_candidate": "shorter period e g decrease pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "shorter period e g decrease pain"
+      ],
+      "source_forms": [
+        "shorter period e g decrease pain"
+      ],
+      "retrieval_terms": [
+        "shorter period e g decrease pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000107"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0014",
+        "HHS4185-T1-ICF-PART06",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000080",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "wasting",
+      "canonical_candidate": "wasting",
+      "keyword_path": [
+        "Symptoms and signs",
+        "wasting"
+      ],
+      "source_forms": [
+        "wasting"
+      ],
+      "retrieval_terms": [
+        "wasting"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000108"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-T1-ICF-P0012",
+        "HHS4185-T1-ICF-PART05",
+        "HHS4185-T1-ICF",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-T1-ICF-2026"
+    }
+  ],
+  "counts": {
+    "concepts": 80,
+    "occurrences": 108
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-T1-ICF-2026"
+}

@@ -1,0 +1,1133 @@
+{
+  "source_id": "HHS4185-WS1-EQUIPMENT-2026",
+  "tables": [
+    {
+      "table_id": "HHS4185-WS1-TBL-P0011-C01",
+      "visual_id": "HHS4185-WS1-VIS-P0011-C0000",
+      "name": "Table on slide 11",
+      "source_page_id": "HHS4185-WS1-P0011",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "bbox_points": [
+        53.056,
+        145.047,
+        665.458,
+        414.901
+      ],
+      "coordinate_rows": [],
+      "content": {
+        "text": "",
+        "rows": [],
+        "logical_columns": [],
+        "logical_rows": []
+      },
+      "reconstruction_method": "visual-review-language-policy-boundary",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "language_policy": "english_only_derived_cells; raw_page_text_preserved_separately",
+      "reconstruction_status": "english_only_visual_text_not_transcribed",
+      "visual_language": "zh",
+      "reconstruction_note": "The detected table is a Chinese-only image visual on the English deck. Its location is retained, but no Chinese text is promoted into the English-derived table layer.",
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    {
+      "table_id": "HHS4185-WS1-TBL-P0022-C01",
+      "visual_id": "HHS4185-WS1-VIS-P0022-C0000",
+      "name": "Table on slide 22",
+      "source_page_id": "HHS4185-WS1-P0022",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "bbox_points": [
+        11.634,
+        95.09,
+        677.063,
+        464.924
+      ],
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Walking Aids Support & stability Weightbearing Status Stairs",
+          "cells": [
+            {
+              "text": "Walking",
+              "bbox_points": [
+                19.2,
+                97.184,
+                86.592,
+                121.97
+              ]
+            },
+            {
+              "text": "Aids",
+              "bbox_points": [
+                93.024,
+                97.184,
+                129.87,
+                121.97
+              ]
+            },
+            {
+              "text": "Support",
+              "bbox_points": [
+                154.92,
+                97.184,
+                222.546,
+                121.97
+              ]
+            },
+            {
+              "text": "&",
+              "bbox_points": [
+                229.08,
+                97.184,
+                240.852,
+                121.97
+              ]
+            },
+            {
+              "text": "stability",
+              "bbox_points": [
+                247.68,
+                97.184,
+                318.132,
+                121.97
+              ]
+            },
+            {
+              "text": "Weightbearing",
+              "bbox_points": [
+                365.33,
+                97.184,
+                490.442,
+                121.97
+              ]
+            },
+            {
+              "text": "Status",
+              "bbox_points": [
+                497.83,
+                97.184,
+                554.854,
+                121.97
+              ]
+            },
+            {
+              "text": "Stairs",
+              "bbox_points": [
+                609.94,
+                97.184,
+                662.752,
+                121.97
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "from walking aids walking",
+          "cells": [
+            {
+              "text": "from",
+              "bbox_points": [
+                154.92,
+                125.144,
+                196.158,
+                149.93
+              ]
+            },
+            {
+              "text": "walking",
+              "bbox_points": [
+                202.32,
+                125.144,
+                263.34,
+                149.93
+              ]
+            },
+            {
+              "text": "aids",
+              "bbox_points": [
+                269.76,
+                125.144,
+                303.366,
+                149.93
+              ]
+            },
+            {
+              "text": "walking",
+              "bbox_points": [
+                606.22,
+                125.144,
+                666.538,
+                149.93
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "助行器 負重狀態",
+          "cells": [
+            {
+              "text": "助行器",
+              "bbox_points": [
+                19.2,
+                130.562,
+                73.44,
+                148.562
+              ]
+            },
+            {
+              "text": "負重狀態",
+              "bbox_points": [
+                362.57,
+                130.562,
+                434.93,
+                148.562
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "助行器的支撐和穩定性 走樓梯",
+          "cells": [
+            {
+              "text": "助行器的支撐和穩定性",
+              "bbox_points": [
+                154.92,
+                158.622776,
+                335.232096,
+                176.646776
+              ]
+            },
+            {
+              "text": "走樓梯",
+              "bbox_points": [
+                609.34,
+                158.622776,
+                663.364,
+                176.646776
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": "Walking stick Least FWB Only √",
+          "cells": [
+            {
+              "text": "Walking",
+              "bbox_points": [
+                19.2,
+                175.694,
+                86.592,
+                200.48
+              ]
+            },
+            {
+              "text": "stick",
+              "bbox_points": [
+                92.904,
+                175.694,
+                133.71,
+                200.48
+              ]
+            },
+            {
+              "text": "Least",
+              "bbox_points": [
+                206.04,
+                178.424,
+                251.85,
+                203.21
+              ]
+            },
+            {
+              "text": "FWB",
+              "bbox_points": [
+                358.37,
+                175.694,
+                399.344,
+                200.48
+              ]
+            },
+            {
+              "text": "Only",
+              "bbox_points": [
+                403.73,
+                175.694,
+                441.188,
+                200.48
+              ]
+            },
+            {
+              "text": "√",
+              "bbox_points": [
+                631.54,
+                180.51,
+                641.422,
+                200.58
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 5,
+          "text": "最少",
+          "cells": [
+            {
+              "text": "最少",
+              "bbox_points": [
+                257.04,
+                183.842,
+                292.92,
+                201.842
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 6,
+          "text": "士的 只有全負重",
+          "cells": [
+            {
+              "text": "士的",
+              "bbox_points": [
+                19.2,
+                203.792,
+                55.2,
+                221.792
+              ]
+            },
+            {
+              "text": "只有全負重",
+              "bbox_points": [
+                358.37,
+                203.792,
+                448.61,
+                221.792
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 7,
+          "text": "Quadripod FWB Only √",
+          "cells": [
+            {
+              "text": "Quadripod",
+              "bbox_points": [
+                19.2,
+                220.837552,
+                107.193168,
+                245.6566
+              ]
+            },
+            {
+              "text": "FWB",
+              "bbox_points": [
+                358.37,
+                220.837552,
+                399.369448,
+                245.6566
+              ]
+            },
+            {
+              "text": "Only",
+              "bbox_points": [
+                403.73,
+                220.837552,
+                441.21992,
+                245.6566
+              ]
+            },
+            {
+              "text": "√",
+              "bbox_points": [
+                631.54,
+                225.68,
+                641.422,
+                245.75
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 8,
+          "text": "四腳叉 只有全負重",
+          "cells": [
+            {
+              "text": "四腳叉",
+              "bbox_points": [
+                19.2,
+                248.982,
+                72.48,
+                266.982
+              ]
+            },
+            {
+              "text": "只有全負重",
+              "bbox_points": [
+                358.37,
+                248.982,
+                448.37,
+                266.982
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 9,
+          "text": "Elbow NWB TDW √",
+          "cells": [
+            {
+              "text": "Elbow",
+              "bbox_points": [
+                14.88,
+                266.054,
+                63.084,
+                290.84
+              ]
+            },
+            {
+              "text": "NWB",
+              "bbox_points": [
+                358.37,
+                266.174,
+                402.812,
+                290.96
+              ]
+            },
+            {
+              "text": "TDW",
+              "bbox_points": [
+                471.29,
+                266.174,
+                515.246,
+                290.96
+              ]
+            },
+            {
+              "text": "√",
+              "bbox_points": [
+                631.54,
+                270.92,
+                641.422,
+                290.99
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 10,
+          "text": "非負重, 觸地",
+          "cells": [
+            {
+              "text": "非負重,",
+              "bbox_points": [
+                408.29,
+                271.592,
+                467.276,
+                289.592
+              ]
+            },
+            {
+              "text": "觸地",
+              "bbox_points": [
+                520.63,
+                271.592,
+                556.63,
+                289.592
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 11,
+          "text": "cruches PWB",
+          "cells": [
+            {
+              "text": "cruches",
+              "bbox_points": [
+                14.88,
+                287.654,
+                79.914,
+                312.44
+              ]
+            },
+            {
+              "text": "PWB",
+              "bbox_points": [
+                403.85,
+                287.774,
+                442.802,
+                312.56
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 12,
+          "text": "負重, 部份負重,",
+          "cells": [
+            {
+              "text": "負重,",
+              "bbox_points": [
+                358.37,
+                293.192,
+                399.356,
+                311.192
+              ]
+            },
+            {
+              "text": "部份負重,",
+              "bbox_points": [
+                448.01,
+                293.192,
+                524.056,
+                311.192
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 13,
+          "text": "Most FWB",
+          "cells": [
+            {
+              "text": "Most",
+              "bbox_points": [
+                208.08,
+                308.054,
+                249.912,
+                332.84
+              ]
+            },
+            {
+              "text": "FWB",
+              "bbox_points": [
+                358.37,
+                309.394,
+                398.864,
+                334.18
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 14,
+          "text": "肘拐杖 最多 全負重",
+          "cells": [
+            {
+              "text": "肘拐杖",
+              "bbox_points": [
+                19.2,
+                315.772,
+                72.72,
+                333.772
+              ]
+            },
+            {
+              "text": "最多",
+              "bbox_points": [
+                255.12,
+                313.472,
+                290.88,
+                331.472
+              ]
+            },
+            {
+              "text": "全負重",
+              "bbox_points": [
+                403.73,
+                314.812,
+                457.25,
+                332.812
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 15,
+          "text": "Frame ** Good control/ NWB TDW X",
+          "cells": [
+            {
+              "text": "Frame",
+              "bbox_points": [
+                19.2,
+                332.964,
+                72.336,
+                357.75
+              ]
+            },
+            {
+              "text": "**",
+              "bbox_points": [
+                180.96,
+                329.507552,
+                199.99274,
+                354.3266
+              ]
+            },
+            {
+              "text": "Good",
+              "bbox_points": [
+                204.36,
+                329.507552,
+                246.157656,
+                354.3266
+              ]
+            },
+            {
+              "text": "control/",
+              "bbox_points": [
+                250.56,
+                329.507552,
+                318.69072,
+                354.3266
+              ]
+            },
+            {
+              "text": "NWB",
+              "bbox_points": [
+                358.37,
+                332.964,
+                402.812,
+                357.75
+              ]
+            },
+            {
+              "text": "TDW",
+              "bbox_points": [
+                471.29,
+                332.964,
+                515.246,
+                357.75
+              ]
+            },
+            {
+              "text": "X",
+              "bbox_points": [
+                629.98,
+                332.844,
+                643.012,
+                357.63
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 16,
+          "text": "助行架 非負重, 觸地",
+          "cells": [
+            {
+              "text": "助行架",
+              "bbox_points": [
+                79.944,
+                338.382,
+                133.224,
+                356.382
+              ]
+            },
+            {
+              "text": "非負重,",
+              "bbox_points": [
+                408.29,
+                338.382,
+                467.276,
+                356.382
+              ]
+            },
+            {
+              "text": "觸地",
+              "bbox_points": [
+                520.63,
+                338.382,
+                556.63,
+                356.382
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 17,
+          "text": "Assistance PWB",
+          "cells": [
+            {
+              "text": "Assistance",
+              "bbox_points": [
+                204.96,
+                351.154,
+                294.762,
+                375.94
+              ]
+            },
+            {
+              "text": "PWB",
+              "bbox_points": [
+                403.85,
+                354.564,
+                442.802,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 18,
+          "text": "負重, 部份負重,",
+          "cells": [
+            {
+              "text": "負重,",
+              "bbox_points": [
+                358.37,
+                359.982,
+                399.356,
+                377.982
+              ]
+            },
+            {
+              "text": "部份負重,",
+              "bbox_points": [
+                448.01,
+                359.982,
+                524.056,
+                377.982
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 19,
+          "text": "良好的控制/輔助 FWB",
+          "cells": [
+            {
+              "text": "良好的控制/輔助",
+              "bbox_points": [
+                183.36,
+                378.052,
+                316.344,
+                396.052
+              ]
+            },
+            {
+              "text": "FWB",
+              "bbox_points": [
+                358.37,
+                376.164,
+                398.864,
+                400.95
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 20,
+          "text": "全負重",
+          "cells": [
+            {
+              "text": "全負重",
+              "bbox_points": [
+                403.73,
+                381.582,
+                457.25,
+                399.582
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 21,
+          "text": "Rollator NWB TDW X",
+          "cells": [
+            {
+              "text": "Rollator",
+              "bbox_points": [
+                19.2,
+                398.674,
+                85.818,
+                423.46
+              ]
+            },
+            {
+              "text": "NWB",
+              "bbox_points": [
+                358.37,
+                398.794,
+                402.812,
+                423.58
+              ]
+            },
+            {
+              "text": "TDW",
+              "bbox_points": [
+                471.29,
+                398.794,
+                515.246,
+                423.58
+              ]
+            },
+            {
+              "text": "X",
+              "bbox_points": [
+                629.98,
+                398.674,
+                643.012,
+                423.46
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 22,
+          "text": "非負重, 觸地",
+          "cells": [
+            {
+              "text": "非負重,",
+              "bbox_points": [
+                408.29,
+                404.212,
+                467.276,
+                422.212
+              ]
+            },
+            {
+              "text": "觸地",
+              "bbox_points": [
+                520.63,
+                404.212,
+                556.63,
+                422.212
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 23,
+          "text": "PWB",
+          "cells": [
+            {
+              "text": "PWB",
+              "bbox_points": [
+                403.85,
+                420.396,
+                442.802,
+                445.182
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 24,
+          "text": "助行輪架 負重, 部份負重,",
+          "cells": [
+            {
+              "text": "助行輪架",
+              "bbox_points": [
+                19.2,
+                426.774,
+                90.12,
+                444.774
+              ]
+            },
+            {
+              "text": "負重,",
+              "bbox_points": [
+                358.37,
+                425.814,
+                399.356,
+                443.814
+              ]
+            },
+            {
+              "text": "部份負重,",
+              "bbox_points": [
+                448.01,
+                425.814,
+                524.056,
+                443.814
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 25,
+          "text": "FWB",
+          "cells": [
+            {
+              "text": "FWB",
+              "bbox_points": [
+                358.37,
+                441.996,
+                398.864,
+                466.782
+              ]
+            }
+          ]
+        },
+        {
+          "source_row_index": 26,
+          "text": "全負重",
+          "cells": [
+            {
+              "text": "全負重",
+              "bbox_points": [
+                403.73,
+                447.414,
+                457.25,
+                465.414
+              ]
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Walking stick | Least | FWB Only | √\nQuadripod |  | FWB Only | √\nElbow cruches |  | NWB; TDW; PWB; FWB | √\nFrame | ** Good control/Assistance | NWB; TDW; PWB; FWB | X\nRollator |  | NWB; TDW; PWB; FWB | X",
+        "rows": [
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Walking stick"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": "Least"
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "FWB Only"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Quadripod"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "FWB Only"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Elbow cruches"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Frame"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": "** Good control/Assistance"
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "X"
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Rollator"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "X"
+              }
+            ]
+          }
+        ],
+        "logical_columns": [
+          "Walking Aids",
+          "Support & stability from walking aids",
+          "Weightbearing Status",
+          "Stairs walking"
+        ],
+        "logical_rows": [
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Walking stick"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": "Least"
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "FWB Only"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Quadripod"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "FWB Only"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Elbow cruches"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "√"
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Frame"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": "** Good control/Assistance"
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "X"
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "column": "Walking Aids",
+                "text": "Rollator"
+              },
+              {
+                "column": "Support & stability from walking aids",
+                "text": ""
+              },
+              {
+                "column": "Weightbearing Status",
+                "text": "NWB; TDW; PWB; FWB"
+              },
+              {
+                "column": "Stairs walking",
+                "text": "X"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "visual-reviewed-English-logical-layout-plus-embedded-coordinate-capture",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "language_policy": "english_only_derived_cells; raw_page_text_preserved_separately",
+      "reconstruction_status": "visual_reviewed_logical_english_layer",
+      "logical_layout": {
+        "columns": [
+          "Walking Aids",
+          "Support & stability from walking aids",
+          "Weightbearing Status",
+          "Stairs walking"
+        ],
+        "merged_or_axis_notes": [
+          "Support/stability changes from Least to Most down the listed aids.",
+          "The source marks Good control/Assistance with **."
+        ]
+      },
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    }
+  ],
+  "counts": {
+    "tables": 2
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

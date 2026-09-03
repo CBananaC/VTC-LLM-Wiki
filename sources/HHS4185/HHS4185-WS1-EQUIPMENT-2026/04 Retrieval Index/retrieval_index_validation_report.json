@@ -1,0 +1,36 @@
+{
+  "schema_version": "llm-wiki.course-retrieval-validation.v1",
+  "record_type": "course_retrieval_validation_report",
+  "book_id": "HHS4185",
+  "checks": {
+    "documents_present": true,
+    "canonical_sha256_unique": true,
+    "all_pages_have_ocr": true,
+    "all_pages_have_layout": true,
+    "concept_ids_unique": true,
+    "occurrence_ids_unique": true,
+    "occurrence_concept_links_resolve": true,
+    "term_concept_links_resolve": true,
+    "passage_count_matches_pages": true,
+    "passage_page_references_present": true,
+    "visual_page_references_present": true,
+    "generated_not_verified_preserved": true,
+    "source_package_id_present": true,
+    "raw_pdf_exists": true,
+    "raw_hash_matches_registered_source": true
+  },
+  "counts": {
+    "documents": 1,
+    "pages": 26,
+    "passages": 26,
+    "parts": 9,
+    "concepts": 92,
+    "occurrences": 135,
+    "terms": 94,
+    "visuals": 17,
+    "tables": 2
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+}

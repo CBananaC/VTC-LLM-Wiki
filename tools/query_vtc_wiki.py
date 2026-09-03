@@ -63,6 +63,11 @@ def main() -> int:
         seen_helpers.add(helper_key)
         selected.append(source)
 
+    # Registry order reflects addition history, not evidence priority. Keep
+    # primary course materials ahead of supplemental books and other sources
+    # for every consuming AI, while retaining deterministic source order.
+    selected.sort(key=lambda source: (int(source.get("priority", 99)), str(source.get("source_id", ""))))
+
     if not selected:
         filter_label = args.source_id or args.course_code or "the registry"
         raise SystemExit(f"query_vtc_wiki.py: no registered query helper for {filter_label}")

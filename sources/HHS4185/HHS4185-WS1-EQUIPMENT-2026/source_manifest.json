@@ -1,0 +1,92 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4185-WS1-EQUIPMENT-2026",
+  "title": "Workshop 1 - Introduction to Rehabilitation Equipment",
+  "course_code": "HHS4185",
+  "source_role": "course_materials",
+  "source_kind": "workshop",
+  "added_at_hkt": "2026-09-04T01:00:00+08:00",
+  "package_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "02 - WS1 Equipment.pdf",
+        "original_path": "../Rehabilitation Conditions/03 Workshops/02 - WS1 Equipment.pdf",
+        "size_bytes": 1196980,
+        "sha256": "sha256:6f7d548b19d89422c9736b1585c2a1f7148f57eb523e9b1a0e21147ea6da9bb3",
+        "copied_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/00 Source/02 - WS1 Equipment.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed",
+  "verification_status": "generated_not_verified",
+  "status": "generated_not_verified",
+  "claims_index": "not_created",
+  "notes": "Workshop-folder source; canonical PDF page references are retained as PDF page and slide number.",
+  "next_step": "Manually check representative source pages, exact quotations, visual locations, and table reconstructions before promoting any generated record to verified.",
+  "processed_at_hkt": "2026-09-04T01:34:44+08:00",
+  "generated_files": {
+    "source_manifest": "source_manifest.json",
+    "raw_page_text": "01 OCR and Layout/raw_embedded_page_text_generated.jsonl",
+    "page_ocr_layout": "01 OCR and Layout/page_ocr_layout_generated.jsonl",
+    "visual_manifest": "02 Text and Tables/visual_manifest_generated.json",
+    "table_reconstructions": "02 Text and Tables/tables_reconstructed_generated.json",
+    "structure": "03 Analysis/document_structure_generated.json",
+    "analysis": "03 Analysis/analysis_generated.json",
+    "summaries": "03 Analysis/hierarchical_summaries_generated.json",
+    "concept_index": "04 Retrieval Index/concept_index.json",
+    "occurrence_index": "04 Retrieval Index/occurrence_index.json",
+    "term_lookup": "04 Retrieval Index/term_lookup.json",
+    "structure_lookup": "04 Retrieval Index/structure_lookup.json",
+    "visual_index": "04 Retrieval Index/visual_index.json",
+    "passage_index": "04 Retrieval Index/passage_index.jsonl",
+    "validation": "04 Retrieval Index/retrieval_index_validation_report.json"
+  },
+  "validation": {
+    "schema_version": "llm-wiki.course-retrieval-validation.v1",
+    "record_type": "course_retrieval_validation_report",
+    "book_id": "HHS4185",
+    "checks": {
+      "documents_present": true,
+      "canonical_sha256_unique": true,
+      "all_pages_have_ocr": true,
+      "all_pages_have_layout": true,
+      "concept_ids_unique": true,
+      "occurrence_ids_unique": true,
+      "occurrence_concept_links_resolve": true,
+      "term_concept_links_resolve": true,
+      "passage_count_matches_pages": true,
+      "passage_page_references_present": true,
+      "visual_page_references_present": true,
+      "generated_not_verified_preserved": true,
+      "source_package_id_present": true,
+      "raw_pdf_exists": true,
+      "raw_hash_matches_registered_source": true
+    },
+    "counts": {
+      "documents": 1,
+      "pages": 26,
+      "passages": 26,
+      "parts": 9,
+      "concepts": 92,
+      "occurrences": 135,
+      "terms": 94,
+      "visuals": 17,
+      "tables": 2
+    },
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+  }
+}

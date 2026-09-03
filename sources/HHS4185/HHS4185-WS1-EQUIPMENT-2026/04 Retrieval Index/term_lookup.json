@@ -1,0 +1,1474 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000060",
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000060",
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "adl": {
+      "display_forms": [
+        "ADL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "affectmobility": {
+      "display_forms": [
+        "affect mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000062"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "as114206": {
+      "display_forms": [
+        "AS114206"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000010"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "as114206higherdiploma": {
+      "display_forms": [
+        "AS114206 Higher Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000011"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ay2627": {
+      "display_forms": [
+        "AY2627"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000012"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "balance": {
+      "display_forms": [
+        "balance"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000063",
+        "HHS4185-O-00000064",
+        "HHS4185-O-00000065"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "blood": {
+      "display_forms": [
+        "Blood",
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000047",
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049",
+        "HHS4185-O-00000050"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "breathsobheadache": {
+      "display_forms": [
+        "breath SOB headache"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000120"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "breathsobheadachedizziness": {
+      "display_forms": [
+        "breath SOB headache dizziness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000121"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "breathsobheadachedizzinessfatigue": {
+      "display_forms": [
+        "breath SOB headache dizziness fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000122"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ca1": {
+      "display_forms": [
+        "CA1"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000013"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ca2": {
+      "display_forms": [
+        "CA2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000014"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ca3": {
+      "display_forms": [
+        "CA3"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000015"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "chargingenergyconservationindependentefficientmobility": {
+      "display_forms": [
+        "charging Energy conservation Independent efficient mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000066"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "checkingmaintenancewalking": {
+      "display_forms": [
+        "Checking Maintenance walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000067",
+        "HHS4185-O-00000068"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "conductrelevantrehabilitation": {
+      "display_forms": [
+        "conduct relevant rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000069"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "dailyactivities": {
+      "display_forms": [
+        "daily activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "dailyactivity": {
+      "display_forms": [
+        "daily activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "dailylivingadl": {
+      "display_forms": [
+        "daily living ADL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "digitalbloodpressuremonitordigitalblood": {
+      "display_forms": [
+        "Digital Blood Pressure Monitor Digital Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000051"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "digitalbloodpressuremonitoroximetermobility": {
+      "display_forms": [
+        "digital blood pressure monitor oximeter Mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000072"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "diploma": {
+      "display_forms": [
+        "Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000003"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "disability": {
+      "display_forms": [
+        "disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000073"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "dizziness": {
+      "display_forms": [
+        "dizziness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000123"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ea1": {
+      "display_forms": [
+        "EA1"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000016"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ea2": {
+      "display_forms": [
+        "EA2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000017"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "endurancebalance": {
+      "display_forms": [
+        "endurance balance"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000074"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "fatigue": {
+      "display_forms": [
+        "fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000124"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "fwb": {
+      "display_forms": [
+        "FWB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000018",
+        "HHS4185-O-00000019",
+        "HHS4185-O-00000020",
+        "HHS4185-O-00000021"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "gait": {
+      "display_forms": [
+        "Gait"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000075"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "good": {
+      "display_forms": [
+        "GOOD"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000022"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "greaterindependencebetterbalance": {
+      "display_forms": [
+        "greater independence better balance"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "headache": {
+      "display_forms": [
+        "headache"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000125"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "hhs4185": {
+      "display_forms": [
+        "HHS4185"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000023",
+        "HHS4185-O-00000024"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "hhs4185j": {
+      "display_forms": [
+        "HHS4185J"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000025",
+        "HHS4185-O-00000026"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "hypoxemia": {
+      "display_forms": [
+        "Hypoxemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000004"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "increasedfallriskegwalking": {
+      "display_forms": [
+        "increased fall risk eg Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "injury": {
+      "display_forms": [
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000005"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "injurydisability": {
+      "display_forms": [
+        "injury disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "milo": {
+      "display_forms": [
+        "MILO"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "mobility": {
+      "display_forms": [
+        "Mobility",
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080",
+        "HHS4185-O-00000081",
+        "HHS4185-O-00000082",
+        "HHS4185-O-00000083"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "monitordigitalbloodpressuremonitorwrist": {
+      "display_forms": [
+        "Monitor Digital Blood Pressure Monitor Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "monitoringvitalsignsmeasurementblood": {
+      "display_forms": [
+        "Monitoring Vital signs measurement blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "nonweightbearingnwbpartialweight": {
+      "display_forms": [
+        "non-weight bearing NWB partial weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000126"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "nonweightpartialweight": {
+      "display_forms": [
+        "non-weight partial weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000127"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "nwb": {
+      "display_forms": [
+        "NWB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000028",
+        "HHS4185-O-00000029",
+        "HHS4185-O-00000030"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "orghealthcareuseofwalkingaidswalkingframe1": {
+      "display_forms": [
+        "org/healthcare/use-of-walking-aids/walking-frame-1"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000031"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "oximetermobilityaidsegwalking": {
+      "display_forms": [
+        "oximeter Mobility aids e g walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "pain": {
+      "display_forms": [
+        "Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000128"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "partialweightbearingpwbfullweight": {
+      "display_forms": [
+        "partial weight bearing PWB full weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000129"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "patternweightbearingstatusnonweight": {
+      "display_forms": [
+        "pattern weight bearing status non weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000130"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "physicalstatusmuscle": {
+      "display_forms": [
+        "Physical status muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000006"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "physicalstatusmusclestrength": {
+      "display_forms": [
+        "Physical status muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000085"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "poor": {
+      "display_forms": [
+        "POOR"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000032"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ppt": {
+      "display_forms": [
+        "PPT"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "pressurebppulsebeatmindigitalblood": {
+      "display_forms": [
+        "pressure BP pulse beat/min Digital Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000054"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "properusagedpain": {
+      "display_forms": [
+        "proper usage d Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000131"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "pwb": {
+      "display_forms": [
+        "PWB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034",
+        "HHS4185-O-00000035",
+        "HHS4185-O-00000036"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "rararoomhypoxemia": {
+      "display_forms": [
+        "RA RA Room Hypoxemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation",
+        "rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086",
+        "HHS4185-O-00000087",
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "rehabilitationsettingsmonitoringfunctionsmobility": {
+      "display_forms": [
+        "rehabilitation settings monitoring functions mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000091"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "settingsmonitoringegdigitalblood": {
+      "display_forms": [
+        "Settings Monitoring e g digital blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000055"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "sob": {
+      "display_forms": [
+        "SOB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000037"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "spo2": {
+      "display_forms": [
+        "SpO2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000038"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "strength": {
+      "display_forms": [
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000092",
+        "HHS4185-O-00000093"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "stroke": {
+      "display_forms": [
+        "stroke"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000008"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "tdw": {
+      "display_forms": [
+        "TDW"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000039",
+        "HHS4185-O-00000040",
+        "HHS4185-O-00000041",
+        "HHS4185-O-00000042"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "test": {
+      "display_forms": [
+        "Test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000056"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "touchdownwalkingtdwpartialweight": {
+      "display_forms": [
+        "touch down walking TDW partial weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000094"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "transfer": {
+      "display_forms": [
+        "transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000095"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "transfergait": {
+      "display_forms": [
+        "transfer gait"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000096"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "transfergaitbgait": {
+      "display_forms": [
+        "transfer gait b Gait"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000097"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "transfergaitbgaitpatternweight": {
+      "display_forms": [
+        "transfer gait b Gait pattern weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000098"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "transfermobility": {
+      "display_forms": [
+        "transfer mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "trunkcontrolstabilitycontrolconsiderablestrength": {
+      "display_forms": [
+        "trunk control stability control Considerable strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000100"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "twosideswalkingframerollatorwalking": {
+      "display_forms": [
+        "Two sides Walking Frame Rollator Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000101"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "vitalsignsmeasurementblood": {
+      "display_forms": [
+        "Vital signs measurement Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000057"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "walking": {
+      "display_forms": [
+        "Walking",
+        "walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000102",
+        "HHS4185-O-00000103",
+        "HHS4185-O-00000104",
+        "HHS4185-O-00000105",
+        "HHS4185-O-00000106",
+        "HHS4185-O-00000107",
+        "HHS4185-O-00000108",
+        "HHS4185-O-00000109",
+        "HHS4185-O-00000110",
+        "HHS4185-O-00000111",
+        "HHS4185-O-00000112",
+        "HHS4185-O-00000113",
+        "HHS4185-O-00000114"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "walkingaidstwosideswalking": {
+      "display_forms": [
+        "Walking Aids Two sides Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000115"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "walkingaidswalking": {
+      "display_forms": [
+        "walking aids Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000116"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "walkingaidswalkingwalking": {
+      "display_forms": [
+        "walking aids walking Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000117"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "weak": {
+      "display_forms": [
+        "WEAK"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "weakerphysicalpoorerbalance": {
+      "display_forms": [
+        "weaker physical poorer balance"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000118"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000132",
+        "HHS4185-O-00000133",
+        "HHS4185-O-00000134",
+        "HHS4185-O-00000135"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "weightbearingnwbtouchdownwalking": {
+      "display_forms": [
+        "weight bearing NWB touch down walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000119"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "wrist": {
+      "display_forms": [
+        "Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000002"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "writtentest": {
+      "display_forms": [
+        "Written Test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000058"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "writtentestindividualeawrittentest": {
+      "display_forms": [
+        "Written Test Individual EA Written Test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000059"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "ws1": {
+      "display_forms": [
+        "WS1"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000044"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "www21": {
+      "display_forms": [
+        "www21"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000045"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    },
+    "www3": {
+      "display_forms": [
+        "www3"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000046"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+    }
+  },
+  "counts": {
+    "terms": 94,
+    "concepts_referenced": 92,
+    "occurrences_referenced": 135
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS1-EQUIPMENT-2026"
+}
