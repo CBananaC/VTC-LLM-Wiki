@@ -37,6 +37,8 @@ SOURCE_RELATIVE = "02 Lectures/02 - 1. Musculsketal basis for movement 人體肌
 SOURCE_PACKAGE_PDF = PROJECT_ROOT / "sources/HHS4867" / SOURCE_ID / "00 Source" / SOURCE_FILENAME
 STATUS = "generated_not_verified"
 SCHEMA = "vtc-hhs4867-lecture.v1"
+OUTPUT_STEM = "hhs4867_l01"
+QUERY_HELPER_PATH = "../../tools/query_hhs4867_lecture.py"
 
 DOCUMENT = {
     "document_id": DOCUMENT_ID,
@@ -187,6 +189,8 @@ def patch_base_globals() -> None:
         "SOURCE_FILENAME": SOURCE_FILENAME,
         "SOURCE_RELATIVE": SOURCE_RELATIVE,
         "SCHEMA": SCHEMA,
+        "OUTPUT_STEM": OUTPUT_STEM,
+        "QUERY_HELPER_PATH": QUERY_HELPER_PATH,
         "DOCUMENT": DOCUMENT,
         "TOPIC_PARTS": TOPIC_PARTS,
         "LECTURE_KEYWORDS": LECTURE_KEYWORDS,
@@ -306,6 +310,9 @@ def name_visuals(visuals: list[dict[str, Any]]) -> None:
         for index, item in enumerate(items):
             if index < len(names):
                 item["name"] = names[index]
+            else:
+                title = SLIDE_TITLES.get(page_number) or f"Slide {page_number}"
+                item["name"] = f"{title} visual"
             item["caption"] = None
             item["policy"] = "metadata_only"
             item["detection_note"] = "Non-table visual; visual contents were not separately OCRed or reconstructed."
@@ -499,13 +506,13 @@ def main() -> None:
     index_layer = output_root / "04 Retrieval Index"
     for layer in (ocr_layer, text_layer, analysis_layer, index_layer):
         layer.mkdir(parents=True, exist_ok=True)
-    with (ocr_layer / "hhs4867_l01_pages_ocr_layout_generated.jsonl").open("w", encoding="utf-8") as stream:
+    with (ocr_layer / f"{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl").open("w", encoding="utf-8") as stream:
         for page in pages:
             stream.write(json.dumps(page, ensure_ascii=False) + "\n")
-    write_json(ocr_layer / "hhs4867_l01_structure_generated.json", structure)
-    write_text(text_layer / "hhs4867_l01_embedded_text_full_layout.txt", run_text(["pdftotext", "-layout", str(source), "-"]))
-    write_text(text_layer / "hhs4867_l01_embedded_text_full_linear.txt", run_text(["pdftotext", "-raw", str(source), "-"]))
-    write_json(text_layer / "hhs4867_l01_slides_text_generated.json", {
+    write_json(ocr_layer / f"{OUTPUT_STEM}_structure_generated.json", structure)
+    write_text(text_layer / f"{OUTPUT_STEM}_embedded_text_full_layout.txt", run_text(["pdftotext", "-layout", str(source), "-"]))
+    write_text(text_layer / f"{OUTPUT_STEM}_embedded_text_full_linear.txt", run_text(["pdftotext", "-raw", str(source), "-"]))
+    write_json(text_layer / f"{OUTPUT_STEM}_slides_text_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_slides_english_reading_order",
         "book_id": COURSE_CODE,
@@ -519,7 +526,7 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(text_layer / "hhs4867_l01_visual_manifest_generated.json", {
+    write_json(text_layer / f"{OUTPUT_STEM}_visual_manifest_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_visual_manifest",
         "book_id": COURSE_CODE,
@@ -531,7 +538,7 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(text_layer / "hhs4867_l01_tables_generated.json", {
+    write_json(text_layer / f"{OUTPUT_STEM}_tables_generated.json", {
         "schema_version": SCHEMA,
         "record_type": "lecture_table_reconstructions",
         "book_id": COURSE_CODE,
@@ -543,8 +550,8 @@ def main() -> None:
         "status": STATUS,
         "verification_status": STATUS,
     })
-    write_json(analysis_layer / "hhs4867_l01_analysis_generated.json", analysis)
-    write_json(analysis_layer / "hhs4867_l01_summaries_generated.json", {"schema_version": SCHEMA, "record_type": "lecture_hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
+    write_json(analysis_layer / f"{OUTPUT_STEM}_analysis_generated.json", analysis)
+    write_json(analysis_layer / f"{OUTPUT_STEM}_summaries_generated.json", {"schema_version": SCHEMA, "record_type": "lecture_hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
 
     write_json(index_layer / "concept_index.json", indexes["concept_index"])
     write_json(index_layer / "occurrence_index.json", indexes["occurrence_index"])
@@ -584,7 +591,7 @@ def main() -> None:
     source_manifest_path = output_root / "source_manifest.json"
     source_manifest = json.loads(source_manifest_path.read_text(encoding="utf-8")) if source_manifest_path.exists() else {"schema_version": "vtc-llm-wiki.source-manifest.v1", "record_type": "source_manifest", "source_id": SOURCE_ID, "title": DOCUMENT["title"], "course_code": COURSE_CODE, "package_path": str(output_root.relative_to(PROJECT_ROOT))}
     source_manifest.update({"processing_status": "processed_generated_layers", "verification_status": STATUS, "status": "processed_generated_layers"})
-    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"ocr_layout": "01 OCR and Layout/hhs4867_l01_pages_ocr_layout_generated.jsonl", "structure": "01 OCR and Layout/hhs4867_l01_structure_generated.json", "text": "02 Text and Tables/hhs4867_l01_slides_text_generated.json", "visuals": "02 Text and Tables/hhs4867_l01_visual_manifest_generated.json", "tables": "02 Text and Tables/hhs4867_l01_tables_generated.json", "analysis": "03 Analysis/hhs4867_l01_analysis_generated.json", "summaries": "03 Analysis/hhs4867_l01_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": "../../tools/query_hhs4867_lecture.py"}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
+    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": QUERY_HELPER_PATH}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
     source_manifest["next_step"] = "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status."
     write_json(source_manifest_path, source_manifest)
     print(json.dumps({"output_root": str(output_root), "source": str(source), "source_sha256": source_hash, "counts": retrieval_manifest["counts"], "validation": validation, "status": STATUS}, ensure_ascii=False, indent=2))
