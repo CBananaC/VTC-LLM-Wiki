@@ -1,0 +1,1428 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+  "source": {
+    "filename": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+    "path": "/Users/creamybanana/Downloads/Physiology & Anatomy/02 Lectures/09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+    "sha256": "sha256:b49dd0655a258e3d12917da438982c3e5bd4d60093d2578bafe0da3391dcbb15",
+    "pdf_page_count": 46,
+    "pdfinfo": {
+      "Title": "HAS3897M Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "Author": "TSANG HIU YAN",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Fri Jul 31 13:38:08 2026 HKT",
+      "ModDate": "Fri Jul 31 13:38:08 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 46,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 2130440,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0004",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          490.2,
+          109.56,
+          902.76,
+          485.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0004",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Overview of the digestive system",
+          "Overview of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0007",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 7",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          141.48,
+          25.56,
+          675.84,
+          514.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0007",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Overview of the digestive system",
+          "Slide 7"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0008",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          671.76,
+          61.2,
+          927.24,
+          489.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0008",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Overview of the digestive system",
+          "Overview of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0010",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Visual associated with: Overview of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          651.48,
+          51.96,
+          929.4,
+          498.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0010",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Overview of the digestive system",
+          "Overview of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0012",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 12",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          139.2,
+          38.88,
+          820.8,
+          504.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0012",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Basic structure of the alimentary canal",
+          "Slide 12"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Muscles of Mastication",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          570.84,
+          294.84,
+          918.48,
+          512.88
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Muscles of Mastication"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0015",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          243.36,
+          23.28,
+          742.2,
+          506.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0015",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0016",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: ➢ Begins breakdown of starch with",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          472.92,
+          21.24,
+          938.76,
+          339.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0016",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "➢ Begins breakdown of starch with"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0018-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0018",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          23.64,
+          25.92,
+          675.6,
+          514.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0018",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0019",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Anatomy of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          561.0,
+          154.8,
+          900.6,
+          426.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0019",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Anatomy of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Secretions of gastric gland",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          385.56,
+          102.96,
+          603.36,
+          437.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Secretions of gastric gland"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0020-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Secretions of gastric gland",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          609.12,
+          62.04,
+          940.8,
+          456.84
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Secretions of gastric gland"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0022-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0022",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Visual associated with: Anatomy of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          501.12,
+          237.6,
+          908.4,
+          497.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0022",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Anatomy of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0023-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0023",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: Anatomy of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          626.88,
+          235.56,
+          906.84,
+          518.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0023",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Anatomy of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0025-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 25",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          156.36,
+          29.28,
+          798.96,
+          494.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Slide 25"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0027-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0027",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: Anatomy of Digestive System",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          593.88,
+          276.96,
+          925.68,
+          509.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0027",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "Anatomy of Digestive System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0030-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0030",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Visual associated with: (Self-Study",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          105.36,
+          19.8,
+          584.04,
+          520.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0030",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0030",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Functional anatomy of the digestive system",
+          "(Self-Study"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0034-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0034",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 34,
+      "slide_number": 34,
+      "visual_type": "image",
+      "name": "Visual associated with: and secondary active transport!",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          131.52,
+          41.52,
+          500.4,
+          498.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0034",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 34,
+        "page_number_type": "slide_number",
+        "slide_number": 34,
+        "pdf_page": 34,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 34 (PDF p. 34)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0034",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "and secondary active transport!"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0036-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0036",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 36,
+      "slide_number": 36,
+      "visual_type": "image",
+      "name": "Visual associated with: blood via facilitated diffusion and",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          55.44,
+          42.72,
+          442.2,
+          518.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0036",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 36,
+        "page_number_type": "slide_number",
+        "slide_number": 36,
+        "pdf_page": 36,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 36 (PDF p. 36)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0036",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "blood via facilitated diffusion and"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0038-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 38",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          22.56,
+          421.56,
+          270.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "Slide 38"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0038-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 38",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          283.92,
+          462.72,
+          504.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "Slide 38"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0038-C0002",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 38",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          471.48,
+          22.56,
+          799.08,
+          207.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "Slide 38"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0038-C0003",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 38",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          477.72,
+          227.4,
+          799.08,
+          460.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0038",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "Slide 38"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0039-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0039",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 39,
+      "slide_number": 39,
+      "visual_type": "image",
+      "name": "Visual associated with: Physiology of Digestion and Absorption",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          615.36,
+          205.2,
+          893.4,
+          413.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0039",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 39,
+        "page_number_type": "slide_number",
+        "slide_number": 39,
+        "pdf_page": 39,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 39 (PDF p. 39)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0039",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "Physiology of digestion and absorption",
+          "Physiology of Digestion and Absorption"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0045-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 45,
+      "slide_number": 45,
+      "visual_type": "image",
+      "name": "Visual associated with: L5 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          120.0,
+          0.0,
+          840.0,
+          184.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 45,
+        "page_number_type": "slide_number",
+        "slide_number": 45,
+        "pdf_page": 45,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 45 (PDF p. 45)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "L5 Revision Exercise",
+          "L5 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-VIS-P0045-C0001",
+      "table_id": null,
+      "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+      "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "pdf_page": 45,
+      "slide_number": 45,
+      "visual_type": "image",
+      "name": "Visual associated with: L5 Revision Exercise",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          497.04,
+          252.0,
+          734.64,
+          490.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+        "document_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 5 - Digestive System and Digestion (July 2026)",
+        "source_file": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+        "page_number": 45,
+        "page_number_type": "slide_number",
+        "slide_number": 45,
+        "pdf_page": 45,
+        "formatted": "09 - HHS3190MJ Physiology L5 (Jul 2026).pdf, slide 45 (PDF p. 45)"
+      },
+      "section_ids": [
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-P0045",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L05-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 5 - Digestive System and Digestion (July 2026)",
+          "L5 Revision Exercise",
+          "L5 Revision Exercise"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 26,
+    "tables": 0,
+    "non_table_visuals": 26
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

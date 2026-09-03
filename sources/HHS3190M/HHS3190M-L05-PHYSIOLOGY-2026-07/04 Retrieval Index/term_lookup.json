@@ -1,0 +1,1801 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS3190M",
+  "source_priority": "course_materials",
+  "terms": {
+    "abdominal": {
+      "display_forms": [
+        "abdominal"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "abdominalcavitysigmoidcolon": {
+      "display_forms": [
+        "abdominal cavity Sigmoid colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000029"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "abdominalcavitytransversecolon": {
+      "display_forms": [
+        "abdominal cavity Transverse colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000030"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "absorption": {
+      "display_forms": [
+        "absorption"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000108",
+        "HHS3190M-O-00000109",
+        "HHS3190M-O-00000110",
+        "HHS3190M-O-00000111",
+        "HHS3190M-O-00000112",
+        "HHS3190M-O-00000113",
+        "HHS3190M-O-00000114",
+        "HHS3190M-O-00000115",
+        "HHS3190M-O-00000116",
+        "HHS3190M-O-00000117",
+        "HHS3190M-O-00000118",
+        "HHS3190M-O-00000119",
+        "HHS3190M-O-00000120",
+        "HHS3190M-O-00000121",
+        "HHS3190M-O-00000122",
+        "HHS3190M-O-00000123",
+        "HHS3190M-O-00000124",
+        "HHS3190M-O-00000125"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000098",
+        "HHS3190M-O-00000099",
+        "HHS3190M-O-00000100",
+        "HHS3190M-O-00000101"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000098",
+        "HHS3190M-O-00000099",
+        "HHS3190M-O-00000100",
+        "HHS3190M-O-00000101"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "airesophagus": {
+      "display_forms": [
+        "air Esophagus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000031"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "alimentarycanal": {
+      "display_forms": [
+        "alimentary canal"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000126",
+        "HHS3190M-O-00000127",
+        "HHS3190M-O-00000128"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "anatomy": {
+      "display_forms": [
+        "ANATOMY"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000061"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "ans": {
+      "display_forms": [
+        "ANS"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000062"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "ay2627": {
+      "display_forms": [
+        "AY26-27"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000063"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "b12": {
+      "display_forms": [
+        "B12"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000064",
+        "HHS3190M-O-00000065",
+        "HHS3190M-O-00000066"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "bile": {
+      "display_forms": [
+        "bile"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000129",
+        "HHS3190M-O-00000130",
+        "HHS3190M-O-00000131"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "blood": {
+      "display_forms": [
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000085",
+        "HHS3190M-O-00000086",
+        "HHS3190M-O-00000087",
+        "HHS3190M-O-00000088",
+        "HHS3190M-O-00000089",
+        "HHS3190M-O-00000090"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "bloodlymphorgansmouthstomach": {
+      "display_forms": [
+        "blood/lymph Organs mouth Stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000032"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "canalinternalanalsphinctersmoothmuscle": {
+      "display_forms": [
+        "canal Internal anal sphincter smooth muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000033"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "cancer": {
+      "display_forms": [
+        "cancer"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "cbo9780511800160": {
+      "display_forms": [
+        "CBO9780511800160"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000067"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "cck": {
+      "display_forms": [
+        "CCK"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000068",
+        "HHS3190M-O-00000069"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "chaemicaldigestion": {
+      "display_forms": [
+        "chaemical digestion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000132",
+        "HHS3190M-O-00000133",
+        "HHS3190M-O-00000134",
+        "HHS3190M-O-00000135",
+        "HHS3190M-O-00000136"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "chemicaldigestion": {
+      "display_forms": [
+        "chemical digestion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000132",
+        "HHS3190M-O-00000133",
+        "HHS3190M-O-00000134",
+        "HHS3190M-O-00000135",
+        "HHS3190M-O-00000136"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cmsectionsduodenum": {
+      "display_forms": [
+        "cm sections Duodenum"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "cnyzygjs7659202403bdb6d9140b734323b49c9764deba8c45": {
+      "display_forms": [
+        "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000070"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "colon": {
+      "display_forms": [
+        "colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000002",
+        "HHS3190M-O-00000003"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "constipation": {
+      "display_forms": [
+        "Constipation"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000093"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000209"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "developsconstipation": {
+      "display_forms": [
+        "develops Constipation"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000094"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000210"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "developsconstipationfecalincontinence": {
+      "display_forms": [
+        "develops Constipation fecal incontinence"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000095"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000211"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "digestiveenzyme": {
+      "display_forms": [
+        "digestive enzyme"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000137",
+        "HHS3190M-O-00000138",
+        "HHS3190M-O-00000139"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "digestiveenzymes": {
+      "display_forms": [
+        "digestive enzymes"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000137",
+        "HHS3190M-O-00000138",
+        "HHS3190M-O-00000139"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "digestivesystem": {
+      "display_forms": [
+        "digestive system"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000140",
+        "HHS3190M-O-00000141",
+        "HHS3190M-O-00000142",
+        "HHS3190M-O-00000143",
+        "HHS3190M-O-00000144",
+        "HHS3190M-O-00000145",
+        "HHS3190M-O-00000146",
+        "HHS3190M-O-00000147",
+        "HHS3190M-O-00000148",
+        "HHS3190M-O-00000149",
+        "HHS3190M-O-00000150",
+        "HHS3190M-O-00000151",
+        "HHS3190M-O-00000152",
+        "HHS3190M-O-00000153",
+        "HHS3190M-O-00000154",
+        "HHS3190M-O-00000155",
+        "HHS3190M-O-00000156",
+        "HHS3190M-O-00000157",
+        "HHS3190M-O-00000158",
+        "HHS3190M-O-00000159",
+        "HHS3190M-O-00000160",
+        "HHS3190M-O-00000161"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "digestivesystemfunctional": {
+      "display_forms": [
+        "digestive system Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000102"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "digestivesysteminvolvesactivities": {
+      "display_forms": [
+        "digestive system involves activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000103",
+        "HHS3190M-O-00000104",
+        "HHS3190M-O-00000105"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "digestivesysteminvolvesactivity": {
+      "display_forms": [
+        "digestive system involves activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000103",
+        "HHS3190M-O-00000104",
+        "HHS3190M-O-00000105"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "digestivesystempharynx": {
+      "display_forms": [
+        "Digestive System Pharynx"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000036"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "digestivesystemstomach": {
+      "display_forms": [
+        "Digestive System Stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "downfoodchaemicallysalivaryglandsliver": {
+      "display_forms": [
+        "down food chaemically Salivary glands Liver"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "downfoodchemicallysalivaryglandsliver": {
+      "display_forms": [
+        "down food chemically Salivary glands Liver"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "duodenum": {
+      "display_forms": [
+        "Duodenum",
+        "duodenum"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000004",
+        "HHS3190M-O-00000005",
+        "HHS3190M-O-00000006",
+        "HHS3190M-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "empty50": {
+      "display_forms": [
+        "empty-50"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000071"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "endocytosis": {
+      "display_forms": [
+        "endocytosis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000039",
+        "HHS3190M-O-00000040"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "esophagus": {
+      "display_forms": [
+        "Esophagus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000008"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "exercise": {
+      "display_forms": [
+        "exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000092"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "expand4": {
+      "display_forms": [
+        "expand-4"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000072"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "foodchaemicallysalivaryglandsliverpancreas": {
+      "display_forms": [
+        "food chaemically Salivary glands Liver Pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "foodchemicallysalivaryglandsliverpancrea": {
+      "display_forms": [
+        "food chemically Salivary glands Liver Pancrea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "foodchemicallysalivaryglandsliverpancreas": {
+      "display_forms": [
+        "food chemically Salivary glands Liver Pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "FUNCTIONAL",
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000055",
+        "HHS3190M-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000073",
+        "HHS3190M-O-00000106"
+      ],
+      "categories": [
+        "definitions_abbreviations",
+        "rehabilitation"
+      ]
+    },
+    "gallbladder": {
+      "display_forms": [
+        "gallbladder"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000162",
+        "HHS3190M-O-00000163",
+        "HHS3190M-O-00000164"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "gip": {
+      "display_forms": [
+        "GIP"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000074",
+        "HHS3190M-O-00000075"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hclgastrinstomach": {
+      "display_forms": [
+        "HCl Gastrin Stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000042"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hhs3190m": {
+      "display_forms": [
+        "HHS3190M"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000076"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs3190mj": {
+      "display_forms": [
+        "HHS3190MJ"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000077"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "human": {
+      "display_forms": [
+        "HUMAN"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000078"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "incontinence": {
+      "display_forms": [
+        "incontinence"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000096"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000212"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "intestinececumappendixcolonascendingcolon": {
+      "display_forms": [
+        "intestine Cecum Appendix Colon Ascending colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000043"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "l5revisionexercise": {
+      "display_forms": [
+        "L5 Revision Exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000079"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "largeintestine": {
+      "display_forms": [
+        "large intestine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000165",
+        "HHS3190M-O-00000166",
+        "HHS3190M-O-00000167",
+        "HHS3190M-O-00000168",
+        "HHS3190M-O-00000169",
+        "HHS3190M-O-00000170"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "largeintestinececumappendixcolon": {
+      "display_forms": [
+        "large intestine Cecum Appendix Colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000044"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "largeintestinenetosmosis": {
+      "display_forms": [
+        "large intestine Net osmosis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000045"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "largepolypeptidessmallpolypeptidespepsinstomach": {
+      "display_forms": [
+        "Large polypeptides Small polypeptides Pepsin Stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000046"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "leftsidedescendingcolon": {
+      "display_forms": [
+        "left side Descending colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000047"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "liver": {
+      "display_forms": [
+        "Liver",
+        "liver"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000005",
+        "HHS3190M-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000009",
+        "HHS3190M-O-00000010",
+        "HHS3190M-O-00000171",
+        "HHS3190M-O-00000172",
+        "HHS3190M-O-00000173"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "lymph": {
+      "display_forms": [
+        "lymph"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000011"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "maltoseglycogenpancreaticamylasestarchduodenum": {
+      "display_forms": [
+        "Maltose Glycogen Pancreatic Amylase Starch Duodenum"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000048"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "mouth": {
+      "display_forms": [
+        "mouth"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000174",
+        "HHS3190M-O-00000175",
+        "HHS3190M-O-00000176",
+        "HHS3190M-O-00000177"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000012",
+        "HHS3190M-O-00000013",
+        "HHS3190M-O-00000014"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "muscleexternalanalsphincterskeletalmuscle": {
+      "display_forms": [
+        "muscle External anal sphincter skeletal muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000049"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "nerve": {
+      "display_forms": [
+        "nerve"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000015"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "nerveplexus": {
+      "display_forms": [
+        "nerve plexus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000050"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "nervousactivities": {
+      "display_forms": [
+        "nervous activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000107"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "nervousactivity": {
+      "display_forms": [
+        "nervous activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000107"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "oinsertioniactionpowerfulmuscle": {
+      "display_forms": [
+        "O Insertion I Action Powerful muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000051"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "org10": {
+      "display_forms": [
+        "org/10"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000080"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "osmosis": {
+      "display_forms": [
+        "osmosis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000052"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "pancrea": {
+      "display_forms": [
+        "Pancrea",
+        "pancrea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016",
+        "HHS3190M-O-00000017",
+        "HHS3190M-O-00000178",
+        "HHS3190M-O-00000179"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "pancreas": {
+      "display_forms": [
+        "Pancreas",
+        "pancreas"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000009",
+        "HHS3190M-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000016",
+        "HHS3190M-O-00000017",
+        "HHS3190M-O-00000178",
+        "HHS3190M-O-00000179"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "peptide": {
+      "display_forms": [
+        "peptide"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000094",
+        "HHS3190M-O-00000095"
+      ],
+      "categories": [
+        "medications"
+      ]
+    },
+    "peristalsis": {
+      "display_forms": [
+        "peristalsis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000180",
+        "HHS3190M-O-00000181",
+        "HHS3190M-O-00000182",
+        "HHS3190M-O-00000183",
+        "HHS3190M-O-00000184",
+        "HHS3190M-O-00000185"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "pharynx": {
+      "display_forms": [
+        "pharynx"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "physiology": {
+      "display_forms": [
+        "PHYSIOLOGY"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000081"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "plexus": {
+      "display_forms": [
+        "plexus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "pth": {
+      "display_forms": [
+        "PTH"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000082"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "REHABILITATION"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "retractsmandiblefanshapedmuscle": {
+      "display_forms": [
+        "retracts mandible Fan-shaped muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000053"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "revisionexercise": {
+      "display_forms": [
+        "revision exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000093"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "secretincholecystokinincckgastricinhibitorypeptide": {
+      "display_forms": [
+        "Secretin Cholecystokinin CCK Gastric inhibitory peptide"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000096"
+      ],
+      "categories": [
+        "medications"
+      ]
+    },
+    "secretiongastricinhibitorypeptide": {
+      "display_forms": [
+        "secretion Gastric inhibitory peptide"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000097"
+      ],
+      "categories": [
+        "medications"
+      ]
+    },
+    "service": {
+      "display_forms": [
+        "SERVICE"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "services": {
+      "display_forms": [
+        "SERVICES"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000084"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "sigmoidcolon": {
+      "display_forms": [
+        "sigmoid colon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000054"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "smallintestine": {
+      "display_forms": [
+        "small intestine"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000186",
+        "HHS3190M-O-00000187",
+        "HHS3190M-O-00000188",
+        "HHS3190M-O-00000189",
+        "HHS3190M-O-00000190",
+        "HHS3190M-O-00000191",
+        "HHS3190M-O-00000192",
+        "HHS3190M-O-00000193",
+        "HHS3190M-O-00000194",
+        "HHS3190M-O-00000195",
+        "HHS3190M-O-00000196",
+        "HHS3190M-O-00000197",
+        "HHS3190M-O-00000198"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "smoothmuscle": {
+      "display_forms": [
+        "smooth muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000055"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "squeezingbolustowardstomach": {
+      "display_forms": [
+        "squeezing bolus toward stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000056"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "stomach": {
+      "display_forms": [
+        "Stomach",
+        "stomach"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000012",
+        "HHS3190M-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000020",
+        "HHS3190M-O-00000021",
+        "HHS3190M-O-00000022",
+        "HHS3190M-O-00000023",
+        "HHS3190M-O-00000024",
+        "HHS3190M-O-00000025",
+        "HHS3190M-O-00000199",
+        "HHS3190M-O-00000200",
+        "HHS3190M-O-00000201",
+        "HHS3190M-O-00000202",
+        "HHS3190M-O-00000203",
+        "HHS3190M-O-00000204"
+      ],
+      "categories": [
+        "anatomy",
+        "section_topics"
+      ]
+    },
+    "submucosaconnectivetissuecontainsblood": {
+      "display_forms": [
+        "Submucosa Connective tissue Contains blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000091"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "tasteclosesofftrachea": {
+      "display_forms": [
+        "taste Closes off trachea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000057"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "tendon": {
+      "display_forms": [
+        "tendon"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000026"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "thinhorizontalcheekmuscleprincipalmuscle": {
+      "display_forms": [
+        "Thin horizontal cheek muscle principal muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000058"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "trachea": {
+      "display_forms": [
+        "trachea"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000027",
+        "HHS3190M-O-00000028"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "transversecolonfecestravelsacrossabdominal": {
+      "display_forms": [
+        "Transverse colon feces travels across abdominal"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000059"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "villi": {
+      "display_forms": [
+        "villi"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000205",
+        "HHS3190M-O-00000206",
+        "HHS3190M-O-00000207",
+        "HHS3190M-O-00000208"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "visualassociatedwithanatomyofdigestivesystem": {
+      "display_forms": [
+        "Visual associated with: Anatomy of Digestive System"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000097"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000213",
+        "HHS3190M-O-00000214",
+        "HHS3190M-O-00000215",
+        "HHS3190M-O-00000216"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithandsecondaryactivetransport": {
+      "display_forms": [
+        "Visual associated with: and secondary active transport!"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000098"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000217"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithbeginsbreakdownofstarchwith": {
+      "display_forms": [
+        "Visual associated with: ➢ Begins breakdown of starch with"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000099"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000218"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithbloodviafacilitateddiffusionand": {
+      "display_forms": [
+        "Visual associated with: blood via facilitated diffusion and"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000100"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000219"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithl5revisionexercise": {
+      "display_forms": [
+        "Visual associated with: L5 Revision Exercise"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000101"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000220",
+        "HHS3190M-O-00000221"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithmusclesofmastication": {
+      "display_forms": [
+        "Visual associated with: Muscles of Mastication"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000102"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000222"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithoverviewofdigestivesystem": {
+      "display_forms": [
+        "Visual associated with: Overview of Digestive System"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000103"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000223",
+        "HHS3190M-O-00000224",
+        "HHS3190M-O-00000225"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithphysiologyofdigestionandabsorption": {
+      "display_forms": [
+        "Visual associated with: Physiology of Digestion and Absorption"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000104"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000226"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithsecretionsofgastricgland": {
+      "display_forms": [
+        "Visual associated with: Secretions of gastric gland"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000105"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000227",
+        "HHS3190M-O-00000228"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithselfstudy": {
+      "display_forms": [
+        "Visual associated with: (Self-Study"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000106"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000229",
+        "HHS3190M-O-00000230",
+        "HHS3190M-O-00000231"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithslide12": {
+      "display_forms": [
+        "Visual associated with: Slide 12"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000107"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000232"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithslide25": {
+      "display_forms": [
+        "Visual associated with: Slide 25"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000108"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000233"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithslide38": {
+      "display_forms": [
+        "Visual associated with: Slide 38"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000109"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000234",
+        "HHS3190M-O-00000235",
+        "HHS3190M-O-00000236",
+        "HHS3190M-O-00000237"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "visualassociatedwithslide7": {
+      "display_forms": [
+        "Visual associated with: Slide 7"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000110"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000238"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "zygomaticarchthinhorizontalcheekmuscle": {
+      "display_forms": [
+        "zygomatic arch Thin horizontal cheek muscle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000060"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 116,
+    "concepts_referenced": 110,
+    "occurrences_referenced": 238
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
