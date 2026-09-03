@@ -36,6 +36,7 @@ STATUS = "generated_not_verified"
 SCHEMA = "vtc-hhs3190m-lecture.v1"
 OUTPUT_STEM = "hhs3190m_l01"
 QUERY_HELPER_PATH = "../../../tools/query_hhs3190m_lecture.py"
+MANUAL_TABLES: list[dict[str, Any]] = []
 
 DOCUMENT = {
     "document_id": DOCUMENT_ID,
@@ -329,6 +330,20 @@ def inferred_adjacent_marker(page: dict[str, Any], line: dict[str, Any]) -> str:
     return ""
 
 
+def line_is_in_manual_table(page: dict[str, Any], line: dict[str, Any]) -> bool:
+    """Keep reconstructed table text from being duplicated as slide prose."""
+    bbox = line.get("bbox_points", [0, 0, 0, 0])
+    center_x = (float(bbox[0]) + float(bbox[2])) / 2
+    center_y = (float(bbox[1]) + float(bbox[3])) / 2
+    for candidate in MANUAL_TABLES:
+        if int(candidate["page"]) != page["pdf_page"]:
+            continue
+        table_bbox = [float(value) for value in candidate["bbox"]]
+        if table_bbox[0] <= center_x <= table_bbox[2] and table_bbox[1] <= center_y <= table_bbox[3]:
+            return True
+    return False
+
+
 def build_slide_blocks(page: dict[str, Any]) -> list[dict[str, Any]]:
     lines = page.get("reading_order_lines", [])
     title = str(page.get("title_candidate") or "").strip()
@@ -336,6 +351,8 @@ def build_slide_blocks(page: dict[str, Any]) -> list[dict[str, Any]]:
     title_used = False
     active: dict[str, Any] | None = None
     for line in lines:
+        if line_is_in_manual_table(page, line):
+            continue
         if SOURCE_ID == "HHS3190M-L01-PHYSIOLOGY-2026-07" and page["pdf_page"] == 24 and float(line.get("bbox_points", [0, 0, 0, 0])[1]) >= 314.0:
             # The DNA/RNA comparison is represented once in the reconstructed
             # table layer, not duplicated as ordinary slide prose.
@@ -428,9 +445,76 @@ def visual_keywords(visuals: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return records
 
 
+def add_manual_table_candidates(visuals: list[dict[str, Any]], tables: list[dict[str, Any]], pages: list[dict[str, Any]]) -> None:
+    """Add reviewed vector-table candidates supplied by a deck configuration."""
+    page_by_number = {page["pdf_page"]: page for page in pages}
+    for table_number, candidate in enumerate(MANUAL_TABLES, 1):
+        page = page_by_number.get(int(candidate["page"]))
+        if not page:
+            continue
+        table_id = f"{page['document_id']}-TBL-P{page['pdf_page']:04d}-{table_number:02d}"
+        visual_id = f"{page['document_id']}-VIS-P{page['pdf_page']:04d}-TABLE{table_number:02d}"
+        if any(item.get("visual_id") == visual_id for item in visuals):
+            continue
+        bbox = [float(value) for value in candidate["bbox"]]
+        columns = [str(value) for value in candidate["columns"]]
+        raw_rows = candidate.get("rows", [])
+        rows = []
+        for row_index, raw_row in enumerate(raw_rows):
+            cells = [{"column_index": index, "text": str(value), "language": "en"} for index, value in enumerate(raw_row)]
+            rows.append({
+                "source_row_index": row_index,
+                "text": " | ".join(str(value) for value in raw_row),
+                "cells": cells,
+            })
+        visual = {
+            "visual_id": visual_id,
+            "table_id": table_id,
+            "document_id": page["document_id"],
+            "source_page_id": page["source_page_id"],
+            "source_file": page["source_file"],
+            "pdf_page": page["pdf_page"],
+            "slide_number": page["pdf_page"],
+            "visual_type": "table",
+            "name": str(candidate["name"]),
+            "caption": candidate.get("caption"),
+            "location": {
+                "bbox_points": bbox,
+                "bbox_px": None,
+                "coordinate_origin": "top-left",
+                "location_source": "manual-visual-review-of-vector-table",
+            },
+            "policy": "full_table_reconstruction",
+            "detection_note": "Vector-drawn table; reconstructed from embedded English text and visual layout review.",
+            "status": STATUS,
+            "verification_status": STATUS,
+        }
+        table = {
+            "table_id": table_id,
+            "visual_id": visual_id,
+            "document_id": page["document_id"],
+            "name": str(candidate["name"]),
+            "source_page_id": page["source_page_id"],
+            "pdf_page": page["pdf_page"],
+            "slide_number": page["pdf_page"],
+            "bbox_points": bbox,
+            "layout_grid": {"row_count": len(rows), "column_count": len(columns), "columns": columns},
+            "coordinate_rows": rows,
+            "content": {"text": "\n".join(row["text"] for row in rows), "rows": rows},
+            "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+            "language": "en",
+            "status": STATUS,
+            "verification_status": STATUS,
+        }
+        visuals.append(visual)
+        tables.append(table)
+        page.setdefault("visuals", []).append(visual)
+
+
 def add_vector_visual_candidates(visuals: list[dict[str, Any]], tables: list[dict[str, Any]], pages: list[dict[str, Any]]) -> None:
     """Record important vector-only visuals and reconstruct the vector table."""
     if SOURCE_ID != "HHS3190M-L01-PHYSIOLOGY-2026-07":
+        add_manual_table_candidates(visuals, tables, pages)
         return
     page = next((item for item in pages if item["pdf_page"] == 6), None)
     if not page:
@@ -606,6 +690,54 @@ def augment_lecture_keywords(
     analysis["counts"]["keyword_records"] = len(analysis["keyword_records"])
 
 
+def augment_table_keywords(
+    analysis: dict[str, Any],
+    tables: list[dict[str, Any]],
+    pages: list[dict[str, Any]],
+    page_to_part: dict[str, str],
+) -> None:
+    """Index each reconstructed table cell without flattening it into prose."""
+    page_records = {record["source_page_id"]: record for record in analysis["page_keyword_extractions"]}
+    existing = {(record.get("source_element_ids", [None])[0], slide_engine.normalize(record.get("canonical_candidate", ""))) for record in analysis["keyword_records"]}
+    next_id = len(analysis["keyword_records"]) + 1
+    for table in tables:
+        page_id = table.get("source_page_id")
+        if not page_id or page_id not in page_records:
+            continue
+        table_text = str(table.get("content", {}).get("text", ""))
+        for row in table.get("content", {}).get("rows", []):
+            for cell in row.get("cells", []):
+                value = slide_engine.clean_text(str(cell.get("text", ""))).strip()
+                key = slide_engine.normalize(value)
+                if len(key) < 3 or value == "—" or (table.get("table_id"), key) in existing:
+                    continue
+                record = {
+                    "record_id": f"{COURSE_CODE}-KW-TABLE-{next_id:05d}",
+                    "category": "section_topics",
+                    "broad_area": "Reconstructed table content",
+                    "small_area": value,
+                    "keyword_path": ["Reconstructed table content", value],
+                    "source_form": value,
+                    "canonical_candidate": value,
+                    "retrieval_terms": slide_engine.alias_variants(value),
+                    "source_passage_ids": [f"{page_id}-PASSAGE"],
+                    "source_element_ids": [table["table_id"]],
+                    "source_page_ids": [page_id],
+                    "section_ids": [page_id, page_to_part.get(page_id, ""), table.get("document_id", ""), f"{COURSE_CODE}-COURSE"],
+                    "source_excerpt": table_text[:500],
+                    "content_type": "reconstructed_table_cell",
+                    "keyword_source": "manual-table-cell",
+                    "status": STATUS,
+                    "verification_status": STATUS,
+                }
+                analysis["keyword_records"].append(record)
+                page_records[page_id]["table_keyword_records"].append(record)
+                page_records[page_id]["keyword_record_count"] += 1
+                existing.add((table["table_id"], key))
+                next_id += 1
+    analysis["counts"]["keyword_records"] = len(analysis["keyword_records"])
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--course-root", type=Path, required=True)
@@ -700,6 +832,7 @@ def main() -> None:
 
     analysis, _ = slide_engine.build_analysis([DOCUMENT], pages, parts, page_to_part, visuals, tables, node_by_id)
     augment_lecture_keywords(analysis, pages, page_to_part)
+    augment_table_keywords(analysis, tables, pages, page_to_part)
     visual_kw = visual_keywords(visuals)
     analysis["keyword_records"].extend(visual_kw)
     analysis["visual_keyword_records"] = visual_kw

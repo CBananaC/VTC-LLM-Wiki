@@ -208,6 +208,102 @@ CONFIGS: dict[str, dict[str, object]] = {
 }
 
 
+def table(page: int, name: str, bbox: list[float], columns: list[str], rows: list[list[str]]) -> dict[str, object]:
+    return {"page": page, "name": name, "bbox": bbox, "columns": columns, "rows": rows}
+
+
+MANUAL_TABLES: dict[str, list[dict[str, object]]] = {
+    "HHS3190M-L02-PHYSIOLOGY-2026-07": [
+        table(16, "Summary of major functions of different cell parts", [55, 65, 910, 505], ["Cell Part", "Major Function(s)"], [
+            ["Cell membrane", "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell"],
+            ["Smooth ER", "Metabolism of lipid and carbohydrate"],
+            ["Rough ER", "Site of protein synthesis (ribosome); Production of phospholipids"],
+            ["Golgi body", "Modify, sort, and package substances received from rough ER"],
+            ["Mitochondrion", "Produce cellular energy"],
+            ["Lysosome", "Digest foreign substances and damaged organelles"],
+            ["Nucleus", "Carry genetic information to control all cell activities"],
+            ["Nuclear membrane", "Control substances entering or leaving nucleus"],
+            ["Nucleolus", "Site of ribosome synthesis"],
+        ]),
+        table(24, "Types of connective tissue", [70, 65, 915, 500], ["Type of Connective Tissue", "Examples", "Main Function(s)"], [
+            ["Connective tissue proper", "Dermis of skin; Tendons; Ligaments", "Binding different body parts; Protection"],
+            ["Cartilage", "Articular cartilages", "Cushion and protect body structures"],
+            ["Bone", "Skull; Vertebral column; Long bone; Flat bone", "Support body framework; Produce blood cells; Storage of mineral salts"],
+            ["Blood", "—", "Carry substances to different body parts; Defense against disease-causing agents"],
+            ["Adipose tissue", "Subcutaneous fat; Ectopic fat", "Insulation; Storage of nutrients"],
+        ]),
+    ],
+    "HHS3190M-L05-PHYSIOLOGY-2026-07": [
+        table(14, "Muscles of mastication", [35, 70, 930, 300], ["Name of Muscle", "Description", "Origin (O)", "Insertion (I)", "Action"], [
+            ["Masseter", "Powerful muscle that covers lateral aspect of mandibular ramus", "Zygomatic arch and zygomatic bone", "Angle and ramus of mandible", "Prime mover of jaw closure; elevates mandible"],
+            ["Temporalis", "Fan-shaped muscle covering parts of temporal, frontal, and parietal bones", "Temporal fossa", "Coronoid process of mandible via a tendon passing deep to zygomatic arch", "Closes jaw; elevates and retracts mandible; maintains mandible at rest; deep anterior part may help protract mandible"],
+            ["Buccinator", "Thin horizontal cheek muscle; principal muscle of cheek; deep to masseter", "Molar region of maxilla and mandible", "Orbicularis oris", "Compresses cheek; keeps food between grinding surfaces of teeth during chewing"],
+        ]),
+        table(33, "Digestion and absorption of carbohydrates", [55, 75, 915, 505], ["Enzyme", "Site of action", "Source of enzyme", "Substrate", "Products"], [
+            ["Salivary amylase", "Oral cavity", "Saliva", "5% starch / glycogen", "Maltose"],
+            ["Pancreatic amylase", "Duodenum", "Pancreatic juice", "95% starch / glycogen", "Maltose"],
+            ["Maltase", "Small intestine", "Attached to microvilli; brush border enzyme", "Maltose", "Glucose + glucose"],
+            ["Sucrase", "Small intestine", "Attached to microvilli; brush border enzyme", "Sucrose", "Glucose + fructose"],
+            ["Lactase", "Small intestine", "Attached to microvilli; brush border enzyme", "Lactose", "Glucose + galactose"],
+        ]),
+        table(35, "Digestion and absorption of proteins", [55, 75, 915, 505], ["Enzyme", "Site of action", "Source of enzyme", "Substrate", "Products"], [
+            ["Pepsin", "Stomach", "Gastric juice", "Large polypeptides", "Small polypeptides"],
+            ["Trypsin; chymotrypsin; carboxypeptidase", "Small intestine", "Pancreatic juice", "Small polypeptides", "Amino acids"],
+            ["Aminopeptidase", "Small intestine", "Brush border enzyme", "Small polypeptides", "Amino acids"],
+        ]),
+        table(43, "Hormonal control of digestion", [130, 75, 900, 500], ["Hormone", "Secreted by", "Effects"], [
+            ["Gastrin", "Stomach", "Stimulate secretion of HCl; Stimulate secretion of pepsin"],
+            ["Secretin", "Small intestine", "Stimulate bicarbonate secretion in pancreatic juice and bile"],
+            ["Cholecystokinin (CCK)", "Small intestine", "Stimulate secretion of pancreatic enzymes; Stimulate contraction of gallbladder; Inhibit gastric motility and secretion"],
+            ["Gastric inhibitory peptide (GIP)", "Small intestine", "Stimulate secretion of insulin; Inhibit gastric motility and secretion"],
+        ]),
+    ],
+    "HHS3190M-L06-PHYSIOLOGY-2026-07": [
+        table(20, "Respiratory volumes and capacities", [35, 65, 925, 510], ["Category", "Name", "Male (ml)", "Female (ml)", "Description"], [
+            ["Respiratory volume", "Tidal volume (TV)", "500", "500", "Amount of air inhaled or exhaled with each breath under resting conditions"],
+            ["Respiratory volume", "Inspiratory reserve volume (IRV)", "3100", "1900", "Amount of air forcefully inhaled after a normal tidal volume inspiration"],
+            ["Respiratory volume", "Expiratory reserve volume (ERV)", "1200", "700", "Amount of air forcefully exhaled after a normal tidal volume expiration"],
+            ["Respiratory volume", "Residual volume (RV)", "1200", "1100", "Amount of air remaining in the lungs after a forced expiration"],
+            ["Respiratory capacity", "Total lung capacity (TLC)", "6000", "4200", "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV"],
+            ["Respiratory capacity", "Vital capacity (VC)", "4800", "3100", "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV"],
+            ["Respiratory capacity", "Inspiratory capacity (IC)", "3600", "2400", "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV"],
+            ["Respiratory capacity", "Functional residual capacity (FRC)", "2400", "1800", "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV"],
+        ]),
+    ],
+    "HHS3190M-L07-PHYSIOLOGY-2026-07": [
+        table(7, "Major endocrine glands and their hormones", [45, 70, 605, 510], ["Endocrine gland", "Major hormone(s) and function(s)"], [
+            ["Pineal gland", "Melatonin; Regulating biological clock"],
+            ["Thyroid gland", "Thyroxine (T4); Increase rate of metabolism"],
+            ["Parathyroid gland", "Parathyroid hormone (PTH); Balance calcium ions"],
+            ["Adrenal gland", "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions"],
+            ["Pancreas", "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose"],
+            ["Ovary", "Estrogen; Discuss in Reproductive system"],
+            ["Testis", "Testosterone; Discuss in Reproductive system"],
+        ]),
+        table(8, "Pituitary gland hormones and functions", [105, 70, 920, 510], ["Endocrine gland", "Major hormone(s)", "Major function(s)"], [
+            ["Pituitary gland - posterior lobe", "Oxytocin", "Stimulate contraction of uterus; Milk let-down reflex"],
+            ["Pituitary gland - posterior lobe", "Antidiuretic hormone (ADH)", "Promote water reabsorption by kidneys"],
+            ["Pituitary gland - anterior lobe", "Growth hormone (GH)", "Stimulate growth, especially bones and muscles, and metabolism"],
+            ["Pituitary gland - anterior lobe", "Prolactin (PRL)", "Stimulate milk production"],
+            ["Pituitary gland - anterior lobe", "Adrenocorticotropic hormone (ACTH)", "Stimulate adrenal gland to secrete cortisol"],
+            ["Pituitary gland - anterior lobe", "Follicle stimulating hormone (FSH)", "Stimulate production of sperm and ova"],
+            ["Pituitary gland - anterior lobe", "Luteinizing hormone (LH)", "Stimulate sex hormone secretion; Stimulate ovulation"],
+            ["Pituitary gland - anterior lobe", "Thyroid stimulating hormone (TSH)", "Stimulate thyroid to secrete thyroid hormones (thyroxine)"],
+        ]),
+    ],
+    "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07": [
+        table(7, "Terminology related to positions", [35, 70, 925, 510], ["Term", "Definition", "Term", "Definition"], [
+            ["Superior", "Toward upper part of a structure; above", "Proximal", "Closer to the origin of the body part"],
+            ["Inferior", "Toward lower part of a structure; below", "Distal", "Away from the origin of the body part"],
+            ["Ventral", "Toward the front of the body", "Superficial", "Toward the body surface"],
+            ["Dorsal", "Toward the back of the body", "Internal", "Toward the deeper part of a structure"],
+            ["Medial", "Toward the midline of the body", "External", "Toward the outer part of a structure"],
+            ["Lateral", "Away from the midline of the body", "", ""],
+        ]),
+    ],
+}
+
+
 def configure(source_id: str) -> dict[str, object]:
     config = CONFIGS[source_id]
     parts = [part(source_id, i, title, start, end, kind) for i, (title, start, end, kind) in enumerate(config["parts"])]
@@ -224,6 +320,7 @@ def configure(source_id: str) -> dict[str, object]:
     builder.SOURCE_RELATIVE = str(config["relative"])
     builder.OUTPUT_STEM = str(config["stem"])
     builder.QUERY_HELPER_PATH = f"../../../tools/query_{config['stem']}.py"
+    builder.MANUAL_TABLES = MANUAL_TABLES.get(source_id, [])
     builder.DOCUMENT = {
         "document_id": source_id,
         "file_name": str(config["filename"]),
