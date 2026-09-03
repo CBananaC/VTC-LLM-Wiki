@@ -37,7 +37,7 @@
   "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status.",
   "processing": {
     "workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
-    "completed_at_hkt": "2026-09-04T02:11:30+08:00",
+    "completed_at_hkt": "2026-09-04T02:28:42+08:00",
     "outputs": {
       "source_inventory": "source_manifest.json",
       "ocr_layout": "01 OCR and Layout/hhs3190m_l07_pages_ocr_layout_generated.jsonl",
@@ -53,14 +53,14 @@
     "counts": {
       "slides": 24,
       "parts": 7,
-      "blocks": 284,
-      "concepts": 92,
-      "occurrences": 191,
-      "terms": 104,
+      "blocks": 240,
+      "concepts": 125,
+      "occurrences": 221,
+      "terms": 142,
       "passages": 24,
-      "visuals": 39,
-      "tables": 0,
-      "quotation_candidates": 98
+      "visuals": 41,
+      "tables": 2,
+      "quotation_candidates": 77
     },
     "all_derived_status": "generated_not_verified"
   }

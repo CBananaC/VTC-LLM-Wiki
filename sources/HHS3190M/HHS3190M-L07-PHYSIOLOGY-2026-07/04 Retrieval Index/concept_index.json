@@ -46,12 +46,12 @@
       ],
       "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -60,19 +60,19 @@
       "concept_id": "HHS3190M-C-0000002",
       "category": "anatomy",
       "broad_area": "Anatomy",
-      "preferred_label": "Thyroid",
-      "canonical_candidate": "Thyroid",
+      "preferred_label": "thyroid",
+      "canonical_candidate": "thyroid",
       "keyword_path": [
         "Anatomy",
-        "Thyroid"
+        "thyroid"
       ],
       "source_forms": [
-        "Thyroid",
-        "thyroid"
+        "thyroid",
+        "Thyroid"
       ],
       "retrieval_terms": [
-        "Thyroid",
-        "thyroid"
+        "thyroid",
+        "Thyroid"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000003",
@@ -83,17 +83,17 @@
       ],
       "occurrence_count": 5,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -248,6 +248,35 @@
       "concept_id": "HHS3190M-C-0000008",
       "category": "conditions",
       "broad_area": "Conditions",
+      "preferred_label": "gland Melatonin Regulating biological clock Thyroid",
+      "canonical_candidate": "gland Melatonin Regulating biological clock Thyroid",
+      "keyword_path": [
+        "Conditions",
+        "gland Melatonin Regulating biological clock Thyroid"
+      ],
+      "source_forms": [
+        "gland Melatonin Regulating biological clock Thyroid"
+      ],
+      "retrieval_terms": [
+        "gland Melatonin Regulating biological clock Thyroid"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "preferred_label": "Hormone Secretion Pancreas",
       "canonical_candidate": "Hormone Secretion Pancreas",
       "keyword_path": [
@@ -262,7 +291,7 @@
         "Hormone Secretion Pancrea"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000013"
+        "HHS3190M-O-00000014"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -275,49 +304,20 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000009",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "preferred_label": "Luteinizing hormone LH Stimulate ovulation Thyroid",
-      "canonical_candidate": "Luteinizing hormone LH Stimulate ovulation Thyroid",
-      "keyword_path": [
-        "Conditions",
-        "Luteinizing hormone LH Stimulate ovulation Thyroid"
-      ],
-      "source_forms": [
-        "Luteinizing hormone LH Stimulate ovulation Thyroid"
-      ],
-      "retrieval_terms": [
-        "Luteinizing hormone LH Stimulate ovulation Thyroid"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000014"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
       "concept_id": "HHS3190M-C-0000010",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "secrete thyroid",
-      "canonical_candidate": "secrete thyroid",
+      "preferred_label": "ovulation Pituitary gland anterior lobe Thyroid",
+      "canonical_candidate": "ovulation Pituitary gland anterior lobe Thyroid",
       "keyword_path": [
         "Conditions",
-        "secrete thyroid"
+        "ovulation Pituitary gland anterior lobe Thyroid"
       ],
       "source_forms": [
-        "secrete thyroid"
+        "ovulation Pituitary gland anterior lobe Thyroid"
       ],
       "retrieval_terms": [
-        "secrete thyroid"
+        "ovulation Pituitary gland anterior lobe Thyroid"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000015"
@@ -336,25 +336,26 @@
       "concept_id": "HHS3190M-C-0000011",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "syndrome",
-      "canonical_candidate": "syndrome",
+      "preferred_label": "potassium ions Pancreas",
+      "canonical_candidate": "potassium ions Pancreas",
       "keyword_path": [
         "Conditions",
-        "syndrome"
+        "potassium ions Pancreas"
       ],
       "source_forms": [
-        "syndrome"
+        "potassium ions Pancreas"
       ],
       "retrieval_terms": [
-        "syndrome"
+        "potassium ions Pancreas",
+        "potassium ions Pancrea"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000016"
       ],
       "occurrence_count": 1,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
@@ -365,17 +366,17 @@
       "concept_id": "HHS3190M-C-0000012",
       "category": "conditions",
       "broad_area": "Conditions",
-      "preferred_label": "Thyroid stimulating hormone TSH Stimulate thyroid",
-      "canonical_candidate": "Thyroid stimulating hormone TSH Stimulate thyroid",
+      "preferred_label": "secrete thyroid",
+      "canonical_candidate": "secrete thyroid",
       "keyword_path": [
         "Conditions",
-        "Thyroid stimulating hormone TSH Stimulate thyroid"
+        "secrete thyroid"
       ],
       "source_forms": [
-        "Thyroid stimulating hormone TSH Stimulate thyroid"
+        "secrete thyroid"
       ],
       "retrieval_terms": [
-        "Thyroid stimulating hormone TSH Stimulate thyroid"
+        "secrete thyroid"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000017"
@@ -394,6 +395,64 @@
       "concept_id": "HHS3190M-C-0000013",
       "category": "conditions",
       "broad_area": "Conditions",
+      "preferred_label": "syndrome",
+      "canonical_candidate": "syndrome",
+      "keyword_path": [
+        "Conditions",
+        "syndrome"
+      ],
+      "source_forms": [
+        "syndrome"
+      ],
+      "retrieval_terms": [
+        "syndrome"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Thyroid stimulating hormone TSH Stimulate thyroid",
+      "canonical_candidate": "Thyroid stimulating hormone TSH Stimulate thyroid",
+      "keyword_path": [
+        "Conditions",
+        "Thyroid stimulating hormone TSH Stimulate thyroid"
+      ],
+      "source_forms": [
+        "Thyroid stimulating hormone TSH Stimulate thyroid"
+      ],
+      "retrieval_terms": [
+        "Thyroid stimulating hormone TSH Stimulate thyroid"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "preferred_label": "TSH Thyroid",
       "canonical_candidate": "TSH Thyroid",
       "keyword_path": [
@@ -407,7 +466,7 @@
         "TSH Thyroid"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000018"
+        "HHS3190M-O-00000020"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -420,7 +479,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000014",
+      "concept_id": "HHS3190M-C-0000016",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "ACTH",
@@ -436,23 +495,23 @@
         "ACTH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000019",
-        "HHS3190M-O-00000020"
+        "HHS3190M-O-00000021",
+        "HHS3190M-O-00000022"
       ],
       "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000015",
+      "concept_id": "HHS3190M-C-0000017",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "ADH",
@@ -468,23 +527,23 @@
         "ADH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000021",
-        "HHS3190M-O-00000022"
+        "HHS3190M-O-00000023",
+        "HHS3190M-O-00000024"
       ],
       "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000016",
+      "concept_id": "HHS3190M-C-0000018",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "AMP",
@@ -500,7 +559,7 @@
         "AMP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000023"
+        "HHS3190M-O-00000025"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -513,7 +572,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000017",
+      "concept_id": "HHS3190M-C-0000019",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "ATP",
@@ -529,7 +588,7 @@
         "ATP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000024"
+        "HHS3190M-O-00000026"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -542,7 +601,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000018",
+      "concept_id": "HHS3190M-C-0000020",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "CBO9780511800160",
@@ -558,7 +617,7 @@
         "CBO9780511800160"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000025"
+        "HHS3190M-O-00000027"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -571,7 +630,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000019",
+      "concept_id": "HHS3190M-C-0000021",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45",
@@ -587,7 +646,7 @@
         "cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000026"
+        "HHS3190M-O-00000028"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -600,7 +659,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000020",
+      "concept_id": "HHS3190M-C-0000022",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "CRH",
@@ -616,7 +675,7 @@
         "CRH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000027"
+        "HHS3190M-O-00000029"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -629,7 +688,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000021",
+      "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "DNA",
@@ -645,8 +704,8 @@
         "DNA"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000028",
-        "HHS3190M-O-00000029"
+        "HHS3190M-O-00000030",
+        "HHS3190M-O-00000031"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -660,7 +719,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000022",
+      "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "FSH",
@@ -676,7 +735,7 @@
         "FSH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000030"
+        "HHS3190M-O-00000032"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -689,7 +748,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000023",
+      "concept_id": "HHS3190M-C-0000025",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "GDP",
@@ -705,7 +764,7 @@
         "GDP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000031"
+        "HHS3190M-O-00000033"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -718,7 +777,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000024",
+      "concept_id": "HHS3190M-C-0000026",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "GTP",
@@ -734,7 +793,7 @@
         "GTP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000032"
+        "HHS3190M-O-00000034"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -747,7 +806,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000025",
+      "concept_id": "HHS3190M-C-0000027",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "HHS3190M",
@@ -763,7 +822,7 @@
         "HHS3190M"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000033"
+        "HHS3190M-O-00000035"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -776,7 +835,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000026",
+      "concept_id": "HHS3190M-C-0000028",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "HHS3190MJ",
@@ -792,7 +851,7 @@
         "HHS3190MJ"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000034"
+        "HHS3190M-O-00000036"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -805,7 +864,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000027",
+      "concept_id": "HHS3190M-C-0000029",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "hormone",
@@ -821,8 +880,6 @@
         "hormone"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000035",
-        "HHS3190M-O-00000036",
         "HHS3190M-O-00000037",
         "HHS3190M-O-00000038",
         "HHS3190M-O-00000039",
@@ -839,9 +896,10 @@
         "HHS3190M-O-00000050",
         "HHS3190M-O-00000051",
         "HHS3190M-O-00000052",
-        "HHS3190M-O-00000053"
+        "HHS3190M-O-00000053",
+        "HHS3190M-O-00000054"
       ],
-      "occurrence_count": 19,
+      "occurrence_count": 18,
       "section_ids": [
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0002",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART00",
@@ -852,7 +910,6 @@
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0004",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0005",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
@@ -874,7 +931,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000028",
+      "concept_id": "HHS3190M-C-0000030",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "L7 Revision Exercise",
@@ -890,7 +947,7 @@
         "L7 Revision Exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000054"
+        "HHS3190M-O-00000055"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -903,7 +960,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000029",
+      "concept_id": "HHS3190M-C-0000031",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "org/10",
@@ -919,7 +976,7 @@
         "org/10"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000055"
+        "HHS3190M-O-00000056"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -932,7 +989,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000030",
+      "concept_id": "HHS3190M-C-0000032",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "PRL",
@@ -948,7 +1005,7 @@
         "PRL"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000056"
+        "HHS3190M-O-00000057"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -961,7 +1018,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000031",
+      "concept_id": "HHS3190M-C-0000033",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "PTH",
@@ -977,35 +1034,6 @@
         "PTH"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000057"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000032",
-      "category": "definitions_abbreviations",
-      "broad_area": "Definitions and abbreviations",
-      "preferred_label": "Regulating biological clock Thyroxine T4 Thyroid",
-      "canonical_candidate": "Regulating biological clock Thyroxine T4 Thyroid",
-      "keyword_path": [
-        "Definitions and abbreviations",
-        "Regulating biological clock Thyroxine T4 Thyroid"
-      ],
-      "source_forms": [
-        "Regulating biological clock Thyroxine T4 Thyroid"
-      ],
-      "retrieval_terms": [
-        "Regulating biological clock Thyroxine T4 Thyroid"
-      ],
-      "occurrence_ids": [
         "HHS3190M-O-00000058"
       ],
       "occurrence_count": 1,
@@ -1019,7 +1047,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000033",
+      "concept_id": "HHS3190M-C-0000034",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "T4 High blood",
@@ -1048,7 +1076,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000034",
+      "concept_id": "HHS3190M-C-0000035",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "TRH",
@@ -1077,7 +1105,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000035",
+      "concept_id": "HHS3190M-C-0000036",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
       "preferred_label": "TSH",
@@ -1098,18 +1126,18 @@
       ],
       "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000036",
+      "concept_id": "HHS3190M-C-0000037",
       "category": "investigations",
       "broad_area": "Investigations",
       "preferred_label": "blood",
@@ -1143,7 +1171,6 @@
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0006",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0009",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0010",
@@ -1153,36 +1180,8 @@
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0019",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0020",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "concept_id": "HHS3190M-C-0000037",
-      "category": "investigations",
-      "broad_area": "Investigations",
-      "preferred_label": "blood glucose Pancreas Glucagon Increase blood",
-      "canonical_candidate": "blood glucose Pancreas Glucagon Increase blood",
-      "keyword_path": [
-        "Investigations",
-        "blood glucose Pancreas Glucagon Increase blood"
-      ],
-      "source_forms": [
-        "blood glucose Pancreas Glucagon Increase blood"
-      ],
-      "retrieval_terms": [
-        "blood glucose Pancreas Glucagon Increase blood"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000073"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -1204,7 +1203,7 @@
         "Cushing’s syndrome High blood"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000074"
+        "HHS3190M-O-00000073"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1218,6 +1217,35 @@
     },
     {
       "concept_id": "HHS3190M-C-0000039",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Decrease blood glucose Glucagon Increase blood",
+      "canonical_candidate": "Decrease blood glucose Glucagon Increase blood",
+      "keyword_path": [
+        "Investigations",
+        "Decrease blood glucose Glucagon Increase blood"
+      ],
+      "source_forms": [
+        "Decrease blood glucose Glucagon Increase blood"
+      ],
+      "retrieval_terms": [
+        "Decrease blood glucose Glucagon Increase blood"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000074"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000040",
       "category": "investigations",
       "broad_area": "Investigations",
       "preferred_label": "Diabetes mellitus DM Excess urine",
@@ -1246,7 +1274,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000040",
+      "concept_id": "HHS3190M-C-0000041",
       "category": "investigations",
       "broad_area": "Investigations",
       "preferred_label": "feeling cold Puffy eyes High blood",
@@ -1275,7 +1303,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000041",
+      "concept_id": "HHS3190M-C-0000042",
       "category": "investigations",
       "broad_area": "Investigations",
       "preferred_label": "high K blood",
@@ -1304,7 +1332,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000042",
+      "concept_id": "HHS3190M-C-0000043",
       "category": "investigations",
       "broad_area": "Investigations",
       "preferred_label": "Hormone imbalance Features High blood",
@@ -1333,53 +1361,23 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000043",
-      "category": "investigations",
-      "broad_area": "Investigations",
-      "preferred_label": "ions Insulin Decrease blood glucose Pancreas",
-      "canonical_candidate": "ions Insulin Decrease blood glucose Pancreas",
-      "keyword_path": [
-        "Investigations",
-        "ions Insulin Decrease blood glucose Pancreas"
-      ],
-      "source_forms": [
-        "ions Insulin Decrease blood glucose Pancreas"
-      ],
-      "retrieval_terms": [
-        "ions Insulin Decrease blood glucose Pancreas",
-        "ions Insulin Decrease blood glucose Pancrea"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000079"
-      ],
-      "occurrence_count": 1,
-      "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
       "concept_id": "HHS3190M-C-0000044",
       "category": "investigations",
       "broad_area": "Investigations",
-      "preferred_label": "potassium ions Insulin Decrease blood",
-      "canonical_candidate": "potassium ions Insulin Decrease blood",
+      "preferred_label": "potassium ions Pancreas Insulin Decrease blood",
+      "canonical_candidate": "potassium ions Pancreas Insulin Decrease blood",
       "keyword_path": [
         "Investigations",
-        "potassium ions Insulin Decrease blood"
+        "potassium ions Pancreas Insulin Decrease blood"
       ],
       "source_forms": [
-        "potassium ions Insulin Decrease blood"
+        "potassium ions Pancreas Insulin Decrease blood"
       ],
       "retrieval_terms": [
-        "potassium ions Insulin Decrease blood"
+        "potassium ions Pancreas Insulin Decrease blood"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000080"
+        "HHS3190M-O-00000079"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1408,7 +1406,7 @@
         "urine"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000081"
+        "HHS3190M-O-00000080"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1424,20 +1422,20 @@
       "concept_id": "HHS3190M-C-0000046",
       "category": "management_treatment",
       "broad_area": "Management and treatment",
-      "preferred_label": "exercise",
-      "canonical_candidate": "exercise",
+      "preferred_label": "Exercise",
+      "canonical_candidate": "Exercise",
       "keyword_path": [
         "Management and treatment",
-        "exercise"
+        "Exercise"
       ],
       "source_forms": [
-        "exercise"
+        "Exercise"
       ],
       "retrieval_terms": [
-        "exercise"
+        "Exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000082"
+        "HHS3190M-O-00000081"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1466,7 +1464,7 @@
         "revision exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000083"
+        "HHS3190M-O-00000082"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1495,7 +1493,7 @@
         "cholesterol"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000084"
+        "HHS3190M-O-00000083"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1528,11 +1526,11 @@
         "mechanism"
       ],
       "occurrence_ids": [
+        "HHS3190M-O-00000084",
         "HHS3190M-O-00000085",
         "HHS3190M-O-00000086",
         "HHS3190M-O-00000087",
-        "HHS3190M-O-00000088",
-        "HHS3190M-O-00000089"
+        "HHS3190M-O-00000088"
       ],
       "occurrence_count": 5,
       "section_ids": [
@@ -1567,11 +1565,11 @@
         "activity"
       ],
       "occurrence_ids": [
+        "HHS3190M-O-00000089",
         "HHS3190M-O-00000090",
         "HHS3190M-O-00000091",
         "HHS3190M-O-00000092",
-        "HHS3190M-O-00000093",
-        "HHS3190M-O-00000094"
+        "HHS3190M-O-00000093"
       ],
       "occurrence_count": 5,
       "section_ids": [
@@ -1605,8 +1603,8 @@
         "Balance"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000095",
-        "HHS3190M-O-00000096"
+        "HHS3190M-O-00000094",
+        "HHS3190M-O-00000095"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -1637,8 +1635,8 @@
         "cellular activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000097",
-        "HHS3190M-O-00000098"
+        "HHS3190M-O-00000096",
+        "HHS3190M-O-00000097"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -1668,7 +1666,7 @@
         "development E g growth hormone Balance"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000099"
+        "HHS3190M-O-00000098"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1697,7 +1695,7 @@
         "endocrine function"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000100"
+        "HHS3190M-O-00000099"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1726,17 +1724,15 @@
         "function"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000101",
-        "HHS3190M-O-00000102",
-        "HHS3190M-O-00000103"
+        "HHS3190M-O-00000100",
+        "HHS3190M-O-00000101"
       ],
-      "occurrence_count": 3,
+      "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
         "HHS3190M-L07-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0018",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART03"
       ],
@@ -1760,7 +1756,7 @@
         "Functional"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000104"
+        "HHS3190M-O-00000102"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1789,7 +1785,7 @@
         "gland Major hormone s Major function"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000105"
+        "HHS3190M-O-00000103"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1819,7 +1815,7 @@
         "inactivate enzymes inside cytoplasm Cellular activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000106"
+        "HHS3190M-O-00000104"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1849,7 +1845,7 @@
         "integrate activity"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000107"
+        "HHS3190M-O-00000105"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1878,8 +1874,8 @@
         "normal range"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000108",
-        "HHS3190M-O-00000109"
+        "HHS3190M-O-00000106",
+        "HHS3190M-O-00000107"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -1909,7 +1905,7 @@
         "normal range Corticotropin releasing High blood"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000110"
+        "HHS3190M-O-00000108"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1938,7 +1934,7 @@
         "Parathyroid gland Parathyroid hormone PTH Balance"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000111"
+        "HHS3190M-O-00000109"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1967,7 +1963,7 @@
         "prolong stress responses Aldosterone Balance"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000112"
+        "HHS3190M-O-00000110"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -1996,8 +1992,8 @@
         "range"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000113",
-        "HHS3190M-O-00000114"
+        "HHS3190M-O-00000111",
+        "HHS3190M-O-00000112"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2027,7 +2023,7 @@
         "Rehabilitation"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000115"
+        "HHS3190M-O-00000113"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2056,7 +2052,7 @@
         "acromegaly"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000116"
+        "HHS3190M-O-00000114"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2072,6 +2068,93 @@
       "concept_id": "HHS3190M-C-0000067",
       "category": "section_topics",
       "broad_area": "Section topics",
+      "preferred_label": "Adrenal gland",
+      "canonical_candidate": "Adrenal gland",
+      "keyword_path": [
+        "Section topics",
+        "Adrenal gland"
+      ],
+      "source_forms": [
+        "Adrenal gland"
+      ],
+      "retrieval_terms": [
+        "Adrenal gland"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000115"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000068",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Adrenocorticotropic hormone (ACTH)",
+      "canonical_candidate": "Adrenocorticotropic hormone (ACTH)",
+      "keyword_path": [
+        "Section topics",
+        "Adrenocorticotropic hormone (ACTH)"
+      ],
+      "source_forms": [
+        "Adrenocorticotropic hormone (ACTH)"
+      ],
+      "retrieval_terms": [
+        "Adrenocorticotropic hormone (ACTH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000116"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000069",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Antidiuretic hormone (ADH)",
+      "canonical_candidate": "Antidiuretic hormone (ADH)",
+      "keyword_path": [
+        "Section topics",
+        "Antidiuretic hormone (ADH)"
+      ],
+      "source_forms": [
+        "Antidiuretic hormone (ADH)"
+      ],
+      "retrieval_terms": [
+        "Antidiuretic hormone (ADH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000117"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000070",
+      "category": "section_topics",
+      "broad_area": "Section topics",
       "preferred_label": "cAMP",
       "canonical_candidate": "cAMP",
       "keyword_path": [
@@ -2085,8 +2168,8 @@
         "cAMP"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000117",
-        "HHS3190M-O-00000118"
+        "HHS3190M-O-00000118",
+        "HHS3190M-O-00000119"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2100,7 +2183,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000068",
+      "concept_id": "HHS3190M-C-0000071",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "endocrine gland",
@@ -2116,12 +2199,12 @@
         "endocrine gland"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000119",
         "HHS3190M-O-00000120",
         "HHS3190M-O-00000121",
         "HHS3190M-O-00000122",
         "HHS3190M-O-00000123",
-        "HHS3190M-O-00000124"
+        "HHS3190M-O-00000124",
+        "HHS3190M-O-00000125"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2141,7 +2224,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000069",
+      "concept_id": "HHS3190M-C-0000072",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "endocrine system",
@@ -2157,12 +2240,12 @@
         "endocrine system"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000125",
         "HHS3190M-O-00000126",
         "HHS3190M-O-00000127",
         "HHS3190M-O-00000128",
         "HHS3190M-O-00000129",
-        "HHS3190M-O-00000130"
+        "HHS3190M-O-00000130",
+        "HHS3190M-O-00000131"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2181,7 +2264,66 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000070",
+      "concept_id": "HHS3190M-C-0000073",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions",
+      "canonical_candidate": "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions",
+      "keyword_path": [
+        "Section topics",
+        "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions"
+      ],
+      "source_forms": [
+        "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions"
+      ],
+      "retrieval_terms": [
+        "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ions",
+        "Epinephrine (Epi); Enhance fight-or-flight responses; Cortisol; Change metabolism to prolong stress responses; Aldosterone; Balance sodium and potassium ion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000132"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000074",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Estrogen; Discuss in Reproductive system",
+      "canonical_candidate": "Estrogen; Discuss in Reproductive system",
+      "keyword_path": [
+        "Section topics",
+        "Estrogen; Discuss in Reproductive system"
+      ],
+      "source_forms": [
+        "Estrogen; Discuss in Reproductive system"
+      ],
+      "retrieval_terms": [
+        "Estrogen; Discuss in Reproductive system"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000133"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000075",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "exocrine gland",
@@ -2197,7 +2339,7 @@
         "exocrine gland"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000131"
+        "HHS3190M-O-00000134"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2210,7 +2352,36 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000071",
+      "concept_id": "HHS3190M-C-0000076",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Follicle stimulating hormone (FSH)",
+      "canonical_candidate": "Follicle stimulating hormone (FSH)",
+      "keyword_path": [
+        "Section topics",
+        "Follicle stimulating hormone (FSH)"
+      ],
+      "source_forms": [
+        "Follicle stimulating hormone (FSH)"
+      ],
+      "retrieval_terms": [
+        "Follicle stimulating hormone (FSH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000135"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000077",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "G protein",
@@ -2226,7 +2397,7 @@
         "G protein"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000132"
+        "HHS3190M-O-00000136"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2239,7 +2410,36 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000072",
+      "concept_id": "HHS3190M-C-0000078",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Growth hormone (GH)",
+      "canonical_candidate": "Growth hormone (GH)",
+      "keyword_path": [
+        "Section topics",
+        "Growth hormone (GH)"
+      ],
+      "source_forms": [
+        "Growth hormone (GH)"
+      ],
+      "retrieval_terms": [
+        "Growth hormone (GH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000137"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000079",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "hypothalamus-pituitary-adrenal axis",
@@ -2255,7 +2455,7 @@
         "hypothalamus-pituitary-adrenal axis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000133"
+        "HHS3190M-O-00000138"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2268,7 +2468,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000073",
+      "concept_id": "HHS3190M-C-0000080",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "hypothalamus-pituitary-thyroid axis",
@@ -2284,7 +2484,7 @@
         "hypothalamus-pituitary-thyroid axis"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000134"
+        "HHS3190M-O-00000139"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2297,7 +2497,36 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000074",
+      "concept_id": "HHS3190M-C-0000081",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose",
+      "canonical_candidate": "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose",
+      "keyword_path": [
+        "Section topics",
+        "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose"
+      ],
+      "source_forms": [
+        "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose"
+      ],
+      "retrieval_terms": [
+        "Insulin; Decrease blood glucose; Glucagon; Increase blood glucose"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000140"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000082",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "intracellular receptor",
@@ -2313,7 +2542,7 @@
         "intracellular receptor"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000135"
+        "HHS3190M-O-00000141"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2326,7 +2555,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000075",
+      "concept_id": "HHS3190M-C-0000083",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "lipid-soluble hormone",
@@ -2342,7 +2571,7 @@
         "lipid-soluble hormone"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000136"
+        "HHS3190M-O-00000142"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2355,7 +2584,65 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000076",
+      "concept_id": "HHS3190M-C-0000084",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Luteinizing hormone (LH)",
+      "canonical_candidate": "Luteinizing hormone (LH)",
+      "keyword_path": [
+        "Section topics",
+        "Luteinizing hormone (LH)"
+      ],
+      "source_forms": [
+        "Luteinizing hormone (LH)"
+      ],
+      "retrieval_terms": [
+        "Luteinizing hormone (LH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000143"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000085",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Melatonin; Regulating biological clock",
+      "canonical_candidate": "Melatonin; Regulating biological clock",
+      "keyword_path": [
+        "Section topics",
+        "Melatonin; Regulating biological clock"
+      ],
+      "source_forms": [
+        "Melatonin; Regulating biological clock"
+      ],
+      "retrieval_terms": [
+        "Melatonin; Regulating biological clock"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000144"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000086",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "negative feedback",
@@ -2371,7 +2658,7 @@
         "negative feedback"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000137"
+        "HHS3190M-O-00000145"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2384,7 +2671,270 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000077",
+      "concept_id": "HHS3190M-C-0000087",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Ovary",
+      "canonical_candidate": "Ovary",
+      "keyword_path": [
+        "Section topics",
+        "Ovary"
+      ],
+      "source_forms": [
+        "Ovary"
+      ],
+      "retrieval_terms": [
+        "Ovary"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000146"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000088",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Oxytocin",
+      "canonical_candidate": "Oxytocin",
+      "keyword_path": [
+        "Section topics",
+        "Oxytocin"
+      ],
+      "source_forms": [
+        "Oxytocin"
+      ],
+      "retrieval_terms": [
+        "Oxytocin"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000147"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000089",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Parathyroid gland",
+      "canonical_candidate": "Parathyroid gland",
+      "keyword_path": [
+        "Section topics",
+        "Parathyroid gland"
+      ],
+      "source_forms": [
+        "Parathyroid gland"
+      ],
+      "retrieval_terms": [
+        "Parathyroid gland"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000148"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000090",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Parathyroid hormone (PTH); Balance calcium ions",
+      "canonical_candidate": "Parathyroid hormone (PTH); Balance calcium ions",
+      "keyword_path": [
+        "Section topics",
+        "Parathyroid hormone (PTH); Balance calcium ions"
+      ],
+      "source_forms": [
+        "Parathyroid hormone (PTH); Balance calcium ions"
+      ],
+      "retrieval_terms": [
+        "Parathyroid hormone (PTH); Balance calcium ions",
+        "Parathyroid hormone (PTH); Balance calcium ion"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000149"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000091",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pineal gland",
+      "canonical_candidate": "Pineal gland",
+      "keyword_path": [
+        "Section topics",
+        "Pineal gland"
+      ],
+      "source_forms": [
+        "Pineal gland"
+      ],
+      "retrieval_terms": [
+        "Pineal gland"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000150"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000092",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pituitary gland - anterior lobe",
+      "canonical_candidate": "Pituitary gland - anterior lobe",
+      "keyword_path": [
+        "Section topics",
+        "Pituitary gland - anterior lobe"
+      ],
+      "source_forms": [
+        "Pituitary gland - anterior lobe"
+      ],
+      "retrieval_terms": [
+        "Pituitary gland - anterior lobe"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000151"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000093",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Pituitary gland - posterior lobe",
+      "canonical_candidate": "Pituitary gland - posterior lobe",
+      "keyword_path": [
+        "Section topics",
+        "Pituitary gland - posterior lobe"
+      ],
+      "source_forms": [
+        "Pituitary gland - posterior lobe"
+      ],
+      "retrieval_terms": [
+        "Pituitary gland - posterior lobe"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000152"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000094",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Prolactin (PRL)",
+      "canonical_candidate": "Prolactin (PRL)",
+      "keyword_path": [
+        "Section topics",
+        "Prolactin (PRL)"
+      ],
+      "source_forms": [
+        "Prolactin (PRL)"
+      ],
+      "retrieval_terms": [
+        "Prolactin (PRL)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000153"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000095",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Promote water reabsorption by kidneys",
+      "canonical_candidate": "Promote water reabsorption by kidneys",
+      "keyword_path": [
+        "Section topics",
+        "Promote water reabsorption by kidneys"
+      ],
+      "source_forms": [
+        "Promote water reabsorption by kidneys"
+      ],
+      "retrieval_terms": [
+        "Promote water reabsorption by kidneys",
+        "Promote water reabsorption by kidney"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000154"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000096",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "second messenger",
@@ -2400,8 +2950,8 @@
         "second messenger"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000138",
-        "HHS3190M-O-00000139"
+        "HHS3190M-O-00000155",
+        "HHS3190M-O-00000156"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2415,7 +2965,210 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000078",
+      "concept_id": "HHS3190M-C-0000097",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate adrenal gland to secrete cortisol",
+      "canonical_candidate": "Stimulate adrenal gland to secrete cortisol",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate adrenal gland to secrete cortisol"
+      ],
+      "source_forms": [
+        "Stimulate adrenal gland to secrete cortisol"
+      ],
+      "retrieval_terms": [
+        "Stimulate adrenal gland to secrete cortisol"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000157"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000098",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate contraction of uterus; Milk let-down reflex",
+      "canonical_candidate": "Stimulate contraction of uterus; Milk let-down reflex",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate contraction of uterus; Milk let-down reflex"
+      ],
+      "source_forms": [
+        "Stimulate contraction of uterus; Milk let-down reflex"
+      ],
+      "retrieval_terms": [
+        "Stimulate contraction of uterus; Milk let-down reflex"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000158"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000099",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate growth, especially bones and muscles, and metabolism",
+      "canonical_candidate": "Stimulate growth, especially bones and muscles, and metabolism",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate growth, especially bones and muscles, and metabolism"
+      ],
+      "source_forms": [
+        "Stimulate growth, especially bones and muscles, and metabolism"
+      ],
+      "retrieval_terms": [
+        "Stimulate growth, especially bones and muscles, and metabolism"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000159"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000100",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate milk production",
+      "canonical_candidate": "Stimulate milk production",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate milk production"
+      ],
+      "source_forms": [
+        "Stimulate milk production"
+      ],
+      "retrieval_terms": [
+        "Stimulate milk production"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000160"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000101",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate production of sperm and ova",
+      "canonical_candidate": "Stimulate production of sperm and ova",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate production of sperm and ova"
+      ],
+      "source_forms": [
+        "Stimulate production of sperm and ova"
+      ],
+      "retrieval_terms": [
+        "Stimulate production of sperm and ova"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000161"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000102",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate sex hormone secretion; Stimulate ovulation",
+      "canonical_candidate": "Stimulate sex hormone secretion; Stimulate ovulation",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate sex hormone secretion; Stimulate ovulation"
+      ],
+      "source_forms": [
+        "Stimulate sex hormone secretion; Stimulate ovulation"
+      ],
+      "retrieval_terms": [
+        "Stimulate sex hormone secretion; Stimulate ovulation"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000162"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000103",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Stimulate thyroid to secrete thyroid hormones (thyroxine)",
+      "canonical_candidate": "Stimulate thyroid to secrete thyroid hormones (thyroxine)",
+      "keyword_path": [
+        "Section topics",
+        "Stimulate thyroid to secrete thyroid hormones (thyroxine)"
+      ],
+      "source_forms": [
+        "Stimulate thyroid to secrete thyroid hormones (thyroxine)"
+      ],
+      "retrieval_terms": [
+        "Stimulate thyroid to secrete thyroid hormones (thyroxine)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000163"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000104",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "target cell",
@@ -2431,12 +3184,12 @@
         "target cell"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000140",
-        "HHS3190M-O-00000141",
-        "HHS3190M-O-00000142",
-        "HHS3190M-O-00000143",
-        "HHS3190M-O-00000144",
-        "HHS3190M-O-00000145"
+        "HHS3190M-O-00000164",
+        "HHS3190M-O-00000165",
+        "HHS3190M-O-00000166",
+        "HHS3190M-O-00000167",
+        "HHS3190M-O-00000168",
+        "HHS3190M-O-00000169"
       ],
       "occurrence_count": 6,
       "section_ids": [
@@ -2455,7 +3208,94 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000079",
+      "concept_id": "HHS3190M-C-0000105",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Testis",
+      "canonical_candidate": "Testis",
+      "keyword_path": [
+        "Section topics",
+        "Testis"
+      ],
+      "source_forms": [
+        "Testis"
+      ],
+      "retrieval_terms": [
+        "Testis"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000170"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000106",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Testosterone; Discuss in Reproductive system",
+      "canonical_candidate": "Testosterone; Discuss in Reproductive system",
+      "keyword_path": [
+        "Section topics",
+        "Testosterone; Discuss in Reproductive system"
+      ],
+      "source_forms": [
+        "Testosterone; Discuss in Reproductive system"
+      ],
+      "retrieval_terms": [
+        "Testosterone; Discuss in Reproductive system"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000171"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000107",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Thyroid gland",
+      "canonical_candidate": "Thyroid gland",
+      "keyword_path": [
+        "Section topics",
+        "Thyroid gland"
+      ],
+      "source_forms": [
+        "Thyroid gland"
+      ],
+      "retrieval_terms": [
+        "Thyroid gland"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000172"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000108",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "thyroid hormones",
@@ -2472,18 +3312,15 @@
         "thyroid hormone"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000146",
-        "HHS3190M-O-00000147",
-        "HHS3190M-O-00000148"
+        "HHS3190M-O-00000173",
+        "HHS3190M-O-00000174"
       ],
-      "occurrence_count": 3,
+      "occurrence_count": 2,
       "section_ids": [
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
-        "HHS3190M-L07-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0016",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-P0021",
         "HHS3190M-L07-PHYSIOLOGY-2026-07-PART04"
       ],
@@ -2491,7 +3328,65 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000080",
+      "concept_id": "HHS3190M-C-0000109",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Thyroid stimulating hormone (TSH)",
+      "canonical_candidate": "Thyroid stimulating hormone (TSH)",
+      "keyword_path": [
+        "Section topics",
+        "Thyroid stimulating hormone (TSH)"
+      ],
+      "source_forms": [
+        "Thyroid stimulating hormone (TSH)"
+      ],
+      "retrieval_terms": [
+        "Thyroid stimulating hormone (TSH)"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000175"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000110",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "Thyroxine (T4); Increase rate of metabolism",
+      "canonical_candidate": "Thyroxine (T4); Increase rate of metabolism",
+      "keyword_path": [
+        "Section topics",
+        "Thyroxine (T4); Increase rate of metabolism"
+      ],
+      "source_forms": [
+        "Thyroxine (T4); Increase rate of metabolism"
+      ],
+      "retrieval_terms": [
+        "Thyroxine (T4); Increase rate of metabolism"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000176"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000111",
       "category": "section_topics",
       "broad_area": "Section topics",
       "preferred_label": "water-soluble hormone",
@@ -2507,8 +3402,8 @@
         "water-soluble hormone"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000149",
-        "HHS3190M-O-00000150"
+        "HHS3190M-O-00000177",
+        "HHS3190M-O-00000178"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2522,7 +3417,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000081",
+      "concept_id": "HHS3190M-C-0000112",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "weight",
@@ -2538,7 +3433,7 @@
         "weight"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000151"
+        "HHS3190M-O-00000179"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2551,7 +3446,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000082",
+      "concept_id": "HHS3190M-C-0000113",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "preferred_label": "weight gain Lack thyroid",
@@ -2567,7 +3462,7 @@
         "weight gain Lack thyroid"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000152"
+        "HHS3190M-O-00000180"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2580,7 +3475,67 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000083",
+      "concept_id": "HHS3190M-C-0000114",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Major endocrine glands and their hormones",
+      "canonical_candidate": "Major endocrine glands and their hormones",
+      "keyword_path": [
+        "visual",
+        "Major endocrine glands and their hormones"
+      ],
+      "source_forms": [
+        "Major endocrine glands and their hormones"
+      ],
+      "retrieval_terms": [
+        "Major endocrine glands and their hormones",
+        "Major endocrine glands and their hormone"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000181"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000115",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Pituitary gland hormones and functions",
+      "canonical_candidate": "Pituitary gland hormones and functions",
+      "keyword_path": [
+        "visual",
+        "Pituitary gland hormones and functions"
+      ],
+      "source_forms": [
+        "Pituitary gland hormones and functions"
+      ],
+      "retrieval_terms": [
+        "Pituitary gland hormones and functions",
+        "Pituitary gland hormones and function"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000182"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L07-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS3190M-C-0000116",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Cytoplasm",
@@ -2596,7 +3551,7 @@
         "Visual associated with: Cytoplasm"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000153"
+        "HHS3190M-O-00000183"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2609,7 +3564,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000084",
+      "concept_id": "HHS3190M-C-0000117",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: hormones",
@@ -2626,7 +3581,7 @@
         "Visual associated with: hormone"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000154"
+        "HHS3190M-O-00000184"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2639,7 +3594,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000085",
+      "concept_id": "HHS3190M-C-0000118",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: L7 Revision Exercise",
@@ -2655,8 +3610,8 @@
         "Visual associated with: L7 Revision Exercise"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000155",
-        "HHS3190M-O-00000156"
+        "HHS3190M-O-00000185",
+        "HHS3190M-O-00000186"
       ],
       "occurrence_count": 2,
       "section_ids": [
@@ -2669,7 +3624,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000086",
+      "concept_id": "HHS3190M-C-0000119",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Major endocrine glands",
@@ -2686,7 +3641,7 @@
         "Visual associated with: Major endocrine gland"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000157"
+        "HHS3190M-O-00000187"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2699,7 +3654,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000087",
+      "concept_id": "HHS3190M-C-0000120",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Mechanisms of Hormone Action",
@@ -2715,23 +3670,23 @@
         "Visual associated with: Mechanisms of Hormone Action"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000158",
-        "HHS3190M-O-00000159",
-        "HHS3190M-O-00000160",
-        "HHS3190M-O-00000161",
-        "HHS3190M-O-00000162",
-        "HHS3190M-O-00000163",
-        "HHS3190M-O-00000164",
-        "HHS3190M-O-00000165",
-        "HHS3190M-O-00000166",
-        "HHS3190M-O-00000167",
-        "HHS3190M-O-00000168",
-        "HHS3190M-O-00000169",
-        "HHS3190M-O-00000170",
-        "HHS3190M-O-00000171",
-        "HHS3190M-O-00000172",
-        "HHS3190M-O-00000173",
-        "HHS3190M-O-00000174"
+        "HHS3190M-O-00000188",
+        "HHS3190M-O-00000189",
+        "HHS3190M-O-00000190",
+        "HHS3190M-O-00000191",
+        "HHS3190M-O-00000192",
+        "HHS3190M-O-00000193",
+        "HHS3190M-O-00000194",
+        "HHS3190M-O-00000195",
+        "HHS3190M-O-00000196",
+        "HHS3190M-O-00000197",
+        "HHS3190M-O-00000198",
+        "HHS3190M-O-00000199",
+        "HHS3190M-O-00000200",
+        "HHS3190M-O-00000201",
+        "HHS3190M-O-00000202",
+        "HHS3190M-O-00000203",
+        "HHS3190M-O-00000204"
       ],
       "occurrence_count": 17,
       "section_ids": [
@@ -2745,7 +3700,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000088",
+      "concept_id": "HHS3190M-C-0000121",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Overview of endocrine system",
@@ -2761,13 +3716,13 @@
         "Visual associated with: Overview of endocrine system"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000175",
-        "HHS3190M-O-00000176",
-        "HHS3190M-O-00000177",
-        "HHS3190M-O-00000178",
-        "HHS3190M-O-00000179",
-        "HHS3190M-O-00000180",
-        "HHS3190M-O-00000181"
+        "HHS3190M-O-00000205",
+        "HHS3190M-O-00000206",
+        "HHS3190M-O-00000207",
+        "HHS3190M-O-00000208",
+        "HHS3190M-O-00000209",
+        "HHS3190M-O-00000210",
+        "HHS3190M-O-00000211"
       ],
       "occurrence_count": 7,
       "section_ids": [
@@ -2781,7 +3736,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000089",
+      "concept_id": "HHS3190M-C-0000122",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Regulation of Hormone Secretion",
@@ -2797,10 +3752,10 @@
         "Visual associated with: Regulation of Hormone Secretion"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000182",
-        "HHS3190M-O-00000183",
-        "HHS3190M-O-00000184",
-        "HHS3190M-O-00000185"
+        "HHS3190M-O-00000212",
+        "HHS3190M-O-00000213",
+        "HHS3190M-O-00000214",
+        "HHS3190M-O-00000215"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -2815,7 +3770,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000090",
+      "concept_id": "HHS3190M-C-0000123",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: (Self-Study",
@@ -2831,10 +3786,10 @@
         "Visual associated with: (Self-Study"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000186",
-        "HHS3190M-O-00000187",
-        "HHS3190M-O-00000188",
-        "HHS3190M-O-00000189"
+        "HHS3190M-O-00000216",
+        "HHS3190M-O-00000217",
+        "HHS3190M-O-00000218",
+        "HHS3190M-O-00000219"
       ],
       "occurrence_count": 4,
       "section_ids": [
@@ -2847,7 +3802,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000091",
+      "concept_id": "HHS3190M-C-0000124",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Slide 15",
@@ -2863,7 +3818,7 @@
         "Visual associated with: Slide 15"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000190"
+        "HHS3190M-O-00000220"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2876,7 +3831,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "concept_id": "HHS3190M-C-0000092",
+      "concept_id": "HHS3190M-C-0000125",
       "category": "visual",
       "broad_area": "visual",
       "preferred_label": "Visual associated with: Thyroxine (T4) and Triiodothyronine (T3)",
@@ -2892,7 +3847,7 @@
         "Visual associated with: Thyroxine (T4) and Triiodothyronine (T3)"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000191"
+        "HHS3190M-O-00000221"
       ],
       "occurrence_count": 1,
       "section_ids": [
@@ -2906,8 +3861,8 @@
     }
   ],
   "counts": {
-    "concepts": 92,
-    "occurrences": 191
+    "concepts": 125,
+    "occurrences": 221
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
