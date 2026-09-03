@@ -17,7 +17,7 @@ VTC LLM Wiki/
 ├── HHS4185 Course Materials - LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
 ├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
-├── sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/
+├── sources/HHS3190M/                         # eight deduplicated lecture decks
 └── sources/HHS4867/
 ```
 
@@ -57,8 +57,8 @@ OpenCode, local models, and other AI systems are in [`AI_USAGE_INSTRUCTIONS.md`]
 The Davidson-side federation manifest is
 `Davidson 25th Edition - LLM Wiki/(6) Retrieval Index/hhs4185_federated_sources_manifest.json`.
 
-For the HHS3190M physiology lecture, query the project router or the
-source-specific helper:
+For the HHS3190M physiology/anatomy lecture decks, query the project router or
+a source-specific helper:
 
 ```bash
 python3 tools/query_vtc_wiki.py \
@@ -66,9 +66,12 @@ python3 tools/query_vtc_wiki.py \
   --query "monosaccharides"
 ```
 
-The HHS3190M package remains separate from HHS4185 and contains the raw PDF,
-English slide blocks with preserved point form, visual locations, the
-reconstructed DNA/RNA table, hierarchical summaries, and portable indexes.
+The HHS3190M packages remain separate from HHS4185. They contain the raw PDFs,
+English slide blocks with preserved point form, visual locations, reconstructed
+tables where detected, hierarchical summaries, formal references, and portable
+indexes. The eight lecture-folder PDFs were byte-identical in pairs, so only
+one canonical PDF per SHA-256 group was processed; the duplicate audit is
+`sources/HHS3190M/duplicate_audit_generated.json`.
 
 For the HHS4867 Functional Movement Science presentation decks:
 
