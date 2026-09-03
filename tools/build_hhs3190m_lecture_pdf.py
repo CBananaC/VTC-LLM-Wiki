@@ -35,6 +35,7 @@ SOURCE_RELATIVE = "02 Lectures/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf"
 STATUS = "generated_not_verified"
 SCHEMA = "vtc-hhs3190m-lecture.v1"
 OUTPUT_STEM = "hhs3190m_l01"
+QUERY_HELPER_PATH = "../../../tools/query_hhs3190m_lecture.py"
 
 DOCUMENT = {
     "document_id": DOCUMENT_ID,
@@ -836,7 +837,7 @@ def main() -> None:
     source_manifest_path = output_root / "source_manifest.json"
     source_manifest = json.loads(source_manifest_path.read_text(encoding="utf-8"))
     source_manifest.update({"processing_status": "processed_generated_layers", "verification_status": STATUS, "status": "processed_generated_layers"})
-    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": "../../tools/query_hhs3190m_lecture.py"}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
+    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": QUERY_HELPER_PATH}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
     source_manifest["next_step"] = "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status."
     write_json(source_manifest_path, source_manifest)
 

@@ -223,6 +223,7 @@ def configure(source_id: str) -> dict[str, object]:
     builder.SOURCE_FILENAME = str(config["filename"])
     builder.SOURCE_RELATIVE = str(config["relative"])
     builder.OUTPUT_STEM = str(config["stem"])
+    builder.QUERY_HELPER_PATH = f"../../../tools/query_{config['stem']}.py"
     builder.DOCUMENT = {
         "document_id": source_id,
         "file_name": str(config["filename"]),
