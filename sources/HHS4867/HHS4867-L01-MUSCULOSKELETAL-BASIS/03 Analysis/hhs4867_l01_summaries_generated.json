@@ -1,0 +1,228 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "title": "Overview of the movement system",
+      "parent_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "slide_start": 1,
+      "slide_end": 3,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003"
+      ],
+      "summary": "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J The movement system: parts working together Anterior & Posterior View of Human Body",
+      "summary_sentences": [
+        "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J",
+        "The movement system: parts working together",
+        "Anterior & Posterior View of Human Body"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "title": "Skeleton, cartilage, and ligaments",
+      "parent_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "slide_start": 4,
+      "slide_end": 9,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009"
+      ],
+      "summary": "Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement Ligaments: Bone → bone • guides and limits movement",
+      "summary_sentences": [
+        "Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints",
+        "Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement",
+        "Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus",
+        "Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement",
+        "Ligaments: Bone → bone • guides and limits movement"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "title": "Joint types",
+      "parent_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "slide_start": 10,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012"
+      ],
+      "summary": "Joint – Synovial Joint ⚫ A – articular cartilage ⚫ B + C → joint capsule ⚫ fibrous white connective tissue ⚫ C: synovial membrane ⚫ Secretes synovial fluid into the joint to lubricate & provide nutrition to the joint ⚫ A healthy joint provides effortless motion along preferred anatomical directions with an accompanying restriction of abnormal joint motion Other Types of Joints ⚫ Fibrous Joints ⚫ Little or no movement between the bones & hold the bones together ⚫ Cartilaginous Joints ⚫ Hold bones together with hyaline cartilage or fibrocartilage ⚫ The movement is limited Types of Joints in the Human Body (diagram)",
+      "summary_sentences": [
+        "Joint – Synovial Joint ⚫ A – articular cartilage ⚫ B + C → joint capsule ⚫ fibrous white connective tissue ⚫ C: synovial membrane ⚫ Secretes synovial fluid into the joint to lubricate & provide nutrition to the joint ⚫ A healthy joint provides effortless motion along preferred anatomical directions with an accompanying restriction of abnormal joint motion",
+        "Other Types of Joints ⚫ Fibrous Joints ⚫ Little or no movement between the bones & hold the bones together ⚫ Cartilaginous Joints ⚫ Hold bones together with hyaline cartilage or fibrocartilage ⚫ The movement is limited",
+        "Types of Joints in the Human Body (diagram)"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+      "level": "part",
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "title": "Skeletal muscles and force transmission",
+      "parent_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "slide_start": 13,
+      "slide_end": 15,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015"
+      ],
+      "summary": "Functions of Skeletal muscle ⚫ Provide movement ⚫ Muscle actions generate tensions that are transferred to the bone → create skeletal movement ⚫ Maintain Postures and Positions ⚫ Muscle actions of a lesser magnitude ⚫ Muscle activity is continuous ⚫ Stabilize Joints ⚫ Muscle tensions are generated & applied across the joints via tendons, providing stability where they cross the joint Transmission of Muscle force to Bone ⚫ Muscle attaches to bone in 3 ways ⚫ Directly into the bone ⚫ Via a tendon ⚫ Via an aponeurosis",
+      "summary_sentences": [
+        "Functions of Skeletal muscle ⚫ Provide movement ⚫ Muscle actions generate tensions that are transferred to the bone → create skeletal movement ⚫ Maintain Postures and Positions ⚫ Muscle actions of a lesser magnitude ⚫ Muscle activity is continuous ⚫ Stabilize Joints ⚫ Muscle tensions are generated & applied across the joints via tendons, providing stability where they cross the joint",
+        "Transmission of Muscle force to Bone ⚫ Muscle attaches to bone in 3 ways ⚫ Directly into the bone ⚫ Via a tendon ⚫ Via an aponeurosis"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04",
+      "level": "part",
+      "document_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "title": "Muscle roles and actions",
+      "parent_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "slide_start": 16,
+      "slide_end": 20,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020"
+      ],
+      "summary": "Insertion ⚫ A muscle typically attaches to a bone at both ends ⚫ Origin: the attachment closest to the middle of the body, or more proximal ⚫ Insertion: the attachment farther from the midline, or more distal; it usually converges to a tendon ⚫ Muscle force is generated & applied to both skeletal connections, resulting in movement of one bone or both Role of Muscle ⚫ Developing Torque ⚫ A muscle controls or creates a movement through the development of torque ⚫ Torque: the tendency of a force (tension) to produce rotation about a specific axis (the joint) ⚫ The amount of tension is influenced by the angle of attachment of the muscle ⚫ Muscle Actions creating, opposing, and stabilizing movements ⚫ In one movement of a joint, e.g. shoulder abduction ⚫ Agonists: muscles creating the movement ⚫ Antagonists: muscles opposing or producing the opposite joint movement ⚫ Stabilizers & Neutralizers: muscles contracting to eliminate the undesired joint action of another muscle Role of Muscle – Shoulder Abduction ⚫ In shoulder abduction, ⚫ Agonist: Deltoid (abductor) ⚫ Abducts the shoulder ⚫ Antagonist: Latissimus dorsi (adductor) ⚫ Resists the abduction ⚫ Stabilizer: Trapezius ⚫ Stabilize and hold the scapula in place ⚫ Neutralizer: Teres minor ⚫ Neutralizes any internal rotation produced by lat. Net Muscle Actions ⚫ Isometric Muscle Action / Contraction ⚫ Muscle tension is generated against resistance to maintain position ⚫ With no visible change in joint position ⚫ Concentric Muscle Action / Contraction ⚫ Muscle visibly shortens while tension is generated ⚫ Eccentric Muscle Action / Contraction ⚫ Muscle lengthens while tension is generated",
+      "summary_sentences": [
+        "Insertion ⚫ A muscle typically attaches to a bone at both ends ⚫ Origin: the attachment closest to the middle of the body, or more proximal ⚫ Insertion: the attachment farther from the midline, or more distal; it usually converges to a tendon ⚫ Muscle force is generated & applied to both skeletal connections, resulting in movement of one bone or both",
+        "Role of Muscle ⚫ Developing Torque ⚫ A muscle controls or creates a movement through the development of torque ⚫ Torque: the tendency of a force (tension) to produce rotation about a specific axis (the joint) ⚫ The amount of tension is influenced by the angle of attachment of the muscle ⚫ Muscle Actions creating, opposing, and stabilizing movements ⚫ In one movement of a joint, e.g.",
+        "shoulder abduction ⚫ Agonists: muscles creating the movement ⚫ Antagonists: muscles opposing or producing the opposite joint movement ⚫ Stabilizers & Neutralizers: muscles contracting to eliminate the undesired joint action of another muscle",
+        "Role of Muscle – Shoulder Abduction ⚫ In shoulder abduction, ⚫ Agonist: Deltoid (abductor) ⚫ Abducts the shoulder ⚫ Antagonist: Latissimus dorsi (adductor) ⚫ Resists the abduction ⚫ Stabilizer: Trapezius ⚫ Stabilize and hold the scapula in place ⚫ Neutralizer: Teres minor ⚫ Neutralizes any internal rotation produced by lat.",
+        "Net Muscle Actions ⚫ Isometric Muscle Action / Contraction ⚫ Muscle tension is generated against resistance to maintain position ⚫ With no visible change in joint position ⚫ Concentric Muscle Action / Contraction ⚫ Muscle visibly shortens while tension is generated ⚫ Eccentric Muscle Action / Contraction ⚫ Muscle lengthens while tension is generated"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+      "level": "document",
+      "title": "Lecture 1 - Musculoskeletal Basis for Human Movement",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 20,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020"
+      ],
+      "summary": "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J The movement system: parts working together Anterior & Posterior View of Human Body Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement Ligaments: Bone → bone • guides and limits movement",
+      "summary_sentences": [
+        "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J",
+        "The movement system: parts working together",
+        "Anterior & Posterior View of Human Body",
+        "Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints",
+        "Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement",
+        "Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus",
+        "Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement",
+        "Ligaments: Bone → bone • guides and limits movement"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART00",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART01",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART02",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART03",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0001",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0002",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0003",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0004",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0005",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0006",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0007",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0008",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0009",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0010",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0011",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0012",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0013",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0014",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0015",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0016",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0017",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0018",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0019",
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS-P0020"
+      ],
+      "summary": "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J The movement system: parts working together Anterior & Posterior View of Human Body Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement Ligaments: Bone → bone • guides and limits movement",
+      "summary_sentences": [
+        "Musculoskeletal basis for human movement HHS4867 Functional Movement Science HHS4867J The movement system: parts working together Anterior & Posterior View of Human Body Skeleton & Bone Tissue ⚫ The skeleton is composed of bones, joints, cartilage and ligaments ⚫ Joints are the intersections between bones ⚫ Ligaments connects bone at the joints, thus reinforcing the joints Bone Tissue Function ⚫ Support ⚫ Provides significant structural support ⚫ Maintain a posture while accommodating large external forces ⚫ Attachment Sites ⚫ Site of attachment for tendons, muscles and ligaments, thus allows for the generation of movement through the muscular system ⚫ Leverage ⚫ Provides the levers and axes of rotation about which the muscular system generates the movement Cartilage ⚫ 2 main types of cartilages: ⚫ Articular(hyaline) cartilage ⚫ Covers the articulating ends of the bones in the free moving joints ⚫ Function: ⚫ Transit compressive forces across the joint ⚫ Allows motion in the joint with minimal friction ⚫ Redistributes contact stresses over a larger area ⚫ Protects underlying bones ⚫ Fibrocartilage ⚫ Acts as an intermediary between hyaline cartilage and other connective tissues ⚫ Can withstand high pressures ⚫ Refers to as articular disc, or meniscus Ligaments ⚫ Short bands of tough fibrous connective tissue that binds bones to bones ⚫ Provides support in one direction, and often blends with the capsule of the joint ⚫ Capsular ligaments: thickenings in the wall of the capsule ⚫ Extracapsular ligaments: outside the joint ⚫ Intra-articular ligaments: located inside the joint ⚫ Function: ⚫ Guide normal joint movement ⚫ Restrict abnormal joint movement Ligaments: Bone → bone • guides and limits movement"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L01-MUSCULOSKELETAL-BASIS"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
