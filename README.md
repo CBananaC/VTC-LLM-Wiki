@@ -17,7 +17,8 @@ VTC LLM Wiki/
 ├── HHS4185 Course Materials - LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
 ├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
-└── sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/
+├── sources/HHS3190M/HHS3190M-L01-PHYSIOLOGY-2026-07/
+└── sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/
 ```
 
 The two existing wiki packages were moved here with their original files
@@ -68,6 +69,20 @@ python3 tools/query_vtc_wiki.py \
 The HHS3190M package remains separate from HHS4185 and contains the raw PDF,
 English slide blocks with preserved point form, visual locations, the
 reconstructed DNA/RNA table, hierarchical summaries, and portable indexes.
+
+For the HHS4867 Functional Movement Science Lecture 1 deck:
+
+```bash
+python3 tools/query_vtc_wiki.py \
+  --course-code HHS4867 \
+  --query "shoulder abduction agonist antagonist"
+```
+
+The HHS4867 package remains separate and contains the raw bilingual PDF,
+English slide blocks with preserved `⚫` point form, five inferred topic parts,
+15 non-table visual locations, a recorded no-table result, hierarchical
+summaries, formal quotations/references, and portable indexes. Visual
+contents were intentionally not separately OCRed or reconstructed.
 
 ## Add a source
 
