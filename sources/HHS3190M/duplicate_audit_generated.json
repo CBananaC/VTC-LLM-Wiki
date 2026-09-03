@@ -1,0 +1,94 @@
+{
+  "schema_version": "vtc-hhs3190m.presentation-deduplication.v1",
+  "record_type": "presentation_deduplication_audit",
+  "course_code": "HHS3190M",
+  "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+  "scope": ["02 Lectures/*.pdf"],
+  "scope_note": "The lecture folder contains PDF exports of presentation decks. Each content deck occurs twice byte-for-byte; only the first numbered copy was processed.",
+  "candidate_file_count": 16,
+  "unique_sha256_count": 8,
+  "groups": [
+    {
+      "sha256": "sha256:4887fe2d7e15b594c0f30b52aff73052bfc14f6e63b3410d28a72aaee2db38bc",
+      "canonical_path": "02 Lectures/01 - HHS3190MJ Physiology L1 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/02 - HHS3190MJ Physiology L1 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L01-PHYSIOLOGY-2026-07",
+      "duplicate_action": "reuse existing package; do not rescan duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:01875b5b9fa4418fbdddec870f5db7012e76c18dc60311d446ed50e2a1679c72",
+      "canonical_path": "02 Lectures/03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/04 - HHS3190MJ Physiology L2 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:263e7aef265cca450888affa86f28fa208a2ca19cdb7af01a907315bbfeae483",
+      "canonical_path": "02 Lectures/05 - HHS3190MJ Physiology L3 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/06 - HHS3190MJ Physiology L3 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L03-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:16ec145f1be5e780196e7ebb1a5e64277dbe18ecbbdb242388dba249a7500fd2",
+      "canonical_path": "02 Lectures/07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/08 - HHS3190MJ Physiology L4 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:b49dd0655a258e3d12917da438982c3e5bd4d60093d2578bafe0da3391dcbb15",
+      "canonical_path": "02 Lectures/09 - HHS3190MJ Physiology L5 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/10 - HHS3190MJ Physiology L5 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L05-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:3f4e2f17aebfc826d44771110fa5c2d545dd0bbae67454c0a655ea3a37adf361",
+      "canonical_path": "02 Lectures/11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/12 - HHS3190MJ Physiology L6 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:4d423c07157e078d32ed7d3a4834aa9ace8b16d158714ee5c935d96101ffe9d6",
+      "canonical_path": "02 Lectures/13 - HHS3190MJ Physiology L7 (Jul 2026).pdf",
+      "duplicate_paths": ["02 Lectures/14 - HHS3190MJ Physiology L7 (Jul 2026).pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-L07-PHYSIOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:839fcb12ec60a51c8ca68699b9fd39b9d8a2c3fa2b78c72c2b2674c5c02caceb",
+      "canonical_path": "02 Lectures/15 - J L1 Terminology for anatomy.pdf",
+      "duplicate_paths": ["02 Lectures/16 - J L1 Terminology for anatomy.pdf"],
+      "file_count": 2,
+      "processed_source_id": "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07",
+      "duplicate_action": "process canonical path once; record other path as exact-byte duplicate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
