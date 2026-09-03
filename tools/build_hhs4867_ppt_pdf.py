@@ -38,7 +38,7 @@ DECKS: dict[str, dict[str, object]] = {
         "title": "Lecture 2 - Neuromuscular Control of Human Movement",
         "lecture_number": 2,
         "stem": "hhs4867_l02_neuromuscular_control",
-        "helper": "../../tools/query_hhs4867_l02_neuromuscular.py",
+        "helper": "../../tools/query_hhs4867_l02_neuromuscular_control.py",
         "parts": [("Introduction to neuromuscular control", 1, 3, "topic"), ("Nervous system organization", 4, 7, "topic"), ("Spinal nerves", 8, 11, "topic"), ("Motor units", 12, 13, "topic"), ("Sensory receptors, reflexes, and proprioceptors", 14, 18, "topic")],
         "titles": title_map(["Neuromuscular control of human movement", "Introduction", "Introduction", "Nervous System", "Central Nervous System", "Peripheral Nervous System - Upper Extremity Nerves", "Peripheral Nervous System - Lower Extremity", "Spinal Nerves", "Spinal Nerves", "Spinal Nerves (diagram)", "Spinal Nerves", "Motor Unit", "Motor Unit", "Sensory Receptors", "Sensory Receptors", "Reflex", "Reflex (diagram)", "Proprioceptors"]),
     },
