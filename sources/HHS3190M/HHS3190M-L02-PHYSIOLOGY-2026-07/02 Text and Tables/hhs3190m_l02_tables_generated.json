@@ -33,11 +33,579 @@
     "text_extraction": "embedded PDF text with bbox coordinates",
     "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
   },
-  "tables": [],
+  "tables": [
+    {
+      "table_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01",
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0016-TABLE01",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "name": "Summary of major functions of different cell parts",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "bbox_points": [
+        55.0,
+        65.0,
+        910.0,
+        505.0
+      ],
+      "layout_grid": {
+        "row_count": 9,
+        "column_count": 2,
+        "columns": [
+          "Cell Part",
+          "Major Function(s)"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Cell membrane",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Smooth ER | Metabolism of lipid and carbohydrate",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Smooth ER",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Metabolism of lipid and carbohydrate",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Rough ER | Site of protein synthesis (ribosome); Production of phospholipids",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Rough ER",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Site of protein synthesis (ribosome); Production of phospholipids",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "Golgi body | Modify, sort, and package substances received from rough ER",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Golgi body",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Modify, sort, and package substances received from rough ER",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": "Mitochondrion | Produce cellular energy",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Mitochondrion",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Produce cellular energy",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 5,
+          "text": "Lysosome | Digest foreign substances and damaged organelles",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Lysosome",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Digest foreign substances and damaged organelles",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 6,
+          "text": "Nucleus | Carry genetic information to control all cell activities",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Nucleus",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Carry genetic information to control all cell activities",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 7,
+          "text": "Nuclear membrane | Control substances entering or leaving nucleus",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Nuclear membrane",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Control substances entering or leaving nucleus",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 8,
+          "text": "Nucleolus | Site of ribosome synthesis",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Nucleolus",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Site of ribosome synthesis",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Control substances entering or leaving nucleus\nNucleolus | Site of ribosome synthesis",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Cell membrane",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Smooth ER | Metabolism of lipid and carbohydrate",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Smooth ER",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Metabolism of lipid and carbohydrate",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Rough ER | Site of protein synthesis (ribosome); Production of phospholipids",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Rough ER",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Site of protein synthesis (ribosome); Production of phospholipids",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": "Golgi body | Modify, sort, and package substances received from rough ER",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Golgi body",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Modify, sort, and package substances received from rough ER",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 4,
+            "text": "Mitochondrion | Produce cellular energy",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Mitochondrion",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Produce cellular energy",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 5,
+            "text": "Lysosome | Digest foreign substances and damaged organelles",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Lysosome",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Digest foreign substances and damaged organelles",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 6,
+            "text": "Nucleus | Carry genetic information to control all cell activities",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Nucleus",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Carry genetic information to control all cell activities",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 7,
+            "text": "Nuclear membrane | Control substances entering or leaving nucleus",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Nuclear membrane",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Control substances entering or leaving nucleus",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 8,
+            "text": "Nucleolus | Site of ribosome synthesis",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Nucleolus",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Site of ribosome synthesis",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02",
+      "visual_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0024-TABLE02",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "name": "Types of connective tissue",
+      "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+      "pdf_page": 24,
+      "slide_number": 24,
+      "bbox_points": [
+        70.0,
+        65.0,
+        915.0,
+        500.0
+      ],
+      "layout_grid": {
+        "row_count": 5,
+        "column_count": 3,
+        "columns": [
+          "Type of Connective Tissue",
+          "Examples",
+          "Main Function(s)"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Connective tissue proper",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Dermis of skin; Tendons; Ligaments",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Binding different body parts; Protection",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Cartilage | Articular cartilages | Cushion and protect body structures",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Cartilage",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Articular cartilages",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Cushion and protect body structures",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "Bone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Bone",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Skull; Vertebral column; Long bone; Flat bone",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Support body framework; Produce blood cells; Storage of mineral salts",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "Blood | — | Carry substances to different body parts; Defense against disease-causing agents",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Blood",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "—",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Carry substances to different body parts; Defense against disease-causing agents",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": "Adipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Adipose tissue",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Subcutaneous fat; Ectopic fat",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Insulation; Storage of nutrients",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Connective tissue proper",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Dermis of skin; Tendons; Ligaments",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Binding different body parts; Protection",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Cartilage | Articular cartilages | Cushion and protect body structures",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Cartilage",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Articular cartilages",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Cushion and protect body structures",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "Bone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Bone",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Skull; Vertebral column; Long bone; Flat bone",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Support body framework; Produce blood cells; Storage of mineral salts",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": "Blood | — | Carry substances to different body parts; Defense against disease-causing agents",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Blood",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "—",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Carry substances to different body parts; Defense against disease-causing agents",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 4,
+            "text": "Adipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Adipose tissue",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Subcutaneous fat; Ectopic fat",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Insulation; Storage of nutrients",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
   "counts": {
-    "tables": 0
+    "tables": 2
   },
-  "no_table_result": "No table candidates were detected; no table layout or contents were invented.",
+  "no_table_result": null,
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
 }

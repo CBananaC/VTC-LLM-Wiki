@@ -236,7 +236,7 @@
         "Anatomy",
         "muscle"
       ],
-      "source_form": "muscle",
+      "source_form": "Muscle",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026-PASSAGE"
       ],
@@ -1584,7 +1584,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts\nCell Part\nMajor Function(s)\n● Separate cytoplasm from extracellular fluid\nCell membrane\n● Control substances entering or leaving the cell\nSmooth ER\n● Metabolism of lipid and carbohydrate\n● Site of protein synthesis (ribosome)\nRough ER\n● Production of phospholipids\n● Modify, sort, and package substances received from rough ER\nGolgi body\nMitochondrion\n● Produce cellular energy\nLysosome\n● Digest foreign substances and damaged organelles\nNucleus\n● Car",
+      "source_excerpt": "Summary: Major functions of different cell parts",
       "retrieval_terms": [
         "cell"
       ],
@@ -1779,50 +1779,6 @@
       ],
       "source_form": "cell",
       "source_passage_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
-          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
-          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
-          "page_number": 24,
-          "page_number_type": "slide_number",
-          "slide_number": 24,
-          "pdf_page": 24,
-          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Type of Connective Tissue\nExamples\nMain Function(s)\nDermis of skin\n➢ Binding different body parts\nConnective tissue proper\nTendons\n➢ Protection\nLigaments\n➢ Cushion and protect body structures\nArticular cartilages\nCartilage\nSkull\n➢ Support body framework\nVertebral column\nBone\n➢ Produce blood cells\nLong bone\n➢ Storage of mineral salts\nFlat bone\n➢ Carry substances to different body parts\nBlood\n➢ Defense against disease-causing agents\nSubcutaneous fat\n➢ Insulation\nAdipose tissue\nEctopic fat\n➢ Storag",
-      "retrieval_terms": [
-        "cell"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000042",
-      "concept_id": "HHS3190M-C-0000019",
-      "category": "definitions_abbreviations",
-      "broad_area": "Definitions and abbreviations",
-      "small_area": "cell",
-      "keyword_path": [
-        "Definitions and abbreviations",
-        "cell"
-      ],
-      "source_form": "cell",
-      "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026-PASSAGE"
       ],
       "source_element_ids": [],
@@ -1856,7 +1812,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000043",
+      "occurrence_id": "HHS3190M-O-00000042",
       "concept_id": "HHS3190M-C-0000019",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -1900,7 +1856,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000044",
+      "occurrence_id": "HHS3190M-O-00000043",
       "concept_id": "HHS3190M-C-0000020",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -1944,7 +1900,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000045",
+      "occurrence_id": "HHS3190M-O-00000044",
       "concept_id": "HHS3190M-C-0000021",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -1988,7 +1944,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000046",
+      "occurrence_id": "HHS3190M-O-00000045",
       "concept_id": "HHS3190M-C-0000022",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2032,7 +1988,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000047",
+      "occurrence_id": "HHS3190M-O-00000046",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2076,7 +2032,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000048",
+      "occurrence_id": "HHS3190M-O-00000047",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2120,7 +2076,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000049",
+      "occurrence_id": "HHS3190M-O-00000048",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2164,7 +2120,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000050",
+      "occurrence_id": "HHS3190M-O-00000049",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2208,7 +2164,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000051",
+      "occurrence_id": "HHS3190M-O-00000050",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2252,7 +2208,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000052",
+      "occurrence_id": "HHS3190M-O-00000051",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2296,7 +2252,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000053",
+      "occurrence_id": "HHS3190M-O-00000052",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2340,7 +2296,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000054",
+      "occurrence_id": "HHS3190M-O-00000053",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2384,7 +2340,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000055",
+      "occurrence_id": "HHS3190M-O-00000054",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2428,7 +2384,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000056",
+      "occurrence_id": "HHS3190M-O-00000055",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2472,7 +2428,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000057",
+      "occurrence_id": "HHS3190M-O-00000056",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2516,7 +2472,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000058",
+      "occurrence_id": "HHS3190M-O-00000057",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2560,7 +2516,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000059",
+      "occurrence_id": "HHS3190M-O-00000058",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2604,7 +2560,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000060",
+      "occurrence_id": "HHS3190M-O-00000059",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2648,51 +2604,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000061",
-      "concept_id": "HHS3190M-C-0000023",
-      "category": "definitions_abbreviations",
-      "broad_area": "Definitions and abbreviations",
-      "small_area": "organ",
-      "keyword_path": [
-        "Definitions and abbreviations",
-        "organ"
-      ],
-      "source_form": "organ",
-      "source_passage_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
-          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
-          "page_number": 16,
-          "page_number_type": "slide_number",
-          "slide_number": 16,
-          "pdf_page": 16,
-          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Summary: Major functions of different cell parts\nCell Part\nMajor Function(s)\n● Separate cytoplasm from extracellular fluid\nCell membrane\n● Control substances entering or leaving the cell\nSmooth ER\n● Metabolism of lipid and carbohydrate\n● Site of protein synthesis (ribosome)\nRough ER\n● Production of phospholipids\n● Modify, sort, and package substances received from rough ER\nGolgi body\nMitochondrion\n● Produce cellular energy\nLysosome\n● Digest foreign substances and damaged organelles\nNucleus\n● Car",
-      "retrieval_terms": [
-        "organ"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000062",
+      "occurrence_id": "HHS3190M-O-00000060",
       "concept_id": "HHS3190M-C-0000023",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2736,7 +2648,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000063",
+      "occurrence_id": "HHS3190M-O-00000061",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2780,7 +2692,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000064",
+      "occurrence_id": "HHS3190M-O-00000062",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2824,7 +2736,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000065",
+      "occurrence_id": "HHS3190M-O-00000063",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2868,7 +2780,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000066",
+      "occurrence_id": "HHS3190M-O-00000064",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2912,7 +2824,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000067",
+      "occurrence_id": "HHS3190M-O-00000065",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -2956,7 +2868,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000068",
+      "occurrence_id": "HHS3190M-O-00000066",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3000,7 +2912,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000069",
+      "occurrence_id": "HHS3190M-O-00000067",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3044,7 +2956,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000070",
+      "occurrence_id": "HHS3190M-O-00000068",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3088,7 +3000,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000071",
+      "occurrence_id": "HHS3190M-O-00000069",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3132,7 +3044,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000072",
+      "occurrence_id": "HHS3190M-O-00000070",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3168,7 +3080,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue\nExamples\nMain Function(s)\nDermis of skin\n➢ Binding different body parts\nConnective tissue proper\nTendons\n➢ Protection\nLigaments\n➢ Cushion and protect body structures\nArticular cartilages\nCartilage\nSkull\n➢ Support body framework\nVertebral column\nBone\n➢ Produce blood cells\nLong bone\n➢ Storage of mineral salts\nFlat bone\n➢ Carry substances to different body parts\nBlood\n➢ Defense against disease-causing agents\nSubcutaneous fat\n➢ Insulation\nAdipose tissue\nEctopic fat\n➢ Storag",
+      "source_excerpt": "Type of Connective Tissue\nExamples\nMain Function(s)",
       "retrieval_terms": [
         "tissue"
       ],
@@ -3176,7 +3088,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000073",
+      "occurrence_id": "HHS3190M-O-00000071",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3220,7 +3132,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000074",
+      "occurrence_id": "HHS3190M-O-00000072",
       "concept_id": "HHS3190M-C-0000024",
       "category": "definitions_abbreviations",
       "broad_area": "Definitions and abbreviations",
@@ -3264,7 +3176,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000075",
+      "occurrence_id": "HHS3190M-O-00000073",
       "concept_id": "HHS3190M-C-0000025",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3309,7 +3221,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000076",
+      "occurrence_id": "HHS3190M-O-00000074",
       "concept_id": "HHS3190M-C-0000025",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3354,7 +3266,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000077",
+      "occurrence_id": "HHS3190M-O-00000075",
       "concept_id": "HHS3190M-C-0000025",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3399,7 +3311,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000078",
+      "occurrence_id": "HHS3190M-O-00000076",
       "concept_id": "HHS3190M-C-0000025",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3412,7 +3324,9 @@
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
       ],
@@ -3435,7 +3349,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue Examples Main Function(s) Dermis of skin ➢ Binding different body parts Connective tissue proper Tendons ➢ Protection Ligaments ➢ Cushion and protect body structures Articular cartilages Cartilage Skull ➢ Support body framework Vertebral column Bone ➢ Produce blood cells Long bone ➢ Storage of mineral salts Flat bone ➢ Carry substances to different body parts Blood ➢ Defense against disease-causing agents Subcutaneous fat ➢ Insulation Adipose tissue Ectopic fat ➢ Storag",
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection Cartilage | Articular cartilages | Cushion and protect body structures Bone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts Blood | — | Carry substances to different body parts; Defense against disease-causing agents Adipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
       "retrieval_terms": [
         "blood",
         "Blood"
@@ -3444,7 +3358,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000079",
+      "occurrence_id": "HHS3190M-O-00000077",
       "concept_id": "HHS3190M-C-0000026",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3488,20 +3402,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000080",
+      "occurrence_id": "HHS3190M-O-00000078",
       "concept_id": "HHS3190M-C-0000027",
       "category": "investigations",
       "broad_area": "Investigations",
-      "small_area": "body parts Blood",
+      "small_area": "body framework Produce blood",
       "keyword_path": [
         "Investigations",
-        "body parts Blood"
+        "body framework Produce blood"
       ],
-      "source_form": "body parts Blood",
+      "source_form": "body framework Produce blood",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
       ],
@@ -3524,15 +3440,15 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue Examples Main Function(s) Dermis of skin ➢ Binding different body parts Connective tissue proper Tendons ➢ Protection Ligaments ➢ Cushion and protect body structures Articular cartilages Cartilage Skull ➢ Support body framework Vertebral column Bone ➢ Produce blood cells Long bone ➢ Storage of mineral salts Flat bone ➢ Carry substances to different body parts Blood ➢ Defense against disease-causing agents Subcutaneous fat ➢ Insulation Adipose tissue Ectopic fat ➢ Storag",
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection Cartilage | Articular cartilages | Cushion and protect body structures Bone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts Blood | — | Carry substances to different body parts; Defense against disease-causing agents Adipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
       "retrieval_terms": [
-        "body parts Blood"
+        "body framework Produce blood"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000081",
+      "occurrence_id": "HHS3190M-O-00000079",
       "concept_id": "HHS3190M-C-0000028",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3576,7 +3492,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000082",
+      "occurrence_id": "HHS3190M-O-00000080",
       "concept_id": "HHS3190M-C-0000029",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3589,7 +3505,9 @@
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -3612,7 +3530,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell Smooth ER | Metabolism of lipid and carbohydrate Rough ER | Site of protein synthesis (ribosome); Production of phospholipids Golgi body | Modify, sort, and package substances received from rough ER Mitochondrion | Produce cellular energy Lysosome | Digest foreign substances and damaged organelles Nucleus | Carry genetic information to control all cell activities Nuclear membrane | Contro",
       "retrieval_terms": [
         "damaged organelles Nucleus Carry genetic"
       ],
@@ -3620,52 +3538,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000083",
+      "occurrence_id": "HHS3190M-O-00000081",
       "concept_id": "HHS3190M-C-0000030",
-      "category": "investigations",
-      "broad_area": "Investigations",
-      "small_area": "framework Vertebral column Bone Produce blood",
-      "keyword_path": [
-        "Investigations",
-        "framework Vertebral column Bone Produce blood"
-      ],
-      "source_form": "framework Vertebral column Bone Produce blood",
-      "source_passage_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
-          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
-          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
-          "page_number": 24,
-          "page_number_type": "slide_number",
-          "slide_number": 24,
-          "pdf_page": 24,
-          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Type of Connective Tissue Examples Main Function(s) Dermis of skin ➢ Binding different body parts Connective tissue proper Tendons ➢ Protection Ligaments ➢ Cushion and protect body structures Articular cartilages Cartilage Skull ➢ Support body framework Vertebral column Bone ➢ Produce blood cells Long bone ➢ Storage of mineral salts Flat bone ➢ Carry substances to different body parts Blood ➢ Defense against disease-causing agents Subcutaneous fat ➢ Insulation Adipose tissue Ectopic fat ➢ Storag",
-      "retrieval_terms": [
-        "framework Vertebral column Bone Produce blood"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000084",
-      "concept_id": "HHS3190M-C-0000031",
       "category": "investigations",
       "broad_area": "Investigations",
       "small_area": "genetic",
@@ -3708,8 +3582,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000085",
-      "concept_id": "HHS3190M-C-0000031",
+      "occurrence_id": "HHS3190M-O-00000082",
+      "concept_id": "HHS3190M-C-0000030",
       "category": "investigations",
       "broad_area": "Investigations",
       "small_area": "genetic",
@@ -3721,7 +3595,9 @@
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -3744,7 +3620,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell Smooth ER | Metabolism of lipid and carbohydrate Rough ER | Site of protein synthesis (ribosome); Production of phospholipids Golgi body | Modify, sort, and package substances received from rough ER Mitochondrion | Produce cellular energy Lysosome | Digest foreign substances and damaged organelles Nucleus | Carry genetic information to control all cell activities Nuclear membrane | Contro",
       "retrieval_terms": [
         "genetic"
       ],
@@ -3752,7 +3628,53 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000086",
+      "occurrence_id": "HHS3190M-O-00000083",
+      "concept_id": "HHS3190M-C-0000031",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "mineral salts Blood",
+      "keyword_path": [
+        "Investigations",
+        "mineral salts Blood"
+      ],
+      "source_form": "mineral salts Blood",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection Cartilage | Articular cartilages | Cushion and protect body structures Bone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts Blood | — | Carry substances to different body parts; Defense against disease-causing agents Adipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "mineral salts Blood"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000084",
       "concept_id": "HHS3190M-C-0000032",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3796,7 +3718,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000087",
+      "occurrence_id": "HHS3190M-O-00000085",
       "concept_id": "HHS3190M-C-0000033",
       "category": "investigations",
       "broad_area": "Investigations",
@@ -3840,16 +3762,16 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000088",
+      "occurrence_id": "HHS3190M-O-00000086",
       "concept_id": "HHS3190M-C-0000034",
       "category": "management_treatment",
       "broad_area": "Management and treatment",
-      "small_area": "exercise",
+      "small_area": "Exercise",
       "keyword_path": [
         "Management and treatment",
-        "exercise"
+        "Exercise"
       ],
-      "source_form": "exercise",
+      "source_form": "Exercise",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029-PASSAGE"
       ],
@@ -3878,13 +3800,13 @@
       ],
       "source_excerpt": "L2 Revision Exercise L2 Screen the QR code below to complete all questions in this revision exercise.",
       "retrieval_terms": [
-        "exercise"
+        "Exercise"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000089",
+      "occurrence_id": "HHS3190M-O-00000087",
       "concept_id": "HHS3190M-C-0000035",
       "category": "management_treatment",
       "broad_area": "Management and treatment",
@@ -3928,7 +3850,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000090",
+      "occurrence_id": "HHS3190M-O-00000088",
       "concept_id": "HHS3190M-C-0000036",
       "category": "medications",
       "broad_area": "Medications",
@@ -3972,7 +3894,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000091",
+      "occurrence_id": "HHS3190M-O-00000089",
       "concept_id": "HHS3190M-C-0000037",
       "category": "medications",
       "broad_area": "Medications",
@@ -4016,7 +3938,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000092",
+      "occurrence_id": "HHS3190M-O-00000090",
       "concept_id": "HHS3190M-C-0000038",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
@@ -4029,7 +3951,9 @@
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -4052,7 +3976,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell Smooth ER | Metabolism of lipid and carbohydrate Rough ER | Site of protein synthesis (ribosome); Production of phospholipids Golgi body | Modify, sort, and package substances received from rough ER Mitochondrion | Produce cellular energy Lysosome | Digest foreign substances and damaged organelles Nucleus | Carry genetic information to control all cell activities Nuclear membrane | Contro",
       "retrieval_terms": [
         "activities",
         "activity"
@@ -4061,7 +3985,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000093",
+      "occurrence_id": "HHS3190M-O-00000091",
       "concept_id": "HHS3190M-C-0000039",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
@@ -4074,7 +3998,9 @@
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -4097,7 +4023,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell Smooth ER | Metabolism of lipid and carbohydrate Rough ER | Site of protein synthesis (ribosome); Production of phospholipids Golgi body | Modify, sort, and package substances received from rough ER Mitochondrion | Produce cellular energy Lysosome | Digest foreign substances and damaged organelles Nucleus | Carry genetic information to control all cell activities Nuclear membrane | Contro",
       "retrieval_terms": [
         "cell activities",
         "cell activity"
@@ -4106,7 +4032,7 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000094",
+      "occurrence_id": "HHS3190M-O-00000092",
       "concept_id": "HHS3190M-C-0000040",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
@@ -4142,7 +4068,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue Examples Main Function(s) Dermis of skin ➢ Binding different body parts Connective tissue proper Tendons ➢ Protection Ligaments ➢ Cushion and protect body structures Articular cartilages Cartilage Skull ➢ Support body framework Vertebral column Bone ➢ Produce blood cells Long bone ➢ Storage of mineral salts Flat bone ➢ Carry substances to different body parts Blood ➢ Defense against disease-causing agents Subcutaneous fat ➢ Insulation Adipose tissue Ectopic fat ➢ Storag",
+      "source_excerpt": "Type of Connective Tissue Examples Main Function(s)",
       "retrieval_terms": [
         "Connective Tissue Examples Main Function"
       ],
@@ -4150,59 +4076,14 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000095",
+      "occurrence_id": "HHS3190M-O-00000093",
       "concept_id": "HHS3190M-C-0000041",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
-      "small_area": "Function",
+      "small_area": "function",
       "keyword_path": [
         "Rehabilitation",
-        "Function"
-      ],
-      "source_form": "Function",
-      "source_passage_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
-          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
-          "page_number": 16,
-          "page_number_type": "slide_number",
-          "slide_number": 16,
-          "pdf_page": 16,
-          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
-      "retrieval_terms": [
-        "Function",
         "function"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000096",
-      "concept_id": "HHS3190M-C-0000041",
-      "category": "rehabilitation",
-      "broad_area": "Rehabilitation",
-      "small_area": "Function",
-      "keyword_path": [
-        "Rehabilitation",
-        "Function"
       ],
       "source_form": "function",
       "source_passage_ids": [
@@ -4233,21 +4114,21 @@
       ],
       "source_excerpt": "Primary Tissues in Human Body • Tissue • Group of cells that are similar in structure and perform common or related function • Four basic tissue types: • Epithelial tissue • Connective tissue • Muscle tissue • Nervous tissue",
       "retrieval_terms": [
-        "Function",
-        "function"
+        "function",
+        "Function"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000097",
+      "occurrence_id": "HHS3190M-O-00000094",
       "concept_id": "HHS3190M-C-0000041",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
-      "small_area": "Function",
+      "small_area": "function",
       "keyword_path": [
         "Rehabilitation",
-        "Function"
+        "function"
       ],
       "source_form": "Function",
       "source_passage_ids": [
@@ -4276,16 +4157,16 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue Examples Main Function(s) Dermis of skin ➢ Binding different body parts Connective tissue proper Tendons ➢ Protection Ligaments ➢ Cushion and protect body structures Articular cartilages Cartilage Skull ➢ Support body framework Vertebral column Bone ➢ Produce blood cells Long bone ➢ Storage of mineral salts Flat bone ➢ Carry substances to different body parts Blood ➢ Defense against disease-causing agents Subcutaneous fat ➢ Insulation Adipose tissue Ectopic fat ➢ Storag",
+      "source_excerpt": "Type of Connective Tissue Examples Main Function(s)",
       "retrieval_terms": [
-        "Function",
-        "function"
+        "function",
+        "Function"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000098",
+      "occurrence_id": "HHS3190M-O-00000095",
       "concept_id": "HHS3190M-C-0000042",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
@@ -4329,52 +4210,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000099",
+      "occurrence_id": "HHS3190M-O-00000096",
       "concept_id": "HHS3190M-C-0000043",
-      "category": "rehabilitation",
-      "broad_area": "Rehabilitation",
-      "small_area": "Major Function",
-      "keyword_path": [
-        "Rehabilitation",
-        "Major Function"
-      ],
-      "source_form": "Major Function",
-      "source_passage_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
-          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
-          "page_number": 16,
-          "page_number_type": "slide_number",
-          "slide_number": 16,
-          "pdf_page": 16,
-          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
-        "HHS3190M-L02-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Summary: Major functions of different cell parts Cell Part Major Function(s) ● Separate cytoplasm from extracellular fluid Cell membrane ● Control substances entering or leaving the cell Smooth ER ● Metabolism of lipid and carbohydrate ● Site of protein synthesis (ribosome) Rough ER ● Production of phospholipids ● Modify, sort, and package substances received from rough ER Golgi body Mitochondrion ● Produce cellular energy Lysosome ● Digest foreign substances and damaged organelles Nucleus ● Car",
-      "retrieval_terms": [
-        "Major Function"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000100",
-      "concept_id": "HHS3190M-C-0000044",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
       "small_area": "related function",
@@ -4417,8 +4254,333 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000101",
+      "occurrence_id": "HHS3190M-O-00000097",
+      "concept_id": "HHS3190M-C-0000044",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Adipose tissue",
+      "keyword_path": [
+        "Section topics",
+        "Adipose tissue"
+      ],
+      "source_form": "Adipose tissue",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Adipose tissue"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000098",
       "concept_id": "HHS3190M-C-0000045",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Articular cartilages",
+      "keyword_path": [
+        "Section topics",
+        "Articular cartilages"
+      ],
+      "source_form": "Articular cartilages",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Articular cartilages",
+        "Articular cartilage"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000099",
+      "concept_id": "HHS3190M-C-0000046",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Binding different body parts; Protection",
+      "keyword_path": [
+        "Section topics",
+        "Binding different body parts; Protection"
+      ],
+      "source_form": "Binding different body parts; Protection",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Binding different body parts; Protection"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000100",
+      "concept_id": "HHS3190M-C-0000047",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Bone",
+      "keyword_path": [
+        "Section topics",
+        "Bone"
+      ],
+      "source_form": "Bone",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Bone"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000101",
+      "concept_id": "HHS3190M-C-0000048",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Carry genetic information to control all cell activities",
+      "keyword_path": [
+        "Section topics",
+        "Carry genetic information to control all cell activities"
+      ],
+      "source_form": "Carry genetic information to control all cell activities",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Carry genetic information to control all cell activities",
+        "Carry genetic information to control all cell activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000102",
+      "concept_id": "HHS3190M-C-0000049",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Carry substances to different body parts; Defense against disease-causing agents",
+      "keyword_path": [
+        "Section topics",
+        "Carry substances to different body parts; Defense against disease-causing agents"
+      ],
+      "source_form": "Carry substances to different body parts; Defense against disease-causing agents",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Carry substances to different body parts; Defense against disease-causing agents",
+        "Carry substances to different body parts; Defense against disease-causing agent"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000103",
+      "concept_id": "HHS3190M-C-0000050",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Cartilage",
+      "keyword_path": [
+        "Section topics",
+        "Cartilage"
+      ],
+      "source_form": "Cartilage",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Cartilage"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000104",
+      "concept_id": "HHS3190M-C-0000051",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "cell membrane",
@@ -4455,14 +4617,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Plasma membrane (Cell membrane)\n• Functions:\n• Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid)\n• Controlling what enters and what leaves cell\n• Chemicals:\n• Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer\n• Specialized membrane proteins float through this fluid membrane\n• Transporter proteins\n• Channel proteins\n• Receptor proteins",
       "retrieval_terms": [
-        "cell membrane"
+        "cell membrane",
+        "Cell membrane"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000102",
-      "concept_id": "HHS3190M-C-0000045",
+      "occurrence_id": "HHS3190M-O-00000105",
+      "concept_id": "HHS3190M-C-0000051",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "cell membrane",
@@ -4499,14 +4662,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Golgi body (Golgi complex / Golgi apparatus)\n• Stacked and flattened membranous organelles\n• Modifies, sorts, and packages proteins and lipids received from rough ER\n• Pack into vesicles to release outside cell\n• Pack into vesicles to fuse with cell membrane\n• Pack into lysosomes",
       "retrieval_terms": [
-        "cell membrane"
+        "cell membrane",
+        "Cell membrane"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000103",
-      "concept_id": "HHS3190M-C-0000045",
+      "occurrence_id": "HHS3190M-O-00000106",
+      "concept_id": "HHS3190M-C-0000051",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "cell membrane",
@@ -4514,11 +4678,13 @@
         "Section topics",
         "cell membrane"
       ],
-      "source_form": "cell membrane",
+      "source_form": "Cell membrane",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -4541,16 +4707,17 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts\nCell Part\nMajor Function(s)\n● Separate cytoplasm from extracellular fluid\nCell membrane\n● Control substances entering or leaving the cell\nSmooth ER\n● Metabolism of lipid and carbohydrate\n● Site of protein synthesis (ribosome)\nRough ER\n● Production of phospholipids\n● Modify, sort, and package substances received from rough ER\nGolgi body\nMitochondrion\n● Produce cellular energy\nLysosome\n● Digest foreign substances and damaged organelles\nNucleus\n● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
       "retrieval_terms": [
-        "cell membrane"
+        "cell membrane",
+        "Cell membrane"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000104",
-      "concept_id": "HHS3190M-C-0000046",
+      "occurrence_id": "HHS3190M-O-00000107",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "connective tissue",
@@ -4593,8 +4760,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000105",
-      "concept_id": "HHS3190M-C-0000046",
+      "occurrence_id": "HHS3190M-O-00000108",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "connective tissue",
@@ -4637,8 +4804,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000106",
-      "concept_id": "HHS3190M-C-0000046",
+      "occurrence_id": "HHS3190M-O-00000109",
+      "concept_id": "HHS3190M-C-0000052",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "connective tissue",
@@ -4673,7 +4840,7 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Type of Connective Tissue\nExamples\nMain Function(s)\nDermis of skin\n➢ Binding different body parts\nConnective tissue proper\nTendons\n➢ Protection\nLigaments\n➢ Cushion and protect body structures\nArticular cartilages\nCartilage\nSkull\n➢ Support body framework\nVertebral column\nBone\n➢ Produce blood cells\nLong bone\n➢ Storage of mineral salts\nFlat bone\n➢ Carry substances to different body parts\nBlood\n➢ Defense against disease-causing agents\nSubcutaneous fat\n➢ Insulation\nAdipose tissue\nEctopic fat\n➢ Storag",
+      "source_excerpt": "Type of Connective Tissue\nExamples\nMain Function(s)",
       "retrieval_terms": [
         "connective tissue"
       ],
@@ -4681,8 +4848,147 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000107",
-      "concept_id": "HHS3190M-C-0000047",
+      "occurrence_id": "HHS3190M-O-00000110",
+      "concept_id": "HHS3190M-C-0000053",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Connective tissue proper",
+      "keyword_path": [
+        "Section topics",
+        "Connective tissue proper"
+      ],
+      "source_form": "Connective tissue proper",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Connective tissue proper"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000111",
+      "concept_id": "HHS3190M-C-0000054",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Control substances entering or leaving nucleus",
+      "keyword_path": [
+        "Section topics",
+        "Control substances entering or leaving nucleus"
+      ],
+      "source_form": "Control substances entering or leaving nucleus",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Control substances entering or leaving nucleus"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000112",
+      "concept_id": "HHS3190M-C-0000055",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Cushion and protect body structures",
+      "keyword_path": [
+        "Section topics",
+        "Cushion and protect body structures"
+      ],
+      "source_form": "Cushion and protect body structures",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Cushion and protect body structures",
+        "Cushion and protect body structure"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000113",
+      "concept_id": "HHS3190M-C-0000056",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "cytosol",
@@ -4725,8 +5031,102 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000108",
-      "concept_id": "HHS3190M-C-0000048",
+      "occurrence_id": "HHS3190M-O-00000114",
+      "concept_id": "HHS3190M-C-0000057",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Dermis of skin; Tendons; Ligaments",
+      "keyword_path": [
+        "Section topics",
+        "Dermis of skin; Tendons; Ligaments"
+      ],
+      "source_form": "Dermis of skin; Tendons; Ligaments",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Dermis of skin; Tendons; Ligaments",
+        "Dermis of skin; Tendons; Ligament"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000115",
+      "concept_id": "HHS3190M-C-0000058",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Digest foreign substances and damaged organelles",
+      "keyword_path": [
+        "Section topics",
+        "Digest foreign substances and damaged organelles"
+      ],
+      "source_form": "Digest foreign substances and damaged organelles",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Digest foreign substances and damaged organelles",
+        "Digest foreign substances and damaged organelle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000116",
+      "concept_id": "HHS3190M-C-0000059",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "endoplasmic reticulum",
@@ -4769,8 +5169,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000109",
-      "concept_id": "HHS3190M-C-0000048",
+      "occurrence_id": "HHS3190M-O-00000117",
+      "concept_id": "HHS3190M-C-0000059",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "endoplasmic reticulum",
@@ -4813,8 +5213,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000110",
-      "concept_id": "HHS3190M-C-0000049",
+      "occurrence_id": "HHS3190M-O-00000118",
+      "concept_id": "HHS3190M-C-0000060",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "epithelial tissue",
@@ -4857,8 +5257,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000111",
-      "concept_id": "HHS3190M-C-0000049",
+      "occurrence_id": "HHS3190M-O-00000119",
+      "concept_id": "HHS3190M-C-0000060",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "epithelial tissue",
@@ -4901,8 +5301,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000112",
-      "concept_id": "HHS3190M-C-0000050",
+      "occurrence_id": "HHS3190M-O-00000120",
+      "concept_id": "HHS3190M-C-0000061",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "Golgi apparatus",
@@ -4945,8 +5345,101 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000113",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000121",
+      "concept_id": "HHS3190M-C-0000062",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Golgi body",
+      "keyword_path": [
+        "Section topics",
+        "Golgi body"
+      ],
+      "source_form": "Golgi body",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Golgi body"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000122",
+      "concept_id": "HHS3190M-C-0000063",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Insulation; Storage of nutrients",
+      "keyword_path": [
+        "Section topics",
+        "Insulation; Storage of nutrients"
+      ],
+      "source_form": "Insulation; Storage of nutrients",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Insulation; Storage of nutrients",
+        "Insulation; Storage of nutrient"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000123",
+      "concept_id": "HHS3190M-C-0000064",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lysosome",
@@ -4983,14 +5476,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Cytoplasm\n• All materials inside a cell\n• Cytosol (Fluid) + Cell organelles (Cellular structures)\n• Important cell organelles:\n• Nucleus (Nuclei),\n• Mitochondrion (Mitochondria),\n• Endoplasmic reticulum (Smooth / Rough),\n• Lysosome,\n• Golgi body",
       "retrieval_terms": [
-        "lysosome"
+        "lysosome",
+        "Lysosome"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000114",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000124",
+      "concept_id": "HHS3190M-C-0000064",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lysosome",
@@ -5027,14 +5521,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Golgi body (Golgi complex / Golgi apparatus)\n• Stacked and flattened membranous organelles\n• Modifies, sorts, and packages proteins and lipids received from rough ER\n• Pack into vesicles to release outside cell\n• Pack into vesicles to fuse with cell membrane\n• Pack into lysosomes",
       "retrieval_terms": [
-        "lysosome"
+        "lysosome",
+        "Lysosome"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000115",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000125",
+      "concept_id": "HHS3190M-C-0000064",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lysosome",
@@ -5071,14 +5566,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Lysosome\n• Spherical membranous organelle containing digestive enzymes\n• Digest ingested bacteria, viruses, and toxins\n• Degrade damaged organelles",
       "retrieval_terms": [
-        "lysosome"
+        "lysosome",
+        "Lysosome"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000116",
-      "concept_id": "HHS3190M-C-0000051",
+      "occurrence_id": "HHS3190M-O-00000126",
+      "concept_id": "HHS3190M-C-0000064",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "lysosome",
@@ -5086,11 +5582,13 @@
         "Section topics",
         "lysosome"
       ],
-      "source_form": "lysosome",
+      "source_form": "Lysosome",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -5113,16 +5611,63 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts\nCell Part\nMajor Function(s)\n● Separate cytoplasm from extracellular fluid\nCell membrane\n● Control substances entering or leaving the cell\nSmooth ER\n● Metabolism of lipid and carbohydrate\n● Site of protein synthesis (ribosome)\nRough ER\n● Production of phospholipids\n● Modify, sort, and package substances received from rough ER\nGolgi body\nMitochondrion\n● Produce cellular energy\nLysosome\n● Digest foreign substances and damaged organelles\nNucleus\n● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
       "retrieval_terms": [
-        "lysosome"
+        "lysosome",
+        "Lysosome"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000117",
-      "concept_id": "HHS3190M-C-0000052",
+      "occurrence_id": "HHS3190M-O-00000127",
+      "concept_id": "HHS3190M-C-0000065",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Metabolism of lipid and carbohydrate",
+      "keyword_path": [
+        "Section topics",
+        "Metabolism of lipid and carbohydrate"
+      ],
+      "source_form": "Metabolism of lipid and carbohydrate",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Metabolism of lipid and carbohydrate"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000128",
+      "concept_id": "HHS3190M-C-0000066",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "mitochondria",
@@ -5165,8 +5710,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000118",
-      "concept_id": "HHS3190M-C-0000052",
+      "occurrence_id": "HHS3190M-O-00000129",
+      "concept_id": "HHS3190M-C-0000066",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "mitochondria",
@@ -5209,8 +5754,100 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000119",
-      "concept_id": "HHS3190M-C-0000053",
+      "occurrence_id": "HHS3190M-O-00000130",
+      "concept_id": "HHS3190M-C-0000067",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Mitochondrion",
+      "keyword_path": [
+        "Section topics",
+        "Mitochondrion"
+      ],
+      "source_form": "Mitochondrion",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Mitochondrion"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000131",
+      "concept_id": "HHS3190M-C-0000068",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Modify, sort, and package substances received from rough ER",
+      "keyword_path": [
+        "Section topics",
+        "Modify, sort, and package substances received from rough ER"
+      ],
+      "source_form": "Modify, sort, and package substances received from rough ER",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Modify, sort, and package substances received from rough ER"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000132",
+      "concept_id": "HHS3190M-C-0000069",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "muscle tissue",
@@ -5253,8 +5890,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000120",
-      "concept_id": "HHS3190M-C-0000053",
+      "occurrence_id": "HHS3190M-O-00000133",
+      "concept_id": "HHS3190M-C-0000069",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "muscle tissue",
@@ -5297,8 +5934,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000121",
-      "concept_id": "HHS3190M-C-0000054",
+      "occurrence_id": "HHS3190M-O-00000134",
+      "concept_id": "HHS3190M-C-0000070",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nervous tissue",
@@ -5341,8 +5978,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000122",
-      "concept_id": "HHS3190M-C-0000054",
+      "occurrence_id": "HHS3190M-O-00000135",
+      "concept_id": "HHS3190M-C-0000070",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nervous tissue",
@@ -5385,8 +6022,100 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000123",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000136",
+      "concept_id": "HHS3190M-C-0000071",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Nuclear membrane",
+      "keyword_path": [
+        "Section topics",
+        "Nuclear membrane"
+      ],
+      "source_form": "Nuclear membrane",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Nuclear membrane"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000137",
+      "concept_id": "HHS3190M-C-0000072",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Nucleolus",
+      "keyword_path": [
+        "Section topics",
+        "Nucleolus"
+      ],
+      "source_form": "Nucleolus",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Nucleolus"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000138",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5423,14 +6152,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Cytoplasm\n• All materials inside a cell\n• Cytosol (Fluid) + Cell organelles (Cellular structures)\n• Important cell organelles:\n• Nucleus (Nuclei),\n• Mitochondrion (Mitochondria),\n• Endoplasmic reticulum (Smooth / Rough),\n• Lysosome,\n• Golgi body",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000124",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000139",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5467,14 +6197,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Endoplasmic Reticulum (ER)\n• Membranous organelles extending from the membrane of nucleus\n• Locate near the nucleus\n• 2 types:2\n• Smooth ER (without ribosome\n• Rough ER (with ribosome",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000125",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000140",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5511,14 +6242,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Nucleus\n• Largest organelle\n• Contains the genetic information (Chromosomes) for synthesis of nearly all proteins\n• Responds to signals to control the kinds and amounts of proteins to be produced\n• Most cells are uninucleate (one nucleus)\n• Skeletal muscle cells, some bone cells, and some liver cells are multinucleate (many nuclei)\n• Mature red blood cells are anucleate (no nucleus)",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000126",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000141",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5555,14 +6287,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• The nucleus has three main structures:\n• Nuclear membrane (Nuclear envelope\n• Nucleolus (Nucleoli)\n• Chromatin (Chromosome",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000127",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000142",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5599,14 +6332,15 @@
       ],
       "source_excerpt": "Cell Organelles in a Typical Human Cell\n• Nuclear membrane\n• Double-membrane barrier that encloses the substances inside nucleus\n• Outer layer is continuous with rough ER ○ Nuclear pores allow substances to pass into and out of nucleus\n● Nucleolus ○ Dark-staining spherical body within nucleus ○ Involved in ribosome synthesis",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000128",
-      "concept_id": "HHS3190M-C-0000055",
+      "occurrence_id": "HHS3190M-O-00000143",
+      "concept_id": "HHS3190M-C-0000073",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nucleus",
@@ -5614,11 +6348,13 @@
         "Section topics",
         "nucleus"
       ],
-      "source_form": "nucleus",
+      "source_form": "Nucleus",
       "source_passage_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
       ],
@@ -5641,16 +6377,522 @@
         "HHS3190M-L02-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Summary: Major functions of different cell parts\nCell Part\nMajor Function(s)\n● Separate cytoplasm from extracellular fluid\nCell membrane\n● Control substances entering or leaving the cell\nSmooth ER\n● Metabolism of lipid and carbohydrate\n● Site of protein synthesis (ribosome)\nRough ER\n● Production of phospholipids\n● Modify, sort, and package substances received from rough ER\nGolgi body\nMitochondrion\n● Produce cellular energy\nLysosome\n● Digest foreign substances and damaged organelles\nNucleus\n● Car",
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
       "retrieval_terms": [
-        "nucleus"
+        "nucleus",
+        "Nucleus"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000129",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000144",
+      "concept_id": "HHS3190M-C-0000074",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Produce cellular energy",
+      "keyword_path": [
+        "Section topics",
+        "Produce cellular energy"
+      ],
+      "source_form": "Produce cellular energy",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Produce cellular energy"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000145",
+      "concept_id": "HHS3190M-C-0000075",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Rough ER",
+      "keyword_path": [
+        "Section topics",
+        "Rough ER"
+      ],
+      "source_form": "Rough ER",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Rough ER"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000146",
+      "concept_id": "HHS3190M-C-0000076",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+      "keyword_path": [
+        "Section topics",
+        "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell"
+      ],
+      "source_form": "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000147",
+      "concept_id": "HHS3190M-C-0000077",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Site of protein synthesis (ribosome); Production of phospholipids",
+      "keyword_path": [
+        "Section topics",
+        "Site of protein synthesis (ribosome); Production of phospholipids"
+      ],
+      "source_form": "Site of protein synthesis (ribosome); Production of phospholipids",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Site of protein synthesis (ribosome); Production of phospholipids",
+        "Site of protein synthesis (ribosome); Production of phospholipid"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000148",
+      "concept_id": "HHS3190M-C-0000078",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Site of ribosome synthesis",
+      "keyword_path": [
+        "Section topics",
+        "Site of ribosome synthesis"
+      ],
+      "source_form": "Site of ribosome synthesis",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Site of ribosome synthesis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000149",
+      "concept_id": "HHS3190M-C-0000079",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Skull; Vertebral column; Long bone; Flat bone",
+      "keyword_path": [
+        "Section topics",
+        "Skull; Vertebral column; Long bone; Flat bone"
+      ],
+      "source_form": "Skull; Vertebral column; Long bone; Flat bone",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Skull; Vertebral column; Long bone; Flat bone"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000150",
+      "concept_id": "HHS3190M-C-0000080",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Smooth ER",
+      "keyword_path": [
+        "Section topics",
+        "Smooth ER"
+      ],
+      "source_form": "Smooth ER",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0016-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Cell membrane | Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell\nSmooth ER | Metabolism of lipid and carbohydrate\nRough ER | Site of protein synthesis (ribosome); Production of phospholipids\nGolgi body | Modify, sort, and package substances received from rough ER\nMitochondrion | Produce cellular energy\nLysosome | Digest foreign substances and damaged organelles\nNucleus | Carry genetic information to control all cell activities\nNuclear membrane | Contro",
+      "retrieval_terms": [
+        "Smooth ER"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000151",
+      "concept_id": "HHS3190M-C-0000081",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Subcutaneous fat; Ectopic fat",
+      "keyword_path": [
+        "Section topics",
+        "Subcutaneous fat; Ectopic fat"
+      ],
+      "source_form": "Subcutaneous fat; Ectopic fat",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Subcutaneous fat; Ectopic fat"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000152",
+      "concept_id": "HHS3190M-C-0000082",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Support body framework; Produce blood cells; Storage of mineral salts",
+      "keyword_path": [
+        "Section topics",
+        "Support body framework; Produce blood cells; Storage of mineral salts"
+      ],
+      "source_form": "Support body framework; Produce blood cells; Storage of mineral salts",
+      "source_passage_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-TBL-P0024-02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Connective tissue proper | Dermis of skin; Tendons; Ligaments | Binding different body parts; Protection\nCartilage | Articular cartilages | Cushion and protect body structures\nBone | Skull; Vertebral column; Long bone; Flat bone | Support body framework; Produce blood cells; Storage of mineral salts\nBlood | — | Carry substances to different body parts; Defense against disease-causing agents\nAdipose tissue | Subcutaneous fat; Ectopic fat | Insulation; Storage of nutrients",
+      "retrieval_terms": [
+        "Support body framework; Produce blood cells; Storage of mineral salts",
+        "Support body framework; Produce blood cells; Storage of mineral salt"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000153",
+      "concept_id": "HHS3190M-C-0000083",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Summary of major functions of different cell parts",
+      "keyword_path": [
+        "visual",
+        "Summary of major functions of different cell parts"
+      ],
+      "source_form": "Summary of major functions of different cell parts",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0016-TABLE01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Summary of major functions of different cell parts",
+      "retrieval_terms": [
+        "Summary of major functions of different cell parts",
+        "Summary of major functions of different cell part"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000154",
+      "concept_id": "HHS3190M-C-0000084",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Types of connective tissue",
+      "keyword_path": [
+        "visual",
+        "Types of connective tissue"
+      ],
+      "source_form": "Types of connective tissue",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-VIS-P0024-TABLE02"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+          "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+          "source_file": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "03 - HHS3190MJ Physiology L2 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Types of connective tissue",
+      "retrieval_terms": [
+        "Types of connective tissue"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000155",
+      "concept_id": "HHS3190M-C-0000085",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cell Organelles in a Typical Human Cell",
@@ -5693,8 +6935,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000130",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000156",
+      "concept_id": "HHS3190M-C-0000085",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cell Organelles in a Typical Human Cell",
@@ -5737,8 +6979,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000131",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000157",
+      "concept_id": "HHS3190M-C-0000085",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cell Organelles in a Typical Human Cell",
@@ -5781,8 +7023,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000132",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000158",
+      "concept_id": "HHS3190M-C-0000085",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cell Organelles in a Typical Human Cell",
@@ -5825,8 +7067,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000133",
-      "concept_id": "HHS3190M-C-0000056",
+      "occurrence_id": "HHS3190M-O-00000159",
+      "concept_id": "HHS3190M-C-0000085",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cell Organelles in a Typical Human Cell",
@@ -5869,8 +7111,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000134",
-      "concept_id": "HHS3190M-C-0000057",
+      "occurrence_id": "HHS3190M-O-00000160",
+      "concept_id": "HHS3190M-C-0000086",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: L2 Revision Exercise L2",
@@ -5913,8 +7155,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000135",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000161",
+      "concept_id": "HHS3190M-C-0000087",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Primary Tissues in Human Body",
@@ -5957,8 +7199,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000136",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000162",
+      "concept_id": "HHS3190M-C-0000087",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Primary Tissues in Human Body",
@@ -6001,8 +7243,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000137",
-      "concept_id": "HHS3190M-C-0000058",
+      "occurrence_id": "HHS3190M-O-00000163",
+      "concept_id": "HHS3190M-C-0000087",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Primary Tissues in Human Body",
@@ -6045,8 +7287,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000138",
-      "concept_id": "HHS3190M-C-0000059",
+      "occurrence_id": "HHS3190M-O-00000164",
+      "concept_id": "HHS3190M-C-0000088",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: (Sem 1 AY26-27",
@@ -6089,8 +7331,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000139",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000165",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6133,8 +7375,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000140",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000166",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6177,8 +7419,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000141",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000167",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6221,8 +7463,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000142",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000168",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6265,8 +7507,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000143",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000169",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6309,8 +7551,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000144",
-      "concept_id": "HHS3190M-C-0000060",
+      "occurrence_id": "HHS3190M-O-00000170",
+      "concept_id": "HHS3190M-C-0000089",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Simple epithelium",
@@ -6353,8 +7595,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000145",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000171",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6397,8 +7639,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000146",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000172",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6441,8 +7683,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000147",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000173",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6485,8 +7727,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000148",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000174",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6529,8 +7771,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000149",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000175",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6573,8 +7815,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000150",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000176",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6617,8 +7859,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000151",
-      "concept_id": "HHS3190M-C-0000061",
+      "occurrence_id": "HHS3190M-O-00000177",
+      "concept_id": "HHS3190M-C-0000090",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 25",
@@ -6661,8 +7903,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000152",
-      "concept_id": "HHS3190M-C-0000062",
+      "occurrence_id": "HHS3190M-O-00000178",
+      "concept_id": "HHS3190M-C-0000091",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 28",
@@ -6705,8 +7947,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000153",
-      "concept_id": "HHS3190M-C-0000063",
+      "occurrence_id": "HHS3190M-O-00000179",
+      "concept_id": "HHS3190M-C-0000092",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 5",
@@ -6749,8 +7991,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000154",
-      "concept_id": "HHS3190M-C-0000064",
+      "occurrence_id": "HHS3190M-O-00000180",
+      "concept_id": "HHS3190M-C-0000093",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Typical Human Cell",
@@ -6793,8 +8035,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000155",
-      "concept_id": "HHS3190M-C-0000064",
+      "occurrence_id": "HHS3190M-O-00000181",
+      "concept_id": "HHS3190M-C-0000093",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Typical Human Cell",
@@ -6837,8 +8079,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000156",
-      "concept_id": "HHS3190M-C-0000064",
+      "occurrence_id": "HHS3190M-O-00000182",
+      "concept_id": "HHS3190M-C-0000093",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Typical Human Cell",
@@ -6882,7 +8124,7 @@
     }
   ],
   "counts": {
-    "occurrences": 156
+    "occurrences": 182
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"

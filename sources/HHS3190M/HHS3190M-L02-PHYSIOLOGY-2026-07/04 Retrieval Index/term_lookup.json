@@ -12,7 +12,7 @@
         "HHS3190M-C-0000038"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000092"
+        "HHS3190M-O-00000090"
       ],
       "categories": [
         "rehabilitation"
@@ -26,10 +26,52 @@
         "HHS3190M-C-0000038"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000092"
+        "HHS3190M-O-00000090"
       ],
       "categories": [
         "rehabilitation"
+      ]
+    },
+    "adiposetissue": {
+      "display_forms": [
+        "Adipose tissue"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000097"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "articularcartilage": {
+      "display_forms": [
+        "Articular cartilage"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000098"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "articularcartilages": {
+      "display_forms": [
+        "Articular cartilages"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000098"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "ay2627": {
@@ -46,6 +88,20 @@
         "definitions_abbreviations"
       ]
     },
+    "bindingdifferentbodypartsprotection": {
+      "display_forms": [
+        "Binding different body parts; Protection"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000099"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "blood": {
       "display_forms": [
         "Blood",
@@ -55,10 +111,10 @@
         "HHS3190M-C-0000025"
       ],
       "occurrence_ids": [
+        "HHS3190M-O-00000073",
+        "HHS3190M-O-00000074",
         "HHS3190M-O-00000075",
-        "HHS3190M-O-00000076",
-        "HHS3190M-O-00000077",
-        "HHS3190M-O-00000078"
+        "HHS3190M-O-00000076"
       ],
       "categories": [
         "investigations"
@@ -72,24 +128,38 @@
         "HHS3190M-C-0000026"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000079"
+        "HHS3190M-O-00000077"
       ],
       "categories": [
         "investigations"
       ]
     },
-    "bodypartsblood": {
+    "bodyframeworkproduceblood": {
       "display_forms": [
-        "body parts Blood"
+        "body framework Produce blood"
       ],
       "concept_ids": [
         "HHS3190M-C-0000027"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000080"
+        "HHS3190M-O-00000078"
       ],
       "categories": [
         "investigations"
+      ]
+    },
+    "bone": {
+      "display_forms": [
+        "Bone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000100"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "brain": {
@@ -104,6 +174,76 @@
       ],
       "categories": [
         "anatomy"
+      ]
+    },
+    "carrygeneticinformationtocontrolallcellactivities": {
+      "display_forms": [
+        "Carry genetic information to control all cell activities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000101"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "carrygeneticinformationtocontrolallcellactivity": {
+      "display_forms": [
+        "Carry genetic information to control all cell activity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000101"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "carrysubstancestodifferentbodypartsdefenseagainstdiseasecausingagent": {
+      "display_forms": [
+        "Carry substances to different body parts; Defense against disease-causing agent"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000102"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "carrysubstancestodifferentbodypartsdefenseagainstdiseasecausingagents": {
+      "display_forms": [
+        "Carry substances to different body parts; Defense against disease-causing agents"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000102"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cartilage": {
+      "display_forms": [
+        "Cartilage"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000103"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "cbo9780511800160": {
@@ -148,8 +288,7 @@
         "HHS3190M-O-00000039",
         "HHS3190M-O-00000040",
         "HHS3190M-O-00000041",
-        "HHS3190M-O-00000042",
-        "HHS3190M-O-00000043"
+        "HHS3190M-O-00000042"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -163,7 +302,7 @@
         "HHS3190M-C-0000039"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000093"
+        "HHS3190M-O-00000091"
       ],
       "categories": [
         "rehabilitation"
@@ -177,7 +316,7 @@
         "HHS3190M-C-0000039"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000093"
+        "HHS3190M-O-00000091"
       ],
       "categories": [
         "rehabilitation"
@@ -185,15 +324,16 @@
     },
     "cellmembrane": {
       "display_forms": [
+        "Cell membrane",
         "cell membrane"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000045"
+        "HHS3190M-C-0000051"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000101",
-        "HHS3190M-O-00000102",
-        "HHS3190M-O-00000103"
+        "HHS3190M-O-00000104",
+        "HHS3190M-O-00000105",
+        "HHS3190M-O-00000106"
       ],
       "categories": [
         "section_topics"
@@ -207,7 +347,7 @@
         "HHS3190M-C-0000036"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000090"
+        "HHS3190M-O-00000088"
       ],
       "categories": [
         "medications"
@@ -221,7 +361,7 @@
         "HHS3190M-C-0000020"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000044"
+        "HHS3190M-O-00000043"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -246,12 +386,12 @@
         "connective tissue"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000046"
+        "HHS3190M-C-0000052"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000104",
-        "HHS3190M-O-00000105",
-        "HHS3190M-O-00000106"
+        "HHS3190M-O-00000107",
+        "HHS3190M-O-00000108",
+        "HHS3190M-O-00000109"
       ],
       "categories": [
         "section_topics"
@@ -265,10 +405,24 @@
         "HHS3190M-C-0000040"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000094"
+        "HHS3190M-O-00000092"
       ],
       "categories": [
         "rehabilitation"
+      ]
+    },
+    "connectivetissueproper": {
+      "display_forms": [
+        "Connective tissue proper"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000110"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "connectivetissuepropercartilageboneblood": {
@@ -279,10 +433,52 @@
         "HHS3190M-C-0000028"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000081"
+        "HHS3190M-O-00000079"
       ],
       "categories": [
         "investigations"
+      ]
+    },
+    "controlsubstancesenteringorleavingnucleus": {
+      "display_forms": [
+        "Control substances entering or leaving nucleus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000111"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cushionandprotectbodystructure": {
+      "display_forms": [
+        "Cushion and protect body structure"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000112"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "cushionandprotectbodystructures": {
+      "display_forms": [
+        "Cushion and protect body structures"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000112"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "cytosol": {
@@ -290,10 +486,10 @@
         "cytosol"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000047"
+        "HHS3190M-C-0000056"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000107"
+        "HHS3190M-O-00000113"
       ],
       "categories": [
         "section_topics"
@@ -307,10 +503,66 @@
         "HHS3190M-C-0000029"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000082"
+        "HHS3190M-O-00000080"
       ],
       "categories": [
         "investigations"
+      ]
+    },
+    "dermisofskintendonsligament": {
+      "display_forms": [
+        "Dermis of skin; Tendons; Ligament"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000114"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "dermisofskintendonsligaments": {
+      "display_forms": [
+        "Dermis of skin; Tendons; Ligaments"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000114"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "digestforeignsubstancesanddamagedorganelle": {
+      "display_forms": [
+        "Digest foreign substances and damaged organelle"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000115"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "digestforeignsubstancesanddamagedorganelles": {
+      "display_forms": [
+        "Digest foreign substances and damaged organelles"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000115"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "endoplasmicreticulum": {
@@ -318,11 +570,11 @@
         "endoplasmic reticulum"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000048"
+        "HHS3190M-C-0000059"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000108",
-        "HHS3190M-O-00000109"
+        "HHS3190M-O-00000116",
+        "HHS3190M-O-00000117"
       ],
       "categories": [
         "section_topics"
@@ -333,11 +585,11 @@
         "epithelial tissue"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000049"
+        "HHS3190M-C-0000060"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000110",
-        "HHS3190M-O-00000111"
+        "HHS3190M-O-00000118",
+        "HHS3190M-O-00000119"
       ],
       "categories": [
         "section_topics"
@@ -359,30 +611,16 @@
     },
     "exercise": {
       "display_forms": [
-        "exercise"
+        "Exercise"
       ],
       "concept_ids": [
         "HHS3190M-C-0000034"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000088"
+        "HHS3190M-O-00000086"
       ],
       "categories": [
         "management_treatment"
-      ]
-    },
-    "frameworkvertebralcolumnboneproduceblood": {
-      "display_forms": [
-        "framework Vertebral column Bone Produce blood"
-      ],
-      "concept_ids": [
-        "HHS3190M-C-0000030"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000083"
-      ],
-      "categories": [
-        "investigations"
       ]
     },
     "function": {
@@ -394,9 +632,8 @@
         "HHS3190M-C-0000041"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000095",
-        "HHS3190M-O-00000096",
-        "HHS3190M-O-00000097"
+        "HHS3190M-O-00000093",
+        "HHS3190M-O-00000094"
       ],
       "categories": [
         "rehabilitation"
@@ -410,7 +647,7 @@
         "HHS3190M-C-0000042"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000098"
+        "HHS3190M-O-00000095"
       ],
       "categories": [
         "rehabilitation"
@@ -421,11 +658,11 @@
         "genetic"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000031"
+        "HHS3190M-C-0000030"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000084",
-        "HHS3190M-O-00000085"
+        "HHS3190M-O-00000081",
+        "HHS3190M-O-00000082"
       ],
       "categories": [
         "investigations"
@@ -436,10 +673,24 @@
         "Golgi apparatus"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000050"
+        "HHS3190M-C-0000061"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000112"
+        "HHS3190M-O-00000120"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "golgibody": {
+      "display_forms": [
+        "Golgi body"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000121"
       ],
       "categories": [
         "section_topics"
@@ -459,6 +710,34 @@
         "conditions"
       ]
     },
+    "insulationstorageofnutrient": {
+      "display_forms": [
+        "Insulation; Storage of nutrient"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000122"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "insulationstorageofnutrients": {
+      "display_forms": [
+        "Insulation; Storage of nutrients"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000122"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "l2revisionexercise": {
       "display_forms": [
         "L2 Revision Exercise"
@@ -467,7 +746,7 @@
         "HHS3190M-C-0000021"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000045"
+        "HHS3190M-O-00000044"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -489,33 +768,48 @@
     },
     "lysosome": {
       "display_forms": [
+        "Lysosome",
         "lysosome"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000051"
+        "HHS3190M-C-0000064"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000113",
-        "HHS3190M-O-00000114",
-        "HHS3190M-O-00000115",
-        "HHS3190M-O-00000116"
+        "HHS3190M-O-00000123",
+        "HHS3190M-O-00000124",
+        "HHS3190M-O-00000125",
+        "HHS3190M-O-00000126"
       ],
       "categories": [
         "section_topics"
       ]
     },
-    "majorfunction": {
+    "metabolismoflipidandcarbohydrate": {
       "display_forms": [
-        "Major Function"
+        "Metabolism of lipid and carbohydrate"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000043"
+        "HHS3190M-C-0000065"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000099"
+        "HHS3190M-O-00000127"
       ],
       "categories": [
-        "rehabilitation"
+        "section_topics"
+      ]
+    },
+    "mineralsaltsblood": {
+      "display_forms": [
+        "mineral salts Blood"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000083"
+      ],
+      "categories": [
+        "investigations"
       ]
     },
     "mitochondria": {
@@ -523,11 +817,39 @@
         "mitochondria"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000052"
+        "HHS3190M-C-0000066"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000117",
-        "HHS3190M-O-00000118"
+        "HHS3190M-O-00000128",
+        "HHS3190M-O-00000129"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "mitochondrion": {
+      "display_forms": [
+        "Mitochondrion"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000130"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "modifysortandpackagesubstancesreceivedfromrougher": {
+      "display_forms": [
+        "Modify, sort, and package substances received from rough ER"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000131"
       ],
       "categories": [
         "section_topics"
@@ -555,7 +877,7 @@
         "HHS3190M-C-0000032"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000086"
+        "HHS3190M-O-00000084"
       ],
       "categories": [
         "investigations"
@@ -584,11 +906,11 @@
         "muscle tissue"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000053"
+        "HHS3190M-C-0000069"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000119",
-        "HHS3190M-O-00000120"
+        "HHS3190M-O-00000132",
+        "HHS3190M-O-00000133"
       ],
       "categories": [
         "section_topics"
@@ -655,11 +977,11 @@
         "nervous tissue"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000054"
+        "HHS3190M-C-0000070"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000121",
-        "HHS3190M-O-00000122"
+        "HHS3190M-O-00000134",
+        "HHS3190M-O-00000135"
       ],
       "categories": [
         "section_topics"
@@ -679,20 +1001,49 @@
         "conditions"
       ]
     },
+    "nuclearmembrane": {
+      "display_forms": [
+        "Nuclear membrane"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000136"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "nucleolus": {
+      "display_forms": [
+        "Nucleolus"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000137"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "nucleus": {
       "display_forms": [
+        "Nucleus",
         "nucleus"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000055"
+        "HHS3190M-C-0000073"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000123",
-        "HHS3190M-O-00000124",
-        "HHS3190M-O-00000125",
-        "HHS3190M-O-00000126",
-        "HHS3190M-O-00000127",
-        "HHS3190M-O-00000128"
+        "HHS3190M-O-00000138",
+        "HHS3190M-O-00000139",
+        "HHS3190M-O-00000140",
+        "HHS3190M-O-00000141",
+        "HHS3190M-O-00000142",
+        "HHS3190M-O-00000143"
       ],
       "categories": [
         "section_topics"
@@ -720,7 +1071,7 @@
         "HHS3190M-C-0000033"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000087"
+        "HHS3190M-O-00000085"
       ],
       "categories": [
         "investigations"
@@ -734,7 +1085,7 @@
         "HHS3190M-C-0000022"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000046"
+        "HHS3190M-O-00000045"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -748,6 +1099,7 @@
         "HHS3190M-C-0000023"
       ],
       "occurrence_ids": [
+        "HHS3190M-O-00000046",
         "HHS3190M-O-00000047",
         "HHS3190M-O-00000048",
         "HHS3190M-O-00000049",
@@ -761,9 +1113,7 @@
         "HHS3190M-O-00000057",
         "HHS3190M-O-00000058",
         "HHS3190M-O-00000059",
-        "HHS3190M-O-00000060",
-        "HHS3190M-O-00000061",
-        "HHS3190M-O-00000062"
+        "HHS3190M-O-00000060"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -777,10 +1127,24 @@
         "HHS3190M-C-0000037"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000091"
+        "HHS3190M-O-00000089"
       ],
       "categories": [
         "medications"
+      ]
+    },
+    "producecellularenergy": {
+      "display_forms": [
+        "Produce cellular energy"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000144"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "relatedfunction": {
@@ -788,10 +1152,10 @@
         "related function"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000044"
+        "HHS3190M-C-0000043"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000100"
+        "HHS3190M-O-00000096"
       ],
       "categories": [
         "rehabilitation"
@@ -805,10 +1169,108 @@
         "HHS3190M-C-0000035"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000089"
+        "HHS3190M-O-00000087"
       ],
       "categories": [
         "management_treatment"
+      ]
+    },
+    "rougher": {
+      "display_forms": [
+        "Rough ER"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000145"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "separatecytoplasmfromextracellularfluidcontrolsubstancesenteringorleavingthecell": {
+      "display_forms": [
+        "Separate cytoplasm from extracellular fluid; Control substances entering or leaving the cell"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000146"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "siteofproteinsynthesisribosomeproductionofphospholipid": {
+      "display_forms": [
+        "Site of protein synthesis (ribosome); Production of phospholipid"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000147"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "siteofproteinsynthesisribosomeproductionofphospholipids": {
+      "display_forms": [
+        "Site of protein synthesis (ribosome); Production of phospholipids"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000147"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "siteofribosomesynthesis": {
+      "display_forms": [
+        "Site of ribosome synthesis"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000148"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "skullvertebralcolumnlongboneflatbone": {
+      "display_forms": [
+        "Skull; Vertebral column; Long bone; Flat bone"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000149"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "smoother": {
+      "display_forms": [
+        "Smooth ER"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000150"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "spinal": {
@@ -825,6 +1287,76 @@
         "anatomy"
       ]
     },
+    "subcutaneousfatectopicfat": {
+      "display_forms": [
+        "Subcutaneous fat; Ectopic fat"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000151"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "summaryofmajorfunctionsofdifferentcellpart": {
+      "display_forms": [
+        "Summary of major functions of different cell part"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000153"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "summaryofmajorfunctionsofdifferentcellparts": {
+      "display_forms": [
+        "Summary of major functions of different cell parts"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000153"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "supportbodyframeworkproducebloodcellsstorageofmineralsalt": {
+      "display_forms": [
+        "Support body framework; Produce blood cells; Storage of mineral salt"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000152"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "supportbodyframeworkproducebloodcellsstorageofmineralsalts": {
+      "display_forms": [
+        "Support body framework; Produce blood cells; Storage of mineral salts"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000152"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "tissue": {
       "display_forms": [
         "tissue"
@@ -833,6 +1365,8 @@
         "HHS3190M-C-0000024"
       ],
       "occurrence_ids": [
+        "HHS3190M-O-00000061",
+        "HHS3190M-O-00000062",
         "HHS3190M-O-00000063",
         "HHS3190M-O-00000064",
         "HHS3190M-O-00000065",
@@ -842,9 +1376,7 @@
         "HHS3190M-O-00000069",
         "HHS3190M-O-00000070",
         "HHS3190M-O-00000071",
-        "HHS3190M-O-00000072",
-        "HHS3190M-O-00000073",
-        "HHS3190M-O-00000074"
+        "HHS3190M-O-00000072"
       ],
       "categories": [
         "definitions_abbreviations"
@@ -878,19 +1410,33 @@
         "conditions"
       ]
     },
+    "typesofconnectivetissue": {
+      "display_forms": [
+        "Types of connective tissue"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000154"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
     "visualassociatedwithcellorganellesinatypicalhumancell": {
       "display_forms": [
         "Visual associated with: Cell Organelles in a Typical Human Cell"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000056"
+        "HHS3190M-C-0000085"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000129",
-        "HHS3190M-O-00000130",
-        "HHS3190M-O-00000131",
-        "HHS3190M-O-00000132",
-        "HHS3190M-O-00000133"
+        "HHS3190M-O-00000155",
+        "HHS3190M-O-00000156",
+        "HHS3190M-O-00000157",
+        "HHS3190M-O-00000158",
+        "HHS3190M-O-00000159"
       ],
       "categories": [
         "visual"
@@ -901,10 +1447,10 @@
         "Visual associated with: L2 Revision Exercise L2"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000057"
+        "HHS3190M-C-0000086"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000134"
+        "HHS3190M-O-00000160"
       ],
       "categories": [
         "visual"
@@ -915,12 +1461,12 @@
         "Visual associated with: Primary Tissues in Human Body"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000058"
+        "HHS3190M-C-0000087"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000135",
-        "HHS3190M-O-00000136",
-        "HHS3190M-O-00000137"
+        "HHS3190M-O-00000161",
+        "HHS3190M-O-00000162",
+        "HHS3190M-O-00000163"
       ],
       "categories": [
         "visual"
@@ -931,10 +1477,10 @@
         "Visual associated with: (Sem 1 AY26-27"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000059"
+        "HHS3190M-C-0000088"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000138"
+        "HHS3190M-O-00000164"
       ],
       "categories": [
         "visual"
@@ -945,15 +1491,15 @@
         "Visual associated with: Simple epithelium"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000060"
+        "HHS3190M-C-0000089"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000139",
-        "HHS3190M-O-00000140",
-        "HHS3190M-O-00000141",
-        "HHS3190M-O-00000142",
-        "HHS3190M-O-00000143",
-        "HHS3190M-O-00000144"
+        "HHS3190M-O-00000165",
+        "HHS3190M-O-00000166",
+        "HHS3190M-O-00000167",
+        "HHS3190M-O-00000168",
+        "HHS3190M-O-00000169",
+        "HHS3190M-O-00000170"
       ],
       "categories": [
         "visual"
@@ -964,16 +1510,16 @@
         "Visual associated with: Slide 25"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000061"
+        "HHS3190M-C-0000090"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000145",
-        "HHS3190M-O-00000146",
-        "HHS3190M-O-00000147",
-        "HHS3190M-O-00000148",
-        "HHS3190M-O-00000149",
-        "HHS3190M-O-00000150",
-        "HHS3190M-O-00000151"
+        "HHS3190M-O-00000171",
+        "HHS3190M-O-00000172",
+        "HHS3190M-O-00000173",
+        "HHS3190M-O-00000174",
+        "HHS3190M-O-00000175",
+        "HHS3190M-O-00000176",
+        "HHS3190M-O-00000177"
       ],
       "categories": [
         "visual"
@@ -984,10 +1530,10 @@
         "Visual associated with: Slide 28"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000062"
+        "HHS3190M-C-0000091"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000152"
+        "HHS3190M-O-00000178"
       ],
       "categories": [
         "visual"
@@ -998,10 +1544,10 @@
         "Visual associated with: Slide 5"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000063"
+        "HHS3190M-C-0000092"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000153"
+        "HHS3190M-O-00000179"
       ],
       "categories": [
         "visual"
@@ -1012,12 +1558,12 @@
         "Visual associated with: Typical Human Cell"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000064"
+        "HHS3190M-C-0000093"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000154",
-        "HHS3190M-O-00000155",
-        "HHS3190M-O-00000156"
+        "HHS3190M-O-00000180",
+        "HHS3190M-O-00000181",
+        "HHS3190M-O-00000182"
       ],
       "categories": [
         "visual"
@@ -1025,9 +1571,9 @@
     }
   },
   "counts": {
-    "terms": 66,
-    "concepts_referenced": 64,
-    "occurrences_referenced": 156
+    "terms": 105,
+    "concepts_referenced": 93,
+    "occurrences_referenced": 182
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"
