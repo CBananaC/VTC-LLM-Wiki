@@ -251,6 +251,16 @@ def merge_title_blocks(page: dict[str, Any], blocks: list[dict[str, Any]]) -> li
 
 def build_blocks(page: dict[str, Any]) -> list[dict[str, Any]]:
     blocks = merge_title_blocks(page, base.build_slide_blocks(page))
+    if page["pdf_page"] in {18, 20} and blocks:
+        # The slide title is embedded as "Role of Muscle" or "Net Muscle
+        # Actions" while the slide's visual makes the topic qualifier clear.
+        first = blocks[0]
+        if slide_engine.normalize(first.get("body_text", "")) in {"roleofmuscle", "netmuscleactions"}:
+            first["content_type"] = "slide_title"
+            first["text"] = SLIDE_TITLES[page["pdf_page"]]
+            first["body_text"] = SLIDE_TITLES[page["pdf_page"]]
+            first["marker"] = None
+            first["marker_source"] = "manual-visual-review-title-context"
     if page["pdf_page"] == 12 and not blocks:
         blocks = [{
             "block_id": f"{page['source_page_id']}-B001",
@@ -271,6 +281,17 @@ def build_blocks(page: dict[str, Any]) -> list[dict[str, Any]]:
             "verification_status": STATUS,
         }]
     for block in blocks:
+        # These are unambiguous PDF text-object spacing artifacts confirmed
+        # against the rendered source slides; all other source wording is
+        # retained as extracted.
+        block["text"] = block["text"].replace("andstabilizing", "and stabilizing")
+        block["body_text"] = block["body_text"].replace("andstabilizing", "and stabilizing")
+        block["text"] = block["text"].replace("OriginV.S.", "Origin V.S.")
+        block["body_text"] = block["body_text"].replace("OriginV.S.", "Origin V.S.")
+        block["text"] = block["text"].replace("Deltoid(abductor)", "Deltoid (abductor)")
+        block["body_text"] = block["body_text"].replace("Deltoid(abductor)", "Deltoid (abductor)")
+        block["text"] = block["text"].replace("dorsi(adductor)", "dorsi (adductor)")
+        block["body_text"] = block["body_text"].replace("dorsi(adductor)", "dorsi (adductor)")
         block.setdefault("content_source", "embedded-pdf-text")
     return blocks
 
