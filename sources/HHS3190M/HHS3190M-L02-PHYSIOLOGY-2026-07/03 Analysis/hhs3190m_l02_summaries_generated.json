@@ -1,0 +1,280 @@
+{
+  "schema_version": "vtc-hhs3190m-lecture.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "Cover and Outline",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002"
+      ],
+      "summary": "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27 Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance",
+      "summary_sentences": [
+        "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27",
+        "Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "Human cells: structure and basic properties",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 3,
+      "slide_end": 5,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005"
+      ],
+      "summary": "Typical Human Cell • Cell theory • A cell is the structural and functional unit of life. All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions Cell Organelles in a Typical Human Cell",
+      "summary_sentences": [
+        "Typical Human Cell • Cell theory • A cell is the structural and functional unit of life.",
+        "All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions",
+        "Cell Organelles in a Typical Human Cell"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "Cell organelles in a typical human cell",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 6,
+      "slide_end": 16,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016"
+      ],
+      "summary": "Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm? Cell Organelles in a Typical Human Cell • Endoplasmic Reticulum (ER) • Membranous organelles extending from the membrane of nucleus • Locate near the nucleus • 2 types:2 • Smooth ER (without ribosome • Rough ER (with ribosome Cell Organelles in a Typical Human Cell • Rough ER • External surface appears rough because of the attached ribosomes • Site of synthesis of proteins and phospholipids • Final protein is enclosed in vesicle and sent to Golgi body for further processing • Smooth ER • Cholesterol and steroid-based hormone synthesis • Converting of glycogen to free glucose • Storage and release of calcium ions",
+      "summary_sentences": [
+        "Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins",
+        "Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body",
+        "Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm?",
+        "Cell Organelles in a Typical Human Cell • Endoplasmic Reticulum (ER) • Membranous organelles extending from the membrane of nucleus • Locate near the nucleus • 2 types:2 • Smooth ER (without ribosome • Rough ER (with ribosome",
+        "Cell Organelles in a Typical Human Cell • Rough ER • External surface appears rough because of the attached ribosomes • Site of synthesis of proteins and phospholipids • Final protein is enclosed in vesicle and sent to Golgi body for further processing • Smooth ER • Cholesterol and steroid-based hormone synthesis • Converting of glycogen to free glucose • Storage and release of calcium ions"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "Primary tissues in the human body",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 17,
+      "slide_end": 28,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028"
+      ],
+      "summary": "Primary Tissues in Human Body • Tissue • Group of cells that are similar in structure and perform common or related function • Four basic tissue types: • Epithelial tissue • Connective tissue • Muscle tissue • Nervous tissue Primary Tissues in Human Body • Epithelial tissue • a sheet of cells that covers body surfaces or cavities • Two main forms: • Covering and lining epithelium: covering external and internal surfaces • example: skin, lining of oral cavity • Glandular epithelium: Secretory tissue in glands • example: salivary glands • Main functions: • Protection of underlying parts • Absorption • Secretion • Sensory reception Primary Tissues in Human Body • Lining epithelium can be divided into 3 types based on their cell shape: • Squamous epithelium • E.g. epidermis of skin • Columnar epithelium • E.g. lining of digestive tract • Cuboidal epithelium • E.g.",
+      "summary_sentences": [
+        "Primary Tissues in Human Body • Tissue • Group of cells that are similar in structure and perform common or related function • Four basic tissue types: • Epithelial tissue • Connective tissue • Muscle tissue • Nervous tissue",
+        "Primary Tissues in Human Body • Epithelial tissue • a sheet of cells that covers body surfaces or cavities • Two main forms: • Covering and lining epithelium: covering external and internal surfaces • example: skin, lining of oral cavity • Glandular epithelium: Secretory tissue in glands • example: salivary glands • Main functions: • Protection of underlying parts • Absorption • Secretion • Sensory reception",
+        "Primary Tissues in Human Body • Lining epithelium can be divided into 3 types based on their cell shape: • Squamous epithelium • E.g.",
+        "epidermis of skin • Columnar epithelium • E.g.",
+        "lining of digestive tract • Cuboidal epithelium • E.g."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "L2 Revision Exercise",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 29,
+      "slide_end": 29,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029"
+      ],
+      "summary": "L2 Revision Exercise L2 Screen the QR code below to complete all questions in this revision exercise.",
+      "summary_sentences": [
+        "L2 Revision Exercise L2 Screen the QR code below to complete all questions in this revision exercise."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07-PART05",
+      "level": "part",
+      "document_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "title": "References",
+      "parent_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "slide_start": 30,
+      "slide_end": 30,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030"
+      ],
+      "summary": "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K. (2018) Human Anatomy & Physiology (11th ed.). Fundamentals of Anatomy and Physiology (11th ed.). England: Pearson Benjamin Cummings. • Olson, T.R., Pawlina Woichiech (2015) A.D.A.M.",
+      "summary_sentences": [
+        "References http://www.nhc.gov.cn/yzygj/s7659/202403/bdb6d9140b734323b49c9764deba8c45.shtml • Marieb, E.N., Hoehn, K.",
+        "(2018) Human Anatomy & Physiology (11th ed.).",
+        "Fundamentals of Anatomy and Physiology (11th ed.).",
+        "England: Pearson Benjamin Cummings.",
+        "• Olson, T.R., Pawlina Woichiech (2015) A.D.A.M."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
+      "level": "document",
+      "title": "Lecture 2 - Human Cells, Basic Tissues, and Organs (July 2026)",
+      "parent_id": "HHS3190M-COURSE",
+      "slide_start": 1,
+      "slide_end": 30,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030"
+      ],
+      "summary": "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27 Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance Typical Human Cell • Cell theory • A cell is the structural and functional unit of life. All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions Cell Organelles in a Typical Human Cell Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm?",
+      "summary_sentences": [
+        "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27",
+        "Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance",
+        "Typical Human Cell • Cell theory • A cell is the structural and functional unit of life.",
+        "All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions",
+        "Cell Organelles in a Typical Human Cell",
+        "Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins",
+        "Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body",
+        "Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm?"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS3190M-COURSE",
+      "level": "course",
+      "title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0002",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0003",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0004",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0007",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0009",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0010",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0011",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0012",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0013",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0015",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0019",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0021",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0022",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0026",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0028",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0029",
+        "HHS3190M-L02-PHYSIOLOGY-2026-07-P0030"
+      ],
+      "summary": "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27 Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance Typical Human Cell • Cell theory • A cell is the structural and functional unit of life. All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions Cell Organelles in a Typical Human Cell Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm?",
+      "summary_sentences": [
+        "Physiology L2: Human Cells, Basic Tissues, Organs (Sem 1 AY26-27 26-27 Outline • Cell Organelles in a Typical Human Cell • Primary Tissues in Human Body and their Significance Typical Human Cell • Cell theory • A cell is the structural and functional unit of life.",
+        "All living organisms are composed of cells • Human is multicellular organism • Human body is composed of many cells • Over 200 different types of human cells • Types differ in size, shape, and subcellular components; these differences lead to differences in functions Cell Organelles in a Typical Human Cell Cell Organelles in a Typical Human Cell • Plasma membrane (Cell membrane) • Functions: • Separating cytoplasm (intracellular materials) and tissue fluid (extracellular fluid) • Controlling what enters and what leaves cell • Chemicals: • Consists of membrane lipids (Phospholipids and Cholesterols) that form a flexible lipid bilayer • Specialized membrane proteins float through this fluid membrane • Transporter proteins • Channel proteins • Receptor proteins Cell Organelles in a Typical Human Cell • Cytoplasm • All materials inside a cell • Cytosol (Fluid) + Cell organelles (Cellular structures) • Important cell organelles: • Nucleus (Nuclei), • Mitochondrion (Mitochondria), • Endoplasmic reticulum (Smooth / Rough), • Lysosome, • Golgi body Cell Organelles in a Typical Human Cell • Mitochondrion (Mitochondria) • “power plant” of cell • Perform aerobic (oxygen-requiring) cellular respiration to produce most of cell’s energy • Formed by 2 membranes Which type of cell, fat cell or muscle cell, has more mitochondria in cytoplasm?"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS3190M-L02-PHYSIOLOGY-2026-07"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
