@@ -1,0 +1,14 @@
+{
+  "schema_version": "vtc-hhs4867m.formal-answer.v1",
+  "record_type": "formal_answer_contract",
+  "required_sections": [
+    "answer",
+    "source_quotations",
+    "references"
+  ],
+  "reference_rule": "Cite the lecture filename and slide/PDF page number; this deck uses one slide per PDF page.",
+  "visual_rule": "Cite visual name/type/location only; reconstruct contents only for a detected table.",
+  "verification_rule": "Generated text, quotations, visual mappings, and summaries require manual source-slide verification.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
