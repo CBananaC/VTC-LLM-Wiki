@@ -4,6 +4,174 @@
   "book_id": "HHS3190M",
   "source_priority": "course_materials",
   "terms": {
+    "1100": {
+      "display_forms": [
+        "1100"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000118"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000166"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "1200": {
+      "display_forms": [
+        "1200"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000119"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000167"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "1800": {
+      "display_forms": [
+        "1800"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000120"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000168"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "1900": {
+      "display_forms": [
+        "1900"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000121"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000169"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "2400": {
+      "display_forms": [
+        "2400"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000122"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000170"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "3100": {
+      "display_forms": [
+        "3100"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000123"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000171"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "3600": {
+      "display_forms": [
+        "3600"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000124"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000172"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "4200": {
+      "display_forms": [
+        "4200"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000125"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000173"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "4800": {
+      "display_forms": [
+        "4800"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000126"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000174"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "500": {
+      "display_forms": [
+        "500"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000127"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000175"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "6000": {
+      "display_forms": [
+        "6000"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000128"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000176"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "700": {
+      "display_forms": [
+        "700"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000129"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000177"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "acidicegheavyexercise": {
       "display_forms": [
         "acidic E g heavy exercise"
@@ -23,10 +191,10 @@
         "alveolar ventilation"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000118"
+        "HHS3190M-C-0000130"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000166"
+        "HHS3190M-O-00000178"
       ],
       "categories": [
         "section_topics"
@@ -37,17 +205,87 @@
         "alveoli"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000119"
+        "HHS3190M-C-0000131"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000167",
-        "HHS3190M-O-00000168",
-        "HHS3190M-O-00000169",
-        "HHS3190M-O-00000170",
-        "HHS3190M-O-00000171",
-        "HHS3190M-O-00000172",
-        "HHS3190M-O-00000173",
-        "HHS3190M-O-00000174"
+        "HHS3190M-O-00000179",
+        "HHS3190M-O-00000180",
+        "HHS3190M-O-00000181",
+        "HHS3190M-O-00000182",
+        "HHS3190M-O-00000183",
+        "HHS3190M-O-00000184",
+        "HHS3190M-O-00000185",
+        "HHS3190M-O-00000186"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "amountofairforcefullyexhaledafteranormaltidalvolumeexpiration": {
+      "display_forms": [
+        "Amount of air forcefully exhaled after a normal tidal volume expiration"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000132"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000187"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "amountofairforcefullyinhaledafteranormaltidalvolumeinspiration": {
+      "display_forms": [
+        "Amount of air forcefully inhaled after a normal tidal volume inspiration"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000133"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000188"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "amountofairinhaledorexhaledwitheachbreathunderrestingcondition": {
+      "display_forms": [
+        "Amount of air inhaled or exhaled with each breath under resting condition"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000134"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000189"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "amountofairinhaledorexhaledwitheachbreathunderrestingconditions": {
+      "display_forms": [
+        "Amount of air inhaled or exhaled with each breath under resting conditions"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000134"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000189"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "amountofairremaininginthelungsafteraforcedexpiration": {
+      "display_forms": [
+        "Amount of air remaining in the lungs after a forced expiration"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000135"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000190"
       ],
       "categories": [
         "section_topics"
@@ -256,11 +494,11 @@
         "bronchial tree"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000120"
+        "HHS3190M-C-0000136"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000175",
-        "HHS3190M-O-00000176"
+        "HHS3190M-O-00000191",
+        "HHS3190M-O-00000192"
       ],
       "categories": [
         "section_topics"
@@ -366,6 +604,7 @@
     },
     "chest": {
       "display_forms": [
+        "Chest",
         "chest"
       ],
       "concept_ids": [
@@ -412,14 +651,14 @@
         "control of breathing"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000121"
+        "HHS3190M-C-0000137"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000177",
-        "HHS3190M-O-00000178",
-        "HHS3190M-O-00000179",
-        "HHS3190M-O-00000180",
-        "HHS3190M-O-00000181"
+        "HHS3190M-O-00000193",
+        "HHS3190M-O-00000194",
+        "HHS3190M-O-00000195",
+        "HHS3190M-O-00000196",
+        "HHS3190M-O-00000197"
       ],
       "categories": [
         "section_topics"
@@ -683,6 +922,7 @@
     },
     "exercise": {
       "display_forms": [
+        "Exercise",
         "exercise"
       ],
       "concept_ids": [
@@ -702,16 +942,15 @@
         "expiration"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000122"
+        "HHS3190M-C-0000138"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000182",
-        "HHS3190M-O-00000183",
-        "HHS3190M-O-00000184",
-        "HHS3190M-O-00000185",
-        "HHS3190M-O-00000186",
-        "HHS3190M-O-00000187",
-        "HHS3190M-O-00000188"
+        "HHS3190M-O-00000198",
+        "HHS3190M-O-00000199",
+        "HHS3190M-O-00000200",
+        "HHS3190M-O-00000201",
+        "HHS3190M-O-00000202",
+        "HHS3190M-O-00000203"
       ],
       "categories": [
         "section_topics"
@@ -729,6 +968,20 @@
       ],
       "categories": [
         "conditions"
+      ]
+    },
+    "expiratoryreservevolumeerv": {
+      "display_forms": [
+        "Expiratory reserve volume (ERV)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000139"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000204"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "fev": {
@@ -750,10 +1003,10 @@
         "fever"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000134"
+        "HHS3190M-C-0000162"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000223"
+        "HHS3190M-O-00000248"
       ],
       "categories": [
         "symptoms_signs"
@@ -768,6 +1021,20 @@
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000042"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "forcedexpirationrespiratorycapacitytotallung": {
+      "display_forms": [
+        "forced expiration Respiratory capacity Total lung"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000043"
       ],
       "categories": [
         "conditions"
@@ -825,6 +1092,20 @@
         "rehabilitation"
       ]
     },
+    "functionalresidualcapacityfrc": {
+      "display_forms": [
+        "Functional residual capacity (FRC)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000140"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000205"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "fvc": {
       "display_forms": [
         "FVC"
@@ -844,17 +1125,17 @@
         "gas exchange"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000123"
+        "HHS3190M-C-0000141"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000189",
-        "HHS3190M-O-00000190",
-        "HHS3190M-O-00000191",
-        "HHS3190M-O-00000192",
-        "HHS3190M-O-00000193",
-        "HHS3190M-O-00000194",
-        "HHS3190M-O-00000195",
-        "HHS3190M-O-00000196"
+        "HHS3190M-O-00000206",
+        "HHS3190M-O-00000207",
+        "HHS3190M-O-00000208",
+        "HHS3190M-O-00000209",
+        "HHS3190M-O-00000210",
+        "HHS3190M-O-00000211",
+        "HHS3190M-O-00000212",
+        "HHS3190M-O-00000213"
       ],
       "categories": [
         "section_topics"
@@ -863,20 +1144,6 @@
     "glossopharyngealnerve": {
       "display_forms": [
         "glossopharyngeal nerve"
-      ],
-      "concept_ids": [
-        "HHS3190M-C-0000028"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000043"
-      ],
-      "categories": [
-        "conditions"
-      ]
-    },
-    "glossopharyngealnervecranial": {
-      "display_forms": [
-        "glossopharyngeal nerve cranial"
       ],
       "concept_ids": [
         "HHS3190M-C-0000029"
@@ -888,9 +1155,9 @@
         "conditions"
       ]
     },
-    "glossopharyngealnervecranialnerve": {
+    "glossopharyngealnervecranial": {
       "display_forms": [
-        "glossopharyngeal nerve cranial nerve"
+        "glossopharyngeal nerve cranial"
       ],
       "concept_ids": [
         "HHS3190M-C-0000030"
@@ -902,18 +1169,32 @@
         "conditions"
       ]
     },
+    "glossopharyngealnervecranialnerve": {
+      "display_forms": [
+        "glossopharyngeal nerve cranial nerve"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000046"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
     "haemoglobin": {
       "display_forms": [
         "haemoglobin"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000124"
+        "HHS3190M-C-0000142"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000197",
-        "HHS3190M-O-00000198",
-        "HHS3190M-O-00000199",
-        "HHS3190M-O-00000200"
+        "HHS3190M-O-00000214",
+        "HHS3190M-O-00000215",
+        "HHS3190M-O-00000216",
+        "HHS3190M-O-00000217"
       ],
       "categories": [
         "section_topics"
@@ -924,13 +1205,13 @@
         "hemoglobin"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000124"
+        "HHS3190M-C-0000142"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000197",
-        "HHS3190M-O-00000198",
-        "HHS3190M-O-00000199",
-        "HHS3190M-O-00000200"
+        "HHS3190M-O-00000214",
+        "HHS3190M-O-00000215",
+        "HHS3190M-O-00000216",
+        "HHS3190M-O-00000217"
       ],
       "categories": [
         "section_topics"
@@ -969,10 +1250,10 @@
         "Higher temperature E g fever"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000135"
+        "HHS3190M-C-0000163"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000224"
+        "HHS3190M-O-00000249"
       ],
       "categories": [
         "symptoms_signs"
@@ -990,6 +1271,20 @@
       ],
       "categories": [
         "definitions_abbreviations"
+      ]
+    },
+    "ictvirvrespiratorycapacityfunctional": {
+      "display_forms": [
+        "IC TV IRV Respiratory capacity Functional"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000110"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000157"
+      ],
+      "categories": [
+        "rehabilitation"
       ]
     },
     "increasecontractharderrespiratorymusclesventilation": {
@@ -1011,10 +1306,10 @@
         "increased airway resistance example bronchitis"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000031"
+        "HHS3190M-C-0000032"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000046"
+        "HHS3190M-O-00000047"
       ],
       "categories": [
         "conditions"
@@ -1039,14 +1334,13 @@
         "inspiration"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000125"
+        "HHS3190M-C-0000143"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000201",
-        "HHS3190M-O-00000202",
-        "HHS3190M-O-00000203",
-        "HHS3190M-O-00000204",
-        "HHS3190M-O-00000205"
+        "HHS3190M-O-00000218",
+        "HHS3190M-O-00000219",
+        "HHS3190M-O-00000220",
+        "HHS3190M-O-00000221"
       ],
       "categories": [
         "section_topics"
@@ -1055,20 +1349,6 @@
     "inspirationinspiratorymusclescontractdiaphragm": {
       "display_forms": [
         "Inspiration Inspiratory muscles contract diaphragm"
-      ],
-      "concept_ids": [
-        "HHS3190M-C-0000032"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000047"
-      ],
-      "categories": [
-        "conditions"
-      ]
-    },
-    "inspiratorymusclescontractdiaphragmdescendsrib": {
-      "display_forms": [
-        "Inspiratory muscles contract diaphragm descends rib"
       ],
       "concept_ids": [
         "HHS3190M-C-0000033"
@@ -1080,9 +1360,23 @@
         "conditions"
       ]
     },
-    "inspiratorymusclesintrapulmonaryvolumediaphragm": {
+    "inspiratorycapacityic": {
       "display_forms": [
-        "Inspiratory muscles Intrapulmonary volume Diaphragm"
+        "Inspiratory capacity (IC)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000144"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000222"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "inspiratorymusclescontractdiaphragmdescendsrib": {
+      "display_forms": [
+        "Inspiratory muscles contract diaphragm descends rib"
       ],
       "concept_ids": [
         "HHS3190M-C-0000034"
@@ -1094,9 +1388,9 @@
         "conditions"
       ]
     },
-    "inspiratorymusclesrelaxdiaphragmrisesrib": {
+    "inspiratorymusclesintrapulmonaryvolumediaphragm": {
       "display_forms": [
-        "Inspiratory muscles relax diaphragm rises rib"
+        "Inspiratory muscles Intrapulmonary volume Diaphragm"
       ],
       "concept_ids": [
         "HHS3190M-C-0000035"
@@ -1108,15 +1402,43 @@
         "conditions"
       ]
     },
-    "intrapulmonaryvolumediaphragmintercostalmuscleslung": {
+    "inspiratorymusclesrelaxdiaphragmrisesrib": {
       "display_forms": [
-        "Intrapulmonary volume Diaphragm intercostal muscles Lung"
+        "Inspiratory muscles relax diaphragm rises rib"
       ],
       "concept_ids": [
         "HHS3190M-C-0000036"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000051"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "inspiratoryreservevolumeirv": {
+      "display_forms": [
+        "Inspiratory reserve volume (IRV)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000145"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000223"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "intrapulmonaryvolumediaphragmintercostalmuscleslung": {
+      "display_forms": [
+        "Intrapulmonary volume Diaphragm intercostal muscles Lung"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000052"
       ],
       "categories": [
         "conditions"
@@ -1155,10 +1477,10 @@
         "keep normal blood pH Normal range"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000110"
+        "HHS3190M-C-0000111"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000157"
+        "HHS3190M-O-00000158"
       ],
       "categories": [
         "rehabilitation"
@@ -1214,20 +1536,6 @@
         "lungs Chest"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000037"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000052"
-      ],
-      "categories": [
-        "conditions"
-      ]
-    },
-    "maximumtotallung": {
-      "display_forms": [
-        "maximum Total Lung"
-      ],
-      "concept_ids": [
         "HHS3190M-C-0000038"
       ],
       "occurrence_ids": [
@@ -1235,6 +1543,48 @@
       ],
       "categories": [
         "conditions"
+      ]
+    },
+    "maximumamountofairexhaledaftermaximuminspirationvctvirverv": {
+      "display_forms": [
+        "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000146"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000224"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "maximumamountofairinhaledafternormaltidalvolumeexpirationictvirv": {
+      "display_forms": [
+        "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000147"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000225"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "maximumamountofairinlungaftermaximuminspirationtlctvirvervrv": {
+      "display_forms": [
+        "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000148"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000226"
+      ],
+      "categories": [
+        "section_topics"
       ]
     },
     "mlmvmlminavmlminventilation": {
@@ -1284,11 +1634,11 @@
         "nasal cavity"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000126"
+        "HHS3190M-C-0000149"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000206",
-        "HHS3190M-O-00000207"
+        "HHS3190M-O-00000227",
+        "HHS3190M-O-00000228"
       ],
       "categories": [
         "section_topics"
@@ -1334,20 +1684,6 @@
       ],
       "categories": [
         "anatomy"
-      ]
-    },
-    "normaltidalvolumefunctional": {
-      "display_forms": [
-        "normal tidal volume Functional"
-      ],
-      "concept_ids": [
-        "HHS3190M-C-0000111"
-      ],
-      "occurrence_ids": [
-        "HHS3190M-O-00000158"
-      ],
-      "categories": [
-        "rehabilitation"
       ]
     },
     "org10": {
@@ -1426,10 +1762,10 @@
         "partial pressure"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000127"
+        "HHS3190M-C-0000150"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000208"
+        "HHS3190M-O-00000229"
       ],
       "categories": [
         "section_topics"
@@ -1468,7 +1804,8 @@
     },
     "pharynx": {
       "display_forms": [
-        "Pharynx"
+        "Pharynx",
+        "pharynx"
       ],
       "concept_ids": [
         "HHS3190M-C-0000013"
@@ -1528,11 +1865,11 @@
         "pleura"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000128"
+        "HHS3190M-C-0000151"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000209",
-        "HHS3190M-O-00000210"
+        "HHS3190M-O-00000230",
+        "HHS3190M-O-00000231"
       ],
       "categories": [
         "section_topics"
@@ -1664,15 +2001,29 @@
         "definitions_abbreviations"
       ]
     },
-    "residualvolume": {
+    "residualvolumerv": {
       "display_forms": [
-        "residual volume"
+        "Residual volume (RV)"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000129"
+        "HHS3190M-C-0000152"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000211"
+        "HHS3190M-O-00000232"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "respiratorycapacity": {
+      "display_forms": [
+        "Respiratory capacity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000153"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000233"
       ],
       "categories": [
         "section_topics"
@@ -1683,17 +2034,59 @@
         "respiratory system"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000130"
+        "HHS3190M-C-0000154"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000212",
-        "HHS3190M-O-00000213",
-        "HHS3190M-O-00000214",
-        "HHS3190M-O-00000215",
-        "HHS3190M-O-00000216"
+        "HHS3190M-O-00000234",
+        "HHS3190M-O-00000235",
+        "HHS3190M-O-00000236",
+        "HHS3190M-O-00000237",
+        "HHS3190M-O-00000238"
       ],
       "categories": [
         "section_topics"
+      ]
+    },
+    "respiratoryvolume": {
+      "display_forms": [
+        "Respiratory volume"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000155"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000239"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "respiratoryvolumesandcapacities": {
+      "display_forms": [
+        "Respiratory volumes and capacities"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000164"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000250"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "respiratoryvolumesandcapacity": {
+      "display_forms": [
+        "Respiratory volumes and capacity"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000164"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000250"
+      ],
+      "categories": [
+        "visual"
       ]
     },
     "revisionexercise": {
@@ -1872,15 +2265,15 @@
         "anatomy"
       ]
     },
-    "tidalvolume": {
+    "tidalvolumetv": {
       "display_forms": [
-        "tidal volume"
+        "Tidal volume (TV)"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000131"
+        "HHS3190M-C-0000156"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000217"
+        "HHS3190M-O-00000240"
       ],
       "categories": [
         "section_topics"
@@ -1915,6 +2308,20 @@
         "conditions"
       ]
     },
+    "totallungcapacitytlc": {
+      "display_forms": [
+        "Total lung capacity (TLC)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000157"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000241"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
     "trachea": {
       "display_forms": [
         "Trachea",
@@ -1922,15 +2329,15 @@
       ],
       "concept_ids": [
         "HHS3190M-C-0000016",
-        "HHS3190M-C-0000132"
+        "HHS3190M-C-0000158"
       ],
       "occurrence_ids": [
         "HHS3190M-O-00000029",
         "HHS3190M-O-00000030",
         "HHS3190M-O-00000031",
-        "HHS3190M-O-00000218",
-        "HHS3190M-O-00000219",
-        "HHS3190M-O-00000220"
+        "HHS3190M-O-00000242",
+        "HHS3190M-O-00000243",
+        "HHS3190M-O-00000244"
       ],
       "categories": [
         "anatomy",
@@ -2020,11 +2427,11 @@
         "Visual associated with: 160 mmHg"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000136"
+        "HHS3190M-C-0000165"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000225",
-        "HHS3190M-O-00000226"
+        "HHS3190M-O-00000251",
+        "HHS3190M-O-00000252"
       ],
       "categories": [
         "visual"
@@ -2035,10 +2442,10 @@
         "Visual associated with: Anatomy of the Respiratory System"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000137"
+        "HHS3190M-C-0000166"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000227"
+        "HHS3190M-O-00000253"
       ],
       "categories": [
         "visual"
@@ -2049,10 +2456,10 @@
         "Visual associated with: Cells, called “type II cells”, are found on the alveolar walls."
       ],
       "concept_ids": [
-        "HHS3190M-C-0000138"
+        "HHS3190M-C-0000167"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000228"
+        "HHS3190M-O-00000254"
       ],
       "categories": [
         "visual"
@@ -2063,11 +2470,11 @@
         "Visual associated with: Connection between lungs and heart - Pulmonary circulation:"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000139"
+        "HHS3190M-C-0000168"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000229",
-        "HHS3190M-O-00000230"
+        "HHS3190M-O-00000255",
+        "HHS3190M-O-00000256"
       ],
       "categories": [
         "visual"
@@ -2078,12 +2485,12 @@
         "Visual associated with: Control of Breathing"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000140"
+        "HHS3190M-C-0000169"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000231",
-        "HHS3190M-O-00000232",
-        "HHS3190M-O-00000233"
+        "HHS3190M-O-00000257",
+        "HHS3190M-O-00000258",
+        "HHS3190M-O-00000259"
       ],
       "categories": [
         "visual"
@@ -2094,10 +2501,10 @@
         "Visual associated with: Expiration"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000141"
+        "HHS3190M-C-0000170"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000234"
+        "HHS3190M-O-00000260"
       ],
       "categories": [
         "visual"
@@ -2108,11 +2515,11 @@
         "Visual associated with: Gas Exchange between Lungs and Blood"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000142"
+        "HHS3190M-C-0000171"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000235",
-        "HHS3190M-O-00000236"
+        "HHS3190M-O-00000261",
+        "HHS3190M-O-00000262"
       ],
       "categories": [
         "visual"
@@ -2123,10 +2530,10 @@
         "Visual associated with: Inspiration"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000143"
+        "HHS3190M-C-0000172"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000237"
+        "HHS3190M-O-00000263"
       ],
       "categories": [
         "visual"
@@ -2137,11 +2544,11 @@
         "Visual associated with: L6 Revision Exercise"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000144"
+        "HHS3190M-C-0000173"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000238",
-        "HHS3190M-O-00000239"
+        "HHS3190M-O-00000264",
+        "HHS3190M-O-00000265"
       ],
       "categories": [
         "visual"
@@ -2152,10 +2559,10 @@
         "Visual associated with: Slide 10"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000145"
+        "HHS3190M-C-0000174"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000240"
+        "HHS3190M-O-00000266"
       ],
       "categories": [
         "visual"
@@ -2166,10 +2573,10 @@
         "Visual associated with: Slide 21"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000146"
+        "HHS3190M-C-0000175"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000241"
+        "HHS3190M-O-00000267"
       ],
       "categories": [
         "visual"
@@ -2180,10 +2587,10 @@
         "Visual associated with: Slide 4"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000147"
+        "HHS3190M-C-0000176"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000242"
+        "HHS3190M-O-00000268"
       ],
       "categories": [
         "visual"
@@ -2194,11 +2601,11 @@
         "Visual associated with: Slide 6"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000148"
+        "HHS3190M-C-0000177"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000243",
-        "HHS3190M-O-00000244"
+        "HHS3190M-O-00000269",
+        "HHS3190M-O-00000270"
       ],
       "categories": [
         "visual"
@@ -2209,10 +2616,10 @@
         "Visual associated with: Slide 8"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000149"
+        "HHS3190M-C-0000178"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000245"
+        "HHS3190M-O-00000271"
       ],
       "categories": [
         "visual"
@@ -2223,13 +2630,13 @@
         "Visual associated with: Transport of Gases in Blood"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000150"
+        "HHS3190M-C-0000179"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000246",
-        "HHS3190M-O-00000247",
-        "HHS3190M-O-00000248",
-        "HHS3190M-O-00000249"
+        "HHS3190M-O-00000272",
+        "HHS3190M-O-00000273",
+        "HHS3190M-O-00000274",
+        "HHS3190M-O-00000275"
       ],
       "categories": [
         "visual"
@@ -2240,11 +2647,38 @@
         "vital capacity"
       ],
       "concept_ids": [
-        "HHS3190M-C-0000133"
+        "HHS3190M-C-0000159"
       ],
       "occurrence_ids": [
-        "HHS3190M-O-00000221",
-        "HHS3190M-O-00000222"
+        "HHS3190M-O-00000245"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "vitalcapacityvc": {
+      "display_forms": [
+        "Vital capacity (VC)"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000160"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000246"
+      ],
+      "categories": [
+        "section_topics"
+      ]
+    },
+    "volumeremaininginthelungsafternormaltidalvolumeexpirationfrcervrv": {
+      "display_forms": [
+        "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV"
+      ],
+      "concept_ids": [
+        "HHS3190M-C-0000161"
+      ],
+      "occurrence_ids": [
+        "HHS3190M-O-00000247"
       ],
       "categories": [
         "section_topics"
@@ -2252,9 +2686,9 @@
     }
   },
   "counts": {
-    "terms": 152,
-    "concepts_referenced": 150,
-    "occurrences_referenced": 249
+    "terms": 183,
+    "concepts_referenced": 179,
+    "occurrences_referenced": 275
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"

@@ -174,7 +174,8 @@
       ],
       "source_excerpt": "Organ /Structure Description Function Lungs ➢ Ventilation (Inhale and exhale) ● Right and left lungs are located within the thoracic cavity of the chest ➢ Gas exchange between air and blood ● Composed of alveoli, bronchial tree, and elastic connective tissues Alveoli ➢ Site of gas exchange between inhaled ● Smallest chamber at the ends of bronchial tree air and blood (Single: Alveolus) ● Walls are simple squamous epithelium ● External surfaces are surrounded by many capillaries Pleura ➢ Produce ",
       "retrieval_terms": [
-        "chest"
+        "chest",
+        "Chest"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -189,7 +190,7 @@
         "Anatomy",
         "chest"
       ],
-      "source_form": "chest",
+      "source_form": "Chest",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0016-PASSAGE"
       ],
@@ -218,7 +219,8 @@
       ],
       "source_excerpt": "● Inspiratory muscles ● Intrapulmonary volume ○ Diaphragm & intercostal muscles ○ Lung volume ○ Alveolar volume ○ Contract to induce inspiration ● Intrapulmonary pressure (P alv ) ○ Relax to induce expiration ○ Pressure in the alveoli ○ When it is higher than P atm, air flows ● Thoracic cavity out of lungs ○ Chest cavity ○ The chamber that encloses by chest ○ When it is lower than P atm, air flows wall (ribs, sternum and intercostal into lungs muscles) and diaphragm ● Atmospheric pressure (P atm",
       "retrieval_terms": [
-        "chest"
+        "chest",
+        "Chest"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -592,51 +594,6 @@
       ],
       "source_form": "lung",
       "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "Lung",
-        "lung"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000015",
-      "concept_id": "HHS3190M-C-0000009",
-      "category": "anatomy",
-      "broad_area": "Anatomy",
-      "small_area": "Lung",
-      "keyword_path": [
-        "Anatomy",
-        "Lung"
-      ],
-      "source_form": "lung",
-      "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0023-PASSAGE"
       ],
       "source_element_ids": [],
@@ -663,6 +620,53 @@
         "HHS3190M-COURSE"
       ],
       "source_excerpt": "Mechanics of Breathing • Pulmonary Function Test • Spirometry can distinguish • Obstructive pulmonary disease: increased airway resistance (example: bronchitis) • TLC, FRC, RV may increase TLC • Restrictive disease: reduced TLC due to disease (example: tuberculosis) or exposure to environmental agents (example: fibrosis) TLC • VC, TLC, FRC, RV decrease because lung expansion is compromised",
+      "retrieval_terms": [
+        "Lung",
+        "lung"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000015",
+      "concept_id": "HHS3190M-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Lung",
+      "keyword_path": [
+        "Anatomy",
+        "Lung"
+      ],
+      "source_form": "lung",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "Lung",
         "lung"
@@ -932,7 +936,8 @@
       ],
       "source_excerpt": "Anatomy of the Respiratory System • Major organs • Upper respiratory tract • Nose and nasal cavity • Paranasal sinuses • Pharynx • Larynx • Lower respiratory tract • Trachea • Bronchi and branches (bronchiole) • Lungs and alveoli",
       "retrieval_terms": [
-        "Pharynx"
+        "Pharynx",
+        "pharynx"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -947,7 +952,7 @@
         "Anatomy",
         "Pharynx"
       ],
-      "source_form": "Pharynx",
+      "source_form": "pharynx",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0005-PASSAGE"
       ],
@@ -976,7 +981,8 @@
       ],
       "source_excerpt": "Description Function Organ /Structure ➢ Produce mucus for filtering and ● External part supported by bones and Nose cartilages; internal cavity divided by nasal moistening air. (Nasal cavity septum and lined with mucus. ➢ Warming air ➢ Sensation of smell ● Roof of nasal cavity contains olfactory epithelium. ➢ Passageway for food and air ● Passageway connecting (1) nasal cavity to Pharynx larynx and (2) oral cavity to esophagus ➢ Protection against inhaled pathogens ● Have tonsils (lymphatic tiss",
       "retrieval_terms": [
-        "Pharynx"
+        "Pharynx",
+        "pharynx"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -1349,7 +1355,7 @@
         "Anatomy",
         "Trachea"
       ],
-      "source_form": "Trachea",
+      "source_form": "trachea",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0007-PASSAGE"
       ],
@@ -1873,6 +1879,52 @@
       "concept_id": "HHS3190M-C-0000028",
       "category": "conditions",
       "broad_area": "Conditions",
+      "small_area": "forced expiration Respiratory capacity Total lung",
+      "keyword_path": [
+        "Conditions",
+        "forced expiration Respiratory capacity Total lung"
+      ],
+      "source_form": "forced expiration Respiratory capacity Total lung",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "forced expiration Respiratory capacity Total lung"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000044",
+      "concept_id": "HHS3190M-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
       "small_area": "glossopharyngeal nerve",
       "keyword_path": [
         "Conditions",
@@ -1913,8 +1965,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000044",
-      "concept_id": "HHS3190M-C-0000029",
+      "occurrence_id": "HHS3190M-O-00000045",
+      "concept_id": "HHS3190M-C-0000030",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "glossopharyngeal nerve cranial",
@@ -1957,8 +2009,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000045",
-      "concept_id": "HHS3190M-C-0000030",
+      "occurrence_id": "HHS3190M-O-00000046",
+      "concept_id": "HHS3190M-C-0000031",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "glossopharyngeal nerve cranial nerve",
@@ -2001,8 +2053,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000046",
-      "concept_id": "HHS3190M-C-0000031",
+      "occurrence_id": "HHS3190M-O-00000047",
+      "concept_id": "HHS3190M-C-0000032",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "increased airway resistance example bronchitis",
@@ -2045,8 +2097,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000047",
-      "concept_id": "HHS3190M-C-0000032",
+      "occurrence_id": "HHS3190M-O-00000048",
+      "concept_id": "HHS3190M-C-0000033",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "Inspiration Inspiratory muscles contract diaphragm",
@@ -2089,8 +2141,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000048",
-      "concept_id": "HHS3190M-C-0000033",
+      "occurrence_id": "HHS3190M-O-00000049",
+      "concept_id": "HHS3190M-C-0000034",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "Inspiratory muscles contract diaphragm descends rib",
@@ -2133,8 +2185,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000049",
-      "concept_id": "HHS3190M-C-0000034",
+      "occurrence_id": "HHS3190M-O-00000050",
+      "concept_id": "HHS3190M-C-0000035",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "Inspiratory muscles Intrapulmonary volume Diaphragm",
@@ -2177,8 +2229,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000050",
-      "concept_id": "HHS3190M-C-0000035",
+      "occurrence_id": "HHS3190M-O-00000051",
+      "concept_id": "HHS3190M-C-0000036",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "Inspiratory muscles relax diaphragm rises rib",
@@ -2221,8 +2273,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000051",
-      "concept_id": "HHS3190M-C-0000036",
+      "occurrence_id": "HHS3190M-O-00000052",
+      "concept_id": "HHS3190M-C-0000037",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "Intrapulmonary volume Diaphragm intercostal muscles Lung",
@@ -2265,8 +2317,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000052",
-      "concept_id": "HHS3190M-C-0000037",
+      "occurrence_id": "HHS3190M-O-00000053",
+      "concept_id": "HHS3190M-C-0000038",
       "category": "conditions",
       "broad_area": "Conditions",
       "small_area": "lungs Chest",
@@ -2304,50 +2356,6 @@
       "source_excerpt": "● Inspiratory muscles ● Intrapulmonary volume ○ Diaphragm & intercostal muscles ○ Lung volume ○ Alveolar volume ○ Contract to induce inspiration ● Intrapulmonary pressure (P alv ) ○ Relax to induce expiration ○ Pressure in the alveoli ○ When it is higher than P atm, air flows ● Thoracic cavity out of lungs ○ Chest cavity ○ The chamber that encloses by chest ○ When it is lower than P atm, air flows wall (ribs, sternum and intercostal into lungs muscles) and diaphragm ● Atmospheric pressure (P atm",
       "retrieval_terms": [
         "lungs Chest"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000053",
-      "concept_id": "HHS3190M-C-0000038",
-      "category": "conditions",
-      "broad_area": "Conditions",
-      "small_area": "maximum Total Lung",
-      "keyword_path": [
-        "Conditions",
-        "maximum Total Lung"
-      ],
-      "source_form": "maximum Total Lung",
-      "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "maximum Total Lung"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -3202,7 +3210,9 @@
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -3225,7 +3235,7 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "ERV"
       ],
@@ -3288,50 +3298,6 @@
       ],
       "source_form": "FRC",
       "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "FRC"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000076",
-      "concept_id": "HHS3190M-C-0000060",
-      "category": "definitions_abbreviations",
-      "broad_area": "Definitions and abbreviations",
-      "small_area": "FRC",
-      "keyword_path": [
-        "Definitions and abbreviations",
-        "FRC"
-      ],
-      "source_form": "FRC",
-      "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0023-PASSAGE"
       ],
       "source_element_ids": [],
@@ -3358,6 +3324,52 @@
         "HHS3190M-COURSE"
       ],
       "source_excerpt": "Mechanics of Breathing • Pulmonary Function Test • Spirometry can distinguish • Obstructive pulmonary disease: increased airway resistance (example: bronchitis) • TLC, FRC, RV may increase TLC • Restrictive disease: reduced TLC due to disease (example: tuberculosis) or exposure to environmental agents (example: fibrosis) TLC • VC, TLC, FRC, RV decrease because lung expansion is compromised",
+      "retrieval_terms": [
+        "FRC"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000076",
+      "concept_id": "HHS3190M-C-0000060",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "FRC",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "FRC"
+      ],
+      "source_form": "FRC",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "FRC"
       ],
@@ -3598,7 +3610,9 @@
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -3621,7 +3635,7 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "IRV"
       ],
@@ -3905,50 +3919,6 @@
       ],
       "source_form": "TLC",
       "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "TLC"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000090",
-      "concept_id": "HHS3190M-C-0000073",
-      "category": "definitions_abbreviations",
-      "broad_area": "Definitions and abbreviations",
-      "small_area": "TLC",
-      "keyword_path": [
-        "Definitions and abbreviations",
-        "TLC"
-      ],
-      "source_form": "TLC",
-      "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0023-PASSAGE"
       ],
       "source_element_ids": [],
@@ -3975,6 +3945,52 @@
         "HHS3190M-COURSE"
       ],
       "source_excerpt": "Mechanics of Breathing • Pulmonary Function Test • Spirometry can distinguish • Obstructive pulmonary disease: increased airway resistance (example: bronchitis) • TLC, FRC, RV may increase TLC • Restrictive disease: reduced TLC due to disease (example: tuberculosis) or exposure to environmental agents (example: fibrosis) TLC • VC, TLC, FRC, RV decrease because lung expansion is compromised",
+      "retrieval_terms": [
+        "TLC"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000090",
+      "concept_id": "HHS3190M-C-0000073",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "TLC",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TLC"
+      ],
+      "source_form": "TLC",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "TLC"
       ],
@@ -5576,7 +5592,8 @@
       ],
       "source_excerpt": "Mechanics of Breathing • Minute Ventilation (MV) • total amount of gas that flows into or out of respiratory tract in 1 minute • Normal at rest: Average 6 L/min • Normal with exercise: Up to 200 L/min • Only rough estimate of respiratory efficiency • MV = TV × Respiratory Rate • Example: TV = 500 ml; Respiratory Rate = 14 breaths/min MV = 500 × 14 = 7000 ml/min",
       "retrieval_terms": [
-        "exercise"
+        "exercise",
+        "Exercise"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -5620,7 +5637,8 @@
       ],
       "source_excerpt": "(Self-Study Transport of Gases in Blood • More O 2 released when: • Higher temperature E.g. fever/ heavy exercise • Blood becomes more acidic E.g. heavy exercise • CO 2 level increases E.g. heavy exercise",
       "retrieval_terms": [
-        "exercise"
+        "exercise",
+        "Exercise"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -5635,7 +5653,7 @@
         "Management and treatment",
         "exercise"
       ],
-      "source_form": "exercise",
+      "source_form": "Exercise",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0044-PASSAGE"
       ],
@@ -5664,7 +5682,8 @@
       ],
       "source_excerpt": "L6 Revision Exercise Screen the QR code below to complete all questions in this revision exercise.",
       "retrieval_terms": [
-        "exercise"
+        "exercise",
+        "Exercise"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -6879,7 +6898,9 @@
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -6902,7 +6923,7 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
         "Functional"
       ],
@@ -6912,6 +6933,52 @@
     {
       "occurrence_id": "HHS3190M-O-00000157",
       "concept_id": "HHS3190M-C-0000110",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "IC TV IRV Respiratory capacity Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "IC TV IRV Respiratory capacity Functional"
+      ],
+      "source_form": "IC TV IRV Respiratory capacity Functional",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions Respiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration Respiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration Respiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "IC TV IRV Respiratory capacity Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000158",
+      "concept_id": "HHS3190M-C-0000111",
       "category": "rehabilitation",
       "broad_area": "Rehabilitation",
       "small_area": "keep normal blood pH Normal range",
@@ -6949,50 +7016,6 @@
       "source_excerpt": "Transport of Gases in Blood • Influence of CO 2 on blood pH • The carbonic acid-bicarbonate buffer system is very important to keep normal blood pH. • Normal range of blood pH: 7.35-7.45 • Change in respiratory rate can change blood pH by altering amount of carbonic acid in blood. • Slow, shallow breathing→More CO 2 remain in blood →More carbonic acid→Blood pH decreases (Acidic) • Rapid, deep breathing→Less CO 2 remain in blood →Less carbonic acid→Blood pH increases (Alkaline)",
       "retrieval_terms": [
         "keep normal blood pH Normal range"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000158",
-      "concept_id": "HHS3190M-C-0000111",
-      "category": "rehabilitation",
-      "broad_area": "Rehabilitation",
-      "small_area": "normal tidal volume Functional",
-      "keyword_path": [
-        "Rehabilitation",
-        "normal tidal volume Functional"
-      ],
-      "source_form": "normal tidal volume Functional",
-      "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult) Name Description Male Female Amount of air inhaled or exhaled with each breath under resting Tidal Volume (TV) 500 ml 500 ml conditions Amount of air that can be forcefully inhaled after a normal tidal Inspiratory Reserve Volume (IRV) 3100 ml 1900 ml volume inspiration Respiratory volume Amount of air that can be forcefully exhaled after a normal tidal Expiratory Reserve Volume (ERV) 1200 ml 700 ml volume expiration Amount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "normal tidal volume Functional"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
@@ -7311,6 +7334,558 @@
       "concept_id": "HHS3190M-C-0000118",
       "category": "section_topics",
       "broad_area": "Section topics",
+      "small_area": "1100",
+      "keyword_path": [
+        "Section topics",
+        "1100"
+      ],
+      "source_form": "1100",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "1100"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000167",
+      "concept_id": "HHS3190M-C-0000119",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "1200",
+      "keyword_path": [
+        "Section topics",
+        "1200"
+      ],
+      "source_form": "1200",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "1200"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000168",
+      "concept_id": "HHS3190M-C-0000120",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "1800",
+      "keyword_path": [
+        "Section topics",
+        "1800"
+      ],
+      "source_form": "1800",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "1800"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000169",
+      "concept_id": "HHS3190M-C-0000121",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "1900",
+      "keyword_path": [
+        "Section topics",
+        "1900"
+      ],
+      "source_form": "1900",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "1900"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000170",
+      "concept_id": "HHS3190M-C-0000122",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "2400",
+      "keyword_path": [
+        "Section topics",
+        "2400"
+      ],
+      "source_form": "2400",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "2400"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000171",
+      "concept_id": "HHS3190M-C-0000123",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "3100",
+      "keyword_path": [
+        "Section topics",
+        "3100"
+      ],
+      "source_form": "3100",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "3100"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000172",
+      "concept_id": "HHS3190M-C-0000124",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "3600",
+      "keyword_path": [
+        "Section topics",
+        "3600"
+      ],
+      "source_form": "3600",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "3600"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000173",
+      "concept_id": "HHS3190M-C-0000125",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "4200",
+      "keyword_path": [
+        "Section topics",
+        "4200"
+      ],
+      "source_form": "4200",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "4200"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000174",
+      "concept_id": "HHS3190M-C-0000126",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "4800",
+      "keyword_path": [
+        "Section topics",
+        "4800"
+      ],
+      "source_form": "4800",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "4800"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000175",
+      "concept_id": "HHS3190M-C-0000127",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "500",
+      "keyword_path": [
+        "Section topics",
+        "500"
+      ],
+      "source_form": "500",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "500"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000176",
+      "concept_id": "HHS3190M-C-0000128",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "6000",
+      "keyword_path": [
+        "Section topics",
+        "6000"
+      ],
+      "source_form": "6000",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "6000"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000177",
+      "concept_id": "HHS3190M-C-0000129",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "700",
+      "keyword_path": [
+        "Section topics",
+        "700"
+      ],
+      "source_form": "700",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "700"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000178",
+      "concept_id": "HHS3190M-C-0000130",
+      "category": "section_topics",
+      "broad_area": "Section topics",
       "small_area": "alveolar ventilation",
       "keyword_path": [
         "Section topics",
@@ -7351,8 +7926,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000167",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000179",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7395,8 +7970,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000168",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000180",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7439,8 +8014,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000169",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000181",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7483,8 +8058,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000170",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000182",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7527,8 +8102,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000171",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000183",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7571,8 +8146,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000172",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000184",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7615,8 +8190,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000173",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000185",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7659,8 +8234,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000174",
-      "concept_id": "HHS3190M-C-0000119",
+      "occurrence_id": "HHS3190M-O-00000186",
+      "concept_id": "HHS3190M-C-0000131",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "alveoli",
@@ -7703,8 +8278,193 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000175",
-      "concept_id": "HHS3190M-C-0000120",
+      "occurrence_id": "HHS3190M-O-00000187",
+      "concept_id": "HHS3190M-C-0000132",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Amount of air forcefully exhaled after a normal tidal volume expiration",
+      "keyword_path": [
+        "Section topics",
+        "Amount of air forcefully exhaled after a normal tidal volume expiration"
+      ],
+      "source_form": "Amount of air forcefully exhaled after a normal tidal volume expiration",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Amount of air forcefully exhaled after a normal tidal volume expiration"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000188",
+      "concept_id": "HHS3190M-C-0000133",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Amount of air forcefully inhaled after a normal tidal volume inspiration",
+      "keyword_path": [
+        "Section topics",
+        "Amount of air forcefully inhaled after a normal tidal volume inspiration"
+      ],
+      "source_form": "Amount of air forcefully inhaled after a normal tidal volume inspiration",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Amount of air forcefully inhaled after a normal tidal volume inspiration"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000189",
+      "concept_id": "HHS3190M-C-0000134",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Amount of air inhaled or exhaled with each breath under resting conditions",
+      "keyword_path": [
+        "Section topics",
+        "Amount of air inhaled or exhaled with each breath under resting conditions"
+      ],
+      "source_form": "Amount of air inhaled or exhaled with each breath under resting conditions",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Amount of air inhaled or exhaled with each breath under resting conditions",
+        "Amount of air inhaled or exhaled with each breath under resting condition"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000190",
+      "concept_id": "HHS3190M-C-0000135",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Amount of air remaining in the lungs after a forced expiration",
+      "keyword_path": [
+        "Section topics",
+        "Amount of air remaining in the lungs after a forced expiration"
+      ],
+      "source_form": "Amount of air remaining in the lungs after a forced expiration",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Amount of air remaining in the lungs after a forced expiration"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000191",
+      "concept_id": "HHS3190M-C-0000136",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "bronchial tree",
@@ -7747,8 +8507,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000176",
-      "concept_id": "HHS3190M-C-0000120",
+      "occurrence_id": "HHS3190M-O-00000192",
+      "concept_id": "HHS3190M-C-0000136",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "bronchial tree",
@@ -7791,8 +8551,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000177",
-      "concept_id": "HHS3190M-C-0000121",
+      "occurrence_id": "HHS3190M-O-00000193",
+      "concept_id": "HHS3190M-C-0000137",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "control of breathing",
@@ -7835,8 +8595,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000178",
-      "concept_id": "HHS3190M-C-0000121",
+      "occurrence_id": "HHS3190M-O-00000194",
+      "concept_id": "HHS3190M-C-0000137",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "control of breathing",
@@ -7879,8 +8639,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000179",
-      "concept_id": "HHS3190M-C-0000121",
+      "occurrence_id": "HHS3190M-O-00000195",
+      "concept_id": "HHS3190M-C-0000137",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "control of breathing",
@@ -7923,8 +8683,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000180",
-      "concept_id": "HHS3190M-C-0000121",
+      "occurrence_id": "HHS3190M-O-00000196",
+      "concept_id": "HHS3190M-C-0000137",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "control of breathing",
@@ -7967,8 +8727,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000181",
-      "concept_id": "HHS3190M-C-0000121",
+      "occurrence_id": "HHS3190M-O-00000197",
+      "concept_id": "HHS3190M-C-0000137",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "control of breathing",
@@ -8011,8 +8771,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000182",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000198",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8055,8 +8815,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000183",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000199",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8099,8 +8859,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000184",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000200",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8143,8 +8903,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000185",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000201",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8187,8 +8947,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000186",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000202",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8231,8 +8991,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000187",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000203",
+      "concept_id": "HHS3190M-C-0000138",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "expiration",
@@ -8275,20 +9035,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000188",
-      "concept_id": "HHS3190M-C-0000122",
+      "occurrence_id": "HHS3190M-O-00000204",
+      "concept_id": "HHS3190M-C-0000139",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "expiration",
+      "small_area": "Expiratory reserve volume (ERV)",
       "keyword_path": [
         "Section topics",
-        "expiration"
+        "Expiratory reserve volume (ERV)"
       ],
-      "source_form": "expiration",
+      "source_form": "Expiratory reserve volume (ERV)",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -8311,16 +9073,62 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult)\nName\nDescription\nMale\nFemale\nAmount of air inhaled or exhaled with each breath under resting\nTidal Volume (TV)\n500 ml\n500 ml\nconditions\nAmount of air that can be forcefully inhaled after a normal tidal\nInspiratory Reserve Volume (IRV)\n3100 ml\n1900 ml\nvolume inspiration\nRespiratory\nvolume\nAmount of air that can be forcefully exhaled after a normal tidal\nExpiratory Reserve Volume (ERV)\n1200 ml\n700 ml\nvolume expiration\nAmount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
-        "expiration"
+        "Expiratory reserve volume (ERV)"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000189",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000205",
+      "concept_id": "HHS3190M-C-0000140",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Functional residual capacity (FRC)",
+      "keyword_path": [
+        "Section topics",
+        "Functional residual capacity (FRC)"
+      ],
+      "source_form": "Functional residual capacity (FRC)",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Functional residual capacity (FRC)"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000206",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8363,8 +9171,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000190",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000207",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8407,8 +9215,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000191",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000208",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8451,8 +9259,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000192",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000209",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8495,8 +9303,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000193",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000210",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8539,8 +9347,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000194",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000211",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8583,8 +9391,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000195",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000212",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8627,8 +9435,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000196",
-      "concept_id": "HHS3190M-C-0000123",
+      "occurrence_id": "HHS3190M-O-00000213",
+      "concept_id": "HHS3190M-C-0000141",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "gas exchange",
@@ -8671,8 +9479,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000197",
-      "concept_id": "HHS3190M-C-0000124",
+      "occurrence_id": "HHS3190M-O-00000214",
+      "concept_id": "HHS3190M-C-0000142",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "hemoglobin",
@@ -8716,8 +9524,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000198",
-      "concept_id": "HHS3190M-C-0000124",
+      "occurrence_id": "HHS3190M-O-00000215",
+      "concept_id": "HHS3190M-C-0000142",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "hemoglobin",
@@ -8761,8 +9569,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000199",
-      "concept_id": "HHS3190M-C-0000124",
+      "occurrence_id": "HHS3190M-O-00000216",
+      "concept_id": "HHS3190M-C-0000142",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "hemoglobin",
@@ -8806,8 +9614,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000200",
-      "concept_id": "HHS3190M-C-0000124",
+      "occurrence_id": "HHS3190M-O-00000217",
+      "concept_id": "HHS3190M-C-0000142",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "hemoglobin",
@@ -8851,8 +9659,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000201",
-      "concept_id": "HHS3190M-C-0000125",
+      "occurrence_id": "HHS3190M-O-00000218",
+      "concept_id": "HHS3190M-C-0000143",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "inspiration",
@@ -8895,8 +9703,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000202",
-      "concept_id": "HHS3190M-C-0000125",
+      "occurrence_id": "HHS3190M-O-00000219",
+      "concept_id": "HHS3190M-C-0000143",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "inspiration",
@@ -8939,8 +9747,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000203",
-      "concept_id": "HHS3190M-C-0000125",
+      "occurrence_id": "HHS3190M-O-00000220",
+      "concept_id": "HHS3190M-C-0000143",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "inspiration",
@@ -8983,8 +9791,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000204",
-      "concept_id": "HHS3190M-C-0000125",
+      "occurrence_id": "HHS3190M-O-00000221",
+      "concept_id": "HHS3190M-C-0000143",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "inspiration",
@@ -9027,20 +9835,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000205",
-      "concept_id": "HHS3190M-C-0000125",
+      "occurrence_id": "HHS3190M-O-00000222",
+      "concept_id": "HHS3190M-C-0000144",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "inspiration",
+      "small_area": "Inspiratory capacity (IC)",
       "keyword_path": [
         "Section topics",
-        "inspiration"
+        "Inspiratory capacity (IC)"
       ],
-      "source_form": "inspiration",
+      "source_form": "Inspiratory capacity (IC)",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -9063,16 +9873,200 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult)\nName\nDescription\nMale\nFemale\nAmount of air inhaled or exhaled with each breath under resting\nTidal Volume (TV)\n500 ml\n500 ml\nconditions\nAmount of air that can be forcefully inhaled after a normal tidal\nInspiratory Reserve Volume (IRV)\n3100 ml\n1900 ml\nvolume inspiration\nRespiratory\nvolume\nAmount of air that can be forcefully exhaled after a normal tidal\nExpiratory Reserve Volume (ERV)\n1200 ml\n700 ml\nvolume expiration\nAmount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
-        "inspiration"
+        "Inspiratory capacity (IC)"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000206",
-      "concept_id": "HHS3190M-C-0000126",
+      "occurrence_id": "HHS3190M-O-00000223",
+      "concept_id": "HHS3190M-C-0000145",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Inspiratory reserve volume (IRV)",
+      "keyword_path": [
+        "Section topics",
+        "Inspiratory reserve volume (IRV)"
+      ],
+      "source_form": "Inspiratory reserve volume (IRV)",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Inspiratory reserve volume (IRV)"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000224",
+      "concept_id": "HHS3190M-C-0000146",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV",
+      "keyword_path": [
+        "Section topics",
+        "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV"
+      ],
+      "source_form": "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Maximum amount of air exhaled after maximum inspiration; VC = TV + IRV + ERV"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000225",
+      "concept_id": "HHS3190M-C-0000147",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV",
+      "keyword_path": [
+        "Section topics",
+        "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV"
+      ],
+      "source_form": "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Maximum amount of air inhaled after normal tidal volume expiration; IC = TV + IRV"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000226",
+      "concept_id": "HHS3190M-C-0000148",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV",
+      "keyword_path": [
+        "Section topics",
+        "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV"
+      ],
+      "source_form": "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Maximum amount of air in lung after maximum inspiration; TLC = TV + IRV + ERV + RV"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000227",
+      "concept_id": "HHS3190M-C-0000149",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nasal cavity",
@@ -9115,8 +10109,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000207",
-      "concept_id": "HHS3190M-C-0000126",
+      "occurrence_id": "HHS3190M-O-00000228",
+      "concept_id": "HHS3190M-C-0000149",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "nasal cavity",
@@ -9159,8 +10153,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000208",
-      "concept_id": "HHS3190M-C-0000127",
+      "occurrence_id": "HHS3190M-O-00000229",
+      "concept_id": "HHS3190M-C-0000150",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "partial pressure",
@@ -9203,8 +10197,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000209",
-      "concept_id": "HHS3190M-C-0000128",
+      "occurrence_id": "HHS3190M-O-00000230",
+      "concept_id": "HHS3190M-C-0000151",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "pleura",
@@ -9247,8 +10241,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000210",
-      "concept_id": "HHS3190M-C-0000128",
+      "occurrence_id": "HHS3190M-O-00000231",
+      "concept_id": "HHS3190M-C-0000151",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "pleura",
@@ -9291,20 +10285,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000211",
-      "concept_id": "HHS3190M-C-0000129",
+      "occurrence_id": "HHS3190M-O-00000232",
+      "concept_id": "HHS3190M-C-0000152",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "residual volume",
+      "small_area": "Residual volume (RV)",
       "keyword_path": [
         "Section topics",
-        "residual volume"
+        "Residual volume (RV)"
       ],
-      "source_form": "residual volume",
+      "source_form": "Residual volume (RV)",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -9327,16 +10323,62 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult)\nName\nDescription\nMale\nFemale\nAmount of air inhaled or exhaled with each breath under resting\nTidal Volume (TV)\n500 ml\n500 ml\nconditions\nAmount of air that can be forcefully inhaled after a normal tidal\nInspiratory Reserve Volume (IRV)\n3100 ml\n1900 ml\nvolume inspiration\nRespiratory\nvolume\nAmount of air that can be forcefully exhaled after a normal tidal\nExpiratory Reserve Volume (ERV)\n1200 ml\n700 ml\nvolume expiration\nAmount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
-        "residual volume"
+        "Residual volume (RV)"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000212",
-      "concept_id": "HHS3190M-C-0000130",
+      "occurrence_id": "HHS3190M-O-00000233",
+      "concept_id": "HHS3190M-C-0000153",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Respiratory capacity",
+      "keyword_path": [
+        "Section topics",
+        "Respiratory capacity"
+      ],
+      "source_form": "Respiratory capacity",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Respiratory capacity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000234",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "respiratory system",
@@ -9379,8 +10421,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000213",
-      "concept_id": "HHS3190M-C-0000130",
+      "occurrence_id": "HHS3190M-O-00000235",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "respiratory system",
@@ -9423,8 +10465,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000214",
-      "concept_id": "HHS3190M-C-0000130",
+      "occurrence_id": "HHS3190M-O-00000236",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "respiratory system",
@@ -9467,8 +10509,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000215",
-      "concept_id": "HHS3190M-C-0000130",
+      "occurrence_id": "HHS3190M-O-00000237",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "respiratory system",
@@ -9511,8 +10553,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000216",
-      "concept_id": "HHS3190M-C-0000130",
+      "occurrence_id": "HHS3190M-O-00000238",
+      "concept_id": "HHS3190M-C-0000154",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "respiratory system",
@@ -9555,20 +10597,22 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000217",
-      "concept_id": "HHS3190M-C-0000131",
+      "occurrence_id": "HHS3190M-O-00000239",
+      "concept_id": "HHS3190M-C-0000155",
       "category": "section_topics",
       "broad_area": "Section topics",
-      "small_area": "tidal volume",
+      "small_area": "Respiratory volume",
       "keyword_path": [
         "Section topics",
-        "tidal volume"
+        "Respiratory volume"
       ],
-      "source_form": "tidal volume",
+      "source_form": "Respiratory volume",
       "source_passage_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
       ],
-      "source_element_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
       "source_page_ids": [
         "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
       ],
@@ -9591,16 +10635,108 @@
         "HHS3190M-L06-PHYSIOLOGY-2026-07",
         "HHS3190M-COURSE"
       ],
-      "source_excerpt": "Average Value (Adult)\nName\nDescription\nMale\nFemale\nAmount of air inhaled or exhaled with each breath under resting\nTidal Volume (TV)\n500 ml\n500 ml\nconditions\nAmount of air that can be forcefully inhaled after a normal tidal\nInspiratory Reserve Volume (IRV)\n3100 ml\n1900 ml\nvolume inspiration\nRespiratory\nvolume\nAmount of air that can be forcefully exhaled after a normal tidal\nExpiratory Reserve Volume (ERV)\n1200 ml\n700 ml\nvolume expiration\nAmount of air remaining in the lungs after a forced expira",
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
       "retrieval_terms": [
-        "tidal volume"
+        "Respiratory volume"
       ],
       "status": "generated_not_verified",
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000218",
-      "concept_id": "HHS3190M-C-0000132",
+      "occurrence_id": "HHS3190M-O-00000240",
+      "concept_id": "HHS3190M-C-0000156",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Tidal volume (TV)",
+      "keyword_path": [
+        "Section topics",
+        "Tidal volume (TV)"
+      ],
+      "source_form": "Tidal volume (TV)",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Tidal volume (TV)"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000241",
+      "concept_id": "HHS3190M-C-0000157",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Total lung capacity (TLC)",
+      "keyword_path": [
+        "Section topics",
+        "Total lung capacity (TLC)"
+      ],
+      "source_form": "Total lung capacity (TLC)",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Total lung capacity (TLC)"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000242",
+      "concept_id": "HHS3190M-C-0000158",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "trachea",
@@ -9643,8 +10779,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000219",
-      "concept_id": "HHS3190M-C-0000132",
+      "occurrence_id": "HHS3190M-O-00000243",
+      "concept_id": "HHS3190M-C-0000158",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "trachea",
@@ -9687,8 +10823,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000220",
-      "concept_id": "HHS3190M-C-0000132",
+      "occurrence_id": "HHS3190M-O-00000244",
+      "concept_id": "HHS3190M-C-0000158",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "trachea",
@@ -9731,52 +10867,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000221",
-      "concept_id": "HHS3190M-C-0000133",
-      "category": "section_topics",
-      "broad_area": "Section topics",
-      "small_area": "vital capacity",
-      "keyword_path": [
-        "Section topics",
-        "vital capacity"
-      ],
-      "source_form": "vital capacity",
-      "source_passage_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
-      ],
-      "source_element_ids": [],
-      "source_page_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
-      ],
-      "source_pages": [
-        {
-          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
-          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
-          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
-          "page_number": 20,
-          "page_number_type": "slide_number",
-          "slide_number": 20,
-          "pdf_page": 20,
-          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
-        }
-      ],
-      "section_ids": [
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
-        "HHS3190M-L06-PHYSIOLOGY-2026-07",
-        "HHS3190M-COURSE"
-      ],
-      "source_excerpt": "Average Value (Adult)\nName\nDescription\nMale\nFemale\nAmount of air inhaled or exhaled with each breath under resting\nTidal Volume (TV)\n500 ml\n500 ml\nconditions\nAmount of air that can be forcefully inhaled after a normal tidal\nInspiratory Reserve Volume (IRV)\n3100 ml\n1900 ml\nvolume inspiration\nRespiratory\nvolume\nAmount of air that can be forcefully exhaled after a normal tidal\nExpiratory Reserve Volume (ERV)\n1200 ml\n700 ml\nvolume expiration\nAmount of air remaining in the lungs after a forced expira",
-      "retrieval_terms": [
-        "vital capacity"
-      ],
-      "status": "generated_not_verified",
-      "verification_status": "generated_not_verified"
-    },
-    {
-      "occurrence_id": "HHS3190M-O-00000222",
-      "concept_id": "HHS3190M-C-0000133",
+      "occurrence_id": "HHS3190M-O-00000245",
+      "concept_id": "HHS3190M-C-0000159",
       "category": "section_topics",
       "broad_area": "Section topics",
       "small_area": "vital capacity",
@@ -9819,8 +10911,100 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000223",
-      "concept_id": "HHS3190M-C-0000134",
+      "occurrence_id": "HHS3190M-O-00000246",
+      "concept_id": "HHS3190M-C-0000160",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Vital capacity (VC)",
+      "keyword_path": [
+        "Section topics",
+        "Vital capacity (VC)"
+      ],
+      "source_form": "Vital capacity (VC)",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Vital capacity (VC)"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000247",
+      "concept_id": "HHS3190M-C-0000161",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV",
+      "keyword_path": [
+        "Section topics",
+        "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV"
+      ],
+      "source_form": "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV",
+      "source_passage_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volume | Tidal volume (TV) | 500 | 500 | Amount of air inhaled or exhaled with each breath under resting conditions\nRespiratory volume | Inspiratory reserve volume (IRV) | 3100 | 1900 | Amount of air forcefully inhaled after a normal tidal volume inspiration\nRespiratory volume | Expiratory reserve volume (ERV) | 1200 | 700 | Amount of air forcefully exhaled after a normal tidal volume expiration\nRespiratory volume | Residual volume (RV) | 1200 | 1100 | Amount of air remaining in the ",
+      "retrieval_terms": [
+        "Volume remaining in the lungs after normal tidal volume expiration; FRC = ERV + RV"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000248",
+      "concept_id": "HHS3190M-C-0000162",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "small_area": "fever",
@@ -9863,8 +11047,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000224",
-      "concept_id": "HHS3190M-C-0000135",
+      "occurrence_id": "HHS3190M-O-00000249",
+      "concept_id": "HHS3190M-C-0000163",
       "category": "symptoms_signs",
       "broad_area": "Symptoms and signs",
       "small_area": "Higher temperature E g fever",
@@ -9907,8 +11091,53 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000225",
-      "concept_id": "HHS3190M-C-0000136",
+      "occurrence_id": "HHS3190M-O-00000250",
+      "concept_id": "HHS3190M-C-0000164",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Respiratory volumes and capacities",
+      "keyword_path": [
+        "visual",
+        "Respiratory volumes and capacities"
+      ],
+      "source_form": "Respiratory volumes and capacities",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0020-TABLE01"
+      ],
+      "source_page_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+          "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+          "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "source_excerpt": "Respiratory volumes and capacities",
+      "retrieval_terms": [
+        "Respiratory volumes and capacities",
+        "Respiratory volumes and capacity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS3190M-O-00000251",
+      "concept_id": "HHS3190M-C-0000165",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: 160 mmHg",
@@ -9951,8 +11180,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000226",
-      "concept_id": "HHS3190M-C-0000136",
+      "occurrence_id": "HHS3190M-O-00000252",
+      "concept_id": "HHS3190M-C-0000165",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: 160 mmHg",
@@ -9995,8 +11224,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000227",
-      "concept_id": "HHS3190M-C-0000137",
+      "occurrence_id": "HHS3190M-O-00000253",
+      "concept_id": "HHS3190M-C-0000166",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Anatomy of the Respiratory System",
@@ -10039,8 +11268,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000228",
-      "concept_id": "HHS3190M-C-0000138",
+      "occurrence_id": "HHS3190M-O-00000254",
+      "concept_id": "HHS3190M-C-0000167",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Cells, called “type II cells”, are found on the alveolar walls.",
@@ -10083,8 +11312,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000229",
-      "concept_id": "HHS3190M-C-0000139",
+      "occurrence_id": "HHS3190M-O-00000255",
+      "concept_id": "HHS3190M-C-0000168",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Connection between lungs and heart - Pulmonary circulation:",
@@ -10127,8 +11356,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000230",
-      "concept_id": "HHS3190M-C-0000139",
+      "occurrence_id": "HHS3190M-O-00000256",
+      "concept_id": "HHS3190M-C-0000168",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Connection between lungs and heart - Pulmonary circulation:",
@@ -10171,8 +11400,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000231",
-      "concept_id": "HHS3190M-C-0000140",
+      "occurrence_id": "HHS3190M-O-00000257",
+      "concept_id": "HHS3190M-C-0000169",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Control of Breathing",
@@ -10215,8 +11444,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000232",
-      "concept_id": "HHS3190M-C-0000140",
+      "occurrence_id": "HHS3190M-O-00000258",
+      "concept_id": "HHS3190M-C-0000169",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Control of Breathing",
@@ -10259,8 +11488,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000233",
-      "concept_id": "HHS3190M-C-0000140",
+      "occurrence_id": "HHS3190M-O-00000259",
+      "concept_id": "HHS3190M-C-0000169",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Control of Breathing",
@@ -10303,8 +11532,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000234",
-      "concept_id": "HHS3190M-C-0000141",
+      "occurrence_id": "HHS3190M-O-00000260",
+      "concept_id": "HHS3190M-C-0000170",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Expiration",
@@ -10347,8 +11576,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000235",
-      "concept_id": "HHS3190M-C-0000142",
+      "occurrence_id": "HHS3190M-O-00000261",
+      "concept_id": "HHS3190M-C-0000171",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Gas Exchange between Lungs and Blood",
@@ -10391,8 +11620,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000236",
-      "concept_id": "HHS3190M-C-0000142",
+      "occurrence_id": "HHS3190M-O-00000262",
+      "concept_id": "HHS3190M-C-0000171",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Gas Exchange between Lungs and Blood",
@@ -10435,8 +11664,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000237",
-      "concept_id": "HHS3190M-C-0000143",
+      "occurrence_id": "HHS3190M-O-00000263",
+      "concept_id": "HHS3190M-C-0000172",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Inspiration",
@@ -10479,8 +11708,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000238",
-      "concept_id": "HHS3190M-C-0000144",
+      "occurrence_id": "HHS3190M-O-00000264",
+      "concept_id": "HHS3190M-C-0000173",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: L6 Revision Exercise",
@@ -10523,8 +11752,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000239",
-      "concept_id": "HHS3190M-C-0000144",
+      "occurrence_id": "HHS3190M-O-00000265",
+      "concept_id": "HHS3190M-C-0000173",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: L6 Revision Exercise",
@@ -10567,8 +11796,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000240",
-      "concept_id": "HHS3190M-C-0000145",
+      "occurrence_id": "HHS3190M-O-00000266",
+      "concept_id": "HHS3190M-C-0000174",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 10",
@@ -10611,8 +11840,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000241",
-      "concept_id": "HHS3190M-C-0000146",
+      "occurrence_id": "HHS3190M-O-00000267",
+      "concept_id": "HHS3190M-C-0000175",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 21",
@@ -10655,8 +11884,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000242",
-      "concept_id": "HHS3190M-C-0000147",
+      "occurrence_id": "HHS3190M-O-00000268",
+      "concept_id": "HHS3190M-C-0000176",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 4",
@@ -10699,8 +11928,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000243",
-      "concept_id": "HHS3190M-C-0000148",
+      "occurrence_id": "HHS3190M-O-00000269",
+      "concept_id": "HHS3190M-C-0000177",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 6",
@@ -10743,8 +11972,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000244",
-      "concept_id": "HHS3190M-C-0000148",
+      "occurrence_id": "HHS3190M-O-00000270",
+      "concept_id": "HHS3190M-C-0000177",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 6",
@@ -10787,8 +12016,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000245",
-      "concept_id": "HHS3190M-C-0000149",
+      "occurrence_id": "HHS3190M-O-00000271",
+      "concept_id": "HHS3190M-C-0000178",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Slide 8",
@@ -10831,8 +12060,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000246",
-      "concept_id": "HHS3190M-C-0000150",
+      "occurrence_id": "HHS3190M-O-00000272",
+      "concept_id": "HHS3190M-C-0000179",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Transport of Gases in Blood",
@@ -10875,8 +12104,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000247",
-      "concept_id": "HHS3190M-C-0000150",
+      "occurrence_id": "HHS3190M-O-00000273",
+      "concept_id": "HHS3190M-C-0000179",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Transport of Gases in Blood",
@@ -10919,8 +12148,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000248",
-      "concept_id": "HHS3190M-C-0000150",
+      "occurrence_id": "HHS3190M-O-00000274",
+      "concept_id": "HHS3190M-C-0000179",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Transport of Gases in Blood",
@@ -10963,8 +12192,8 @@
       "verification_status": "generated_not_verified"
     },
     {
-      "occurrence_id": "HHS3190M-O-00000249",
-      "concept_id": "HHS3190M-C-0000150",
+      "occurrence_id": "HHS3190M-O-00000275",
+      "concept_id": "HHS3190M-C-0000179",
       "category": "visual",
       "broad_area": "visual",
       "small_area": "Visual associated with: Transport of Gases in Blood",
@@ -11008,7 +12237,7 @@
     }
   ],
   "counts": {
-    "occurrences": 249
+    "occurrences": 275
   },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified"

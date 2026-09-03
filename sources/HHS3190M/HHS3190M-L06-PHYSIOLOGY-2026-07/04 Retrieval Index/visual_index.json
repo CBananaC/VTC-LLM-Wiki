@@ -1331,11 +1331,65 @@
       ],
       "table_reconstruction_available": false,
       "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-VIS-P0020-TABLE01",
+      "table_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-TBL-P0020-01",
+      "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "table",
+      "name": "Respiratory volumes and capacities",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          35.0,
+          65.0,
+          925.0,
+          510.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "manual-visual-review-of-vector-table"
+      },
+      "policy": "full_table_reconstruction",
+      "detection_note": "Vector-drawn table; reconstructed from embedded English text and visual layout review.",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+        "source_file": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "11 - HHS3190MJ Physiology L6 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L06-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 6 - Respiratory System and Gas Exchange (July 2026)",
+          "Respiratory volumes, capacities, and ventilation",
+          "Total Lung Capacity (TLC)"
+        ]
+      ],
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../02 Text and Tables/hhs3190m_l06_tables_generated.json"
     }
   ],
   "counts": {
-    "visuals": 25,
-    "tables": 0,
+    "visuals": 26,
+    "tables": 1,
     "non_tables": 25
   },
   "status": "generated_not_verified",
