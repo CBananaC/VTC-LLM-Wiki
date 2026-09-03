@@ -431,9 +431,11 @@ def main() -> None:
     visual_kw = visual_keywords(visuals)
     analysis["keyword_records"].extend(visual_kw)
     analysis["visual_keyword_records"] = visual_kw
+    analysis["quotation_candidates"] = base.quotation_candidates(pages, blocks_by_page)
     analysis["processing_order"] = ["block", "slide", "part", "document", "course"]
     analysis["counts"]["keyword_records"] = len(analysis["keyword_records"])
     analysis["counts"]["visual_keyword_records"] = len(visual_kw)
+    analysis["counts"]["quotation_candidates"] = len(analysis["quotation_candidates"])
     analysis["status"] = STATUS
     analysis["verification_status"] = STATUS
 
