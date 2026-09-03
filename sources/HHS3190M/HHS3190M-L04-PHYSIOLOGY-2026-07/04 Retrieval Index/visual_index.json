@@ -1,0 +1,707 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0001-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: (Sem 1 AY 26-27",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          150.36,
+          237.6,
+          809.46,
+          317.1
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0001",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART00",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Cover and Outline",
+          "(Sem 1 AY 26-27"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0005-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: H 2 O",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          181.56,
+          52.44,
+          778.44,
+          499.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0005",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Basic concepts of cellular energetics and metabolism",
+          "H 2 O"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 6",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          12.0,
+          748.56,
+          516.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0006",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART01",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Basic concepts of cellular energetics and metabolism",
+          "Slide 6"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Visual associated with: Nature and Functions of Enzymes",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          158.16,
+          191.4,
+          759.6,
+          490.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0008",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Nature and functions of enzymes",
+          "Nature and Functions of Enzymes"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0014-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 14",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          229.44,
+          118.2,
+          713.16,
+          433.56
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0014",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Nature and functions of enzymes",
+          "Slide 14"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Visual associated with: pH 7-9 (Alkaline)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          58.92,
+          98.16,
+          578.28,
+          390.45
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0016",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Nature and functions of enzymes",
+          "pH 7-9 (Alkaline)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0017-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Visual associated with: Nature and Functions of Enzymes",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          312.72,
+          385.2,
+          623.04,
+          514.92
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0017",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Nature and functions of enzymes",
+          "Nature and Functions of Enzymes"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0018-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Visual associated with: Nature and Functions of Enzymes",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          191.16,
+          339.12,
+          783.72,
+          520.68
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0018",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART02",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Nature and functions of enzymes",
+          "Nature and Functions of Enzymes"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Visual associated with: Slide 20",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          152.52,
+          37.8,
+          795.6,
+          520.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0020",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART03",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Concepts of homeostasis",
+          "Slide 20"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0023-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          300.6,
+          33.72,
+          819.6,
+          506.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0023",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Examples of homeostasis",
+          "Examples of"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0024-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 24,
+      "slide_number": 24,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          360.24,
+          21.24,
+          781.08,
+          518.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 24,
+        "page_number_type": "slide_number",
+        "slide_number": 24,
+        "pdf_page": 24,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 24 (PDF p. 24)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0024",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Examples of homeostasis",
+          "Examples of"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0025-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          383.52,
+          24.12,
+          801.24,
+          486.48
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0025",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART04",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "Examples of homeostasis",
+          "Examples of"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-VIS-P0027-C0000",
+      "table_id": null,
+      "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+      "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027",
+      "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: L4 Revision Exercise L4",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          319.68,
+          190.8,
+          609.12,
+          479.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027",
+        "document_id": "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "document_title": "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+        "source_file": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "07 - HHS3190MJ Physiology L4 (Jul 2026).pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-P0027",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07-PART05",
+        "HHS3190M-L04-PHYSIOLOGY-2026-07",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Lecture 4 - Cellular Energetics and Homeostasis (July 2026)",
+          "L4 Revision Exercise",
+          "L4 Revision Exercise L4"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 13,
+    "tables": 0,
+    "non_tables": 13
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
