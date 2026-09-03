@@ -357,6 +357,8 @@ def main() -> None:
     source_hash = sha256_file(source)
     if SOURCE_PACKAGE_PDF.exists() and sha256_file(SOURCE_PACKAGE_PDF) != source_hash:
         raise RuntimeError("package source hash does not match the selected original source")
+    DOCUMENT["source_path"] = str(source)
+    DOCUMENT["source_sha256"] = source_hash
     manifest, pages = slide_engine.collect_pages(course_root, args.dpi, args.paddle_cache.expanduser().resolve(), args.skip_paddle)
     expected_pages = int(pdfinfo(source).get("Pages", 0))
     if len(pages) != expected_pages:
