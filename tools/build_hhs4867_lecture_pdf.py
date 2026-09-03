@@ -205,10 +205,26 @@ def center_inside(bbox: list[float], container: list[float]) -> bool:
     return float(container[0]) <= cx <= float(container[2]) and float(container[1]) <= cy <= float(container[3])
 
 
+def clip_bbox(bbox: list[float], width: float, height: float) -> list[float]:
+    """Keep traced visual locations inside the PDF page rectangle."""
+    if len(bbox) != 4:
+        return bbox
+    x0, y0, x1, y1 = [float(value) for value in bbox]
+    return [
+        round(max(0.0, min(width, x0)), 3),
+        round(max(0.0, min(height, y0)), 3),
+        round(max(0.0, min(width, x1)), 3),
+        round(max(0.0, min(height, y1)), 3),
+    ]
+
+
 def filter_visual_backgrounds_and_text(pages: list[dict[str, Any]]) -> None:
     """Exclude template backgrounds and image-internal embedded text."""
     for page in pages:
         objects = [item for item in page.get("embedded_image_objects", []) if not item.get("full_page")]
+        for item in objects:
+            if item.get("bbox_points"):
+                item["bbox_points"] = clip_bbox(item["bbox_points"], float(page["width_points"]), float(page["height_points"]))
         page["embedded_image_objects"] = objects
         boxes = [list(item["bbox_points"]) for item in objects if item.get("bbox_points")]
         page["visual_exclusion_boxes"] = boxes
@@ -481,6 +497,14 @@ def main() -> None:
         "text_or_ocr_source_available": all(bool(page.get("embedded_text", "").strip()) or bool(page.get("embedded_image_objects")) or page.get("ocr_status") == "completed" for page in pages),
         "full_page_backgrounds_excluded": all(not item.get("full_page") for page in pages for item in page.get("embedded_image_objects", [])),
         "visual_records_have_locations": all(item.get("location", {}).get("bbox_points") for item in visuals),
+        "visual_locations_within_page_bounds": all(
+            len(item.get("location", {}).get("bbox_points", [])) == 4
+            and 0 <= item["location"]["bbox_points"][0] <= item["location"]["bbox_points"][2] <= page["width_points"]
+            and 0 <= item["location"]["bbox_points"][1] <= item["location"]["bbox_points"][3] <= page["height_points"]
+            for page in pages
+            for item in visuals
+            if item.get("source_page_id") == page.get("source_page_id")
+        ),
         "non_table_visuals_metadata_only": all(item.get("policy") == "metadata_only" and not item.get("table_id") for item in visuals),
         "no_table_result_recorded": not tables,
         "bullet_markers_preserved": all(block.get("marker") is not None or block.get("content_type") != "list_item" for slide in slide_exports for block in slide["blocks"]),
