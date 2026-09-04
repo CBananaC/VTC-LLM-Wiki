@@ -1,0 +1,5180 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L06-POSTURAL-GAIT",
+  "source": {
+    "filename": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L06-POSTURAL-GAIT/00 Source/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+    "sha256": "sha256:19970d5e2c4e6fd0fe646f2760f28e08edf0ed316cccd6718c59cd903541b8bc",
+    "pdf_page_count": 34,
+    "pdfinfo": {
+      "Title": "Postural assessment",
+      "Author": "laws",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:16 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:16 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 34,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 1383858,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained, including the deck's ⚫ markers.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+      "slide_number": 1,
+      "title": "Postural Assessment",
+      "english_text": "Postural Assessment\nHHS4867 Functional Movement Science\nHHS4867J",
+      "raw_bilingual_text": "Postural Assessment\n姿勢評估\nHHS4867 Functional Movement Science\nHHS4867J 功能性運動科學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0001-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+          "slide_number": 1,
+          "content_type": "slide_title",
+          "text": "Postural Assessment",
+          "body_text": "Postural Assessment",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 50.76,
+          "indent_level": 2,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            158.78,
+            180.443,
+            561.094,
+            221.829
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0001-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867 Functional Movement Science",
+          "body_text": "HHS4867 Functional Movement Science",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            108.02,
+            310.357,
+            589.261,
+            335.543
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0001-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867J",
+          "body_text": "HHS4867J",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            108.02,
+            340.584,
+            440.269,
+            369.047
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+      "slide_number": 2,
+      "title": "What is Posture?",
+      "english_text": "What is Posture?\n• Posture a composite of the positions of all the joints of the body at any given moment\n• Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain\n• Faulty posture the posture that is not an ideal posture\n(Muscles Testing and function, Kendall et\nal, 1952)",
+      "raw_bilingual_text": "What is Posture? 什麼是姿勢？\n• 姿勢：\n•\nPosture：\n身體在任何給定時刻所有關節的位置的\na composite of the positions of all the\n綜合體\njoints of the body at any given moment\n• 理想姿勢：\n•\nIdeal posture：\n最大生理和生物力學效率的對齊，這需\nan alignment of maximum physiological\n要最小的壓力和緊張\nand biomechanical efficiency, which\nrequires a minimum of stress and strain\n• 錯誤姿勢：\n•\nFaulty posture：\n不是理想姿勢的姿勢\nthe posture that is not an ideal posture\n(Muscles Testing and function, Kendall et\n（肌肉測試與功能，Kendall 等，1952）\nal, 1952)",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "slide_title",
+          "text": "What is Posture?",
+          "body_text": "What is Posture?",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 2.856,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            60.184,
+            494.956,
+            96.832
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Posture a composite of the positions of all the joints of the body at any given moment",
+          "body_text": "Posture a composite of the positions of all the joints of the body at any given moment",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            2,
+            3,
+            7
+          ],
+          "bbox_points": [
+            67.296,
+            161.996,
+            335.384,
+            236.276
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain",
+          "body_text": "Ideal posture an alignment of maximum physiological and biomechanical efficiency, which requires a minimum of stress and strain",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "bbox_points": [
+            67.296,
+            250.54,
+            333.702,
+            331.696
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Faulty posture the posture that is not an ideal posture",
+          "body_text": "Faulty posture the posture that is not an ideal posture",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            14,
+            15
+          ],
+          "bbox_points": [
+            67.296,
+            342.96,
+            322.292,
+            380.926
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "subheading",
+          "text": "(Muscles Testing and function, Kendall et",
+          "body_text": "(Muscles Testing and function, Kendall et",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            40.296,
+            419.926,
+            333.344,
+            436.126
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0002-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+          "slide_number": 2,
+          "content_type": "paragraph",
+          "text": "al, 1952)",
+          "body_text": "al, 1952)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            40.296,
+            441.506,
+            104.138,
+            457.727
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+      "slide_number": 3,
+      "title": "Ideal Erect Posture",
+      "english_text": "Ideal Erect Posture\n• Erect posture: the posture that an individual is standing at attention or told to “stand up straight”\n• In this posture, a plumb line falls through\n• Ear lob\n• Tip of the shoulder\n• Center of the hip / greater trochanter\n• Anterior 1/3 to middle of the knee\n• Just behind the ankle bone\n• need conscious control",
+      "raw_bilingual_text": "Ideal Erect Posture 理想直立姿勢\n• Erect posture: the posture that an individual\nis standing at attention or told to “stand up\nstraight”\n• 直立姿勢：個體站立時保持警覺或被告\n知「站直」\n• In this posture, a plumb line falls through\n在此姿勢中，垂直線通過：\n• Ear lob 耳垂\n• Tip of the shoulder 肩膀尖端\n• Center of the hip / greater trochanter\n髖部中心 / 股骨大轉子\n• Anterior 1/3 to middle of the knee\n膝部前 1/3 至中間\n• Just behind the ankle bone 足踝後方\n• need conscious control 需要有意識控\n制",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "slide_title",
+          "text": "Ideal Erect Posture",
+          "body_text": "Ideal Erect Posture",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 2.16,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            44.832,
+            22.986,
+            470.512,
+            55.603
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Erect posture: the posture that an individual is standing at attention or told to “stand up straight”",
+          "body_text": "Erect posture: the posture that an individual is standing at attention or told to “stand up straight”",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3
+          ],
+          "bbox_points": [
+            42.672,
+            83.17,
+            380.362,
+            146.548
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• In this posture, a plumb line falls through",
+          "body_text": "In this posture, a plumb line falls through",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            42.672,
+            234.39,
+            363.192,
+            254.586
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Ear lob",
+          "body_text": "Ear lob",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            78.696,
+            299.09,
+            194.26,
+            319.286
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Tip of the shoulder",
+          "body_text": "Tip of the shoulder",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            78.696,
+            320.33,
+            314.64,
+            340.526
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Center of the hip / greater trochanter",
+          "body_text": "Center of the hip / greater trochanter",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            78.696,
+            342.41,
+            368.794,
+            362.606
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Anterior 1/3 to middle of the knee",
+          "body_text": "Anterior 1/3 to middle of the knee",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            78.696,
+            385.64,
+            347.212,
+            405.836
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• Just behind the ankle bone",
+          "body_text": "Just behind the ankle bone",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            78.696,
+            428.718,
+            368.76,
+            448.914
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0003-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+          "slide_number": 3,
+          "content_type": "list_item",
+          "text": "• need conscious control",
+          "body_text": "need conscious control",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            78.696,
+            450.296,
+            378.864,
+            470.519
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0003-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0003-C0001",
+          "visual_type": "image",
+          "name": "Ideal Erect Posture visual",
+          "pdf_page": 3,
+          "slide_number": 3,
+          "location": {
+            "bbox_points": [
+              421.44,
+              78.84,
+              711.48,
+              489.6
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0004",
+      "slide_number": 4,
+      "title": "Ideal Erect Posture (visual)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0004-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0004-C0001",
+          "visual_type": "image",
+          "name": "Ideal Erect Posture (visual) visual",
+          "pdf_page": 4,
+          "slide_number": 4,
+          "location": {
+            "bbox_points": [
+              14.88,
+              96.0,
+              705.12,
+              486.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+      "slide_number": 5,
+      "title": "Understanding the Posture",
+      "english_text": "Understanding the Posture\n• Natural Spine\n• Cervical Lordosis\n• Thoracic Kyphosis\n• Lumbar Lordosis",
+      "raw_bilingual_text": "Understanding the Posture 了解姿勢\n• Natural Spine\n•\nCervical Lordosis\n• Thoracic Kyphosis\n• Lumbar Lordosis\n自然脊椎\n• 頸椎前凸\n• 胸椎後凸\n• 腰椎前凸",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0005-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+          "slide_number": 5,
+          "content_type": "slide_title",
+          "text": "Understanding the Posture",
+          "body_text": "Understanding the Posture",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            59.516,
+            492.828,
+            92.133
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0005-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Natural Spine",
+          "body_text": "Natural Spine",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            43.152,
+            134.862,
+            236.88,
+            165.408
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0005-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Cervical Lordosis",
+          "body_text": "Cervical Lordosis",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 45.24,
+          "indent_level": 2,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            88.392,
+            180.893,
+            275.58,
+            206.057
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0005-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Thoracic Kyphosis",
+          "body_text": "Thoracic Kyphosis",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 21.6,
+          "indent_level": 1,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            64.752,
+            220.242,
+            286.999,
+            246.623
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0005-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+          "slide_number": 5,
+          "content_type": "list_item",
+          "text": "• Lumbar Lordosis",
+          "body_text": "Lumbar Lordosis",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 21.6,
+          "indent_level": 1,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            64.752,
+            260.832,
+            270.18,
+            287.207
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0005-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0005-C0001",
+          "visual_type": "image",
+          "name": "Understanding the Posture visual",
+          "pdf_page": 5,
+          "slide_number": 5,
+          "location": {
+            "bbox_points": [
+              380.16,
+              126.36,
+              660.6,
+              493.2
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+      "slide_number": 6,
+      "title": "Poor Posture",
+      "english_text": "Poor Posture",
+      "raw_bilingual_text": "Poor Posture 不良姿勢",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0006-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+          "slide_number": 6,
+          "content_type": "slide_title",
+          "text": "Poor Posture",
+          "body_text": "Poor Posture",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            42.96,
+            19.453,
+            408.434,
+            60.157
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0006-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0006-C0001",
+          "visual_type": "image",
+          "name": "Poor Posture visual",
+          "pdf_page": 6,
+          "slide_number": 6,
+          "location": {
+            "bbox_points": [
+              114.0,
+              84.0,
+              641.52,
+              508.2
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+      "slide_number": 7,
+      "title": "Upper body in different posture",
+      "english_text": "Upper body in different posture",
+      "raw_bilingual_text": "Upper body in different posture\n不同姿勢的上半身",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0007-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+          "slide_number": 7,
+          "content_type": "slide_title",
+          "text": "Upper body in different posture",
+          "body_text": "Upper body in different posture",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            42.96,
+            40.02,
+            419.066,
+            68.878
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0007-C0001",
+          "visual_type": "image",
+          "name": "Upper body in different posture visual",
+          "pdf_page": 7,
+          "slide_number": 7,
+          "location": {
+            "bbox_points": [
+              12.12,
+              139.56,
+              705.36,
+              492.12
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+      "slide_number": 8,
+      "title": "Effect of Pelvic Tilt on lower body posture",
+      "english_text": "Effect of Pelvic Tilt on lower body posture",
+      "raw_bilingual_text": "Effect of Pelvic Tilt on lower body posture\n骨盆傾斜對下半身姿勢的影響",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0008-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+          "slide_number": 8,
+          "content_type": "slide_title",
+          "text": "Effect of Pelvic Tilt on lower body posture",
+          "body_text": "Effect of Pelvic Tilt on lower body posture",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            54.96,
+            28.07,
+            553.616,
+            56.928
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0008-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0008-C0001",
+          "visual_type": "image",
+          "name": "Effect of Pelvic Tilt on lower body posture visual",
+          "pdf_page": 8,
+          "slide_number": 8,
+          "location": {
+            "bbox_points": [
+              36.0,
+              126.0,
+              684.0,
+              498.96
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+      "slide_number": 9,
+      "title": "Elbow - Carrying angle",
+      "english_text": "Elbow - Carrying angle\n• In elbow extension & forearm supination position\n• Angle between the long axis of arm & the long axis of forearm\n• NORMAL: around 5 -15 degree",
+      "raw_bilingual_text": "Elbow 手肘\n•\nCarrying angle\n• In elbow extension & forearm\nsupination position\n• Angle between the long axis of arm &\nthe long axis of forearm\n• NORMAL: around 5 -15 degree\n承載角度\n•\n在肘部伸展和前臂外旋位置\n•\n手臂的長軸與前臂的長軸之間\n•\n的角度\n正常： 約 5 - 15 度\n•",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0009-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+          "slide_number": 9,
+          "content_type": "slide_title",
+          "text": "Elbow - Carrying angle",
+          "body_text": "Elbow - Carrying angle",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0,
+            2
+          ],
+          "bbox_points": [
+            43.152,
+            42.224,
+            207.55,
+            131.024
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0009-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• In elbow extension & forearm supination position",
+          "body_text": "In elbow extension & forearm supination position",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 11.088,
+          "indent_level": 0,
+          "source_line_indices": [
+            3,
+            4
+          ],
+          "bbox_points": [
+            54.24,
+            142.039,
+            300.011,
+            185.049
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0009-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• Angle between the long axis of arm & the long axis of forearm",
+          "body_text": "Angle between the long axis of arm & the long axis of forearm",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 11.088,
+          "indent_level": 0,
+          "source_line_indices": [
+            5,
+            6
+          ],
+          "bbox_points": [
+            54.24,
+            196.039,
+            359.081,
+            239.054
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0009-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+          "slide_number": 9,
+          "content_type": "list_item",
+          "text": "• NORMAL: around 5 -15 degree",
+          "body_text": "NORMAL: around 5 -15 degree",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 11.088,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            54.24,
+            250.059,
+            308.061,
+            269.069
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0009-C0001",
+          "visual_type": "image",
+          "name": "Elbow - Carrying angle visual",
+          "pdf_page": 9,
+          "slide_number": 9,
+          "location": {
+            "bbox_points": [
+              401.64,
+              28.32,
+              704.04,
+              536.52
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+      "slide_number": 10,
+      "title": "Hip / Knee - Q angle",
+      "english_text": "Hip / Knee\nQ angle (Quadriceps angle\n• The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle\n• Normally\n• Female: 15-17 degree (because of wider pelvis)\n• Male: 10-14 degree\n• A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain",
+      "raw_bilingual_text": "Hip / Knee 臀部/膝蓋\nQ angle (Quadriceps angle 股四頭肌角度):\n• The acute angle formed by a line drawn from the ASIS to\ncentral patella and a second line drawn from central patella\nto tibial tubercle\n• 由ASIS (髂前上棘)至髕骨中央線及由髕骨中央至脛骨粗\n隆的第二條線形成的銳角\nNormally 通常,\n•\n• Female: 15-17 degree (because of wider pelvis)\n女：15-17度（因為骨盆更寬）\n• Male: 10-14 degree\n男性：10-14度\n• A high Q angle often results in mal\ntracking of patella, and\novertime it easily leads to anterior knee pain\n大的Q角往往導致髕骨運動軌跡異常 ，容易造成膝前疼痛",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "subtitle",
+          "text": "Hip / Knee",
+          "body_text": "Hip / Knee",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            36.96,
+            22.146,
+            305.69,
+            54.763
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "subtitle",
+          "text": "Q angle (Quadriceps angle",
+          "body_text": "Q angle (Quadriceps angle",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 6.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            42.96,
+            78.532,
+            344.564,
+            96.856
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle",
+          "body_text": "The acute angle formed by a line drawn from the ASIS to central patella and a second line drawn from central patella to tibial tubercle",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 6.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3,
+            4
+          ],
+          "bbox_points": [
+            42.96,
+            107.421,
+            457.714,
+            167.781
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• Normally",
+          "body_text": "Normally",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 26.64,
+          "indent_level": 1,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            63.6,
+            226.162,
+            167.6,
+            244.486
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• Female: 15-17 degree (because of wider pelvis)",
+          "body_text": "Female: 15-17 degree (because of wider pelvis)",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 27.6,
+          "indent_level": 1,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            64.56,
+            254.286,
+            401.115,
+            271.251
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• Male: 10-14 degree",
+          "body_text": "Male: 10-14 degree",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 27.6,
+          "indent_level": 1,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            64.56,
+            307.488,
+            212.972,
+            324.426
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0010-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+          "slide_number": 10,
+          "content_type": "list_item",
+          "text": "• A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain",
+          "body_text": "A high Q angle often results in mal tracking of patella, and overtime it easily leads to anterior knee pain",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 6.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            42.96,
+            361.531,
+            486.544,
+            400.286
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0010-C0001",
+          "visual_type": "image",
+          "name": "Hip / Knee - Q angle visual",
+          "pdf_page": 10,
+          "slide_number": 10,
+          "location": {
+            "bbox_points": [
+              504.0,
+              90.0,
+              699.84,
+              437.88
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+      "slide_number": 11,
+      "title": "Hip / Knee - Genu Varum and Genu Valgum",
+      "english_text": "Hip / Knee\nGenu Varum: Bow-legged\nGenu Valgum: Knock-kneed",
+      "raw_bilingual_text": "Hip / Knee 臀部/膝蓋\nGenu Varum: Bow-legged\n膝內翻： O形腳\nGenu Valgum: Knock-kneed\n膝外翻： 內八字腿\nnormal",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0011-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+          "slide_number": 11,
+          "content_type": "subtitle",
+          "text": "Hip / Knee",
+          "body_text": "Hip / Knee",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 9.144,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            48.96,
+            48.117,
+            317.718,
+            80.758
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0011-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+          "slide_number": 11,
+          "content_type": "subtitle",
+          "text": "Genu Varum: Bow-legged",
+          "body_text": "Genu Varum: Bow-legged",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            39.816,
+            162.292,
+            288.059,
+            183.913
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0011-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+          "slide_number": 11,
+          "content_type": "subtitle",
+          "text": "Genu Valgum: Knock-kneed",
+          "body_text": "Genu Valgum: Knock-kneed",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            39.816,
+            261.082,
+            306.914,
+            282.703
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0011-C0001",
+          "visual_type": "image",
+          "name": "Hip / Knee - Genu Varum and Genu Valgum visual",
+          "pdf_page": 11,
+          "slide_number": 11,
+          "location": {
+            "bbox_points": [
+              341.16,
+              124.68,
+              678.96,
+              409.2
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+      "slide_number": 12,
+      "title": "Foot",
+      "english_text": "Foot\nFoot arch: normal, flat foot, high arch",
+      "raw_bilingual_text": "Foot 腳\nFoot arch: normal, flat foot, high arch\n足弓：正常、扁平足、高足弓",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0012-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+          "slide_number": 12,
+          "content_type": "slide_title",
+          "text": "Foot",
+          "body_text": "Foot",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            39.202,
+            162.19,
+            79.881
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0012-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+          "slide_number": 12,
+          "content_type": "subtitle",
+          "text": "Foot arch: normal, flat foot, high arch",
+          "body_text": "Foot arch: normal, flat foot, high arch",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 173.828,
+          "indent_level": 7,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            216.98,
+            88.296,
+            494.673,
+            106.354
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0012-C0001",
+          "visual_type": "image",
+          "name": "Foot visual",
+          "pdf_page": 12,
+          "slide_number": 12,
+          "location": {
+            "bbox_points": [
+              82.2,
+              153.12,
+              643.44,
+              522.24
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+      "slide_number": 13,
+      "title": "Foot (visual)",
+      "english_text": "Foot",
+      "raw_bilingual_text": "Foot 腳\n足趾向內\n足趾向外",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0013-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+          "slide_number": 13,
+          "content_type": "subtitle",
+          "text": "Foot",
+          "body_text": "Foot",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            69.792,
+            37.453,
+            188.854,
+            78.157
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0013-C0001",
+          "visual_type": "image",
+          "name": "Foot (visual) visual",
+          "pdf_page": 13,
+          "slide_number": 13,
+          "location": {
+            "bbox_points": [
+              127.56,
+              162.24,
+              548.04,
+              491.16
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+      "slide_number": 14,
+      "title": "Postural Assessment: Tools",
+      "english_text": "Postural Assessment: Tools\n• Plum line\n• Grid chart",
+      "raw_bilingual_text": "Postural Assessment: Tools\n姿勢評估: 工具\n• Plum line 垂線\n• Grid chart 格網圖",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0014-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+          "slide_number": 14,
+          "content_type": "slide_title",
+          "text": "Postural Assessment: Tools",
+          "body_text": "Postural Assessment: Tools",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.6,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.752,
+            45.651,
+            450.694,
+            81.637
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0014-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "• Plum line",
+          "body_text": "Plum line",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            43.152,
+            201.904,
+            284.02,
+            238.552
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0014-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+          "slide_number": 14,
+          "content_type": "list_item",
+          "text": "• Grid chart",
+          "body_text": "Grid chart",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            43.152,
+            254.124,
+            326.98,
+            290.772
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0014-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0014-C0001",
+          "visual_type": "image",
+          "name": "Postural Assessment: Tools visual",
+          "pdf_page": 14,
+          "slide_number": 14,
+          "location": {
+            "bbox_points": [
+              429.72,
+              122.64,
+              683.4,
+              506.64
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+      "slide_number": 15,
+      "title": "Postural Assessment: Views",
+      "english_text": "PosturalAssessment: View\n• Anterior\n• Lateral\n• Posterior",
+      "raw_bilingual_text": "PosturalAssessment: View\n姿勢評估：視圖\nAnterior 前面\n•\nLateral 側面\n•\nPosterior 後面\n•",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0015-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+          "slide_number": 15,
+          "content_type": "subtitle",
+          "text": "PosturalAssessment: View",
+          "body_text": "PosturalAssessment: View",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            48.024,
+            40.02,
+            363.76,
+            68.878
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0015-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• Anterior",
+          "body_text": "Anterior",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 37.56,
+          "indent_level": 2,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            85.584,
+            195.166,
+            210.86,
+            219.598
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0015-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• Lateral",
+          "body_text": "Lateral",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 37.56,
+          "indent_level": 2,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            85.584,
+            232.966,
+            203.78,
+            257.398
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0015-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+          "slide_number": 15,
+          "content_type": "list_item",
+          "text": "• Posterior",
+          "body_text": "Posterior",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 37.56,
+          "indent_level": 2,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            85.584,
+            270.747,
+            215.804,
+            295.203
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0015-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0015-C0001",
+          "visual_type": "image",
+          "name": "Postural Assessment: Views visual",
+          "pdf_page": 15,
+          "slide_number": 15,
+          "location": {
+            "bbox_points": [
+              235.32,
+              133.92,
+              697.08,
+              496.8
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+      "slide_number": 16,
+      "title": "Postural Assessment: Analysis",
+      "english_text": "Analysis",
+      "raw_bilingual_text": "Analysis 分析",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0016-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+          "slide_number": 16,
+          "content_type": "subtitle",
+          "text": "Analysis",
+          "body_text": "Analysis",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            43.152,
+            60.852,
+            257.5,
+            101.531
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0016-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0016-C0001",
+          "visual_type": "image",
+          "name": "Postural Assessment: Analysis visual",
+          "pdf_page": 16,
+          "slide_number": 16,
+          "location": {
+            "bbox_points": [
+              11.04,
+              127.32,
+              711.48,
+              477.6
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0017",
+      "slide_number": 17,
+      "title": "Gait",
+      "english_text": "Gait",
+      "raw_bilingual_text": "Gait 步態",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0017-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0017",
+          "slide_number": 17,
+          "content_type": "slide_title",
+          "text": "Gait",
+          "body_text": "Gait",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            264.77,
+            174.897,
+            455.258,
+            221.709
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+      "slide_number": 18,
+      "title": "Gait cycle",
+      "english_text": "Gait cycle\nThe gait cycle is defined as the time interval between two successive occurrence of\none of the repetitive events of walking.",
+      "raw_bilingual_text": "Gait cycle 步態週期\nThe gait cycle is defined as the time interval between two successive occurrence of\none of the repetitive events of walking.\n步態循環定義為兩次連續發生行走重複事件的時間間隔",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0018-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+          "slide_number": 18,
+          "content_type": "slide_title",
+          "text": "Gait cycle",
+          "body_text": "Gait cycle",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 142.556,
+          "indent_level": 6,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            192.02,
+            23.196,
+            464.402,
+            55.813
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0018-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+          "slide_number": 18,
+          "content_type": "subtitle",
+          "text": "The gait cycle is defined as the time interval between two successive occurrence of",
+          "body_text": "The gait cycle is defined as the time interval between two successive occurrence of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            49.464,
+            92.926,
+            647.712,
+            109.126
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0018-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+          "slide_number": 18,
+          "content_type": "subtitle",
+          "text": "one of the repetitive events of walking.",
+          "body_text": "one of the repetitive events of walking.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            49.464,
+            114.526,
+            330.876,
+            130.726
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0018-C0001",
+          "visual_type": "image",
+          "name": "Gait cycle visual",
+          "pdf_page": 18,
+          "slide_number": 18,
+          "location": {
+            "bbox_points": [
+              5.52,
+              228.0,
+              713.52,
+              486.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+      "slide_number": 19,
+      "title": "Stance phase & Swing phase",
+      "english_text": "Stance phase & Swing phase\n• Swing phase\n• when the foot is moving forward through the air\n• Stance phase\n• Support phase, last from initial contact to toe off",
+      "raw_bilingual_text": "Stance phase & Swing phase\n站立階段和擺動階段\nSwing phase 擺動階段\n•\n• when the foot is moving forward through the air\n當腳在空中向前移動時\nStance phase 站立階段\n•\n• Support phase, last from initial contact to toe off\n支撐階段，從初始接觸到腳趾離地的過程",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0019-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+          "slide_number": 19,
+          "content_type": "slide_title",
+          "text": "Stance phase & Swing phase",
+          "body_text": "Stance phase & Swing phase",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            66.96,
+            42.42,
+            405.626,
+            71.278
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0019-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• Swing phase",
+          "body_text": "Swing phase",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 22.104,
+          "indent_level": 1,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            89.064,
+            167.516,
+            303.932,
+            191.948
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0019-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• when the foot is moving forward through the air",
+          "body_text": "when the foot is moving forward through the air",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 21.624,
+          "indent_level": 1,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            88.584,
+            203.958,
+            545.422,
+            226.868
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0019-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• Stance phase",
+          "body_text": "Stance phase",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 22.104,
+          "indent_level": 1,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            89.064,
+            306.746,
+            306.332,
+            331.178
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0019-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+          "slide_number": 19,
+          "content_type": "list_item",
+          "text": "• Support phase, last from initial contact to toe off",
+          "body_text": "Support phase, last from initial contact to toe off",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 21.624,
+          "indent_level": 1,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            88.584,
+            343.166,
+            547.5,
+            366.103
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+      "slide_number": 20,
+      "title": "Gait cycle subdivision",
+      "english_text": "Gait cycle\nSo the gait cycle can subdivide into\n1.\n1.\nloading response\n2.\n2.\nmid- stance\n3.\n3.\nterminal stance\n4.\n4.\npre- swing\n5.\n5.\ninitial swing\n6.\n6.\nmid swing\n7.\n7.\nterminal swing",
+      "raw_bilingual_text": "Gait cycle 步態週期\n因此，步態循環可以細分為：\nSo the gait cycle can subdivide into\n加載反應\n1.\n1.\nloading response\n中期站立\n2.\n2.\nmid- stance\n末期站立\n3.\n3.\nterminal stance\n前擺\n4.\n4.\npre- swing\n初始擺動\n5.\n5.\ninitial swing\n中擺\n6.\n6.\nmid swing\n末期擺動\n7.\n7.\nterminal swing",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "Gait cycle",
+          "body_text": "Gait cycle",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 134.23,
+          "indent_level": 6,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            176.23,
+            47.864,
+            482.62,
+            84.512
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "So the gait cycle can subdivide into",
+          "body_text": "So the gait cycle can subdivide into",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            42.0,
+            179.683,
+            325.987,
+            197.719
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "1.",
+          "body_text": "1.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            373.46,
+            227.583,
+            388.55,
+            245.619
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "1.",
+          "body_text": "1.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            42.0,
+            227.703,
+            57.09,
+            245.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "loading response",
+          "body_text": "loading response",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            82.584,
+            227.703,
+            217.694,
+            245.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "2.",
+          "body_text": "2.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            373.46,
+            251.583,
+            388.55,
+            269.619
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "2.",
+          "body_text": "2.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            42.0,
+            251.703,
+            57.09,
+            269.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "mid- stance",
+          "body_text": "mid- stance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            82.584,
+            251.703,
+            175.2,
+            269.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "3.",
+          "body_text": "3.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            373.46,
+            275.583,
+            388.55,
+            293.619
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B010",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "3.",
+          "body_text": "3.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            42.0,
+            275.703,
+            57.09,
+            293.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B011",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "terminal stance",
+          "body_text": "terminal stance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            19
+          ],
+          "bbox_points": [
+            82.584,
+            275.703,
+            204.026,
+            293.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B012",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "4.",
+          "body_text": "4.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            373.46,
+            299.583,
+            388.55,
+            317.619
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B013",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "4.",
+          "body_text": "4.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            42.0,
+            299.703,
+            57.09,
+            317.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B014",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "pre- swing",
+          "body_text": "pre- swing",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            20
+          ],
+          "bbox_points": [
+            82.584,
+            299.703,
+            167.576,
+            317.739
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B015",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "5.",
+          "body_text": "5.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            373.46,
+            323.566,
+            388.556,
+            341.624
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B016",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "5.",
+          "body_text": "5.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            42.0,
+            323.686,
+            57.096,
+            341.744
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B017",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "initial swing",
+          "body_text": "initial swing",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            21
+          ],
+          "bbox_points": [
+            82.584,
+            323.686,
+            181.881,
+            341.744
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B018",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "6.",
+          "body_text": "6.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            373.46,
+            347.613,
+            388.55,
+            365.649
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B019",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "6.",
+          "body_text": "6.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            42.0,
+            347.733,
+            57.09,
+            365.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B020",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "mid swing",
+          "body_text": "mid swing",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            22
+          ],
+          "bbox_points": [
+            82.584,
+            347.733,
+            166.491,
+            365.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B021",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "7.",
+          "body_text": "7.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 331.46,
+          "indent_level": 14,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            373.46,
+            371.613,
+            388.55,
+            389.649
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B022",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "7.",
+          "body_text": "7.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            42.0,
+            371.733,
+            57.09,
+            389.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0020-B023",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+          "slide_number": 20,
+          "content_type": "subtitle",
+          "text": "terminal swing",
+          "body_text": "terminal swing",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 40.584,
+          "indent_level": 2,
+          "source_line_indices": [
+            23
+          ],
+          "bbox_points": [
+            82.584,
+            371.733,
+            201.922,
+            389.769
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+      "slide_number": 21,
+      "title": "Stride length",
+      "english_text": "Stride length\n• Distance between two successive placements of the same foot.\n• Consists of two step lengths, left and right.",
+      "raw_bilingual_text": "Stride length 步幅\n•\nDistance between two successive placements of the same foot.\n•\nConsists of two step lengths, left and right.\n•\n同一腳的兩個連續放置之間的距離。\n•\n由兩個步長組成，左和右。",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0021-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+          "slide_number": 21,
+          "content_type": "slide_title",
+          "text": "Stride length",
+          "body_text": "Stride length",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 107.856,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            193.32,
+            57.975,
+            459.434,
+            94.647
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0021-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+          "slide_number": 21,
+          "content_type": "list_item",
+          "text": "• Distance between two successive placements of the same foot.",
+          "body_text": "Distance between two successive placements of the same foot.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            85.464,
+            114.283,
+            585.302,
+            132.319
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0021-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+          "slide_number": 21,
+          "content_type": "list_item",
+          "text": "• Consists of two step lengths, left and right.",
+          "body_text": "Consists of two step lengths, left and right.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            85.464,
+            138.283,
+            427.846,
+            156.319
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0021-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0021-C0001",
+          "visual_type": "image",
+          "name": "Stride length visual",
+          "pdf_page": 21,
+          "slide_number": 21,
+          "location": {
+            "bbox_points": [
+              108.0,
+              276.12,
+              595.32,
+              485.64
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+      "slide_number": 22,
+      "title": "Walking base",
+      "english_text": "Walking base\n• Stride width / base of support\n• Side to side distance between the line of two feet\nCadence\n• Number of steps taken in a given time\n• Usually steps per minute",
+      "raw_bilingual_text": "Walking base\n步行基礎\n• 步幅寬度 / 支撐基礎\n• Stride width / base of support\n• 兩腳之間的側向距離\n• Side to side distance between\nthe line of two feet\n步頻\nCadence\n• 在給定時間內所走的步\n•\nNumber of steps taken in a\n數\ngiven time\n• 通常以每分鐘步數計算\n• Usually steps per minute",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "slide_title",
+          "text": "Walking base",
+          "body_text": "Walking base",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            48.96,
+            97.748,
+            153.356,
+            119.348
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• Stride width / base of support",
+          "body_text": "Stride width / base of support",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            48.96,
+            132.198,
+            336.482,
+            155.108
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• Side to side distance between the line of two feet",
+          "body_text": "Side to side distance between the line of two feet",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2,
+            3
+          ],
+          "bbox_points": [
+            48.96,
+            167.028,
+            336.29,
+            218.738
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "subheading",
+          "text": "Cadence",
+          "body_text": "Cadence",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.84,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            49.8,
+            283.558,
+            120.216,
+            305.158
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• Number of steps taken in a given time",
+          "body_text": "Number of steps taken in a given time",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 21.48,
+          "indent_level": 1,
+          "source_line_indices": [
+            13,
+            14
+          ],
+          "bbox_points": [
+            70.44,
+            322.438,
+            314.066,
+            372.843
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0022-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+          "slide_number": 22,
+          "content_type": "list_item",
+          "text": "• Usually steps per minute",
+          "body_text": "Usually steps per minute",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.84,
+          "indent_level": 0,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            49.8,
+            384.758,
+            294.266,
+            407.668
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+      "slide_number": 23,
+      "title": "Cycle time",
+      "english_text": "Cycle time\nthe duration of a complete gait cycle\nSpeed (m/s) = stride length (m) / cycle time (s)",
+      "raw_bilingual_text": "Cycle time 循環時間\n•\nthe duration of a complete gait cycle\n•\nSpeed (m/s) = stride length (m) / cycle time (s)\n•\n一個完整步態週期的持續時間\n•\n速度 （m/s） = 步幅 （m） / 循環時間 （s）",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0023-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+          "slide_number": 23,
+          "content_type": "slide_title",
+          "text": "Cycle time",
+          "body_text": "Cycle time",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 97.296,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            193.32,
+            57.975,
+            509.714,
+            94.647
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0023-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+          "slide_number": 23,
+          "content_type": "subtitle",
+          "text": "the duration of a complete gait cycle",
+          "body_text": "the duration of a complete gait cycle",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            96.024,
+            168.818,
+            446.04,
+            190.418
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0023-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+          "slide_number": 23,
+          "content_type": "subtitle",
+          "text": "Speed (m/s) = stride length (m) / cycle time (s)",
+          "body_text": "Speed (m/s) = stride length (m) / cycle time (s)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            96.024,
+            197.618,
+            545.28,
+            219.218
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0024",
+      "slide_number": 24,
+      "title": "Pathological gait",
+      "english_text": "Pathological gait",
+      "raw_bilingual_text": "Pathological gait\n病理性步態",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0024-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0024",
+          "slide_number": 24,
+          "content_type": "slide_title",
+          "text": "Pathological gait",
+          "body_text": "Pathological gait",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            246.65,
+            199.461,
+            506.706,
+            239.097
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+      "slide_number": 25,
+      "title": "Spastic hemiplegia",
+      "english_text": "Spastic hemiplegia\n• the commonest neurological abnormal gait. It can occurs in cerebral palsy, cerebrovascular accident and traumatic brain injury.\n• A hemiplegic patient usually possesses a mixture of normal motor control, spasticity and patterned responses, he exact combination depending on the severity and location of the brain damage.\nTypical problems are as follows:\no Foot drop on the affected side\no Contracture of the calf muscles\no Overactivity of both quadriceps and\nhamstrings\no Reduced range of hip motion due to\noveractivity of ilipsaoas and the adductors",
+      "raw_bilingual_text": "Spastic hemiplegia 痙攣性偏癱\n•\n•\n最常見的神經系統異常步態。可發\nthe commonest neurological abnormal gait.\n生在腦癱、腦血管意外和創傷性腦\nIt can occurs in cerebral palsy,\n損傷中。\ncerebrovascular accident and traumatic\nbrain injury.\n•\n•\n偏癱患者通常具有正常運動控制、\nA hemiplegic patient usually possesses a\n痙攣和模式化反應的混合體，具體\nmixture of normal motor control, spasticity\n組合取決於腦損傷的嚴重程度和位\nand patterned responses, he exact\n置。\ncombination depending on the severity and\nlocation of the brain damage.\nTypical problems are as follows:\n•\no Foot drop on the affected side\n典型問題如下：\n• 患側腳下垂\no Contracture of the calf muscles\n• 小腿肌肉攣縮\no Overactivity of both quadriceps and\n• 股四頭肌和腘繩肌過度活躍\nhamstrings\n• 由於髂骨和內收肌過度活躍導\no Reduced range of hip motion due to\n致髖關節運動範圍縮小\noveractivity of ilipsaoas and the adductors",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "slide_title",
+          "text": "Spastic hemiplegia",
+          "body_text": "Spastic hemiplegia",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 118.748,
+          "indent_level": 5,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            144.02,
+            44.436,
+            567.374,
+            77.053
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "list_item",
+          "text": "• the commonest neurological abnormal gait. It can occurs in cerebral palsy, cerebrovascular accident and traumatic brain injury.",
+          "body_text": "the commonest neurological abnormal gait. It can occurs in cerebral palsy, cerebrovascular accident and traumatic brain injury.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "bbox_points": [
+            52.272,
+            113.11,
+            364.808,
+            194.156
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "list_item",
+          "text": "• A hemiplegic patient usually possesses a mixture of normal motor control, spasticity and patterned responses, he exact combination depending on the severity and location of the brain damage.",
+          "body_text": "A hemiplegic patient usually possesses a mixture of normal motor control, spasticity and patterned responses, he exact combination depending on the severity and location of the brain damage.",
+          "marker": "•",
+          "marker_source": "adjacent_pdf_marker_glyph",
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "bbox_points": [
+            52.272,
+            221.14,
+            363.312,
+            323.776
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "subheading",
+          "text": "Typical problems are as follows:",
+          "body_text": "Typical problems are as follows:",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            28
+          ],
+          "bbox_points": [
+            25.272,
+            350.806,
+            261.198,
+            367.006
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "o Foot drop on the affected side",
+          "body_text": "o Foot drop on the affected side",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            29
+          ],
+          "bbox_points": [
+            25.272,
+            369.706,
+            267.678,
+            388.606
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "o Contracture of the calf muscles",
+          "body_text": "o Contracture of the calf muscles",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            30
+          ],
+          "bbox_points": [
+            25.272,
+            391.306,
+            277.236,
+            410.206
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "o Overactivity of both quadriceps and",
+          "body_text": "o Overactivity of both quadriceps and",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            31
+          ],
+          "bbox_points": [
+            25.272,
+            412.886,
+            311.241,
+            431.811
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "hamstrings",
+          "body_text": "hamstrings",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            32
+          ],
+          "bbox_points": [
+            52.272,
+            437.226,
+            131.256,
+            453.426
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "o Reduced range of hip motion due to",
+          "body_text": "o Reduced range of hip motion due to",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            33
+          ],
+          "bbox_points": [
+            25.272,
+            456.126,
+            311.238,
+            475.026
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0025-B010",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+          "slide_number": 25,
+          "content_type": "paragraph",
+          "text": "overactivity of ilipsaoas and the adductors",
+          "body_text": "overactivity of ilipsaoas and the adductors",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 27.0,
+          "indent_level": 1,
+          "source_line_indices": [
+            34
+          ],
+          "bbox_points": [
+            52.272,
+            480.426,
+            356.824,
+            496.626
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0026",
+      "slide_number": 26,
+      "title": "Spastic hemiplegia (visual)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0026-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0026-C0001",
+          "visual_type": "image",
+          "name": "Spastic hemiplegia (visual) visual",
+          "pdf_page": 26,
+          "slide_number": 26,
+          "location": {
+            "bbox_points": [
+              6.0,
+              72.0,
+              714.0,
+              472.08
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+      "slide_number": 27,
+      "title": "Spastic diplegia",
+      "english_text": "Spastic diplegia\nA common manifestation of cerebral\npalsy. It primarily affects the legs,\nalthough there may be considerable\nasymmetry between the two sides.\nThe commonest pattern consists of\no Hip flexion and internal rotation,\ndue to overactivity by the ilipsoas,\nrectus femoris and hip adductors.\no Knee flexion, due to overactivity of\nthe hamstrings, especially on the\nmedial side\no Equines deformity of the foot and\neversion of the hindfoot, due to\noveractivity by the triceps surae and\nperonei.",
+      "raw_bilingual_text": "Spastic diplegia 痙攣性雙癱\nA common manifestation of cerebral\n腦癱的常見表現。它主要影響腿部，儘\npalsy. It primarily affects the legs,\n管兩側之間可能存在相當大的不對稱性。\nalthough there may be considerable\nasymmetry between the two sides.\nThe commonest pattern consists of\n最常見的模式包括\no Hip flexion and internal rotation,\n• 髖關節屈曲和內旋，由於骶腰肌、股\ndue to overactivity by the ilipsoas,\n直肌和髖內收肌過度活躍。\nrectus femoris and hip adductors.\n• 膝關節屈曲，由於腘繩肌過度活躍，\no Knee flexion, due to overactivity of\n尤其是內側\nthe hamstrings, especially on the\n• 足部畸形和後足外翻，由於頭三頭肌\nmedial side\n和腓骨過度活躍。\no Equines deformity of the foot and\neversion of the hindfoot, due to\noveractivity by the triceps surae and\nperonei.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "slide_title",
+          "text": "Spastic diplegia",
+          "body_text": "Spastic diplegia",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 126.02,
+          "indent_level": 5,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            168.02,
+            41.196,
+            550.582,
+            73.813
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "A common manifestation of cerebral",
+          "body_text": "A common manifestation of cerebral",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            42.0,
+            110.346,
+            307.014,
+            126.546
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "palsy. It primarily affects the legs,",
+          "body_text": "palsy. It primarily affects the legs,",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            42.0,
+            131.946,
+            288.42,
+            148.146
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "although there may be considerable",
+          "body_text": "although there may be considerable",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            42.0,
+            153.53,
+            298.067,
+            169.751
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "asymmetry between the two sides.",
+          "body_text": "asymmetry between the two sides.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            42.0,
+            175.166,
+            289.428,
+            191.366
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "The commonest pattern consists of",
+          "body_text": "The commonest pattern consists of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            42.0,
+            218.366,
+            292.956,
+            234.566
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "o Hip flexion and internal rotation,",
+          "body_text": "o Hip flexion and internal rotation,",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            42.0,
+            237.266,
+            315.606,
+            256.166
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "due to overactivity by the ilipsoas,",
+          "body_text": "due to overactivity by the ilipsoas,",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            78.024,
+            261.55,
+            326.156,
+            277.771
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "rectus femoris and hip adductors.",
+          "body_text": "rectus femoris and hip adductors.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            78.024,
+            283.196,
+            317.55,
+            299.396
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B010",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "o Knee flexion, due to overactivity of",
+          "body_text": "o Knee flexion, due to overactivity of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            42.0,
+            302.096,
+            334.902,
+            320.996
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B011",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "the hamstrings, especially on the",
+          "body_text": "the hamstrings, especially on the",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            78.024,
+            326.396,
+            313.41,
+            342.596
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B012",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "medial side",
+          "body_text": "medial side",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            78.024,
+            347.98,
+            160.538,
+            364.201
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B013",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "o Equines deformity of the foot and",
+          "body_text": "o Equines deformity of the foot and",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            42.0,
+            366.916,
+            321.456,
+            385.816
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B014",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "eversion of the hindfoot, due to",
+          "body_text": "eversion of the hindfoot, due to",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            78.024,
+            391.216,
+            304.05,
+            407.416
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B015",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "overactivity by the triceps surae and",
+          "body_text": "overactivity by the triceps surae and",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            78.024,
+            412.816,
+            338.522,
+            429.016
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0027-B016",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+          "slide_number": 27,
+          "content_type": "subtitle",
+          "text": "peronei.",
+          "body_text": "peronei.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 36.024,
+          "indent_level": 2,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            78.024,
+            434.418,
+            136.614,
+            450.618
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0028",
+      "slide_number": 28,
+      "title": "Spastic diplegia (visual)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0028-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0028-C0001",
+          "visual_type": "image",
+          "name": "Spastic diplegia (visual) visual",
+          "pdf_page": 28,
+          "slide_number": 28,
+          "location": {
+            "bbox_points": [
+              210.0,
+              9.84,
+              504.0,
+              530.16
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+      "slide_number": 29,
+      "title": "Shuffling gait",
+      "english_text": "Shuffling gait\nParkinsonism\nThe commonest pattern consists of\n• Stride length and speed were very much reduces, although cycle time was usually normal\n• The walking base was slightly increased\n• The range of motion at the hip, knee and ankle were all decreased, mainly by a reduction in joint extension\n• The swinging of the arms was much reduced\n• The majority of patients rotated the trunk in phase with the pelvis instead of twisting it in the opposite direction\n• The vertical trajectories of the head, heel and toe were all reduced although other workers have commented on a distinct ‘bobbing’ motion of the head.",
+      "raw_bilingual_text": "Shuffling gait 拖步步態\nParkinsonism\n帕金森症\nThe commonest pattern consists of\n最常見的模式包括：\n• Stride length and speed were very\n• 步幅和速度大幅減少，儘管循環時間\nmuch reduces, although cycle time was\n通常正常\nusually normal\n• The walking base was slightly\n• 步行基礎略有增加。\nincreased\n• The range of motion at the hip, knee\n• 髖、膝和踝關節的活動範圍均減少，\nand ankle were all decreased, mainly\n主要是由於關節伸展的減少。\nby a reduction in joint extension\n• The swinging of the arms was much\n• 手臂的擺動大幅減少。\nreduced\n• The majority of patients rotated the\n• 大多數患者的軀幹與骨盆同向旋轉，\ntrunk in phase with the pelvis instead\n而不是向相反方向扭轉。\nof twisting it in the opposite direction\n• The vertical trajectories of the head,\n• 頭部、腳跟和腳趾的垂直軌跡均減少，\nheel and toe were all reduced although\n儘管其他研究者提到頭部有明顯的\nother workers have commented on a\n“上下晃動”運動。\ndistinct ‘bobbing’ motion of the head.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "slide_title",
+          "text": "Shuffling gait",
+          "body_text": "Shuffling gait",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 140.3,
+          "indent_level": 6,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            180.02,
+            35.196,
+            501.962,
+            67.813
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "subtitle",
+          "text": "Parkinsonism",
+          "body_text": "Parkinsonism",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 86.3,
+          "indent_level": 4,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            126.02,
+            78.788,
+            267.524,
+            100.388
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "subtitle",
+          "text": "The commonest pattern consists of",
+          "body_text": "The commonest pattern consists of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            39.72,
+            125.11,
+            291.191,
+            141.331
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• Stride length and speed were very much reduces, although cycle time was usually normal",
+          "body_text": "Stride length and speed were very much reduces, although cycle time was usually normal",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4,
+            5,
+            6
+          ],
+          "bbox_points": [
+            39.72,
+            142.76,
+            349.614,
+            206.156
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• The walking base was slightly increased",
+          "body_text": "The walking base was slightly increased",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            39.72,
+            207.538,
+            284.834,
+            249.376
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• The range of motion at the hip, knee and ankle were all decreased, mainly by a reduction in joint extension",
+          "body_text": "The range of motion at the hip, knee and ankle were all decreased, mainly by a reduction in joint extension",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9,
+            10,
+            11
+          ],
+          "bbox_points": [
+            39.72,
+            250.78,
+            332.64,
+            314.176
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• The swinging of the arms was much reduced",
+          "body_text": "The swinging of the arms was much reduced",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            12,
+            13
+          ],
+          "bbox_points": [
+            39.72,
+            315.558,
+            327.695,
+            357.406
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• The majority of patients rotated the trunk in phase with the pelvis instead of twisting it in the opposite direction",
+          "body_text": "The majority of patients rotated the trunk in phase with the pelvis instead of twisting it in the opposite direction",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            14,
+            15,
+            16
+          ],
+          "bbox_points": [
+            39.72,
+            358.81,
+            337.879,
+            422.211
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0029-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+          "slide_number": 29,
+          "content_type": "list_item",
+          "text": "• The vertical trajectories of the head, heel and toe were all reduced although other workers have commented on a distinct ‘bobbing’ motion of the head.",
+          "body_text": "The vertical trajectories of the head, heel and toe were all reduced although other workers have commented on a distinct ‘bobbing’ motion of the head.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "bbox_points": [
+            39.72,
+            423.63,
+            344.718,
+            508.608
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+      "slide_number": 30,
+      "title": "Shuffling gait (visual)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0001",
+          "visual_type": "image",
+          "name": "Shuffling gait (visual) visual",
+          "pdf_page": 30,
+          "slide_number": 30,
+          "location": {
+            "bbox_points": [
+              462.0,
+              86.4,
+              704.52,
+              429.6
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0002",
+          "visual_type": "image",
+          "name": "Shuffling gait (visual) visual",
+          "pdf_page": 30,
+          "slide_number": 30,
+          "location": {
+            "bbox_points": [
+              24.0,
+              102.0,
+              440.04,
+              414.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+      "slide_number": 31,
+      "title": "Trendelenburg Gait",
+      "english_text": "Trendelenburg Gait\nThe Trendelenburg gait occurs due to\nweakness of the hip abductor muscles\n(gluteus medius), primarily on the stance\nleg. This weakness prevents stabilization of\nthe pelvis during walking.\nThe commonest pattern consists of\n• Contralateral Pelvic Drop: During the • stance phase of the affected leg, the pelvis drops on the opposite (swing) side.\n• Lateral Trunk Lean (Compensation): • The patient leans their trunk laterally over the affected stance leg to shift their center of gravity and reduce the demand on weak abductors.",
+      "raw_bilingual_text": "Trendelenburg Gait 搖擺步態\nThe Trendelenburg gait occurs due to\n搖擺步態是由於支撐腿的髖外展肌\nweakness of the hip abductor muscles\n（臀中肌）無力所引起的。這種無力\n(gluteus medius), primarily on the stance 會阻礙步行時骨盆的穩定性\nleg. This weakness prevents stabilization of\nthe pelvis during walking.\nThe commonest pattern consists of\n最常見的模式包括：\n• Contralateral Pelvic Drop: During the • 對側骨盆下沉： 在受影響腿的支\nstance phase of the affected leg, the\n撐階段，骨盆在對側（擺動側）下\npelvis drops on the opposite (swing)\n沉\nside.\n• Lateral Trunk Lean (Compensation): • 側向軀幹傾斜（補償）： 患者將\n軀幹側向傾斜至受影響的支撐腿，\nThe patient leans their trunk laterally\n以移動重心並減少對無力外展肌的\nover the affected stance leg to shift their\n需求\ncenter of gravity and reduce the demand\non weak abductors.",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "slide_title",
+          "text": "Trendelenburg Gait",
+          "body_text": "Trendelenburg Gait",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 6.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            48.96,
+            59.516,
+            418.728,
+            92.133
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "The Trendelenburg gait occurs due to",
+          "body_text": "The Trendelenburg gait occurs due to",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            42.96,
+            108.613,
+            311.937,
+            126.649
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "weakness of the hip abductor muscles",
+          "body_text": "weakness of the hip abductor muscles",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            42.96,
+            132.613,
+            315.604,
+            150.649
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "(gluteus medius), primarily on the stance",
+          "body_text": "(gluteus medius), primarily on the stance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            42.96,
+            156.596,
+            606.698,
+            179.813
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "leg. This weakness prevents stabilization of",
+          "body_text": "leg. This weakness prevents stabilization of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            42.96,
+            180.643,
+            354.362,
+            198.679
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "the pelvis during walking.",
+          "body_text": "the pelvis during walking.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            42.96,
+            204.643,
+            230.655,
+            222.679
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "subtitle",
+          "text": "The commonest pattern consists of",
+          "body_text": "The commonest pattern consists of",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            42.96,
+            254.666,
+            335.941,
+            272.724
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "list_item",
+          "text": "• Contralateral Pelvic Drop: During the • stance phase of the affected leg, the pelvis drops on the opposite (swing) side.",
+          "body_text": "Contralateral Pelvic Drop: During the • stance phase of the affected leg, the pelvis drops on the opposite (swing) side.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            10,
+            11,
+            13,
+            15
+          ],
+          "bbox_points": [
+            42.96,
+            277.734,
+            673.534,
+            369.704
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0031-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+          "slide_number": 31,
+          "content_type": "list_item",
+          "text": "• Lateral Trunk Lean (Compensation): • The patient leans their trunk laterally over the affected stance leg to shift their center of gravity and reduce the demand on weak abductors.",
+          "body_text": "Lateral Trunk Lean (Compensation): • The patient leans their trunk laterally over the affected stance leg to shift their center of gravity and reduce the demand on weak abductors.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            16,
+            17,
+            19,
+            21,
+            23
+          ],
+          "bbox_points": [
+            42.96,
+            373.764,
+            673.3,
+            490.709
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0032",
+      "slide_number": 32,
+      "title": "Trendelenburg Gait (visual)",
+      "english_text": "",
+      "raw_bilingual_text": "",
+      "blocks": [],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0032-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0032-C0001",
+          "visual_type": "image",
+          "name": "Trendelenburg Gait (visual) visual",
+          "pdf_page": 32,
+          "slide_number": 32,
+          "location": {
+            "bbox_points": [
+              114.0,
+              39.0,
+              588.0,
+              501.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+      "slide_number": 33,
+      "title": "Modified Functional Ambulation Categories (MFAC)",
+      "english_text": "Modified Functional Ambulation Categories (MFAC)\nCat.\nStage\nDefinition\nLyer\nUnable to walk / unable to sit without support>1min / assist to sit\nSitter\nSit without support >1min / unable to walk with 1 person assistance\nIII\nDependent\nWalk with 1 person assistance – level ground (continuous manual contact to support body\nWalker\nweight)\nAssisted Walker\nWalk with 1 person assistance – level ground (continuous or intermittent manual contact)\nSupervised\nWalk with standby guarding from 1 person – level ground\nWalker\nIndoor Walker\nTransfer, turn & walk on level ground independently, needs assistance on stairs/inclines\nVII\nOutdoor Walker\nWalk independently on level or non-level surfaces",
+      "raw_bilingual_text": "Modified Functional Ambulation Categories (MFAC)\n修訂功能性步行分類（MFAC）\nCat.\nStage\nDefinition\n類別\n階段\n定義\nI\nLyer\nUnable to walk / unable to sit without support>1min / assist to sit\n躺臥者\n無法行走 / 無法在沒有支持的情況下坐超過 1 分鐘 / 協助坐下\nII\nSitter\nSit without support >1min / unable to walk with 1 person assistance\n坐著者\n無法在沒有支持的情況下坐超過 1 分鐘 / 無法在一人協助下行走\nIII\nDependent\nWalk with 1 person assistance – level ground (continuous manual contact to support body\nWalker\nweight)\n依賴步行者\n在平坦地面上以一人協助行走（持續手動接觸以支持體重）\nIV\nAssisted Walker\nWalk with 1 person assistance – level ground (continuous or intermittent manual contact)\n輔助步行者\n在平坦地面上以一人協助行走（持續或間歇性手動接觸）\nV\nSupervised\nWalk with standby guarding from 1 person – level ground\n在平坦地面上以一人旁邊監護行走\nWalker\n受監督步行者\nVI\nIndoor Walker\nTransfer, turn & walk on level ground independently, needs assistance on stairs/inclines\n室內步行者\n在平坦地面上獨立轉移、轉身和行走，但在樓梯/坡道上需要協助\nVII\nOutdoor Walker\nWalk independently on level or non-level surfaces\n戶外步行者\n在平坦或不平坦的地面上獨立行走",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "slide_title",
+          "text": "Modified Functional Ambulation Categories (MFAC)",
+          "body_text": "Modified Functional Ambulation Categories (MFAC)",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 27.096,
+          "indent_level": 1,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            40.296,
+            31.923,
+            679.378,
+            57.087
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Cat.",
+          "body_text": "Cat.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            13.2,
+            118.28,
+            36.254,
+            132.32
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B003",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Stage",
+          "body_text": "Stage",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            4
+          ],
+          "bbox_points": [
+            63.912,
+            118.28,
+            96.078,
+            132.32
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B004",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Definition",
+          "body_text": "Definition",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            171.48,
+            118.28,
+            229.83,
+            132.32
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B005",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Lyer",
+          "body_text": "Lyer",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            63.912,
+            159.1,
+            88.019,
+            173.14
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B006",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Unable to walk / unable to sit without support>1min / assist to sit",
+          "body_text": "Unable to walk / unable to sit without support>1min / assist to sit",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            171.48,
+            159.1,
+            545.744,
+            173.14
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B007",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Sitter",
+          "body_text": "Sitter",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            63.912,
+            199.9,
+            94.87,
+            213.94
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B008",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Sit without support >1min / unable to walk with 1 person assistance",
+          "body_text": "Sit without support >1min / unable to walk with 1 person assistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            171.48,
+            199.9,
+            558.633,
+            213.94
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B009",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "III",
+          "body_text": "III",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            13.2,
+            240.682,
+            23.704,
+            254.746
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B010",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Dependent",
+          "body_text": "Dependent",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            19
+          ],
+          "bbox_points": [
+            63.912,
+            240.682,
+            127.397,
+            254.746
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B011",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walk with 1 person assistance – level ground (continuous manual contact to support body",
+          "body_text": "Walk with 1 person assistance – level ground (continuous manual contact to support body",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            22
+          ],
+          "bbox_points": [
+            171.48,
+            240.682,
+            684.575,
+            254.746
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B012",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walker",
+          "body_text": "Walker",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            20
+          ],
+          "bbox_points": [
+            63.912,
+            257.53,
+            104.572,
+            271.57
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B013",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "weight)",
+          "body_text": "weight)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            23
+          ],
+          "bbox_points": [
+            171.48,
+            257.53,
+            214.639,
+            271.57
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B014",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Assisted Walker",
+          "body_text": "Assisted Walker",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            26
+          ],
+          "bbox_points": [
+            63.912,
+            298.33,
+            154.681,
+            312.37
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B015",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)",
+          "body_text": "Walk with 1 person assistance – level ground (continuous or intermittent manual contact)",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            28
+          ],
+          "bbox_points": [
+            171.48,
+            298.33,
+            682.808,
+            312.37
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B016",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Supervised",
+          "body_text": "Supervised",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            31
+          ],
+          "bbox_points": [
+            63.912,
+            339.112,
+            126.384,
+            353.176
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B017",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walk with standby guarding from 1 person – level ground",
+          "body_text": "Walk with standby guarding from 1 person – level ground",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            34
+          ],
+          "bbox_points": [
+            171.48,
+            339.112,
+            498.697,
+            353.176
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B018",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walker",
+          "body_text": "Walker",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            32
+          ],
+          "bbox_points": [
+            63.912,
+            355.95,
+            104.572,
+            369.99
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B019",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Indoor Walker",
+          "body_text": "Indoor Walker",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            37
+          ],
+          "bbox_points": [
+            63.912,
+            396.75,
+            145.597,
+            410.79
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B020",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines",
+          "body_text": "Transfer, turn & walk on level ground independently, needs assistance on stairs/inclines",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            39
+          ],
+          "bbox_points": [
+            171.48,
+            396.75,
+            671.964,
+            410.79
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B021",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "VII",
+          "body_text": "VII",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            41
+          ],
+          "bbox_points": [
+            13.2,
+            437.532,
+            28.154,
+            451.596
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B022",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Outdoor Walker",
+          "body_text": "Outdoor Walker",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 50.712,
+          "indent_level": 2,
+          "source_line_indices": [
+            42
+          ],
+          "bbox_points": [
+            63.912,
+            437.532,
+            156.031,
+            451.596
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0033-B023",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+          "slide_number": 33,
+          "content_type": "subtitle",
+          "text": "Walk independently on level or non-level surfaces",
+          "body_text": "Walk independently on level or non-level surfaces",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 158.28,
+          "indent_level": 7,
+          "source_line_indices": [
+            44
+          ],
+          "bbox_points": [
+            171.48,
+            437.532,
+            456.257,
+            451.596
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+      "slide_number": 34,
+      "title": "Timed up and Go test",
+      "english_text": "Timed up and Go test\nA score of more than or equal to fourteen seconds has been shown to indicate high risk of falls.",
+      "raw_bilingual_text": "Timed up and Go test 計時起立走動測試\nA score of more than or equal to fourteen seconds has been shown to indicate high risk of falls.\n得分達到或超過十四秒被認為顯示出高風險跌倒的情況。",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0034-B001",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+          "slide_number": 34,
+          "content_type": "slide_title",
+          "text": "Timed up and Go test",
+          "body_text": "Timed up and Go test",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 90.67,
+          "indent_level": 4,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            114.67,
+            28.504,
+            605.819,
+            56.967
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L06-POSTURAL-GAIT-P0034-B002",
+          "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+          "slide_number": 34,
+          "content_type": "subtitle",
+          "text": "A score of more than or equal to fourteen seconds has been shown to indicate high risk of falls.",
+          "body_text": "A score of more than or equal to fourteen seconds has been shown to indicate high risk of falls.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            24.0,
+            92.341,
+            557.804,
+            104.977
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0034-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0034-C0001",
+          "visual_type": "image",
+          "name": "Timed up and Go test visual",
+          "pdf_page": 34,
+          "slide_number": 34,
+          "location": {
+            "bbox_points": [
+              0.36,
+              133.44,
+              720.0,
+              540.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 34,
+    "blocks": 165,
+    "list_items": 48
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

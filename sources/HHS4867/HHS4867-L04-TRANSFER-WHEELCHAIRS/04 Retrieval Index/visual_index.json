@@ -1,0 +1,828 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Bed Mobility visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          129.0,
+          332.28,
+          591.0,
+          495.72
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Bed Mobility"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Supine lying to side lying visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          155.88,
+          116.88,
+          598.68,
+          518.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Supine lying to side lying"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0005-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Supine lying to side lying (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          66.6,
+          720.0,
+          473.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Supine lying to side lying (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Lying to sitting visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          32.76,
+          96.6,
+          537.96,
+          425.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Lying to sitting"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0006-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Lying to sitting visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          537.36,
+          204.36,
+          701.76,
+          421.32
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Lying to sitting"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Lying to sitting (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          48.0,
+          720.0,
+          456.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Lying to sitting (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Pivot Transfer - Squat visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          47.76,
+          145.32,
+          632.28,
+          400.44
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Pivot Transfer - Squat"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0012-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Pivot Transfer - Squat (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          54.0,
+          720.0,
+          460.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Pivot Transfer - Squat (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Pivot Transfer - Standing visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          359.64,
+          90.0,
+          673.08,
+          504.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Pivot Transfer - Standing"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0014-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Transfer with 2 Assistance visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          90.0,
+          720.0,
+          496.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Bed mobility and pivot transfers",
+          "Transfer with 2 Assistance"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0016-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Conditions with Precautions (video) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          42.72,
+          711.48,
+          444.72
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Conditions with precautions",
+          "Conditions with Precautions (video)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0025-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Standard Wheelchair (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          53.88,
+          94.2,
+          665.04,
+          491.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Standard wheelchairs and fitting",
+          "Standard Wheelchair (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0026-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Standard Wheelchair (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          167.28,
+          54.6,
+          541.44,
+          512.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Standard wheelchairs and fitting",
+          "Standard Wheelchair (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0027-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "How to fit a Wheelchair? - Seat width visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          2.16,
+          168.001,
+          298.801,
+          401.996
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Standard wheelchairs and fitting",
+          "How to fit a Wheelchair? - Seat width"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0029-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029",
+      "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "Use of Wheelchair (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          66.0,
+          720.0,
+          474.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029",
+        "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+        "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "Use of the wheelchair",
+          "Use of Wheelchair (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 15,
+    "tables": 0,
+    "non_tables": 15
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

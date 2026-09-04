@@ -166,7 +166,7 @@
       "package_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS",
       "source_manifest_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/source_manifest.json",
       "retrieval_index_path": "sources/HHS4867/HHS4867-L01-MUSCULOSKELETAL-BASIS/04 Retrieval Index",
-      "query_helper_path": "tools/query_hhs4867_lecture.py",
+      "query_helper_path": "tools/query_hhs4867_l01_musculoskeletal_basis.py",
       "retrieval_group": "HHS4867-course-first",
       "priority": 1,
       "source_files": [
@@ -181,59 +181,10 @@
       ],
       "source_urls": [],
       "retrieval_policy": "This is primary HHS4867 course evidence; use HHS4867 supplemental sources only after course materials.",
-      "coverage_status": "processed_lecture_package",
+      "coverage_status": "processed_presentation_deck",
       "verification_status": "generated_not_verified",
-      "claims_index": "not_created"
-    },
-    {
-      "source_id": "HHS4185-T1-ICF-2026",
-      "course_code": "HHS4185",
-      "source_role": "course_materials",
-      "source_kind": "tutorial",
-      "title": "Tutorial 1 - ICF",
-      "package_status": "registered",
-      "package_path": "sources/HHS4185/HHS4185-T1-ICF-2026",
-      "source_manifest_path": "sources/HHS4185/HHS4185-T1-ICF-2026/source_manifest.json",
-      "query_helper_path": null,
-      "priority": 1,
-      "source_files": [
-        {
-          "file_name": "01 - T1 ICF.pdf",
-          "original_path": "../Rehabilitation Conditions/03 Workshops/01 - T1 ICF.pdf",
-          "size_bytes": 1558477,
-          "sha256": "sha256:fcdfe5cd463b91b3ef26902571fc9e88716933521696cae412e3d228b2e2101f",
-          "copied_path": "sources/HHS4185/HHS4185-T1-ICF-2026/00 Source/01 - T1 ICF.pdf",
-          "copy_status": "copied"
-        }
-      ],
-      "source_urls": [],
-      "verification_status": "not_verified",
-      "claims_index": "not_created"
-    },
-    {
-      "source_id": "HHS4185-WS1-EQUIPMENT-2026",
-      "course_code": "HHS4185",
-      "source_role": "course_materials",
-      "source_kind": "workshop",
-      "title": "Workshop 1 - Introduction to Rehabilitation Equipment",
-      "package_status": "registered",
-      "package_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026",
-      "source_manifest_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/source_manifest.json",
-      "query_helper_path": null,
-      "priority": 1,
-      "source_files": [
-        {
-          "file_name": "02 - WS1 Equipment.pdf",
-          "original_path": "../Rehabilitation Conditions/03 Workshops/02 - WS1 Equipment.pdf",
-          "size_bytes": 1196980,
-          "sha256": "sha256:6f7d548b19d89422c9736b1585c2a1f7148f57eb523e9b1a0e21147ea6da9bb3",
-          "copied_path": "sources/HHS4185/HHS4185-WS1-EQUIPMENT-2026/00 Source/02 - WS1 Equipment.pdf",
-          "copy_status": "copied"
-        }
-      ],
-      "source_urls": [],
-      "verification_status": "not_verified",
-      "claims_index": "not_created"
+      "claims_index": "not_created",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
     },
     {
       "source_id": "HHS4185-T1-ICF-2026",
@@ -344,6 +295,456 @@
         "raw_pdf_exists": true,
         "raw_hash_matches_registered_source": true
       }
+    },
+    {
+      "source_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 1 - Ambulation & Transfer",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l01_ambulation_transfer.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "01 - 1. Ambulation Transfer.pdf",
+          "original_path": "../Movement Science/02 Lectures/01 - 1. Ambulation Transfer.pdf",
+          "size_bytes": 684506,
+          "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+          "copied_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/00 Source/01 - 1. Ambulation Transfer.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 2 - Manual Muscle Testing (MMT)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L02-MANUAL-MUSCLE-TESTING",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L02-MANUAL-MUSCLE-TESTING/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l02_manual_muscle_testing.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "04 - 2. Manual Muscle Testing.pdf",
+          "original_path": "../Movement Science/02 Lectures/04 - 2. Manual Muscle Testing.pdf",
+          "size_bytes": 309550,
+          "sha256": "sha256:5166af5744e2e60aae249febc412885fb3d343aae9f65533b9b4cf86cac380ff",
+          "copied_path": "sources/HHS4867/HHS4867-L02-MANUAL-MUSCLE-TESTING/00 Source/04 - 2. Manual Muscle Testing.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L02-MANUAL-MUSCLE-TESTING/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 2 - Neuromuscular Control of Human Movement",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l02_neuromuscular_control.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "original_path": "../Movement Science/02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "size_bytes": 886506,
+          "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+          "copied_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/00 Source/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 3 - Analysis of Movement",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l03_analysis_of_movement.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "original_path": "../Movement Science/02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "size_bytes": 1031028,
+          "sha256": "sha256:b27d5b536e86147999c4372ca0ae004723482b49c595f4fc7ab67ce305d13c3c",
+          "copied_path": "sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT/00 Source/07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L03-ANALYSIS-OF-MOVEMENT/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L03-RANGE-OF-MOTION",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L03-RANGE-OF-MOTION/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l03_range_of_motion.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "09 - 3. Range of Motion.pdf",
+          "original_path": "../Movement Science/02 Lectures/09 - 3. Range of Motion.pdf",
+          "size_bytes": 5698103,
+          "sha256": "sha256:a893627bfd355229fb7f7a14ed4039833693621af5b0c77cc09d9618767ab2ef",
+          "copied_path": "sources/HHS4867/HHS4867-L03-RANGE-OF-MOTION/00 Source/09 - 3. Range of Motion.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L03-RANGE-OF-MOTION/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L04-MFAC",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 4 - Modified Functional Ambulation Categories",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L04-MFAC",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L04-MFAC/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l04_mfac.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "original_path": "../Movement Science/02 Lectures/10 - 4. Modified Functional Ambulation Categories.pdf",
+          "size_bytes": 116398,
+          "sha256": "sha256:c1d4cafdbdfd5ca8c761bf39565769b1450147db5d8c26e06580d5ff0099cf2f",
+          "copied_path": "sources/HHS4867/HHS4867-L04-MFAC/00 Source/10 - 4. Modified Functional Ambulation Categories.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L04-MFAC/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L04-TUG",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 4 - Timed Up and Go (TUG) Test",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L04-TUG",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L04-TUG/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l04_tug.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "11 - 4. Timed up and go.pdf",
+          "original_path": "../Movement Science/02 Lectures/11 - 4. Timed up and go.pdf",
+          "size_bytes": 80974,
+          "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+          "copied_path": "sources/HHS4867/HHS4867-L04-TUG/00 Source/11 - 4. Timed up and go.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L04-TUG/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 4 - Transfer Technique and Standard Wheelchairs",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l04_transfer_wheelchairs.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "original_path": "../Movement Science/02 Lectures/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "size_bytes": 1085021,
+          "sha256": "sha256:77024a9eb8c9c728a11ace349055cd4f405788d1490039788bdb495704c25e92",
+          "copied_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS/00 Source/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L04-TRANSFER-WHEELCHAIRS/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-SCHEDULE-1A",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture_schedule",
+      "title": "Functional Movement Science - Class 1A Lecture Schedule",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-SCHEDULE-1A",
+      "source_manifest_path": "sources/HHS4867/HHS4867-SCHEDULE-1A/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_schedule_1a.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "14 - 4867 1A.pdf",
+          "original_path": "../Movement Science/02 Lectures/14 - 4867 1A.pdf",
+          "size_bytes": 66690,
+          "sha256": "sha256:0874af5ddd68811eb971509bac80586153eab568398cbd2be9349d513d967ef3",
+          "copied_path": "sources/HHS4867/HHS4867-SCHEDULE-1A/00 Source/14 - 4867 1A.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-SCHEDULE-1A/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-SCHEDULE-1B",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture_schedule",
+      "title": "Functional Movement Science - Class 1B Lecture Schedule",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-SCHEDULE-1B",
+      "source_manifest_path": "sources/HHS4867/HHS4867-SCHEDULE-1B/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_schedule_1b.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "15 - 4867 1B.pdf",
+          "original_path": "../Movement Science/02 Lectures/15 - 4867 1B.pdf",
+          "size_bytes": 66693,
+          "sha256": "sha256:77db5a9adc27a1421c562536f8c3b8713354d4b86cd6dc9b71a8d7157c362bbb",
+          "copied_path": "sources/HHS4867/HHS4867-SCHEDULE-1B/00 Source/15 - 4867 1B.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-SCHEDULE-1B/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-SCHEDULE-1C",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture_schedule",
+      "title": "Functional Movement Science - Class 1C Lecture Schedule",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-SCHEDULE-1C",
+      "source_manifest_path": "sources/HHS4867/HHS4867-SCHEDULE-1C/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_schedule_1c.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "16 - 4867 1C.pdf",
+          "original_path": "../Movement Science/02 Lectures/16 - 4867 1C.pdf",
+          "size_bytes": 66695,
+          "sha256": "sha256:36583631890ccccb8dad7937bc50e1d4a3797feb18844d459cb94f483760ba55",
+          "copied_path": "sources/HHS4867/HHS4867-SCHEDULE-1C/00 Source/16 - 4867 1C.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-SCHEDULE-1C/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 5 - Mobility and Walking Aids",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l05_mobility_walking_aids.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "17 - 5. Mobility Walking Aids 助行工具.pdf",
+          "original_path": "../Movement Science/02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+          "size_bytes": 1738941,
+          "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+          "copied_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/00 Source/17 - 5. Mobility Walking Aids 助行工具.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L05-MOBILITY-WALKING-AIDS/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L06-POSTURAL-GAIT",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 6 - Postural and Gait Assessment",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L06-POSTURAL-GAIT",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L06-POSTURAL-GAIT/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l06_postural_gait.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+          "original_path": "../Movement Science/02 Lectures/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+          "size_bytes": 1383858,
+          "sha256": "sha256:19970d5e2c4e6fd0fe646f2760f28e08edf0ed316cccd6718c59cd903541b8bc",
+          "copied_path": "sources/HHS4867/HHS4867-L06-POSTURAL-GAIT/00 Source/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L06-POSTURAL-GAIT/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 7.1 - Manual Muscle Testing",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l07_manual_muscle_testing.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "original_path": "../Movement Science/02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "size_bytes": 429426,
+          "sha256": "sha256:ed27b2fe1b3e3966caf2e24d96773d7b878c6a8e3879a4abfb7ee1cb819174a2",
+          "copied_path": "sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/00 Source/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L07-MANUAL-MUSCLE-TESTING/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "course_code": "HHS4867",
+      "source_role": "course_materials",
+      "source_kind": "lecture",
+      "title": "Lecture 7.2 - Joint Range of Motion",
+      "package_status": "processed_lecture_package",
+      "package_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_manifest_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/source_manifest.json",
+      "query_helper_path": "tools/query_hhs4867_l07_joint_range_of_motion.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+          "original_path": "../Movement Science/02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+          "size_bytes": 266480,
+          "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+          "copied_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/00 Source/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "course_title": "HHS4867 - Functional Movement Science",
+      "retrieval_group": "HHS4867-course-first",
+      "retrieval_index_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/04 Retrieval Index",
+      "coverage_status": "processed_presentation_deck",
+      "deduplication_audit_path": "sources/HHS4867/duplicate_audit_generated.json"
     },
     {
       "source_id": "HHS3190M-L02-PHYSIOLOGY-2026-07",
@@ -554,6 +955,31 @@
       "claims_index": "not_created",
       "coverage_status": "processed_lecture_package",
       "deduplication_audit_path": "sources/HHS3190M/duplicate_audit_generated.json"
+    },
+    {
+      "source_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "course_code": "HHS3190M",
+      "source_role": "official_document",
+      "source_kind": "scheme_of_module_activity",
+      "title": "Semester 1 (26-27) Scheme of Module Activity",
+      "package_status": "registered",
+      "package_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27",
+      "source_manifest_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27/source_manifest.json",
+      "query_helper_path": null,
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "01 - S1 SOW (26-27).pdf",
+          "original_path": "../Physiology & Anatomy/01 Official/01 - S1 SOW (26-27).pdf",
+          "size_bytes": 345726,
+          "sha256": "sha256:c86e56d21ea776a1f0d5fa197006ce939debc4e2c09b210bc785fbdb61508b6a",
+          "copied_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27/00 Source/01 - S1 SOW (26-27).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "not_verified",
+      "claims_index": "not_created"
     }
   ]
 }

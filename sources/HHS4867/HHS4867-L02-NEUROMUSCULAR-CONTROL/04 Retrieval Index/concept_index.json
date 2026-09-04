@@ -1,0 +1,1539 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "abdomen",
+      "canonical_candidate": "abdomen",
+      "keyword_path": [
+        "Anatomy",
+        "abdomen"
+      ],
+      "source_forms": [
+        "abdomen"
+      ],
+      "retrieval_terms": [
+        "abdomen"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Brain",
+      "canonical_candidate": "Brain",
+      "keyword_path": [
+        "Anatomy",
+        "Brain"
+      ],
+      "source_forms": [
+        "Brain"
+      ],
+      "retrieval_terms": [
+        "Brain"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Cervical",
+      "canonical_candidate": "Cervical",
+      "keyword_path": [
+        "Anatomy",
+        "Cervical"
+      ],
+      "source_forms": [
+        "Cervical"
+      ],
+      "retrieval_terms": [
+        "Cervical"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Chest",
+      "canonical_candidate": "Chest",
+      "keyword_path": [
+        "Anatomy",
+        "Chest"
+      ],
+      "source_forms": [
+        "Chest"
+      ],
+      "retrieval_terms": [
+        "Chest"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "diaphragm",
+      "canonical_candidate": "diaphragm",
+      "keyword_path": [
+        "Anatomy",
+        "diaphragm"
+      ],
+      "source_forms": [
+        "diaphragm"
+      ],
+      "retrieval_terms": [
+        "diaphragm"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "muscle",
+      "canonical_candidate": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_forms": [
+        "muscle"
+      ],
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009",
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "nerve",
+      "canonical_candidate": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_forms": [
+        "nerve"
+      ],
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "neuron",
+      "canonical_candidate": "neuron",
+      "keyword_path": [
+        "Anatomy",
+        "neuron"
+      ],
+      "source_forms": [
+        "neuron"
+      ],
+      "retrieval_terms": [
+        "neuron"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016",
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "peripheral",
+      "canonical_candidate": "peripheral",
+      "keyword_path": [
+        "Anatomy",
+        "peripheral"
+      ],
+      "source_forms": [
+        "peripheral",
+        "Peripheral"
+      ],
+      "retrieval_terms": [
+        "peripheral",
+        "Peripheral"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021",
+        "HHS4867-O-00000022"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "spinal",
+      "canonical_candidate": "spinal",
+      "keyword_path": [
+        "Anatomy",
+        "spinal"
+      ],
+      "source_forms": [
+        "spinal",
+        "Spinal"
+      ],
+      "retrieval_terms": [
+        "spinal",
+        "Spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025",
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027",
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029",
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "occurrence_count": 9,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Thoracic",
+      "canonical_candidate": "Thoracic",
+      "keyword_path": [
+        "Anatomy",
+        "Thoracic"
+      ],
+      "source_forms": [
+        "Thoracic"
+      ],
+      "retrieval_terms": [
+        "Thoracic"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032",
+        "HHS4867-O-00000033"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "arms hands diaphragm Thoracic pairs Chest",
+      "canonical_candidate": "arms hands diaphragm Thoracic pairs Chest",
+      "keyword_path": [
+        "Conditions",
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "source_forms": [
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "retrieval_terms": [
+        "arms hands diaphragm Thoracic pairs Chest"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Central nervous system CNS Brain spinal",
+      "canonical_candidate": "Central nervous system CNS Brain spinal",
+      "keyword_path": [
+        "Conditions",
+        "Central nervous system CNS Brain spinal"
+      ],
+      "source_forms": [
+        "Central nervous system CNS Brain spinal"
+      ],
+      "retrieval_terms": [
+        "Central nervous system CNS Brain spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Cervical region pairs Thoracic",
+      "canonical_candidate": "Cervical region pairs Thoracic",
+      "keyword_path": [
+        "Conditions",
+        "Cervical region pairs Thoracic"
+      ],
+      "source_forms": [
+        "Cervical region pairs Thoracic"
+      ],
+      "retrieval_terms": [
+        "Cervical region pairs Thoracic"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "few muscle",
+      "canonical_candidate": "few muscle",
+      "keyword_path": [
+        "Conditions",
+        "few muscle"
+      ],
+      "source_forms": [
+        "few muscle"
+      ],
+      "retrieval_terms": [
+        "few muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Head neck shoulders arms hands diaphragm",
+      "canonical_candidate": "Head neck shoulders arms hands diaphragm",
+      "keyword_path": [
+        "Conditions",
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "source_forms": [
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "retrieval_terms": [
+        "Head neck shoulders arms hands diaphragm"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "monitored Peripheral",
+      "canonical_candidate": "monitored Peripheral",
+      "keyword_path": [
+        "Conditions",
+        "monitored Peripheral"
+      ],
+      "source_forms": [
+        "monitored Peripheral"
+      ],
+      "retrieval_terms": [
+        "monitored Peripheral"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "motorend plate neuromuscular",
+      "canonical_candidate": "motorend plate neuromuscular",
+      "keyword_path": [
+        "Conditions",
+        "motorend plate neuromuscular"
+      ],
+      "source_forms": [
+        "motorend plate neuromuscular"
+      ],
+      "retrieval_terms": [
+        "motorend plate neuromuscular"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "motor neuron",
+      "canonical_candidate": "motor neuron",
+      "keyword_path": [
+        "Conditions",
+        "motor neuron"
+      ],
+      "source_forms": [
+        "motor neuron"
+      ],
+      "retrieval_terms": [
+        "motor neuron"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041",
+        "HHS4867-O-00000042"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "motor response Examples Muscle",
+      "canonical_candidate": "motor response Examples Muscle",
+      "keyword_path": [
+        "Conditions",
+        "motor response Examples Muscle"
+      ],
+      "source_forms": [
+        "motor response Examples Muscle"
+      ],
+      "retrieval_terms": [
+        "motor response Examples Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Motor Unit Skeletal muscle",
+      "canonical_candidate": "Motor Unit Skeletal muscle",
+      "keyword_path": [
+        "Conditions",
+        "Motor Unit Skeletal muscle"
+      ],
+      "source_forms": [
+        "Motor Unit Skeletal muscle"
+      ],
+      "retrieval_terms": [
+        "Motor Unit Skeletal muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nature magnitude motor neuron",
+      "canonical_candidate": "nature magnitude motor neuron",
+      "keyword_path": [
+        "Conditions",
+        "nature magnitude motor neuron"
+      ],
+      "source_forms": [
+        "nature magnitude motor neuron"
+      ],
+      "retrieval_terms": [
+        "nature magnitude motor neuron"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000023",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "neck shoulders arms hands diaphragm Thoracic",
+      "canonical_candidate": "neck shoulders arms hands diaphragm Thoracic",
+      "keyword_path": [
+        "Conditions",
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "source_forms": [
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "retrieval_terms": [
+        "neck shoulders arms hands diaphragm Thoracic"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000024",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nerves Spinal nerve Area supplied Cervical",
+      "canonical_candidate": "nerves Spinal nerve Area supplied Cervical",
+      "keyword_path": [
+        "Conditions",
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "source_forms": [
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "retrieval_terms": [
+        "nerves Spinal nerve Area supplied Cervical"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000025",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "nervous system sensory neuron",
+      "canonical_candidate": "nervous system sensory neuron",
+      "keyword_path": [
+        "Conditions",
+        "nervous system sensory neuron"
+      ],
+      "source_forms": [
+        "nervous system sensory neuron"
+      ],
+      "retrieval_terms": [
+        "nervous system sensory neuron"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Neuromuscular",
+      "canonical_candidate": "Neuromuscular",
+      "keyword_path": [
+        "Conditions",
+        "Neuromuscular"
+      ],
+      "source_forms": [
+        "Neuromuscular",
+        "neuromuscular"
+      ],
+      "retrieval_terms": [
+        "Neuromuscular",
+        "neuromuscular"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000049",
+        "HHS4867-O-00000050"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000027",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "parts Central nervous system CNS Brain",
+      "canonical_candidate": "parts Central nervous system CNS Brain",
+      "keyword_path": [
+        "Conditions",
+        "parts Central nervous system CNS Brain"
+      ],
+      "source_forms": [
+        "parts Central nervous system CNS Brain"
+      ],
+      "retrieval_terms": [
+        "parts Central nervous system CNS Brain"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000028",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "sensory neuron",
+      "canonical_candidate": "sensory neuron",
+      "keyword_path": [
+        "Conditions",
+        "sensory neuron"
+      ],
+      "source_forms": [
+        "sensory neuron"
+      ],
+      "retrieval_terms": [
+        "sensory neuron"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "spinal nerves Spinal",
+      "canonical_candidate": "spinal nerves Spinal",
+      "keyword_path": [
+        "Conditions",
+        "spinal nerves Spinal"
+      ],
+      "source_forms": [
+        "spinal nerves Spinal"
+      ],
+      "retrieval_terms": [
+        "spinal nerves Spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000030",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "spinal nerves Spinal nerve",
+      "canonical_candidate": "spinal nerves Spinal nerve",
+      "keyword_path": [
+        "Conditions",
+        "spinal nerves Spinal nerve"
+      ],
+      "source_forms": [
+        "spinal nerves Spinal nerve"
+      ],
+      "retrieval_terms": [
+        "spinal nerves Spinal nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000031",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CNS",
+      "canonical_candidate": "CNS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CNS"
+      ],
+      "source_forms": [
+        "CNS"
+      ],
+      "retrieval_terms": [
+        "CNS"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055",
+        "HHS4867-O-00000056"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000032",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "GTO",
+      "canonical_candidate": "GTO",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "GTO"
+      ],
+      "source_forms": [
+        "GTO"
+      ],
+      "retrieval_terms": [
+        "GTO"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000033",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867",
+      "canonical_candidate": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_forms": [
+        "HHS4867"
+      ],
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000034",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4867J",
+      "canonical_candidate": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_forms": [
+        "HHS4867J"
+      ],
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000059"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000035",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "human movement HHS4867 Functional",
+      "canonical_candidate": "human movement HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "human movement HHS4867 Functional"
+      ],
+      "source_forms": [
+        "human movement HHS4867 Functional"
+      ],
+      "retrieval_terms": [
+        "human movement HHS4867 Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000036",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "PNS",
+      "canonical_candidate": "PNS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "PNS"
+      ],
+      "source_forms": [
+        "PNS"
+      ],
+      "retrieval_terms": [
+        "PNS"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000037",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities",
+      "canonical_candidate": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_forms": [
+        "activities"
+      ],
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000062"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000038",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional",
+        "functional"
+      ],
+      "retrieval_terms": [
+        "Functional",
+        "functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000039",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "muscles",
+      "canonical_candidate": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_forms": [
+        "muscles"
+      ],
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067",
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000040",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "preferred_label": "tendon",
+      "canonical_candidate": "tendon",
+      "keyword_path": [
+        "Section topics",
+        "tendon"
+      ],
+      "source_forms": [
+        "tendon"
+      ],
+      "retrieval_terms": [
+        "tendon"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000070"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000041",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "muscle Pain",
+      "canonical_candidate": "muscle Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "muscle Pain"
+      ],
+      "source_forms": [
+        "muscle Pain"
+      ],
+      "retrieval_terms": [
+        "muscle Pain"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000071"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000042",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "Pain",
+      "canonical_candidate": "Pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "Pain"
+      ],
+      "source_forms": [
+        "Pain"
+      ],
+      "retrieval_terms": [
+        "Pain"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000043",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Central Nervous System visual",
+      "canonical_candidate": "Central Nervous System visual",
+      "keyword_path": [
+        "visual",
+        "Central Nervous System visual"
+      ],
+      "source_forms": [
+        "Central Nervous System visual"
+      ],
+      "retrieval_terms": [
+        "Central Nervous System visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000044",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Motor Unit visual",
+      "canonical_candidate": "Motor Unit visual",
+      "keyword_path": [
+        "visual",
+        "Motor Unit visual"
+      ],
+      "source_forms": [
+        "Motor Unit visual"
+      ],
+      "retrieval_terms": [
+        "Motor Unit visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000074"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000045",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Peripheral Nervous System - Lower Extremity visual",
+      "canonical_candidate": "Peripheral Nervous System - Lower Extremity visual",
+      "keyword_path": [
+        "visual",
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "source_forms": [
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "retrieval_terms": [
+        "Peripheral Nervous System - Lower Extremity visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000075"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000046",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "canonical_candidate": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "keyword_path": [
+        "visual",
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "source_forms": [
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "retrieval_terms": [
+        "Peripheral Nervous System - Upper Extremity Nerves visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000047",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Reflex (diagram) visual",
+      "canonical_candidate": "Reflex (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Reflex (diagram) visual"
+      ],
+      "source_forms": [
+        "Reflex (diagram) visual"
+      ],
+      "retrieval_terms": [
+        "Reflex (diagram) visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000048",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Reflex visual",
+      "canonical_candidate": "Reflex visual",
+      "keyword_path": [
+        "visual",
+        "Reflex visual"
+      ],
+      "source_forms": [
+        "Reflex visual"
+      ],
+      "retrieval_terms": [
+        "Reflex visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000078"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000049",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Spinal Nerves (diagram) visual",
+      "canonical_candidate": "Spinal Nerves (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Spinal Nerves (diagram) visual"
+      ],
+      "source_forms": [
+        "Spinal Nerves (diagram) visual"
+      ],
+      "retrieval_terms": [
+        "Spinal Nerves (diagram) visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000079"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 49,
+    "occurrences": 79
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

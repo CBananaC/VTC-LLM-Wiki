@@ -1,0 +1,42 @@
+{
+  "schema_version": "vtc-hhs4867.retrieval-index-manifest.v1",
+  "record_type": "retrieval_index_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-SCHEDULE-1C",
+  "package_path": "sources/HHS4867/HHS4867-SCHEDULE-1C",
+  "index_files": {
+    "concepts": "concept_index.json",
+    "occurrences": "occurrence_index.json",
+    "terms": "term_lookup.json",
+    "passages": "passage_index.jsonl",
+    "visuals": "visual_index.json",
+    "structure": "structure_lookup.json",
+    "summaries": "hierarchical_summaries.json",
+    "formal_output": "formal_output_schema.json",
+    "validation": "retrieval_index_validation_report.json"
+  },
+  "source_separation": "This deck remains separate from all other HHS4867 and supplemental source packages.",
+  "retrieval_policy": {
+    "course_priority": "This is primary HHS4867 course evidence.",
+    "source_passages_primary": true,
+    "summaries_context_only": true,
+    "non_table_visuals_metadata_only": true,
+    "tables_full_reconstruction_when_detected": true,
+    "exact_quotes_require_manual_verification": true,
+    "claims_index": "not_created"
+  },
+  "counts": {
+    "slides": 1,
+    "parts": 1,
+    "blocks": 6,
+    "concepts": 33,
+    "occurrences": 79,
+    "terms": 33,
+    "passages": 1,
+    "visuals": 2,
+    "tables": 2,
+    "quotation_candidates": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-SCHEDULE-1C-VIS-P0001-T01",
+      "table_id": "HHS4867-SCHEDULE-1C-TBL-P0001-C01",
+      "document_id": "HHS4867-SCHEDULE-1C",
+      "source_page_id": "HHS4867-SCHEDULE-1C-P0001",
+      "source_file": "16 - 4867 1C.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "table",
+      "name": "Table on slide 1: Functional Movement Science - Class 1C Lecture Schedule",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          18.526,
+          120.44,
+          671.853,
+          281.9
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-SCHEDULE-1C-P0001",
+        "document_id": "HHS4867-SCHEDULE-1C",
+        "document_title": "Functional Movement Science - Class 1C Lecture Schedule",
+        "source_file": "16 - 4867 1C.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "16 - 4867 1C.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-SCHEDULE-1C-P0001",
+        "HHS4867-SCHEDULE-1C-PART01",
+        "HHS4867-SCHEDULE-1C",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Functional Movement Science - Class 1C Lecture Schedule",
+          "Functional Movement Science - Class 1C Lecture Schedule",
+          "Functional Movement Science - Class 1C Lecture Schedule"
+        ]
+      ]
+    },
+    {
+      "visual_id": "HHS4867-SCHEDULE-1C-VIS-P0001-T02",
+      "table_id": "HHS4867-SCHEDULE-1C-TBL-P0001-C02",
+      "document_id": "HHS4867-SCHEDULE-1C",
+      "source_page_id": "HHS4867-SCHEDULE-1C-P0001",
+      "source_file": "16 - 4867 1C.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "table",
+      "name": "Table on slide 1: Functional Movement Science - Class 1C Lecture Schedule",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          18.526,
+          309.25,
+          671.853,
+          528.216
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "pdfplumber-find-tables"
+      },
+      "policy": "full_table_reconstruction",
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../(3) Text and Tables/hhs4185_tables_generated.json",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-SCHEDULE-1C-P0001",
+        "document_id": "HHS4867-SCHEDULE-1C",
+        "document_title": "Functional Movement Science - Class 1C Lecture Schedule",
+        "source_file": "16 - 4867 1C.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "16 - 4867 1C.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-SCHEDULE-1C-P0001",
+        "HHS4867-SCHEDULE-1C-PART01",
+        "HHS4867-SCHEDULE-1C",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Functional Movement Science - Class 1C Lecture Schedule",
+          "Functional Movement Science - Class 1C Lecture Schedule",
+          "Functional Movement Science - Class 1C Lecture Schedule"
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "visuals": 2,
+    "tables": 2,
+    "non_tables": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

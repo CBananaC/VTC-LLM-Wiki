@@ -1,0 +1,716 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "TUG",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TUG"
+      ],
+      "source_form": "TUG",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "TUG"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "Go TUG Test",
+      "keyword_path": [
+        "Investigations",
+        "Go TUG Test"
+      ],
+      "source_form": "Go TUG Test",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "Go TUG Test"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "small_area": "Test",
+      "keyword_path": [
+        "Investigations",
+        "Test"
+      ],
+      "source_form": "Test",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "Test"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "small_area": "Timed Up and Go",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "Timed Up and Go"
+      ],
+      "source_form": "Timed Up and Go",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2\nTimed Up and Go (TUG) Test\n1. Equipment: arm chair, tape measure, tape, stop watch.\n2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s\nback should resting on the back of the chair. The chair should be stableand positioned\nsuch that it will not move when the subject moves from sitting to standing.\n3. Place a piece of tape or other marker on the floor 3 meters away from the chair so\nthat it is easily seen by the subject.\n4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "Timed Up and Go"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "small_area": "TUG test",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "TUG test"
+      ],
+      "source_form": "TUG test",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2\nTimed Up and Go (TUG) Test\n1. Equipment: arm chair, tape measure, tape, stop watch.\n2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s\nback should resting on the back of the chair. The chair should be stableand positioned\nsuch that it will not move when the subject moves from sitting to standing.\n3. Place a piece of tape or other marker on the floor 3 meters away from the chair so\nthat it is easily seen by the subject.\n4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "TUG test"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_form": "balance",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_form": "functional",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait"
+      ],
+      "source_form": "gait",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "gait"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "gait speed balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait speed balance"
+      ],
+      "source_form": "gait speed balance",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "gait speed balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "gait speed balance functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait speed balance functional"
+      ],
+      "source_form": "gait speed balance functional",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "gait speed balance functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Interpretation seconds normal seconds good mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "source_form": "Interpretation seconds normal seconds good mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000012",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "poor mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "poor mobility"
+      ],
+      "source_form": "poor mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TUG-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "1,2 Timed Up and Go (TUG) Test 1. Equipment: arm chair, tape measure, tape, stop watch. 2. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. 3. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. 4. Instructions: “On the word GO yo",
+      "retrieval_terms": [
+        "poor mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "keyword_path": [
+        "visual",
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "source_form": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TUG-VIS-P0001-C0002"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "retrieval_terms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "keyword_path": [
+        "visual",
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "source_form": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TUG-VIS-P0001-C0003"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "retrieval_terms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "keyword_path": [
+        "visual",
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "source_form": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TUG-VIS-P0001-C0004"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TUG-P0001",
+          "document_id": "HHS4867-L04-TUG",
+          "document_title": "Lecture 4 - Timed Up and Go (TUG) Test",
+          "source_file": "11 - 4. Timed up and go.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "11 - 4. Timed up and go.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "retrieval_terms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 16
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

@@ -1,0 +1,3810 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_form": "hip",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers 1. 1. Prepare the environment 2. Patient Position: 2. • Moving the hip forward • Foot position – flat on the floor, and places posterior • Trunk flexion • Using a gait belt if needed 3. 3. Therapist Position: • In front of the patient • With hip & knee flexed • Wide Base of support",
+      "retrieval_terms": [
+        "hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_form": "hip",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers 1. 1. Prepare the environment 2. Patient Position: 2. • Moving the hip forward • Foot position – flat on the floor, and places posterior • Trunk flexion • Using a gait belt if needed 3. 3. Therapist Position: • In front of the patient • With hip & knee flexed • Wide Base of support",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers Block the patient’s knee 4. • If the patient’s leg 4. with impaired strength and motor control 5. 5. Rise, pivot and sit 6. Seated repositioning 6.",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 27,
+          "page_number_type": "slide_number",
+          "slide_number": 27,
+          "pdf_page": 27,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 27 (PDF p. 27)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to fit a Wheelchair? • Seat width (#3) This is the width of the back-side when sitting on a flat surface (+ 1-2 inches) • Seat Depth (C) Make this measurements by measuring from back of buttock to inside of Patient is in 90°-90°-90° sitting position with spine neutral knee. • Back height (B) Measure this from the top of the shoulders down to the bottom of the back- side when sitting on a flat surface. Seat-to-Floor Height (D) This is important if the patient is going to propel the wheelchair",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Spinal",
+      "keyword_path": [
+        "Anatomy",
+        "Spinal"
+      ],
+      "source_form": "Spinal",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spine",
+      "keyword_path": [
+        "Anatomy",
+        "spine"
+      ],
+      "source_form": "spine",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 27,
+          "page_number_type": "slide_number",
+          "slide_number": 27,
+          "pdf_page": 27,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 27 (PDF p. 27)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to fit a Wheelchair? • Seat width (#3) This is the width of the back-side when sitting on a flat surface (+ 1-2 inches) • Seat Depth (C) Make this measurements by measuring from back of buttock to inside of Patient is in 90°-90°-90° sitting position with spine neutral knee. • Back height (B) Measure this from the top of the shoulders down to the bottom of the back- side when sitting on a flat surface. Seat-to-Floor Height (D) This is important if the patient is going to propel the wheelchair",
+      "retrieval_terms": [
+        "spine"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "dislocated hip",
+      "keyword_path": [
+        "Conditions",
+        "dislocated hip"
+      ],
+      "source_form": "dislocated hip",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "dislocated hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "dislocation",
+      "keyword_path": [
+        "Conditions",
+        "dislocation"
+      ],
+      "source_form": "dislocation",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "dislocation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "fracture",
+      "keyword_path": [
+        "Conditions",
+        "fracture"
+      ],
+      "source_form": "fracture",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "fracture"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Hemiplegia",
+      "keyword_path": [
+        "Conditions",
+        "Hemiplegia"
+      ],
+      "source_form": "Hemiplegia",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "Hemiplegia",
+        "haemiplegia"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "hip knee",
+      "keyword_path": [
+        "Conditions",
+        "hip knee"
+      ],
+      "source_form": "hip knee",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers 1. 1. Prepare the environment 2. Patient Position: 2. • Moving the hip forward • Foot position – flat on the floor, and places posterior • Trunk flexion • Using a gait belt if needed 3. 3. Therapist Position: • In front of the patient • With hip & knee flexed • Wide Base of support",
+      "retrieval_terms": [
+        "hip knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "injury",
+      "keyword_path": [
+        "Conditions",
+        "injury"
+      ],
+      "source_form": "injury",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "injury"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "joint dislocation",
+      "keyword_path": [
+        "Conditions",
+        "joint dislocation"
+      ],
+      "source_form": "joint dislocation",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "joint dislocation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "osteoporosis",
+      "keyword_path": [
+        "Conditions",
+        "osteoporosis"
+      ],
+      "source_form": "osteoporosis",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "osteoporosis"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "paraplegia",
+      "keyword_path": [
+        "Conditions",
+        "paraplegia"
+      ],
+      "source_form": "paraplegia",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 23,
+          "page_number_type": "slide_number",
+          "slide_number": 23,
+          "pdf_page": 23,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 23 (PDF p. 23)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Standard Wheelchair - Postural Support Options 1. Seats 1. • sling/ rigid • +/- wheelchair cushions/ pelvic strap 2. Backs: sling/ rigid/ recline 2. 3. Arm rests: • fixed / removeable • 3. • Properly positioned armrest not only provide support to the upper body but also decrease the weight on the buttocks by 5% for individuals with tetraplegia to 9% for individuals with paraplegia.",
+      "retrieval_terms": [
+        "paraplegia"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000017",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Precautions Hemiplegia",
+      "keyword_path": [
+        "Conditions",
+        "Precautions Hemiplegia"
+      ],
+      "source_form": "Precautions Hemiplegia",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "Precautions Hemiplegia",
+        "Precautions haemiplegia"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000018",
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Precautions Hemiplegia Stroke",
+      "keyword_path": [
+        "Conditions",
+        "Precautions Hemiplegia Stroke"
+      ],
+      "source_form": "Precautions Hemiplegia Stroke",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "Precautions Hemiplegia Stroke",
+        "Precautions haemiplegia Stroke"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000019",
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Precautions Spinal",
+      "keyword_path": [
+        "Conditions",
+        "Precautions Spinal"
+      ],
+      "source_form": "Precautions Spinal",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "Precautions Spinal"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000020",
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Precautions Spinal cord injury",
+      "keyword_path": [
+        "Conditions",
+        "Precautions Spinal cord injury"
+      ],
+      "source_form": "Precautions Spinal cord injury",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "Precautions Spinal cord injury"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000021",
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Precautions Total hip",
+      "keyword_path": [
+        "Conditions",
+        "Precautions Total hip"
+      ],
+      "source_form": "Precautions Total hip",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "Precautions Total hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000022",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "spine neutral knee",
+      "keyword_path": [
+        "Conditions",
+        "spine neutral knee"
+      ],
+      "source_form": "spine neutral knee",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 27,
+          "page_number_type": "slide_number",
+          "slide_number": 27,
+          "pdf_page": 27,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 27 (PDF p. 27)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to fit a Wheelchair? • Seat width (#3) This is the width of the back-side when sitting on a flat surface (+ 1-2 inches) • Seat Depth (C) Make this measurements by measuring from back of buttock to inside of Patient is in 90°-90°-90° sitting position with spine neutral knee. • Back height (B) Measure this from the top of the shoulders down to the bottom of the back- side when sitting on a flat surface. Seat-to-Floor Height (D) This is important if the patient is going to propel the wheelchair",
+      "retrieval_terms": [
+        "spine neutral knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000023",
+      "concept_id": "HHS4867-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Stroke",
+      "keyword_path": [
+        "Conditions",
+        "Stroke"
+      ],
+      "source_form": "Stroke",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "Stroke"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000024",
+      "concept_id": "HHS4867-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "tetraplegia",
+      "keyword_path": [
+        "Conditions",
+        "tetraplegia"
+      ],
+      "source_form": "tetraplegia",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 23,
+          "page_number_type": "slide_number",
+          "slide_number": 23,
+          "pdf_page": 23,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 23 (PDF p. 23)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Standard Wheelchair - Postural Support Options 1. Seats 1. • sling/ rigid • +/- wheelchair cushions/ pelvic strap 2. Backs: sling/ rigid/ recline 2. 3. Arm rests: • fixed / removeable • 3. • Properly positioned armrest not only provide support to the upper body but also decrease the weight on the buttocks by 5% for individuals with tetraplegia to 9% for individuals with paraplegia.",
+      "retrieval_terms": [
+        "tetraplegia"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000025",
+      "concept_id": "HHS4867-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AFFECTED",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AFFECTED"
+      ],
+      "source_form": "AFFECTED",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "AFFECTED"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000026",
+      "concept_id": "HHS4867-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "FLACCID",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "FLACCID"
+      ],
+      "source_form": "FLACCID",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "FLACCID"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000027",
+      "concept_id": "HHS4867-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "GOOD",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "GOOD"
+      ],
+      "source_form": "GOOD",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat GOOD SIDE Approach (towards good side, assist weak side) GOOD SIDE",
+      "retrieval_terms": [
+        "GOOD"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000028",
+      "concept_id": "HHS4867-C-0000025",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_form": "HHS4867",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer Technique HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000029",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_form": "HHS4867J",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer Technique HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000030",
+      "concept_id": "HHS4867-C-0000027",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HYPOTONIA",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HYPOTONIA"
+      ],
+      "source_form": "HYPOTONIA",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "HYPOTONIA"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000031",
+      "concept_id": "HHS4867-C-0000028",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "LOCK",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "LOCK"
+      ],
+      "source_form": "LOCK",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 31,
+          "page_number_type": "slide_number",
+          "slide_number": 31,
+          "pdf_page": 31,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 31 (PDF p. 31)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Safety tips for using wheelchair ➢ Always LOCK the brakes when you leave the patient or when not being pushed. ➢ Avoid leaning forwards or bending to reach low objects ➢ Never stand on the footplates ➢ Use safety straps if provided (especially when going outdoors or for patient with poor sitting balance) ➢ Make sure: ➢ Feet safely on the footplates ➢ Elbows, all clothing, rugs or bags are tucked in safely. ➢ Always let the client know what you are going to do",
+      "retrieval_terms": [
+        "LOCK"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000032",
+      "concept_id": "HHS4867-C-0000028",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "LOCK",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "LOCK"
+      ],
+      "source_form": "LOCK",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 32,
+          "page_number_type": "slide_number",
+          "slide_number": 32,
+          "pdf_page": 32,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 32 (PDF p. 32)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Using the wheelchair - Getting into the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Stand with back of leg against the seat and press down on armrest. • Lower and place foot on footplates. • Pay attention to keep the heel clear of the front casters. Getting out of the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Make sure walking aids(if needed) is ready. • Slightly bend trunk forwards, standing up by pressing down on the armrest",
+      "retrieval_terms": [
+        "LOCK"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000033",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "LOGROLL",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "LOGROLL"
+      ],
+      "source_form": "LOGROLL",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Spinal cord injury • Suggest LOGROLL & avoid rotational force logroll • Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis “LOGROLL” i.e. simultaneously rolling the entire body",
+      "retrieval_terms": [
+        "LOGROLL"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000034",
+      "concept_id": "HHS4867-C-0000030",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "PULLING",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "PULLING"
+      ],
+      "source_form": "PULLING",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "PULLING"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000035",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "SIDE",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "SIDE"
+      ],
+      "source_form": "SIDE",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat GOOD SIDE Approach (towards good side, assist weak side) GOOD SIDE",
+      "retrieval_terms": [
+        "SIDE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000036",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "THR",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "THR"
+      ],
+      "source_form": "THR",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "THR"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000037",
+      "concept_id": "HHS4867-C-0000033",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "Transfer Technique HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Transfer Technique HHS4867 Functional"
+      ],
+      "source_form": "Transfer Technique HHS4867 Functional",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer Technique HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Transfer Technique HHS4867 Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000038",
+      "concept_id": "HHS4867-C-0000034",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "small_area": "surgery",
+      "keyword_path": [
+        "Management and treatment",
+        "surgery"
+      ],
+      "source_form": "surgery",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "surgery"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000039",
+      "concept_id": "HHS4867-C-0000035",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "achieve stability controlled mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "achieve stability controlled mobility"
+      ],
+      "source_form": "achieve stability controlled mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Wheelchair • More than simply a chair on wheels, a wheelchair (WC) is a postural support system on a mobility base. • While in use, this dynamic seating environment allows patient to achieve stability, controlled mobility, and skill in daily function.",
+      "retrieval_terms": [
+        "achieve stability controlled mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000040",
+      "concept_id": "HHS4867-C-0000036",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_form": "balance",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 31,
+          "page_number_type": "slide_number",
+          "slide_number": 31,
+          "pdf_page": 31,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 31 (PDF p. 31)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Safety tips for using wheelchair ➢ Always LOCK the brakes when you leave the patient or when not being pushed. ➢ Avoid leaning forwards or bending to reach low objects ➢ Never stand on the footplates ➢ Use safety straps if provided (especially when going outdoors or for patient with poor sitting balance) ➢ Make sure: ➢ Feet safely on the footplates ➢ Elbows, all clothing, rugs or bags are tucked in safely. ➢ Always let the client know what you are going to do",
+      "retrieval_terms": [
+        "balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000041",
+      "concept_id": "HHS4867-C-0000036",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_form": "balance",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0033-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0033"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0033",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 33,
+          "page_number_type": "slide_number",
+          "slide_number": 33,
+          "pdf_page": 33,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 33 (PDF p. 33)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0033",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Using the wheelchair - Getting down a kerb ➢ Going down backward ➢ Pull the rear wheels gently down onto the road ➢ Step and push one tipping lever with foot to balance the rear wheel when pulling and lowering the front caster down onto the road",
+      "retrieval_terms": [
+        "balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000042",
+      "concept_id": "HHS4867-C-0000037",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Bed Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Bed Mobility"
+      ],
+      "source_form": "Bed Mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Bed Mobility • Bridging • Moving across the bed • Upward movement / Downward movement",
+      "retrieval_terms": [
+        "Bed Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000043",
+      "concept_id": "HHS4867-C-0000038",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "complete activity participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "complete activity participation"
+      ],
+      "source_form": "complete activity participation",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Level of Assistance Patient Assistance level Assistance needed to complete activity participation Independent 100% 0% Verbal/tactile cue in close position, no touching unless Stand-by 100% emergency Contact guarding 100% Hands on patient/gait belt, ready for assist Minimal 75-100% Needed (0-25%) Moderate 50-75% Needed (25-50%) Maximal 25-50% Needed (50-75%) Dependent 0 (0-25%) Totally depends on 1 or more people; equipment maybe used 100% 0% 100% 100% 75-100% 50-75% 25-50% 0 (0-25%)",
+      "retrieval_terms": [
+        "complete activity participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000044",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "daily function",
+      "keyword_path": [
+        "Rehabilitation",
+        "daily function"
+      ],
+      "source_form": "daily function",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Wheelchair • More than simply a chair on wheels, a wheelchair (WC) is a postural support system on a mobility base. • While in use, this dynamic seating environment allows patient to achieve stability, controlled mobility, and skill in daily function.",
+      "retrieval_terms": [
+        "daily function"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000045",
+      "concept_id": "HHS4867-C-0000040",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "function",
+      "keyword_path": [
+        "Rehabilitation",
+        "function"
+      ],
+      "source_form": "function",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Wheelchair • More than simply a chair on wheels, a wheelchair (WC) is a postural support system on a mobility base. • While in use, this dynamic seating environment allows patient to achieve stability, controlled mobility, and skill in daily function.",
+      "retrieval_terms": [
+        "function"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000046",
+      "concept_id": "HHS4867-C-0000041",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer Technique HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000047",
+      "concept_id": "HHS4867-C-0000042",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait"
+      ],
+      "source_form": "gait",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0009",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers 1. 1. Prepare the environment 2. Patient Position: 2. • Moving the hip forward • Foot position – flat on the floor, and places posterior • Trunk flexion • Using a gait belt if needed 3. 3. Therapist Position: • In front of the patient • With hip & knee flexed • Wide Base of support",
+      "retrieval_terms": [
+        "gait"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000048",
+      "concept_id": "HHS4867-C-0000043",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "impaired strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "impaired strength"
+      ],
+      "source_form": "impaired strength",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers Block the patient’s knee 4. • If the patient’s leg 4. with impaired strength and motor control 5. 5. Rise, pivot and sit 6. Seated repositioning 6.",
+      "retrieval_terms": [
+        "impaired strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000049",
+      "concept_id": "HHS4867-C-0000044",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Mobility"
+      ],
+      "source_form": "Mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Bed Mobility • Bridging • Moving across the bed • Upward movement / Downward movement",
+      "retrieval_terms": [
+        "Mobility",
+        "mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000050",
+      "concept_id": "HHS4867-C-0000044",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0021",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Wheelchair • More than simply a chair on wheels, a wheelchair (WC) is a postural support system on a mobility base. • While in use, this dynamic seating environment allows patient to achieve stability, controlled mobility, and skill in daily function.",
+      "retrieval_terms": [
+        "Mobility",
+        "mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000051",
+      "concept_id": "HHS4867-C-0000045",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "participation",
+      "keyword_path": [
+        "Rehabilitation",
+        "participation"
+      ],
+      "source_form": "participation",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0002",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Level of Assistance Patient Assistance level Assistance needed to complete activity participation Independent 100% 0% Verbal/tactile cue in close position, no touching unless Stand-by 100% emergency Contact guarding 100% Hands on patient/gait belt, ready for assist Minimal 75-100% Needed (0-25%) Moderate 50-75% Needed (25-50%) Maximal 25-50% Needed (50-75%) Dependent 0 (0-25%) Totally depends on 1 or more people; equipment maybe used 100% 0% 100% 100% 75-100% 50-75% 25-50% 0 (0-25%)",
+      "retrieval_terms": [
+        "participation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000052",
+      "concept_id": "HHS4867-C-0000046",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Pivot Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Pivot Transfer"
+      ],
+      "source_form": "Pivot Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat GOOD SIDE Approach (towards good side, assist weak side) GOOD SIDE",
+      "retrieval_terms": [
+        "Pivot Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000053",
+      "concept_id": "HHS4867-C-0000046",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Pivot Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Pivot Transfer"
+      ],
+      "source_form": "Pivot Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat (diagram)",
+      "retrieval_terms": [
+        "Pivot Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000054",
+      "concept_id": "HHS4867-C-0000046",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Pivot Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Pivot Transfer"
+      ],
+      "source_form": "Pivot Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Standing",
+      "retrieval_terms": [
+        "Pivot Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000055",
+      "concept_id": "HHS4867-C-0000047",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "poor sitting balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "poor sitting balance"
+      ],
+      "source_form": "poor sitting balance",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 31,
+          "page_number_type": "slide_number",
+          "slide_number": 31,
+          "pdf_page": 31,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 31 (PDF p. 31)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0031",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Safety tips for using wheelchair ➢ Always LOCK the brakes when you leave the patient or when not being pushed. ➢ Avoid leaning forwards or bending to reach low objects ➢ Never stand on the footplates ➢ Use safety straps if provided (especially when going outdoors or for patient with poor sitting balance) ➢ Make sure: ➢ Feet safely on the footplates ➢ Elbows, all clothing, rugs or bags are tucked in safely. ➢ Always let the client know what you are going to do",
+      "retrieval_terms": [
+        "poor sitting balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000056",
+      "concept_id": "HHS4867-C-0000048",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "side transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "side transfer"
+      ],
+      "source_form": "side transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "side transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000057",
+      "concept_id": "HHS4867-C-0000049",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "strength",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0010",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Setting up the Pivot Transfers Block the patient’s knee 4. • If the patient’s leg 4. with impaired strength and motor control 5. 5. Rise, pivot and sit 6. Seated repositioning 6.",
+      "retrieval_terms": [
+        "strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000058",
+      "concept_id": "HHS4867-C-0000050",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "sure walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "sure walking"
+      ],
+      "source_form": "sure walking",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 32,
+          "page_number_type": "slide_number",
+          "slide_number": 32,
+          "pdf_page": 32,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 32 (PDF p. 32)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Using the wheelchair - Getting into the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Stand with back of leg against the seat and press down on armrest. • Lower and place foot on footplates. • Pay attention to keep the heel clear of the front casters. Getting out of the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Make sure walking aids(if needed) is ready. • Slightly bend trunk forwards, standing up by pressing down on the armrest",
+      "retrieval_terms": [
+        "sure walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000059",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0001",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART00",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer Technique HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000060",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat GOOD SIDE Approach (towards good side, assist weak side) GOOD SIDE",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000061",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat (diagram)",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000062",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Standing",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000063",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer with 2 Assistance",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000064",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0015",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Total hip replacement (THR) OR dislocated hip • DON’T place affected side in Cross leg position (flex+ adducted+ medial rotated) OR flexion > 90° 90° • maintain affected side in semi- reclining position & abduction during side transfer • Use of abduction pillow if prescribed • Especially within the first 2 weeks after surgery",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000065",
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0019-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0019"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0019",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 19,
+          "page_number_type": "slide_number",
+          "slide_number": 19,
+          "pdf_page": 19,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 19 (PDF p. 19)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0019",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Presence of pressure ulcers • avoid sliding (shearing force) as create friction that disrupts healing process • encourage to elevate body during transfer",
+      "retrieval_terms": [
+        "Transfer",
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000066",
+      "concept_id": "HHS4867-C-0000052",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_form": "walking",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 32,
+          "page_number_type": "slide_number",
+          "slide_number": 32,
+          "pdf_page": 32,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 32 (PDF p. 32)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0032",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Using the wheelchair - Getting into the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Stand with back of leg against the seat and press down on armrest. • Lower and place foot on footplates. • Pay attention to keep the heel clear of the front casters. Getting out of the wheelchair • LOCK the brakes! • Fold up the footplates and swing sway. • Make sure walking aids(if needed) is ready. • Slightly bend trunk forwards, standing up by pressing down on the armrest",
+      "retrieval_terms": [
+        "walking"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000067",
+      "concept_id": "HHS4867-C-0000053",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "bones",
+      "keyword_path": [
+        "Section topics",
+        "bones"
+      ],
+      "source_form": "bones",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0018",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions\nSpinal cord injury\n• Suggest LOGROLL & avoid rotational force logroll\n• Chronic cases, cautious NOT to fracture long bones of lower limbs or vertebrates due to osteoporosis\n“LOGROLL” i.e. simultaneously\nrolling the entire body",
+      "retrieval_terms": [
+        "bones",
+        "bone"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000068",
+      "concept_id": "HHS4867-C-0000054",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0035-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0035"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0035",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 35,
+          "page_number_type": "slide_number",
+          "slide_number": 35,
+          "pdf_page": 35,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 35 (PDF p. 35)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0035",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Using the wheelchair - Getting up slope\n➢ Facing towards the slope\n➢ Keep back straight and use lower limbs muscles\n➢ ‘Z’ shape\nGetting down a slope\n➢ Facing towards the slope and guided the wheelchair backwards slowly",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000069",
+      "concept_id": "HHS4867-C-0000055",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "pain"
+      ],
+      "source_form": "pain",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0017",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions Hemiplegia /Stroke • Avoid PULLING the hemiplegic (weakened) side (esp FLACCID/ HYPOTONIA ) as this may lead to joint dislocation • NOT to lie/ roll on AFFECTED shoulder due to pain & discomfort",
+      "retrieval_terms": [
+        "pain"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000070",
+      "concept_id": "HHS4867-C-0000056",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0008",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0008",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfers If patient is able to weight bearing safely on at least one of the lower extremities & able to follow instructions, it is suitable to use pivot transfers. In pivot transfers, the primary action occurs through the feet.",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000071",
+      "concept_id": "HHS4867-C-0000056",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 23,
+          "page_number_type": "slide_number",
+          "slide_number": 23,
+          "pdf_page": 23,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 23 (PDF p. 23)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0023",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Standard Wheelchair - Postural Support Options 1. Seats 1. • sling/ rigid • +/- wheelchair cushions/ pelvic strap 2. Backs: sling/ rigid/ recline 2. 3. Arm rests: • fixed / removeable • 3. • Properly positioned armrest not only provide support to the upper body but also decrease the weight on the buttocks by 5% for individuals with tetraplegia to 9% for individuals with paraplegia.",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000072",
+      "concept_id": "HHS4867-C-0000057",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Bed Mobility visual",
+      "keyword_path": [
+        "visual",
+        "Bed Mobility visual"
+      ],
+      "source_form": "Bed Mobility visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0003-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0003",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Bed Mobility visual",
+      "retrieval_terms": [
+        "Bed Mobility visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000073",
+      "concept_id": "HHS4867-C-0000058",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Conditions with Precautions (video) visual",
+      "keyword_path": [
+        "visual",
+        "Conditions with Precautions (video) visual"
+      ],
+      "source_form": "Conditions with Precautions (video) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0016-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0016",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART02",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Conditions with Precautions (video) visual",
+      "retrieval_terms": [
+        "Conditions with Precautions (video) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000074",
+      "concept_id": "HHS4867-C-0000059",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "How to fit a Wheelchair? - Seat width visual",
+      "keyword_path": [
+        "visual",
+        "How to fit a Wheelchair? - Seat width visual"
+      ],
+      "source_form": "How to fit a Wheelchair? - Seat width visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0027-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 27,
+          "page_number_type": "slide_number",
+          "slide_number": 27,
+          "pdf_page": 27,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 27 (PDF p. 27)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0027",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to fit a Wheelchair? - Seat width visual",
+      "retrieval_terms": [
+        "How to fit a Wheelchair? - Seat width visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000075",
+      "concept_id": "HHS4867-C-0000060",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lying to sitting (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Lying to sitting (diagram) visual"
+      ],
+      "source_form": "Lying to sitting (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0007-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0007",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lying to sitting (diagram) visual",
+      "retrieval_terms": [
+        "Lying to sitting (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000076",
+      "concept_id": "HHS4867-C-0000061",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lying to sitting visual",
+      "keyword_path": [
+        "visual",
+        "Lying to sitting visual"
+      ],
+      "source_form": "Lying to sitting visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0006-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lying to sitting visual",
+      "retrieval_terms": [
+        "Lying to sitting visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000077",
+      "concept_id": "HHS4867-C-0000061",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Lying to sitting visual",
+      "keyword_path": [
+        "visual",
+        "Lying to sitting visual"
+      ],
+      "source_form": "Lying to sitting visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0006-C0002"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0006",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Lying to sitting visual",
+      "retrieval_terms": [
+        "Lying to sitting visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000078",
+      "concept_id": "HHS4867-C-0000062",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Pivot Transfer - Squat (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Pivot Transfer - Squat (diagram) visual"
+      ],
+      "source_form": "Pivot Transfer - Squat (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0012-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0012",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat (diagram) visual",
+      "retrieval_terms": [
+        "Pivot Transfer - Squat (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000079",
+      "concept_id": "HHS4867-C-0000063",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Pivot Transfer - Squat visual",
+      "keyword_path": [
+        "visual",
+        "Pivot Transfer - Squat visual"
+      ],
+      "source_form": "Pivot Transfer - Squat visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0011-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0011",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Squat visual",
+      "retrieval_terms": [
+        "Pivot Transfer - Squat visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000080",
+      "concept_id": "HHS4867-C-0000064",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Pivot Transfer - Standing visual",
+      "keyword_path": [
+        "visual",
+        "Pivot Transfer - Standing visual"
+      ],
+      "source_form": "Pivot Transfer - Standing visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0013-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0013",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Pivot Transfer - Standing visual",
+      "retrieval_terms": [
+        "Pivot Transfer - Standing visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000081",
+      "concept_id": "HHS4867-C-0000065",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Standard Wheelchair (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Standard Wheelchair (diagram) visual"
+      ],
+      "source_form": "Standard Wheelchair (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0025-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 25,
+          "page_number_type": "slide_number",
+          "slide_number": 25,
+          "pdf_page": 25,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 25 (PDF p. 25)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0025",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Standard Wheelchair (diagram) visual",
+      "retrieval_terms": [
+        "Standard Wheelchair (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000082",
+      "concept_id": "HHS4867-C-0000065",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Standard Wheelchair (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Standard Wheelchair (diagram) visual"
+      ],
+      "source_form": "Standard Wheelchair (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0026-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 26,
+          "page_number_type": "slide_number",
+          "slide_number": 26,
+          "pdf_page": 26,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 26 (PDF p. 26)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0026",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART03",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Standard Wheelchair (diagram) visual",
+      "retrieval_terms": [
+        "Standard Wheelchair (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000083",
+      "concept_id": "HHS4867-C-0000066",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Supine lying to side lying (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Supine lying to side lying (diagram) visual"
+      ],
+      "source_form": "Supine lying to side lying (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0005-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0005",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Supine lying to side lying (diagram) visual",
+      "retrieval_terms": [
+        "Supine lying to side lying (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000084",
+      "concept_id": "HHS4867-C-0000067",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Supine lying to side lying visual",
+      "keyword_path": [
+        "visual",
+        "Supine lying to side lying visual"
+      ],
+      "source_form": "Supine lying to side lying visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0004-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0004",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Supine lying to side lying visual",
+      "retrieval_terms": [
+        "Supine lying to side lying visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000085",
+      "concept_id": "HHS4867-C-0000068",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Transfer with 2 Assistance visual",
+      "keyword_path": [
+        "visual",
+        "Transfer with 2 Assistance visual"
+      ],
+      "source_form": "Transfer with 2 Assistance visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0014-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0014",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART01",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Transfer with 2 Assistance visual",
+      "retrieval_terms": [
+        "Transfer with 2 Assistance visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000086",
+      "concept_id": "HHS4867-C-0000069",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Use of Wheelchair (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Use of Wheelchair (diagram) visual"
+      ],
+      "source_form": "Use of Wheelchair (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-VIS-P0029-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029",
+          "document_id": "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+          "document_title": "Lecture 4 - Transfer Techniques and Standard Wheelchairs",
+          "source_file": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+          "page_number": 29,
+          "page_number_type": "slide_number",
+          "slide_number": 29,
+          "pdf_page": 29,
+          "formatted": "12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf, slide 29 (PDF p. 29)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-P0029",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS-PART04",
+        "HHS4867-L04-TRANSFER-WHEELCHAIRS",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Use of Wheelchair (diagram) visual",
+      "retrieval_terms": [
+        "Use of Wheelchair (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 86
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

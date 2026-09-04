@@ -1,0 +1,93 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-TUG",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L04-TUG-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L04-TUG",
+      "title": "Lecture 4 - Timed Up and Go (TUG) Test",
+      "parent_id": "HHS4867-L04-TUG",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "summary": "Equipment: arm chair, tape measure, tape, stop watch. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down.",
+      "summary_sentences": [
+        "Equipment: arm chair, tape measure, tape, stop watch.",
+        "Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair.",
+        "The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing.",
+        "Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject.",
+        "Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L04-TUG",
+      "level": "document",
+      "title": "Lecture 4 - Timed Up and Go (TUG) Test",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 1,
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "summary": "Equipment: arm chair, tape measure, tape, stop watch. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down. Start timing on the word “GO” and stop timing when the subject is seated again correctly in the chair with their back resting on the back of the chair. The subject wears their regular footwear, may use any gait aid that they normally use during ambulation, but may not be assisted by another person. They may stop and rest (but not sit down) if they need to.",
+      "summary_sentences": [
+        "Equipment: arm chair, tape measure, tape, stop watch.",
+        "Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair.",
+        "The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing.",
+        "Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject.",
+        "Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down.",
+        "Start timing on the word “GO” and stop timing when the subject is seated again correctly in the chair with their back resting on the back of the chair.",
+        "The subject wears their regular footwear, may use any gait aid that they normally use during ambulation, but may not be assisted by another person.",
+        "They may stop and rest (but not sit down) if they need to."
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L04-TUG-PART01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L04-TUG-P0001"
+      ],
+      "summary": "Equipment: arm chair, tape measure, tape, stop watch. Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair. The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing. Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject. Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down. Start timing on the word “GO” and stop timing when the subject is seated again correctly in the chair with their back resting on the back of the chair. The subject wears their regular footwear, may use any gait aid that they normally use during ambulation, but may not be assisted by another person. They may stop and rest (but not sit down) if they need to.",
+      "summary_sentences": [
+        "Equipment: arm chair, tape measure, tape, stop watch.",
+        "Begin the test with the subject sitting correctly in a chair with arms, the subject’s back should resting on the back of the chair.",
+        "The chair should be stableand positioned such that it will not move when the subject moves from sitting to standing.",
+        "Place a piece of tape or other marker on the floor 3 meters away from the chair so that it is easily seen by the subject.",
+        "Instructions: “On the word GO you will stand up, walk to the line on the floor, turn around and walk back to the chair and sit down.",
+        "Start timing on the word “GO” and stop timing when the subject is seated again correctly in the chair with their back resting on the back of the chair.",
+        "The subject wears their regular footwear, may use any gait aid that they normally use during ambulation, but may not be assisted by another person.",
+        "They may stop and rest (but not sit down) if they need to."
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L04-TUG"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

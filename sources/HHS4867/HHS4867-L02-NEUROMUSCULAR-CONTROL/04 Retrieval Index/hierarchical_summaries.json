@@ -1,0 +1,225 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "title": "Introduction to neuromuscular control",
+      "parent_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "slide_start": 1,
+      "slide_end": 3,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003"
+      ],
+      "summary": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed",
+      "summary_sentences": [
+        "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+        "Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle",
+        "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "title": "Nervous system organization",
+      "parent_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "slide_start": 4,
+      "slide_end": 7,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007"
+      ],
+      "summary": "Nervous System ⚫ Consists of two parts 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves Peripheral Nervous System ⚫ The upper extremity nerves Peripheral Nervous System ⚫ The lower extremity nerves",
+      "summary_sentences": [
+        "Nervous System ⚫ Consists of two parts 1.",
+        "Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2.",
+        "⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+        "Peripheral Nervous System ⚫ The upper extremity nerves",
+        "Peripheral Nervous System ⚫ The lower extremity nerves"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "title": "Spinal nerves",
+      "parent_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "slide_start": 8,
+      "slide_end": 11,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011"
+      ],
+      "summary": "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair Spinal Nerves ⚫ Sensoryneurons:the nerves that entering the spinal cord on the dorsal root (posterior) ⚫ Transmit information into the system from the muscle ⚫ Afferent pathway – carries all incoming information ⚫ Motorneurons: the nerves that exiting on the ventralroot (anterior) of the spinal cord ⚫ Carry impulses away from the system to the muscle ⚫ Efferent pathway – carries all outgoing information ⚫ Both dorsal & ventral roots join together as spinal nervesas they exit the spinal cord Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus",
+      "summary_sentences": [
+        "Spinal Nerves ⚫ Total 31 pairs of spinal nerves ⚫ Exit & enter the spinal cord at the various vertebral levels ⚫ Cervical region: 8 pairs ⚫ Thoracic region: 12 pairs ⚫ Lumbar region: 5 pairs ⚫ Sacral region: 5 pairs ⚫ Coccygeal region: 1 pair",
+        "Spinal Nerves ⚫ Sensoryneurons:the nerves that entering the spinal cord on the dorsal root (posterior) ⚫ Transmit information into the system from the muscle ⚫ Afferent pathway – carries all incoming information ⚫ Motorneurons: the nerves that exiting on the ventralroot (anterior) of the spinal cord ⚫ Carry impulses away from the system to the muscle ⚫ Efferent pathway – carries all outgoing information ⚫ Both dorsal & ventral roots join together as spinal nervesas they exit the spinal cord",
+        "Spinal Nerves ⚫ Area of the body supplied by the spinal nerves Spinal nerve Area supplied Cervical: 8 pairs Head, neck, shoulders, arms, hands, diaphragm Thoracic: 12 pairs Chest, some back muscles, parts of abdomen Lumbar: 5 pairs Lower parts of abdomen & back, buttocks, parts of the external genital organs, parts of the legs Sacral: 5 pairs Thigh, lower parts of legs, feet, most of the external genital organs, area around the anus"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+      "level": "part",
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "title": "Motor units",
+      "parent_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "slide_start": 12,
+      "slide_end": 13,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013"
+      ],
+      "summary": "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units. ⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neuron reaches a muscle fiber at motorend plate (neuromuscular junction) Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron. ⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers.",
+      "summary_sentences": [
+        "Motor Unit ⚫ Skeletal muscle is organized into functional groups called motor units.",
+        "⚫ Motorunit: ⚫ consists of a group of muscle fibers that are innervated by the same motorneuron ⚫ From a few muscle fibers or up to 2000 muscle fibers ⚫ When a motor neuron is stimulated enough to cause a contraction, all muscle fibers innervated by that motor neuron contract ⚫ Action potential: the signal to contract that is transmitted from the motor neuron to the muscle ⚫ The action potential from a motor neuron reaches a muscle fiber at motorend plate (neuromuscular junction)",
+        "Motor Unit ⚫ The motor unit consists of a motor neuron & all of the muscle fibers innervated by that neuron.",
+        "⚫ The motor neurons exit the anterior side of the spinal cord and branch out, terminating on the muscle fibers."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+      "level": "part",
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "title": "Sensory receptors, reflexes, and proprioceptors",
+      "parent_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "slide_start": 14,
+      "slide_end": 18,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "summary": "Sensory Receptors ⚫ The body requires an input system to provide feedbackon the condition & changing characteristics of the musculoskeletal system and other body tissues, such as skin ⚫ Sensors collect the following information: ⚫ Stretch in the muscle ⚫ Heat / pressure on the muscle ⚫ Tension in the muscle ⚫ Pain in the extremity Sensory Receptors ⚫ These sensors send information to the spinal cord ⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles ⚫ These sensors are connected to the spinal cord via sensory neurons ⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex Reflex ⚫ Asimple reflex arc ⚫ Sensory information from receptors is sent into the spinal cord ➢ Motor response is sent out to the extremities ➢ e.g. Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle",
+      "summary_sentences": [
+        "Sensory Receptors ⚫ The body requires an input system to provide feedbackon the condition & changing characteristics of the musculoskeletal system and other body tissues, such as skin ⚫ Sensors collect the following information: ⚫ Stretch in the muscle ⚫ Heat / pressure on the muscle ⚫ Tension in the muscle ⚫ Pain in the extremity",
+        "Sensory Receptors ⚫ These sensors send information to the spinal cord ⚫ Information is processed & used by the central nervous system in the adjustment / initiation of motor output to the muscles ⚫ These sensors are connected to the spinal cord via sensory neurons ⚫ When a sensory neuron brings information into the spinal cord and initiates a motor response, it is termed a reflex",
+        "Reflex ⚫ Asimple reflex arc ⚫ Sensory information from receptors is sent into the spinal cord ➢ Motor response is sent out to the extremities ➢ e.g.",
+        "Proprioceptors ⚫ Proprioceptors ⚫ Mainsensory receptors in the musculoskeletal system ⚫ transform mechanical distortion in the muscle into the nerve impulses that enter the spinal cord & stimulate a motor response ⚫ Examples: ⚫ Muscle spindle: found in belly of the muscle; responds to the change in muscle length or velocity of a muscle stretch ⚫ Golgi tendonorgan(GTO): found in muscle-tendon junction; responds to tension in the muscle"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "level": "document",
+      "title": "Lecture 2 - Neuromuscular Control of Human Movement",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 18,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "summary": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed Nervous System ⚫ Consists of two parts 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves Peripheral Nervous System ⚫ The upper extremity nerves Peripheral Nervous System ⚫ The lower extremity nerves",
+      "summary_sentences": [
+        "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J",
+        "Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle",
+        "Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed",
+        "Nervous System ⚫ Consists of two parts 1.",
+        "Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2.",
+        "⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves",
+        "Peripheral Nervous System ⚫ The upper extremity nerves",
+        "Peripheral Nervous System ⚫ The lower extremity nerves"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART00",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0001",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0002",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0003",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0004",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0008",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0009",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0011",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0012",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0014",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0015",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0018"
+      ],
+      "summary": "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed Nervous System ⚫ Consists of two parts 1. Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2. ⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves Peripheral Nervous System ⚫ The upper extremity nerves Peripheral Nervous System ⚫ The lower extremity nerves",
+      "summary_sentences": [
+        "Neuromuscular control of human movement HHS4867 Functional Movement Science HHS4867J Introduction ⚫ The nervous system controls and monitors human movement by transmitting & receiving signals through an extensive neural network: centralnervoussystem& peripheralnervous system ⚫ Motorneuron: the main signal transmitter which carries the impulse to the muscle ⚫ Sensoryneuron:provides feedback to spinal cord and back to CNS on the characteristics of the muscle or other tissues ⚫ While performing a particular movement, the nervous system is responsible for identifying ⚫ the muscles that will be activated & generating the stimulus to develop the level of force that will be required for that muscle Introduction ⚫ Each muscle fiber is individually innervatedby a branch of the nervous ⚫ system ⚫ Information exits the muscle & provides input to the nervous system (sensory neuron) ⚫ Information enters the muscle to initiate a muscle activity of a specific nature & magnitude (motor neuron) ⚫ Through this loop system, with many other loops from other muscles & with centralnervous control, the nervous system is able to coordinate the activity of many muscles at once, so particular movements or activities can be performed Nervous System ⚫ Consists of two parts 1.",
+        "Central nervous system (CNS) ⚫ Brain, spinal cord ⚫ The means by which human movement is initiated, controlled, and monitored 2.",
+        "⚫ All the branches of the nerves that lie outside the spinal cord ⚫ The peripheral nerves that responsible for muscularaction are the spinal nerves Peripheral Nervous System ⚫ The upper extremity nerves Peripheral Nervous System ⚫ The lower extremity nerves"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

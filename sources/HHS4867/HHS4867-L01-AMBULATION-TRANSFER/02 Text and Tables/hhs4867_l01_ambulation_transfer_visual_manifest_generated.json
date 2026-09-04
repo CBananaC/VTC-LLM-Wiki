@@ -1,0 +1,1565 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L01-AMBULATION-TRANSFER",
+  "source": {
+    "filename": "01 - 1. Ambulation Transfer.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/01 - 1. Ambulation Transfer.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L01-AMBULATION-TRANSFER/00 Source/01 - 1. Ambulation Transfer.pdf",
+    "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+    "size_bytes": 684506,
+    "pdf_page_count": 10,
+    "pdfinfo": {
+      "Author": "NG SIN IN",
+      "Creator": "Microsoft® Word LTSC",
+      "Producer": "Microsoft® Word LTSC",
+      "CreationDate": "Tue Aug 19 14:02:54 2025 HKT",
+      "ModDate": "Tue Aug 19 14:02:54 2025 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 10,
+      "Encrypted": "no",
+      "Page size": "595.56 x 842.04 pts (A4)",
+      "Page rot": "0",
+      "File size": 684506,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0001-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Lecture 1 - Ambulation & Transfer visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0001",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0002-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Slide 2 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0002",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 2"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0003-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Slide 3 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0003",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 3"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0004-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Slide 4 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 4"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Slide 4 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          62.2,
+          90.1,
+          484.28,
+          259.65
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0004",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 4"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.3,
+          270.2,
+          220.85,
+          457.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          220.8,
+          274.05,
+          370.6,
+          457.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0003",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          370.6,
+          271.4,
+          520.85,
+          457.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0004",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.3,
+          132.35,
+          232.85,
+          257.65
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0005",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          232.8,
+          92.3,
+          365.55,
+          257.7
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0006",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          365.5,
+          97.1,
+          509.05,
+          257.7
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0005-C0007",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Slide 5 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          251.3,
+          488.15,
+          454.58,
+          623.75
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0005",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 5"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0006-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Slide 6 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 6"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Slide 6 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          44.2,
+          103.6,
+          395.21,
+          238.05
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0006",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 6"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Slide 7 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 7"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Slide 7 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.3,
+          132.5,
+          190.15,
+          280.94
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 7"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0007-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Slide 7 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          195.85,
+          123.65,
+          313.9,
+          279.93
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 7"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0007-C0003",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Slide 7 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.3,
+          390.95,
+          331.6,
+          604.03
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0007",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 7"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0008-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          213.15,
+          119.4,
+          263.1,
+          258.15
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0008-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          265.7,
+          123.0,
+          328.6,
+          258.15
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0008-C0003",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          328.35,
+          119.4,
+          382.85,
+          258.15
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0008-C0004",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Slide 8 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          75.0,
+          518.27,
+          381.0,
+          675.77
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0008",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 8"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0009-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Slide 9 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 9"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Slide 9 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          71.3,
+          507.65,
+          198.3,
+          714.05
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 9"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0009-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Slide 9 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          198.25,
+          509.1,
+          324.05,
+          714.1
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0009",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 9"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L01-AMBULATION-TRANSFER-VIS-P0010-C0000",
+      "table_id": null,
+      "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+      "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+      "source_file": "01 - 1. Ambulation Transfer.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Slide 10 visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          9.6,
+          60.2,
+          585.6,
+          64.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "document_id": "HHS4867-L01-AMBULATION-TRANSFER",
+        "document_title": "Lecture 1 - Ambulation & Transfer",
+        "source_file": "01 - 1. Ambulation Transfer.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "01 - 1. Ambulation Transfer.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L01-AMBULATION-TRANSFER-P0010",
+        "HHS4867-L01-AMBULATION-TRANSFER-PART01",
+        "HHS4867-L01-AMBULATION-TRANSFER",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 1 - Ambulation & Transfer",
+          "Lecture 1 - Ambulation & Transfer",
+          "Slide 10"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 28,
+    "tables": 0,
+    "non_table_visuals": 28
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

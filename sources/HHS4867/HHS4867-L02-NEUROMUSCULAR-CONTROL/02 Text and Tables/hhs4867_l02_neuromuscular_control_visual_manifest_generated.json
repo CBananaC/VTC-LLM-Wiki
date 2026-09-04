@@ -1,0 +1,430 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+  "source": {
+    "filename": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/00 Source/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+    "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+    "pdf_page_count": 18,
+    "pdfinfo": {
+      "Title": "Neuromuscular control of human movement",
+      "Author": "Mei Kwan Ho",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:50:49 2026 HKT",
+      "ModDate": "Thu Aug 27 11:50:49 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 18,
+      "Encrypted": "no",
+      "Page size": "720 x 540 pts",
+      "Page rot": "0",
+      "File size": 886506,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0005-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Central Nervous System visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          99.96,
+          79.2,
+          645.48,
+          533.76
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0005",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Nervous system organization",
+          "Central Nervous System"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Peripheral Nervous System - Upper Extremity Nerves visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          210.0,
+          125.16,
+          557.76,
+          528.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0006",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Nervous system organization",
+          "Peripheral Nervous System - Upper Extremity Nerves"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Peripheral Nervous System - Lower Extremity visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          309.84,
+          17.16,
+          703.92,
+          530.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0007",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART01",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Nervous system organization",
+          "Peripheral Nervous System - Lower Extremity"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0010-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Spinal Nerves (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          60.0,
+          720.0,
+          480.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0010",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART02",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Spinal nerves",
+          "Spinal Nerves (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Motor Unit visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          330.0,
+          95.04,
+          698.04,
+          506.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0013",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART03",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Motor units",
+          "Motor Unit"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0016-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Reflex visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          327.96,
+          126.0,
+          717.36,
+          363.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0016",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Sensory receptors, reflexes, and proprioceptors",
+          "Reflex"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-VIS-P0017-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+      "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+      "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "pdf_page": 17,
+      "slide_number": 17,
+      "visual_type": "image",
+      "name": "Reflex (diagram) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          93.72,
+          0.0,
+          582.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "document_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "document_title": "Lecture 2 - Neuromuscular Control of Human Movement",
+        "source_file": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "page_number": 17,
+        "page_number_type": "slide_number",
+        "slide_number": 17,
+        "pdf_page": 17,
+        "formatted": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf, slide 17 (PDF p. 17)"
+      },
+      "section_ids": [
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-P0017",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL-PART04",
+        "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 2 - Neuromuscular Control of Human Movement",
+          "Sensory receptors, reflexes, and proprioceptors",
+          "Reflex (diagram)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 7,
+    "tables": 0,
+    "non_table_visuals": 7
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

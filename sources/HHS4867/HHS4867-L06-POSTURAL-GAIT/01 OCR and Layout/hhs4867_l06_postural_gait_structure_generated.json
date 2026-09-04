@@ -1,0 +1,1378 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS4867",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS4867-COURSE",
+    "level": "course",
+    "course_code": "HHS4867",
+    "title": "HHS4867 - Functional Movement Science",
+    "children": [
+      "HHS4867-L06-POSTURAL-GAIT"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS4867-C-0000001",
+      "HHS4867-C-0000002",
+      "HHS4867-C-0000003",
+      "HHS4867-C-0000004",
+      "HHS4867-C-0000005",
+      "HHS4867-C-0000006",
+      "HHS4867-C-0000007",
+      "HHS4867-C-0000008",
+      "HHS4867-C-0000009",
+      "HHS4867-C-0000010",
+      "HHS4867-C-0000011",
+      "HHS4867-C-0000012",
+      "HHS4867-C-0000013",
+      "HHS4867-C-0000014",
+      "HHS4867-C-0000015",
+      "HHS4867-C-0000016",
+      "HHS4867-C-0000017",
+      "HHS4867-C-0000018",
+      "HHS4867-C-0000019",
+      "HHS4867-C-0000020",
+      "HHS4867-C-0000021",
+      "HHS4867-C-0000022",
+      "HHS4867-C-0000023",
+      "HHS4867-C-0000024",
+      "HHS4867-C-0000025",
+      "HHS4867-C-0000026",
+      "HHS4867-C-0000027",
+      "HHS4867-C-0000028",
+      "HHS4867-C-0000029",
+      "HHS4867-C-0000030",
+      "HHS4867-C-0000031",
+      "HHS4867-C-0000032",
+      "HHS4867-C-0000033",
+      "HHS4867-C-0000034",
+      "HHS4867-C-0000035",
+      "HHS4867-C-0000036",
+      "HHS4867-C-0000037",
+      "HHS4867-C-0000038",
+      "HHS4867-C-0000039",
+      "HHS4867-C-0000040",
+      "HHS4867-C-0000041",
+      "HHS4867-C-0000042",
+      "HHS4867-C-0000043",
+      "HHS4867-C-0000044",
+      "HHS4867-C-0000045",
+      "HHS4867-C-0000046",
+      "HHS4867-C-0000047",
+      "HHS4867-C-0000048",
+      "HHS4867-C-0000049",
+      "HHS4867-C-0000050",
+      "HHS4867-C-0000051",
+      "HHS4867-C-0000052",
+      "HHS4867-C-0000053",
+      "HHS4867-C-0000054",
+      "HHS4867-C-0000055",
+      "HHS4867-C-0000056",
+      "HHS4867-C-0000057",
+      "HHS4867-C-0000058",
+      "HHS4867-C-0000059",
+      "HHS4867-C-0000060",
+      "HHS4867-C-0000061",
+      "HHS4867-C-0000062",
+      "HHS4867-C-0000063"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS4867-COURSE",
+      "level": "course",
+      "course_code": "HHS4867",
+      "title": "HHS4867 - Functional Movement Science",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000043",
+        "HHS4867-C-0000044",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000046",
+        "HHS4867-C-0000047",
+        "HHS4867-C-0000048",
+        "HHS4867-C-0000049",
+        "HHS4867-C-0000050",
+        "HHS4867-C-0000051",
+        "HHS4867-C-0000052",
+        "HHS4867-C-0000053",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000055",
+        "HHS4867-C-0000056",
+        "HHS4867-C-0000057",
+        "HHS4867-C-0000058",
+        "HHS4867-C-0000059",
+        "HHS4867-C-0000060",
+        "HHS4867-C-0000061",
+        "HHS4867-C-0000062",
+        "HHS4867-C-0000063"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT",
+      "level": "document",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Lecture 6 - Postural Assessment and Gait",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "parent_id": "HHS4867-COURSE",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-PART00",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT-PART02",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT-PART04"
+      ],
+      "slide_start": 1,
+      "slide_end": 34,
+      "pdf_page_start": 1,
+      "pdf_page_end": 34,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000043",
+        "HHS4867-C-0000044",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000046",
+        "HHS4867-C-0000047",
+        "HHS4867-C-0000048",
+        "HHS4867-C-0000049",
+        "HHS4867-C-0000050",
+        "HHS4867-C-0000051",
+        "HHS4867-C-0000052",
+        "HHS4867-C-0000053",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000055",
+        "HHS4867-C-0000056",
+        "HHS4867-C-0000057",
+        "HHS4867-C-0000058",
+        "HHS4867-C-0000059",
+        "HHS4867-C-0000060",
+        "HHS4867-C-0000061",
+        "HHS4867-C-0000062",
+        "HHS4867-C-0000063",
+        "HHS4867-C-0000064",
+        "HHS4867-C-0000065",
+        "HHS4867-C-0000066",
+        "HHS4867-C-0000067",
+        "HHS4867-C-0000068",
+        "HHS4867-C-0000069",
+        "HHS4867-C-0000070",
+        "HHS4867-C-0000071",
+        "HHS4867-C-0000072",
+        "HHS4867-C-0000073",
+        "HHS4867-C-0000074",
+        "HHS4867-C-0000075",
+        "HHS4867-C-0000076",
+        "HHS4867-C-0000077",
+        "HHS4867-C-0000078",
+        "HHS4867-C-0000079",
+        "HHS4867-C-0000080",
+        "HHS4867-C-0000081",
+        "HHS4867-C-0000082",
+        "HHS4867-C-0000083",
+        "HHS4867-C-0000084"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-PART00",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural assessment basics",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-P0001",
+        "HHS4867-L06-POSTURAL-GAIT-P0002"
+      ],
+      "slide_start": 1,
+      "slide_end": 2,
+      "pdf_page_start": 1,
+      "pdf_page_end": 2,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0001",
+        "HHS4867-L06-POSTURAL-GAIT-P0002"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000043",
+        "HHS4867-C-0000044",
+        "HHS4867-C-0000055",
+        "HHS4867-C-0000056"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural Assessment",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART00",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0001",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "What is Posture?",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART00",
+      "children": [],
+      "slide_number": 2,
+      "pdf_page": 2,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0002",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000043",
+        "HHS4867-C-0000055",
+        "HHS4867-C-0000056"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural features and assessment",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-P0016"
+      ],
+      "slide_start": 3,
+      "slide_end": 16,
+      "pdf_page_start": 3,
+      "pdf_page_end": 16,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-P0016"
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0003-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0004-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0005-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0006-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0007-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0008-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0009-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0010-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0011-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0012-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0013-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0014-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0015-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0016-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000057",
+        "HHS4867-C-0000060",
+        "HHS4867-C-0000064",
+        "HHS4867-C-0000065",
+        "HHS4867-C-0000066",
+        "HHS4867-C-0000067",
+        "HHS4867-C-0000069",
+        "HHS4867-C-0000070",
+        "HHS4867-C-0000071",
+        "HHS4867-C-0000072",
+        "HHS4867-C-0000073",
+        "HHS4867-C-0000074",
+        "HHS4867-C-0000075",
+        "HHS4867-C-0000076",
+        "HHS4867-C-0000083",
+        "HHS4867-C-0000084"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Ideal Erect Posture",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 3,
+      "pdf_page": 3,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0003-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000071"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0004",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Ideal Erect Posture (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 4,
+      "pdf_page": 4,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0004",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0004-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000072"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Understanding the Posture",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 5,
+      "pdf_page": 5,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0005-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000083"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Poor Posture",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 6,
+      "pdf_page": 6,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0006-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000073"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Upper body in different posture",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 7,
+      "pdf_page": 7,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000084"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Effect of Pelvic Tilt on lower body posture",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 8,
+      "pdf_page": 8,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0008-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000064"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Elbow - Carrying angle",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 9,
+      "pdf_page": 9,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000065"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Hip / Knee - Q angle",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 10,
+      "pdf_page": 10,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000057",
+        "HHS4867-C-0000060",
+        "HHS4867-C-0000070"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Hip / Knee - Genu Varum and Genu Valgum",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 11,
+      "pdf_page": 11,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000069"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Foot",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 12,
+      "pdf_page": 12,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000066"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Foot (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 13,
+      "pdf_page": 13,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000067"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural Assessment: Tools",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 14,
+      "pdf_page": 14,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0014-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000075"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural Assessment: Views",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 15,
+      "pdf_page": 15,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0015-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000076"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Postural Assessment: Analysis",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART01",
+      "children": [],
+      "slide_number": 16,
+      "pdf_page": 16,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0016-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000074"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Gait fundamentals",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-P0017",
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-P0019",
+        "HHS4867-L06-POSTURAL-GAIT-P0020",
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-P0022",
+        "HHS4867-L06-POSTURAL-GAIT-P0023"
+      ],
+      "slide_start": 17,
+      "slide_end": 23,
+      "pdf_page_start": 17,
+      "pdf_page_end": 23,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0017",
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-P0019",
+        "HHS4867-L06-POSTURAL-GAIT-P0020",
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-P0022",
+        "HHS4867-L06-POSTURAL-GAIT-P0023"
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0018-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0021-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000068",
+        "HHS4867-C-0000080"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0017",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 17,
+      "pdf_page": 17,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0017",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Gait cycle",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 18,
+      "pdf_page": 18,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000068"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Stance phase & Swing phase",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 19,
+      "pdf_page": 19,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0019",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": []
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Gait cycle subdivision",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 20,
+      "pdf_page": 20,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0020",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Stride length",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 21,
+      "pdf_page": 21,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0021-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000080"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Walking base",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 22,
+      "pdf_page": 22,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0022",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000054"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Cycle time",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART02",
+      "children": [],
+      "slide_number": 23,
+      "pdf_page": 23,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0023",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000045"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Pathological gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-P0024",
+        "HHS4867-L06-POSTURAL-GAIT-P0025",
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-P0027",
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-P0029",
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-P0031",
+        "HHS4867-L06-POSTURAL-GAIT-P0032"
+      ],
+      "slide_start": 24,
+      "slide_end": 32,
+      "pdf_page_start": 24,
+      "pdf_page_end": 32,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0024",
+        "HHS4867-L06-POSTURAL-GAIT-P0025",
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-P0027",
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-P0029",
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-P0031",
+        "HHS4867-L06-POSTURAL-GAIT-P0032"
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0026-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0028-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0002",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0032-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000047",
+        "HHS4867-C-0000049",
+        "HHS4867-C-0000050",
+        "HHS4867-C-0000051",
+        "HHS4867-C-0000053",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000056",
+        "HHS4867-C-0000059",
+        "HHS4867-C-0000061",
+        "HHS4867-C-0000062",
+        "HHS4867-C-0000077",
+        "HHS4867-C-0000078",
+        "HHS4867-C-0000079",
+        "HHS4867-C-0000082"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0024",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Pathological gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 24,
+      "pdf_page": 24,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0024",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000049"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Spastic hemiplegia",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 25,
+      "pdf_page": 25,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0025",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000047",
+        "HHS4867-C-0000050",
+        "HHS4867-C-0000056",
+        "HHS4867-C-0000059",
+        "HHS4867-C-0000061"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0026",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Spastic hemiplegia (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 26,
+      "pdf_page": 26,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0026",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0026-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000079"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Spastic diplegia",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 27,
+      "pdf_page": 27,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0027",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000026"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0028",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Spastic diplegia (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 28,
+      "pdf_page": 28,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0028",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0028-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000078"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Shuffling gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 29,
+      "pdf_page": 29,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0029",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000050",
+        "HHS4867-C-0000051",
+        "HHS4867-C-0000054"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Shuffling gait (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 30,
+      "pdf_page": 30,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0001",
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000077"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Trendelenburg Gait",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 31,
+      "pdf_page": 31,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0031",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000045",
+        "HHS4867-C-0000053",
+        "HHS4867-C-0000054",
+        "HHS4867-C-0000056",
+        "HHS4867-C-0000062"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0032",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Trendelenburg Gait (visual)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART03",
+      "children": [],
+      "slide_number": 32,
+      "pdf_page": 32,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0032",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0032-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000082"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-PART04",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Functional mobility tests",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT",
+      "children": [
+        "HHS4867-L06-POSTURAL-GAIT-P0033",
+        "HHS4867-L06-POSTURAL-GAIT-P0034"
+      ],
+      "slide_start": 33,
+      "slide_end": 34,
+      "pdf_page_start": 33,
+      "pdf_page_end": 34,
+      "source_page_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0033",
+        "HHS4867-L06-POSTURAL-GAIT-P0034"
+      ],
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0034-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000044",
+        "HHS4867-C-0000046",
+        "HHS4867-C-0000048",
+        "HHS4867-C-0000052",
+        "HHS4867-C-0000058",
+        "HHS4867-C-0000063",
+        "HHS4867-C-0000081"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Modified Functional Ambulation Categories (MFAC)",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART04",
+      "children": [],
+      "slide_number": 33,
+      "pdf_page": 33,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0033",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000044",
+        "HHS4867-C-0000046",
+        "HHS4867-C-0000048",
+        "HHS4867-C-0000052",
+        "HHS4867-C-0000058",
+        "HHS4867-C-0000063"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "title": "Timed up and Go test",
+      "parent_id": "HHS4867-L06-POSTURAL-GAIT-PART04",
+      "children": [],
+      "slide_number": 34,
+      "pdf_page": 34,
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+      "visual_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-VIS-P0034-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000081"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 5,
+    "slides": 34
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [
+    {
+      "outline_item": "Movement system components",
+      "mapped_slides": [
+        2
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Human skeleton and bone tissue",
+      "mapped_slides": [
+        3,
+        4,
+        5
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Cartilage, ligaments, and joints",
+      "mapped_slides": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Skeletal muscle functions and attachments",
+      "mapped_slides": [
+        13,
+        14,
+        15
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Muscle roles, torque, and contraction types",
+      "mapped_slides": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "mapping_status": "generated_not_verified"
+    }
+  ],
+  "hierarchy_semantics": {
+    "course": "HHS4867 course container",
+    "document": "one lecture PDF/deck",
+    "part": "inferred lecture topic grouping from slide sequence",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata only; visual contents are not reconstructed",
+    "table": "no table candidates detected in this deck"
+  },
+  "visual_content_policy": "Non-table visual contents were not separately OCRed; only source-page location, name, and type are indexed."
+}

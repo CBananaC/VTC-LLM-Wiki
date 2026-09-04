@@ -1,0 +1,441 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "TUG",
+      "canonical_candidate": "TUG",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TUG"
+      ],
+      "source_forms": [
+        "TUG"
+      ],
+      "retrieval_terms": [
+        "TUG"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Go TUG Test",
+      "canonical_candidate": "Go TUG Test",
+      "keyword_path": [
+        "Investigations",
+        "Go TUG Test"
+      ],
+      "source_forms": [
+        "Go TUG Test"
+      ],
+      "retrieval_terms": [
+        "Go TUG Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Test",
+      "canonical_candidate": "Test",
+      "keyword_path": [
+        "Investigations",
+        "Test"
+      ],
+      "source_forms": [
+        "Test"
+      ],
+      "retrieval_terms": [
+        "Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "Timed Up and Go",
+      "canonical_candidate": "Timed Up and Go",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "Timed Up and Go"
+      ],
+      "source_forms": [
+        "Timed Up and Go"
+      ],
+      "retrieval_terms": [
+        "Timed Up and Go"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000004"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "TUG test",
+      "canonical_candidate": "TUG test",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "TUG test"
+      ],
+      "source_forms": [
+        "TUG test"
+      ],
+      "retrieval_terms": [
+        "TUG test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "balance",
+      "canonical_candidate": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_forms": [
+        "balance"
+      ],
+      "retrieval_terms": [
+        "balance"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "functional",
+      "canonical_candidate": "functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "functional"
+      ],
+      "source_forms": [
+        "functional"
+      ],
+      "retrieval_terms": [
+        "functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "gait",
+      "canonical_candidate": "gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait"
+      ],
+      "source_forms": [
+        "gait"
+      ],
+      "retrieval_terms": [
+        "gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "gait speed balance",
+      "canonical_candidate": "gait speed balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait speed balance"
+      ],
+      "source_forms": [
+        "gait speed balance"
+      ],
+      "retrieval_terms": [
+        "gait speed balance"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "gait speed balance functional",
+      "canonical_candidate": "gait speed balance functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "gait speed balance functional"
+      ],
+      "source_forms": [
+        "gait speed balance functional"
+      ],
+      "retrieval_terms": [
+        "gait speed balance functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Interpretation seconds normal seconds good mobility",
+      "canonical_candidate": "Interpretation seconds normal seconds good mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "source_forms": [
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "retrieval_terms": [
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "mobility",
+      "canonical_candidate": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_forms": [
+        "mobility"
+      ],
+      "retrieval_terms": [
+        "mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "poor mobility",
+      "canonical_candidate": "poor mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "poor mobility"
+      ],
+      "source_forms": [
+        "poor mobility"
+      ],
+      "retrieval_terms": [
+        "poor mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "canonical_candidate": "Lecture 4 - Timed Up and Go (TUG) Test visual",
+      "keyword_path": [
+        "visual",
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "source_forms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "retrieval_terms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L04-TUG-P0001",
+        "HHS4867-L04-TUG-PART01",
+        "HHS4867-L04-TUG",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 14,
+    "occurrences": 16
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

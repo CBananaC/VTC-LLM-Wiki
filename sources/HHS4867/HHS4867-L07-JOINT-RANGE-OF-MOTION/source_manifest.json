@@ -1,0 +1,74 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+  "title": "Lecture 7.2 - Joint Range of Motion",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:35+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "original_path": "../Movement Science/02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "size_bytes": 266480,
+        "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+        "copied_path": "sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/00 Source/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+      "duplicate_paths": [
+        "02 Lectures/24 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T01:58:32+08:00",
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l07_joint_range_of_motion_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l07_joint_range_of_motion_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l07_joint_range_of_motion_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l07_joint_range_of_motion_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l07_joint_range_of_motion_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l07_joint_range_of_motion_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l07_joint_range_of_motion_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs4867_l07_joint_range_of_motion.py"
+    },
+    "counts": {
+      "slides": 12,
+      "parts": 3,
+      "blocks": 42,
+      "concepts": 33,
+      "occurrences": 44,
+      "terms": 34,
+      "passages": 12,
+      "visuals": 10,
+      "tables": 0,
+      "quotation_candidates": 7
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

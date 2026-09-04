@@ -1,0 +1,1067 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CA1",
+      "canonical_candidate": "CA1",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CA1"
+      ],
+      "source_forms": [
+        "CA1"
+      ],
+      "retrieval_terms": [
+        "CA1"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CA2",
+      "canonical_candidate": "CA2",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CA2"
+      ],
+      "source_forms": [
+        "CA2"
+      ],
+      "retrieval_terms": [
+        "CA2"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "CA3",
+      "canonical_candidate": "CA3",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "CA3"
+      ],
+      "source_forms": [
+        "CA3"
+      ],
+      "retrieval_terms": [
+        "CA3"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Dec-26",
+      "canonical_candidate": "Dec-26",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Dec-26"
+      ],
+      "source_forms": [
+        "Dec-26"
+      ],
+      "retrieval_terms": [
+        "Dec-26"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HAS4867",
+      "canonical_candidate": "HAS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HAS4867"
+      ],
+      "source_forms": [
+        "HAS4867"
+      ],
+      "retrieval_terms": [
+        "HAS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "MCQ",
+      "canonical_candidate": "MCQ",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MCQ"
+      ],
+      "source_forms": [
+        "MCQ"
+      ],
+      "retrieval_terms": [
+        "MCQ"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "MFAC",
+      "canonical_candidate": "MFAC",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MFAC"
+      ],
+      "source_forms": [
+        "MFAC"
+      ],
+      "retrieval_terms": [
+        "MFAC"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "MMT",
+      "canonical_candidate": "MMT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MMT"
+      ],
+      "source_forms": [
+        "MMT"
+      ],
+      "retrieval_terms": [
+        "MMT"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016",
+        "HHS4867-O-00000017"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Mon Rm042 Wheelchair Sep-26 Transfer walking",
+      "canonical_candidate": "Mon Rm042 Wheelchair Sep-26 Transfer walking",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Mon Rm042 Wheelchair Sep-26 Transfer walking"
+      ],
+      "source_forms": [
+        "Mon Rm042 Wheelchair Sep-26 Transfer walking"
+      ],
+      "retrieval_terms": [
+        "Mon Rm042 Wheelchair Sep-26 Transfer walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Nov-26",
+      "canonical_candidate": "Nov-26",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Nov-26"
+      ],
+      "source_forms": [
+        "Nov-26"
+      ],
+      "retrieval_terms": [
+        "Nov-26"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Oct-26",
+      "canonical_candidate": "Oct-26",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Oct-26"
+      ],
+      "source_forms": [
+        "Oct-26"
+      ],
+      "retrieval_terms": [
+        "Oct-26"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022",
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Practical Revision Dec-26 EA Practical Test",
+      "canonical_candidate": "Practical Revision Dec-26 EA Practical Test",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Practical Revision Dec-26 EA Practical Test"
+      ],
+      "source_forms": [
+        "Practical Revision Dec-26 EA Practical Test"
+      ],
+      "retrieval_terms": [
+        "Practical Revision Dec-26 EA Practical Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Rm042",
+      "canonical_candidate": "Rm042",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Rm042"
+      ],
+      "source_forms": [
+        "Rm042"
+      ],
+      "retrieval_terms": [
+        "Rm042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028",
+        "HHS4867-O-00000029"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Rm053",
+      "canonical_candidate": "Rm053",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Rm053"
+      ],
+      "source_forms": [
+        "Rm053"
+      ],
+      "retrieval_terms": [
+        "Rm053"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000015",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ROM",
+      "canonical_candidate": "ROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM"
+      ],
+      "source_forms": [
+        "ROM"
+      ],
+      "retrieval_terms": [
+        "ROM"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032",
+        "HHS4867-O-00000033",
+        "HHS4867-O-00000034",
+        "HHS4867-O-00000035"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000016",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ROM Nov-26 CA2 Preparation Nov-26 Gait",
+      "canonical_candidate": "ROM Nov-26 CA2 Preparation Nov-26 Gait",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM Nov-26 CA2 Preparation Nov-26 Gait"
+      ],
+      "source_forms": [
+        "ROM Nov-26 CA2 Preparation Nov-26 Gait"
+      ],
+      "retrieval_terms": [
+        "ROM Nov-26 CA2 Preparation Nov-26 Gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000017",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Sep-26",
+      "canonical_candidate": "Sep-26",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Sep-26"
+      ],
+      "source_forms": [
+        "Sep-26"
+      ],
+      "retrieval_terms": [
+        "Sep-26"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038",
+        "HHS4867-O-00000039",
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Sep-26 Mon Rm042 Wheelchair Sep-26 Transfer",
+      "canonical_candidate": "Sep-26 Mon Rm042 Wheelchair Sep-26 Transfer",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Sep-26 Mon Rm042 Wheelchair Sep-26 Transfer"
+      ],
+      "source_forms": [
+        "Sep-26 Mon Rm042 Wheelchair Sep-26 Transfer"
+      ],
+      "retrieval_terms": [
+        "Sep-26 Mon Rm042 Wheelchair Sep-26 Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042",
+        "HHS4867-O-00000043"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Sep-26 Transfer walking aids Oct-26 Walking",
+      "canonical_candidate": "Sep-26 Transfer walking aids Oct-26 Walking",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Sep-26 Transfer walking aids Oct-26 Walking"
+      ],
+      "source_forms": [
+        "Sep-26 Transfer walking aids Oct-26 Walking"
+      ],
+      "retrieval_terms": [
+        "Sep-26 Transfer walking aids Oct-26 Walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "standard WC Sep-26 Mobility",
+      "canonical_candidate": "standard WC Sep-26 Mobility",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "standard WC Sep-26 Mobility"
+      ],
+      "source_forms": [
+        "standard WC Sep-26 Mobility"
+      ],
+      "retrieval_terms": [
+        "standard WC Sep-26 Mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046",
+        "HHS4867-O-00000047"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "standard WC Sep-26 Mobility walking",
+      "canonical_candidate": "standard WC Sep-26 Mobility walking",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "standard WC Sep-26 Mobility walking"
+      ],
+      "source_forms": [
+        "standard WC Sep-26 Mobility walking"
+      ],
+      "retrieval_terms": [
+        "standard WC Sep-26 Mobility walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "TBC",
+      "canonical_candidate": "TBC",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TBC"
+      ],
+      "source_forms": [
+        "TBC"
+      ],
+      "retrieval_terms": [
+        "TBC"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050",
+        "HHS4867-O-00000051"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "TUG",
+      "canonical_candidate": "TUG",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "TUG"
+      ],
+      "source_forms": [
+        "TUG"
+      ],
+      "retrieval_terms": [
+        "TUG"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052",
+        "HHS4867-O-00000053"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000024",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Mon TBC TBC EA written test",
+      "canonical_candidate": "Mon TBC TBC EA written test",
+      "keyword_path": [
+        "Investigations",
+        "Mon TBC TBC EA written test"
+      ],
+      "source_forms": [
+        "Mon TBC TBC EA written test"
+      ],
+      "retrieval_terms": [
+        "Mon TBC TBC EA written test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054",
+        "HHS4867-O-00000055"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000025",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "test",
+      "canonical_candidate": "test",
+      "keyword_path": [
+        "Investigations",
+        "test"
+      ],
+      "source_forms": [
+        "test",
+        "Test"
+      ],
+      "retrieval_terms": [
+        "test",
+        "Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056",
+        "HHS4867-O-00000057",
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000027",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Gait",
+      "canonical_candidate": "Gait",
+      "keyword_path": [
+        "Rehabilitation",
+        "Gait"
+      ],
+      "source_forms": [
+        "Gait"
+      ],
+      "retrieval_terms": [
+        "Gait"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061",
+        "HHS4867-O-00000062",
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000028",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Mobility",
+      "canonical_candidate": "Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Mobility"
+      ],
+      "source_forms": [
+        "Mobility"
+      ],
+      "retrieval_terms": [
+        "Mobility"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000029",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Module Title Functional",
+      "canonical_candidate": "Module Title Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Module Title Functional"
+      ],
+      "source_forms": [
+        "Module Title Functional"
+      ],
+      "retrieval_terms": [
+        "Module Title Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000067"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000030",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Movement Transfer",
+      "canonical_candidate": "Movement Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Movement Transfer"
+      ],
+      "source_forms": [
+        "Movement Transfer"
+      ],
+      "retrieval_terms": [
+        "Movement Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000031",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Transfer",
+      "canonical_candidate": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_forms": [
+        "Transfer"
+      ],
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071",
+        "HHS4867-O-00000072",
+        "HHS4867-O-00000073"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000032",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "walking",
+      "canonical_candidate": "walking",
+      "keyword_path": [
+        "Rehabilitation",
+        "walking"
+      ],
+      "source_forms": [
+        "walking"
+      ],
+      "retrieval_terms": [
+        "walking"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000074",
+        "HHS4867-O-00000075",
+        "HHS4867-O-00000076",
+        "HHS4867-O-00000077"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000033",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 1: Functional Movement Science - Class 1A Lecture Schedule",
+      "canonical_candidate": "Table on slide 1: Functional Movement Science - Class 1A Lecture Schedule",
+      "keyword_path": [
+        "visual",
+        "Table on slide 1: Functional Movement Science - Class 1A Lecture Schedule"
+      ],
+      "source_forms": [
+        "Table on slide 1: Functional Movement Science - Class 1A Lecture Schedule"
+      ],
+      "retrieval_terms": [
+        "Table on slide 1: Functional Movement Science - Class 1A Lecture Schedule"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-SCHEDULE-1A-P0001",
+        "HHS4867-SCHEDULE-1A-PART01",
+        "HHS4867-SCHEDULE-1A",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 33,
+    "occurrences": 79
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

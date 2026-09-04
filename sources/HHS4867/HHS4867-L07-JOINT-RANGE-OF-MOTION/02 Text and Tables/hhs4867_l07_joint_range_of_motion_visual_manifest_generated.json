@@ -1,0 +1,592 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_visual_manifest",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+  "source": {
+    "filename": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/00 Source/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+    "pdf_page_count": 12,
+    "pdfinfo": {
+      "Title": "Joint Range of Motion  關節活動幅度",
+      "Author": "LO HIP SHING DOMINIC",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:58 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:58 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 12,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 266480,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "visual_policy": {
+    "tables": "full reconstruction when detected",
+    "non_tables": "location/name/type metadata only",
+    "visual_text_ocr": "not separately reconstructed"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Goniometer visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          150.6,
+          162.0,
+          496.92,
+          464.4
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Goniometry and normal ROM",
+          "Goniometer"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Goniometer visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          498.0,
+          198.0,
+          806.88,
+          452.04
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Goniometry and normal ROM",
+          "Goniometer"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Shoulder Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          129.6,
+          52.08,
+          830.4,
+          448.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Shoulder Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Shoulder Abduction visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          127.8,
+          54.36,
+          831.96,
+          452.28
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Shoulder Abduction"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Shoulder Internal & External Rotation visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          124.2,
+          42.0,
+          835.8,
+          444.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Shoulder Internal & External Rotation"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Elbow Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          132.0,
+          96.0,
+          834.0,
+          492.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Elbow Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Hip Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          138.36,
+          60.0,
+          839.28,
+          456.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Hip Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Hip Abduction visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          126.0,
+          54.0,
+          826.92,
+          450.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Hip Abduction"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Hip Internal & External Rotation visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          129.6,
+          53.88,
+          830.4,
+          449.88
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Hip Internal & External Rotation"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+      "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Knee Flexion & Extension visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          117.0,
+          98.16,
+          837.0,
+          504.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 7.2 - Joint Range of Motion",
+          "Joint ROM examples",
+          "Knee Flexion & Extension"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 10,
+    "tables": 0,
+    "non_table_visuals": 10
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

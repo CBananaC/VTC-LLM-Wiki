@@ -1,0 +1,2755 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Flexion & Extension",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Abduction",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Int & Ext Rotation",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Knee",
+      "keyword_path": [
+        "Anatomy",
+        "Knee"
+      ],
+      "source_form": "Knee",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Knee",
+      "keyword_path": [
+        "Anatomy",
+        "Knee"
+      ],
+      "source_form": "Knee",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Knee Flexion & Extension",
+      "retrieval_terms": [
+        "Knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "Muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "Muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "Muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to perform MMT • Patients are asked to hold a position against a therapist’s resistance. • It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting",
+      "retrieval_terms": [
+        "Muscle",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "contraction Visible/palpable muscle",
+      "keyword_path": [
+        "Conditions",
+        "contraction Visible/palpable muscle"
+      ],
+      "source_form": "contraction Visible/palpable muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+      "retrieval_terms": [
+        "contraction Visible/palpable muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Grade Hip Flexion Sidelying Supine Hip",
+      "keyword_path": [
+        "Conditions",
+        "Grade Hip Flexion Sidelying Supine Hip"
+      ],
+      "source_form": "Grade Hip Flexion Sidelying Supine Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Grade Hip Flexion Sidelying Supine Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Gravity eliminated Anti-gravity Grade Grade Hip",
+      "keyword_path": [
+        "Conditions",
+        "Gravity eliminated Anti-gravity Grade Grade Hip"
+      ],
+      "source_form": "Gravity eliminated Anti-gravity Grade Grade Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Gravity eliminated Anti-gravity Grade Grade Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "gravity eliminated position muscle",
+      "keyword_path": [
+        "Conditions",
+        "gravity eliminated position muscle"
+      ],
+      "source_form": "gravity eliminated position muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "gravity eliminated position muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000017",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Manual Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Manual Muscle"
+      ],
+      "source_form": "Manual Muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Manual Muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000018",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Manual Muscle",
+      "keyword_path": [
+        "Conditions",
+        "Manual Muscle"
+      ],
+      "source_form": "Manual Muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "Manual Muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000019",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "palpable muscle",
+      "keyword_path": [
+        "Conditions",
+        "palpable muscle"
+      ],
+      "source_form": "palpable muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "palpable muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000020",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "rotation Supine hip flexed Sitting Hip",
+      "keyword_path": [
+        "Conditions",
+        "rotation Supine hip flexed Sitting Hip"
+      ],
+      "source_form": "rotation Supine hip flexed Sitting Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "rotation Supine hip flexed Sitting Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000021",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "rotation Supine hip flexed Sitting Knee",
+      "keyword_path": [
+        "Conditions",
+        "rotation Supine hip flexed Sitting Knee"
+      ],
+      "source_form": "rotation Supine hip flexed Sitting Knee",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "rotation Supine hip flexed Sitting Knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000022",
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Sidelying Hip Abduction Supine Sidelying Hip",
+      "keyword_path": [
+        "Conditions",
+        "Sidelying Hip Abduction Supine Sidelying Hip"
+      ],
+      "source_form": "Sidelying Hip Abduction Supine Sidelying Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Sidelying Hip Abduction Supine Sidelying Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000023",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Sidelying Hip Internal rotation Supine hip",
+      "keyword_path": [
+        "Conditions",
+        "Sidelying Hip Internal rotation Supine hip"
+      ],
+      "source_form": "Sidelying Hip Internal rotation Supine hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Sidelying Hip Internal rotation Supine hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000024",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Sitting Hip External rotation Supine hip",
+      "keyword_path": [
+        "Conditions",
+        "Sitting Hip External rotation Supine hip"
+      ],
+      "source_form": "Sitting Hip External rotation Supine hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Sitting Hip External rotation Supine hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000025",
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Sitting Knee Flexion Prone Sidelying Knee",
+      "keyword_path": [
+        "Conditions",
+        "Sitting Knee Flexion Prone Sidelying Knee"
+      ],
+      "source_form": "Sitting Knee Flexion Prone Sidelying Knee",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Sitting Knee Flexion Prone Sidelying Knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000026",
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Supine Hip Extension Prone Sidelying Hip",
+      "keyword_path": [
+        "Conditions",
+        "Supine Hip Extension Prone Sidelying Hip"
+      ],
+      "source_form": "Supine Hip Extension Prone Sidelying Hip",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary Gravity eliminated Anti-gravity (Grade 3-5) (Grade 0-2) Hip Flexion Sidelying Supine Hip Extension Prone Sidelying Hip Abduction Supine Sidelying Hip Internal rotation Supine (hip flexed 90°) Sitting Hip External rotation Supine (hip flexed 90°) Sitting Knee Flexion Prone Sidelying Knee Extension Sidelying Supine Shoulder Flexion Sidelying Sitting Shoulder Extension Sidelying Sitting Shoulder Abduction Supine Sitting Shoulder Internal rotation Sitting (shoulder neutral) ",
+      "retrieval_terms": [
+        "Supine Hip Extension Prone Sidelying Hip"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000027",
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "weaker muscle",
+      "keyword_path": [
+        "Conditions",
+        "weaker muscle"
+      ],
+      "source_form": "weaker muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position • Anti-Gravity • Gravity Eliminated (for weaker muscle) • Supine • Side-lying • Prone • Sitting",
+      "retrieval_terms": [
+        "weaker muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000028",
+      "concept_id": "HHS4867-C-0000018",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_form": "HHS4867",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000029",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_form": "HHS4867J",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000030",
+      "concept_id": "HHS4867-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "Manual Muscle Testing HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Manual Muscle Testing HHS4867 Functional"
+      ],
+      "source_form": "Manual Muscle Testing HHS4867 Functional",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Manual Muscle Testing HHS4867 Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000031",
+      "concept_id": "HHS4867-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "MMT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MMT"
+      ],
+      "source_form": "MMT",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "MMT"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000032",
+      "concept_id": "HHS4867-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "MMT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MMT"
+      ],
+      "source_form": "MMT",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to perform MMT • Patients are asked to hold a position against a therapist’s resistance. • It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested • Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested • Both sides should be tested to provide a comparison",
+      "retrieval_terms": [
+        "MMT"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000033",
+      "concept_id": "HHS4867-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM"
+      ],
+      "source_form": "ROM",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "ROM"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000034",
+      "concept_id": "HHS4867-C-0000023",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "function",
+      "keyword_path": [
+        "Rehabilitation",
+        "function"
+      ],
+      "source_form": "function",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "function"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000035",
+      "concept_id": "HHS4867-C-0000024",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000036",
+      "concept_id": "HHS4867-C-0000025",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "gravity completes range",
+      "keyword_path": [
+        "Rehabilitation",
+        "gravity completes range"
+      ],
+      "source_form": "gravity completes range",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "gravity completes range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000037",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Measuring Strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "Measuring Strength"
+      ],
+      "source_form": "Measuring Strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Measuring Strength with Dynanometer",
+      "retrieval_terms": [
+        "Measuring Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000038",
+      "concept_id": "HHS4867-C-0000027",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "muscle strength"
+      ],
+      "source_form": "muscle strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "muscle strength",
+        "Muscle Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000039",
+      "concept_id": "HHS4867-C-0000027",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "muscle strength"
+      ],
+      "source_form": "Muscle Strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+      "retrieval_terms": [
+        "muscle strength",
+        "Muscle Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000040",
+      "concept_id": "HHS4867-C-0000028",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "muscle strength Manual muscle",
+      "keyword_path": [
+        "Rehabilitation",
+        "muscle strength Manual muscle"
+      ],
+      "source_form": "muscle strength Manual muscle",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "muscle strength Manual muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000041",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 4,
+          "page_number_type": "slide_number",
+          "slide_number": 4,
+          "pdf_page": 4,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 4 (PDF p. 4)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "subject completes ROM against gravity with maximal resistance 4+ completes ROM against gravity with moderate-maximal resistance completes ROM against gravity with moderate resistance 4- completes ROM against gravity with minimal-moderate resistance 3+ completes ROM against gravity with only minimal resistance completes ROM against gravity without manual resistance 3- does not complete the range of motion against gravity, but does complete more than half of the range 2+ is able to initiate moveme",
+      "retrieval_terms": [
+        "range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000042",
+      "concept_id": "HHS4867-C-0000030",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "sophisticated strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "sophisticated strength"
+      ],
+      "source_form": "sophisticated strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "sophisticated strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000043",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT) • Assessment of muscle strength • Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance. • Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "strength",
+        "Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000044",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "Strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Muscle Strength Grading Scale (Oxford Scale) No contraction Visible/palpable muscle contraction but no movement Movement with gravity eliminated Movement against gravity only Movement against gravity with some resistance Movement against gravity with full resistance",
+      "retrieval_terms": [
+        "strength",
+        "Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000045",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_form": "Strength",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Measuring Strength with Dynanometer",
+      "retrieval_terms": [
+        "strength",
+        "Strength"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000046",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Manual Muscle Testing (MMT)\n• Assessment of muscle strength\n• Manual muscle testing is a procedure for the evaluation of the function and strength of individual muscles and muscle groups based on the effective performance of a movement in relation to the forces of gravity and manual resistance.\n• Dynamometry is a method of strength testing using sophisticated strength measuring devices (e.g., hand-grip, hand- held, fixed, and isokinetic dynamometry).",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000047",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 3,
+          "page_number_type": "slide_number",
+          "slide_number": 3,
+          "pdf_page": 3,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 3 (PDF p. 3)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Muscle Strength Grading Scale (Oxford Scale)\nNo contraction\nVisible/palpable muscle contraction but no movement\nMovement with gravity eliminated\nMovement against gravity only\nMovement against gravity with some resistance\nMovement against gravity with full resistance",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000048",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "How to perform MMT\n• Patients are asked to hold a position against a therapist’s resistance.\n• It is important to stabilize proximal part of the area being tested to reduce compensatory action by muscles other than those being tested\n• Resistance needs to be applied gradually (\"meet my resistance\" or \"don't let me move you\") in the opposite direction of muscle being tested\n• Both sides should be tested to provide a comparison",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000049",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position\n• Anti-Gravity\n• Gravity Eliminated (for weaker muscle)\n• Supine\n• Side-lying\n• Prone\n• Sitting",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000050",
+      "concept_id": "HHS4867-C-0000033",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "shoulder abduction",
+      "keyword_path": [
+        "Section topics",
+        "shoulder abduction"
+      ],
+      "source_form": "shoulder abduction",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 8,
+          "page_number_type": "slide_number",
+          "slide_number": 8,
+          "pdf_page": 8,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 8 (PDF p. 8)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position Summary\nGravity eliminated\nAnti-gravity (Grade 3-5)\n(Grade 0-2)\nHip Flexion\nSidelying\nSupine\nHip Extension\nProne\nSidelying\nHip Abduction\nSupine\nSidelying\nHip Internal rotation\nSupine (hip flexed 90°)\nSitting\nHip External rotation\nSupine (hip flexed 90°)\nSitting\nKnee Flexion\nProne\nSidelying\nKnee Extension\nSidelying\nSupine\nShoulder Flexion\nSidelying\nSitting\nShoulder Extension\nSidelying\nSitting\nShoulder Abduction\nSupine\nSitting\nShoulder Internal rotation\nSitting (shoulder neutral)\n",
+      "retrieval_terms": [
+        "shoulder abduction"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000051",
+      "concept_id": "HHS4867-C-0000033",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "shoulder abduction",
+      "keyword_path": [
+        "Section topics",
+        "shoulder abduction"
+      ],
+      "source_form": "shoulder abduction",
+      "source_passage_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Abduction",
+      "retrieval_terms": [
+        "shoulder abduction"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000052",
+      "concept_id": "HHS4867-C-0000034",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Dynamometer visual",
+      "keyword_path": [
+        "visual",
+        "Dynamometer visual"
+      ],
+      "source_form": "Dynamometer visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamometer visual",
+      "retrieval_terms": [
+        "Dynamometer visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000053",
+      "concept_id": "HHS4867-C-0000035",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Elbow Flexion & Extension visual",
+      "keyword_path": [
+        "visual",
+        "Elbow Flexion & Extension visual"
+      ],
+      "source_form": "Elbow Flexion & Extension visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 12,
+          "page_number_type": "slide_number",
+          "slide_number": 12,
+          "pdf_page": 12,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 12 (PDF p. 12)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Elbow Flexion & Extension visual",
+      "retrieval_terms": [
+        "Elbow Flexion & Extension visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000054",
+      "concept_id": "HHS4867-C-0000036",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Hip Abduction visual",
+      "keyword_path": [
+        "visual",
+        "Hip Abduction visual"
+      ],
+      "source_form": "Hip Abduction visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Abduction visual",
+      "retrieval_terms": [
+        "Hip Abduction visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000055",
+      "concept_id": "HHS4867-C-0000037",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Hip Flexion & Extension visual",
+      "keyword_path": [
+        "visual",
+        "Hip Flexion & Extension visual"
+      ],
+      "source_form": "Hip Flexion & Extension visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Flexion & Extension visual",
+      "retrieval_terms": [
+        "Hip Flexion & Extension visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000056",
+      "concept_id": "HHS4867-C-0000038",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Hip Internal & External Rotation visual",
+      "keyword_path": [
+        "visual",
+        "Hip Internal & External Rotation visual"
+      ],
+      "source_form": "Hip Internal & External Rotation visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Hip Internal & External Rotation visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000057",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Knee Flexion & Extension visual",
+      "keyword_path": [
+        "visual",
+        "Knee Flexion & Extension visual"
+      ],
+      "source_form": "Knee Flexion & Extension visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Knee Flexion & Extension visual",
+      "retrieval_terms": [
+        "Knee Flexion & Extension visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000058",
+      "concept_id": "HHS4867-C-0000040",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Measuring Strength with Dynamometer visual",
+      "keyword_path": [
+        "visual",
+        "Measuring Strength with Dynamometer visual"
+      ],
+      "source_form": "Measuring Strength with Dynamometer visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 18,
+          "page_number_type": "slide_number",
+          "slide_number": 18,
+          "pdf_page": 18,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 18 (PDF p. 18)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Measuring Strength with Dynamometer visual",
+      "retrieval_terms": [
+        "Measuring Strength with Dynamometer visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000059",
+      "concept_id": "HHS4867-C-0000041",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Shoulder Abduction visual",
+      "keyword_path": [
+        "visual",
+        "Shoulder Abduction visual"
+      ],
+      "source_form": "Shoulder Abduction visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Abduction visual",
+      "retrieval_terms": [
+        "Shoulder Abduction visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000060",
+      "concept_id": "HHS4867-C-0000042",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Shoulder Flexion & Extension visual",
+      "keyword_path": [
+        "visual",
+        "Shoulder Flexion & Extension visual"
+      ],
+      "source_form": "Shoulder Flexion & Extension visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Flexion & Extension visual",
+      "retrieval_terms": [
+        "Shoulder Flexion & Extension visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000061",
+      "concept_id": "HHS4867-C-0000043",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Shoulder Internal & External Rotation visual",
+      "keyword_path": [
+        "visual",
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "source_form": "Shoulder Internal & External Rotation visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000062",
+      "concept_id": "HHS4867-C-0000044",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Testing Position (visual) visual",
+      "keyword_path": [
+        "visual",
+        "Testing Position (visual) visual"
+      ],
+      "source_form": "Testing Position (visual) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+          "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+          "document_title": "Lecture 7.1 - Manual Muscle Testing",
+          "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Testing Position (visual) visual",
+      "retrieval_terms": [
+        "Testing Position (visual) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 62
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

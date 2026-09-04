@@ -1,0 +1,1022 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "alignmentaxisanteriorsuperioriliacspine": {
+      "display_forms": [
+        "Alignment Axis anterior superior iliac spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "ankle": {
+      "display_forms": [
+        "ankle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "ankleinversionsubjecttest": {
+      "display_forms": [
+        "ankle Inversion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000059"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "armbackshoulderabductionsubjecttest": {
+      "display_forms": [
+        "arm back Shoulder Abduction Subject test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "asis": {
+      "display_forms": [
+        "ASIS"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "downgoniometeralignmentaxislateralwrist": {
+      "display_forms": [
+        "down Goniometer Alignment Axis lateral wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031",
+        "HHS4867-O-00000032",
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "elbowelbowextensionsubjecttest": {
+      "display_forms": [
+        "elbow Elbow Extension Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000061",
+        "HHS4867-O-00000062"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "elbowjointelbowflexionsubjecttest": {
+      "display_forms": [
+        "Elbow Joint Elbow Flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "elbowwrist": {
+      "display_forms": [
+        "elbow Wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034",
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "elbowwristjointwrist": {
+      "display_forms": [
+        "elbow Wrist Joint Wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "feetshoulderexternalrotationsubjecttest": {
+      "display_forms": [
+        "feet Shoulder External Rotation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000065"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "femur": {
+      "display_forms": [
+        "femur"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000004",
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006",
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "fingersrelaxedforearmpronationsubjecttest": {
+      "display_forms": [
+        "fingers relaxed Forearm Pronation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "forearmradialdeviationsubjecttest": {
+      "display_forms": [
+        "forearm Radial Deviation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "forearmsupinationsubjecttest": {
+      "display_forms": [
+        "forearm Supination Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "forefooteversionsubjecttest": {
+      "display_forms": [
+        "forefoot Eversion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000124"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "goniometer": {
+      "display_forms": [
+        "goniometer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000118",
+        "HHS4867-O-00000119",
+        "HHS4867-O-00000120",
+        "HHS4867-O-00000121"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "has4867": {
+      "display_forms": [
+        "HAS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "highplinthknee": {
+      "display_forms": [
+        "high plinth Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hip": {
+      "display_forms": [
+        "Hip",
+        "hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009",
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "hiphip": {
+      "display_forms": [
+        "hip Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hiphipabductionsubjecttest": {
+      "display_forms": [
+        "hip Hip Abduction Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hiphipextensionsubjecttest": {
+      "display_forms": [
+        "hip Hip Extension Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000074"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hiphipexternalrotationsubjecttest": {
+      "display_forms": [
+        "hip Hip External Rotation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000075"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hiphipinternalrotationsubjecttest": {
+      "display_forms": [
+        "hip Hip Internal Rotation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000076"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hipjointhipflexionsubjecttest": {
+      "display_forms": [
+        "Hip Joint Hip Flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "hipknee": {
+      "display_forms": [
+        "hip Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040",
+        "HHS4867-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hipkneejointknee": {
+      "display_forms": [
+        "hip Knee Joint Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042",
+        "HHS4867-O-00000043"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "jointflexionmcpflexionsubjecttest": {
+      "display_forms": [
+        "Joint Flexion MCP flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000079",
+        "HHS4867-O-00000080"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "knee": {
+      "display_forms": [
+        "Knee",
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016",
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "kneeankle": {
+      "display_forms": [
+        "knee Ankle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "kneeanklejointdorsiflexionsubjecttest": {
+      "display_forms": [
+        "knee Ankle Joint Dorsiflexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000081",
+        "HHS4867-O-00000082"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "kneejointkneeflexionsubjecttest": {
+      "display_forms": [
+        "Knee Joint Knee Flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083",
+        "HHS4867-O-00000084"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "kneeknee": {
+      "display_forms": [
+        "knee Knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046",
+        "HHS4867-O-00000047"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "kneekneeextensionsubjecttest": {
+      "display_forms": [
+        "knee Knee Extension Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000085",
+        "HHS4867-O-00000086"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "mcp": {
+      "display_forms": [
+        "MCP"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056",
+        "HHS4867-O-00000057"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "mcpjointhip": {
+      "display_forms": [
+        "MCP joint Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "mcpjointhipjointhip": {
+      "display_forms": [
+        "MCP joint Hip Joint Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050",
+        "HHS4867-O-00000051"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "motionromrange": {
+      "display_forms": [
+        "Motion ROM Range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000125"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "normalrange": {
+      "display_forms": [
+        "normal range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000126"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "normalrangeofmotion": {
+      "display_forms": [
+        "normal range of motion"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000122"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "pelvis": {
+      "display_forms": [
+        "pelvis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019",
+        "HHS4867-O-00000020",
+        "HHS4867-O-00000021"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "plantarflexionsubjecttest": {
+      "display_forms": [
+        "Plantarflexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000087"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "radialdeviationulnardeviationsubjecttest": {
+      "display_forms": [
+        "radial deviation Ulnar Deviation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000088",
+        "HHS4867-O-00000089"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "range": {
+      "display_forms": [
+        "Range"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000127"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "rangeofmotion": {
+      "display_forms": [
+        "range of motion"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000123"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "rom": {
+      "display_forms": [
+        "ROM"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000058"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "shoulderextensionsubjecttest": {
+      "display_forms": [
+        "Shoulder Extension Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090",
+        "HHS4867-O-00000091"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "shoulderjointshoulderflexionsubjecttest": {
+      "display_forms": [
+        "Shoulder Joint Shoulder flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000092",
+        "HHS4867-O-00000093"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "shouldershoulderinternalrotationsubjecttest": {
+      "display_forms": [
+        "shoulder Shoulder Internal Rotation Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000094"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "slide8visual": {
+      "display_forms": [
+        "Slide 8 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000128"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "spine": {
+      "display_forms": [
+        "spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "subjecttest": {
+      "display_forms": [
+        "Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000095",
+        "HHS4867-O-00000096"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "tableonslide1lecture3measurementofrangeofmotionrom": {
+      "display_forms": [
+        "Table on slide 1: Lecture 3 - Measurement of Range of Motion (ROM)"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000129"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "tableonslide3slide3": {
+      "display_forms": [
+        "Table on slide 3: Slide 3"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000130"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "tableonslide4slide4": {
+      "display_forms": [
+        "Table on slide 4: Slide 4"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000131"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "tableonslide5slide5": {
+      "display_forms": [
+        "Table on slide 5: Slide 5"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000132"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "tableonslide7slide7": {
+      "display_forms": [
+        "Table on slide 7: Slide 7"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000133"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "test": {
+      "display_forms": [
+        "Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000097",
+        "HHS4867-O-00000098",
+        "HHS4867-O-00000099",
+        "HHS4867-O-00000100",
+        "HHS4867-O-00000101",
+        "HHS4867-O-00000102",
+        "HHS4867-O-00000103",
+        "HHS4867-O-00000104",
+        "HHS4867-O-00000105",
+        "HHS4867-O-00000106",
+        "HHS4867-O-00000107",
+        "HHS4867-O-00000108",
+        "HHS4867-O-00000109"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "testpositionsubjectpronestabilizepelvis": {
+      "display_forms": [
+        "Test Position Subject Prone Stabilize Pelvis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000110"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "testpositionsubjectsupineallowhip": {
+      "display_forms": [
+        "Test Position Subject supine Allow hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000111",
+        "HHS4867-O-00000112"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "testpositionsubjectsupineallowknee": {
+      "display_forms": [
+        "Test Position Subject Supine Allow knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000113",
+        "HHS4867-O-00000114"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "testpositionsubjectsupinestabilizepelvis": {
+      "display_forms": [
+        "Test Position Subject supine Stabilize pelvis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000115"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "wrist": {
+      "display_forms": [
+        "Wrist",
+        "wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025",
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027",
+        "HHS4867-O-00000028"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "wristfingersrelaxedwrist": {
+      "display_forms": [
+        "wrist fingers relaxed Wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052",
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "wristjointwristflexionsubjecttest": {
+      "display_forms": [
+        "Wrist Joint Wrist Flexion Subject Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000116",
+        "HHS4867-O-00000117"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 67,
+    "concepts_referenced": 67,
+    "occurrences_referenced": 133
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

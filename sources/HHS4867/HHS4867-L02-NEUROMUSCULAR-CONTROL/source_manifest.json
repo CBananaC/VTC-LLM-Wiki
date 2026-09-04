@@ -1,0 +1,74 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS4867-L02-NEUROMUSCULAR-CONTROL",
+  "title": "Lecture 2 - Neuromuscular Control of Human Movement",
+  "course_code": "HHS4867",
+  "source_role": "course_materials",
+  "source_kind": "lecture",
+  "added_at_hkt": "2026-09-04T01:15:35+08:00",
+  "package_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "original_path": "../Movement Science/02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "size_bytes": 886506,
+        "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+        "copied_path": "sources/HHS4867/HHS4867-L02-NEUROMUSCULAR-CONTROL/00 Source/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true,
+    "duplicate_decision": {
+      "canonical_path": "02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+      "duplicate_paths": [
+        "02 Lectures/06 - 2. Neuromuscular control of movement 人體運動神經控制.pdf"
+      ],
+      "decision": "process canonical path once; do not scan duplicate paths"
+    }
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
+  "claims_index": "not_created",
+  "notes": "Canonical SHA-256-deduplicated presentation input; duplicate lecture/workshop copies are recorded during processing.",
+  "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and the no-table result before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and optional PaddleOCR OCR/layout -> English slide blocks -> background and visual-text separation -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T01:59:29+08:00",
+    "outputs": {
+      "ocr_layout": "01 OCR and Layout/hhs4867_l02_neuromuscular_control_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs4867_l02_neuromuscular_control_structure_generated.json",
+      "text": "02 Text and Tables/hhs4867_l02_neuromuscular_control_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs4867_l02_neuromuscular_control_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs4867_l02_neuromuscular_control_tables_generated.json",
+      "analysis": "03 Analysis/hhs4867_l02_neuromuscular_control_analysis_generated.json",
+      "summaries": "03 Analysis/hhs4867_l02_neuromuscular_control_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../tools/query_hhs4867_l02_neuromuscular_control.py"
+    },
+    "counts": {
+      "slides": 18,
+      "parts": 5,
+      "blocks": 94,
+      "concepts": 49,
+      "occurrences": 79,
+      "terms": 50,
+      "passages": 18,
+      "visuals": 7,
+      "tables": 0,
+      "quotation_candidates": 49
+    },
+    "all_derived_status": "generated_not_verified"
+  }
+}

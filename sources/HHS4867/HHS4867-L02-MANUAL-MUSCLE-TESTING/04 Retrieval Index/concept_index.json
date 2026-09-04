@@ -1,0 +1,2100 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "ankle",
+      "canonical_candidate": "ankle",
+      "keyword_path": [
+        "Anatomy",
+        "ankle"
+      ],
+      "source_forms": [
+        "ankle",
+        "Ankle"
+      ],
+      "retrieval_terms": [
+        "ankle",
+        "Ankle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001",
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004",
+        "HHS4867-O-00000005"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Hip",
+      "canonical_candidate": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_forms": [
+        "Hip"
+      ],
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006",
+        "HHS4867-O-00000007",
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "knee",
+      "canonical_candidate": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_forms": [
+        "knee",
+        "Knee"
+      ],
+      "retrieval_terms": [
+        "knee",
+        "Knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010",
+        "HHS4867-O-00000011",
+        "HHS4867-O-00000012",
+        "HHS4867-O-00000013",
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Muscle",
+      "canonical_candidate": "Muscle",
+      "keyword_path": [
+        "Anatomy",
+        "Muscle"
+      ],
+      "source_forms": [
+        "Muscle"
+      ],
+      "retrieval_terms": [
+        "Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "pelvis",
+      "canonical_candidate": "pelvis",
+      "keyword_path": [
+        "Anatomy",
+        "pelvis"
+      ],
+      "source_forms": [
+        "pelvis"
+      ],
+      "retrieval_terms": [
+        "pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017",
+        "HHS4867-O-00000018",
+        "HHS4867-O-00000019",
+        "HHS4867-O-00000020"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "wrist",
+      "canonical_candidate": "wrist",
+      "keyword_path": [
+        "Anatomy",
+        "wrist"
+      ],
+      "source_forms": [
+        "wrist",
+        "Wrist"
+      ],
+      "retrieval_terms": [
+        "wrist",
+        "Wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000021",
+        "HHS4867-O-00000022",
+        "HHS4867-O-00000023",
+        "HHS4867-O-00000024",
+        "HHS4867-O-00000025"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "comparison Muscle",
+      "canonical_candidate": "comparison Muscle",
+      "keyword_path": [
+        "Conditions",
+        "comparison Muscle"
+      ],
+      "source_forms": [
+        "comparison Muscle"
+      ],
+      "retrieval_terms": [
+        "comparison Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Grade Ankle",
+      "canonical_candidate": "Grade Ankle",
+      "keyword_path": [
+        "Conditions",
+        "Grade Ankle"
+      ],
+      "source_forms": [
+        "Grade Ankle"
+      ],
+      "retrieval_terms": [
+        "Grade Ankle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000027",
+        "HHS4867-O-00000028"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Grade Hip",
+      "canonical_candidate": "Grade Hip",
+      "keyword_path": [
+        "Conditions",
+        "Grade Hip"
+      ],
+      "source_forms": [
+        "Grade Hip"
+      ],
+      "retrieval_terms": [
+        "Grade Hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029",
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031",
+        "HHS4867-O-00000032"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Grade Knee",
+      "canonical_candidate": "Grade Knee",
+      "keyword_path": [
+        "Conditions",
+        "Grade Knee"
+      ],
+      "source_forms": [
+        "Grade Knee"
+      ],
+      "retrieval_terms": [
+        "Grade Knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033",
+        "HHS4867-O-00000034"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Grade Knee Joint Knee",
+      "canonical_candidate": "Grade Knee Joint Knee",
+      "keyword_path": [
+        "Conditions",
+        "Grade Knee Joint Knee"
+      ],
+      "source_forms": [
+        "Grade Knee Joint Knee"
+      ],
+      "retrieval_terms": [
+        "Grade Knee Joint Knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035",
+        "HHS4867-O-00000036"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Grade Wrist",
+      "canonical_candidate": "Grade Wrist",
+      "keyword_path": [
+        "Conditions",
+        "Grade Wrist"
+      ],
+      "source_forms": [
+        "Grade Wrist"
+      ],
+      "retrieval_terms": [
+        "Grade Wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000037",
+        "HHS4867-O-00000038"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Hip Joint Hip",
+      "canonical_candidate": "Hip Joint Hip",
+      "keyword_path": [
+        "Conditions",
+        "Hip Joint Hip"
+      ],
+      "source_forms": [
+        "Hip Joint Hip"
+      ],
+      "retrieval_terms": [
+        "Hip Joint Hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039",
+        "HHS4867-O-00000040"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Manual Muscle Testing MMT Manual muscle",
+      "canonical_candidate": "Manual Muscle Testing MMT Manual muscle",
+      "keyword_path": [
+        "Conditions",
+        "Manual Muscle Testing MMT Manual muscle"
+      ],
+      "source_forms": [
+        "Manual Muscle Testing MMT Manual muscle"
+      ],
+      "retrieval_terms": [
+        "Manual Muscle Testing MMT Manual muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "subject’s pelvis",
+      "canonical_candidate": "subject’s pelvis",
+      "keyword_path": [
+        "Conditions",
+        "subject’s pelvis"
+      ],
+      "source_forms": [
+        "subject’s pelvis"
+      ],
+      "retrieval_terms": [
+        "subject’s pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042",
+        "HHS4867-O-00000043",
+        "HHS4867-O-00000044",
+        "HHS4867-O-00000045"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "testing hip",
+      "canonical_candidate": "testing hip",
+      "keyword_path": [
+        "Conditions",
+        "testing hip"
+      ],
+      "source_forms": [
+        "testing hip"
+      ],
+      "retrieval_terms": [
+        "testing hip"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046",
+        "HHS4867-O-00000047"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "testing hip flexed knee",
+      "canonical_candidate": "testing hip flexed knee",
+      "keyword_path": [
+        "Conditions",
+        "testing hip flexed knee"
+      ],
+      "source_forms": [
+        "testing hip flexed knee"
+      ],
+      "retrieval_terms": [
+        "testing hip flexed knee"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Wrist Joint Wrist",
+      "canonical_candidate": "Wrist Joint Wrist",
+      "keyword_path": [
+        "Conditions",
+        "Wrist Joint Wrist"
+      ],
+      "source_forms": [
+        "Wrist Joint Wrist"
+      ],
+      "retrieval_terms": [
+        "Wrist Joint Wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000050",
+        "HHS4867-O-00000051"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000019",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "contraction Grade1 Visible/palpable muscle",
+      "canonical_candidate": "contraction Grade1 Visible/palpable muscle",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "contraction Grade1 Visible/palpable muscle"
+      ],
+      "source_forms": [
+        "contraction Grade1 Visible/palpable muscle"
+      ],
+      "retrieval_terms": [
+        "contraction Grade1 Visible/palpable muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000052"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000020",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Functional Movement Science HAS4867 Manual Muscle",
+      "canonical_candidate": "Functional Movement Science HAS4867 Manual Muscle",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Functional Movement Science HAS4867 Manual Muscle"
+      ],
+      "source_forms": [
+        "Functional Movement Science HAS4867 Manual Muscle"
+      ],
+      "retrieval_terms": [
+        "Functional Movement Science HAS4867 Manual Muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000053"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000021",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Grade1",
+      "canonical_candidate": "Grade1",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Grade1"
+      ],
+      "source_forms": [
+        "Grade1"
+      ],
+      "retrieval_terms": [
+        "Grade1"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000022",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "Grade2",
+      "canonical_candidate": "Grade2",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Grade2"
+      ],
+      "source_forms": [
+        "Grade2"
+      ],
+      "retrieval_terms": [
+        "Grade2"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000055"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000023",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HAS4867",
+      "canonical_candidate": "HAS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HAS4867"
+      ],
+      "source_forms": [
+        "HAS4867"
+      ],
+      "retrieval_terms": [
+        "HAS4867"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000056"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000024",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "MMT",
+      "canonical_candidate": "MMT",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "MMT"
+      ],
+      "source_forms": [
+        "MMT"
+      ],
+      "retrieval_terms": [
+        "MMT"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057",
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000025",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ROM",
+      "canonical_candidate": "ROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM"
+      ],
+      "source_forms": [
+        "ROM"
+      ],
+      "retrieval_terms": [
+        "ROM"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000060",
+        "HHS4867-O-00000061",
+        "HHS4867-O-00000062",
+        "HHS4867-O-00000063",
+        "HHS4867-O-00000064",
+        "HHS4867-O-00000065"
+      ],
+      "occurrence_count": 6,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000026",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Elbow Joint Elbow Flexion Subject Test",
+      "canonical_candidate": "Elbow Joint Elbow Flexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Elbow Joint Elbow Flexion Subject Test"
+      ],
+      "source_forms": [
+        "Elbow Joint Elbow Flexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Elbow Joint Elbow Flexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000027",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Ankle Joint Dorsiflexion Subject Test",
+      "canonical_candidate": "Grade Ankle Joint Dorsiflexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Ankle Joint Dorsiflexion Subject Test"
+      ],
+      "source_forms": [
+        "Grade Ankle Joint Dorsiflexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Ankle Joint Dorsiflexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000028",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Elbow Extension Subject Test",
+      "canonical_candidate": "Grade Elbow Extension Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Elbow Extension Subject Test"
+      ],
+      "source_forms": [
+        "Grade Elbow Extension Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Elbow Extension Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000070",
+        "HHS4867-O-00000071"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000029",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Eversion Subject Test",
+      "canonical_candidate": "Grade Eversion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Eversion Subject Test"
+      ],
+      "source_forms": [
+        "Grade Eversion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Eversion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000030",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Hip Abduction Subject Test",
+      "canonical_candidate": "Grade Hip Abduction Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Hip Abduction Subject Test"
+      ],
+      "source_forms": [
+        "Grade Hip Abduction Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Hip Abduction Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073",
+        "HHS4867-O-00000074"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000031",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Hip Extension Subject Test",
+      "canonical_candidate": "Grade Hip Extension Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Hip Extension Subject Test"
+      ],
+      "source_forms": [
+        "Grade Hip Extension Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Hip Extension Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000075",
+        "HHS4867-O-00000076"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000032",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Hip External Rotation Subject Test",
+      "canonical_candidate": "Grade Hip External Rotation Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Hip External Rotation Subject Test"
+      ],
+      "source_forms": [
+        "Grade Hip External Rotation Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Hip External Rotation Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000033",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Plantarflexion Subject Test",
+      "canonical_candidate": "Grade Plantarflexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Plantarflexion Subject Test"
+      ],
+      "source_forms": [
+        "Grade Plantarflexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Plantarflexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000079",
+        "HHS4867-O-00000080"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000034",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Shoulder Abduction Subject Test",
+      "canonical_candidate": "Grade Shoulder Abduction Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Shoulder Abduction Subject Test"
+      ],
+      "source_forms": [
+        "Grade Shoulder Abduction Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Shoulder Abduction Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000081"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000035",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Shoulder Extension Subject Test",
+      "canonical_candidate": "Grade Shoulder Extension Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Shoulder Extension Subject Test"
+      ],
+      "source_forms": [
+        "Grade Shoulder Extension Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Shoulder Extension Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000082"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000036",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Shoulder Internal Rotation Subject Test",
+      "canonical_candidate": "Grade Shoulder Internal Rotation Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Shoulder Internal Rotation Subject Test"
+      ],
+      "source_forms": [
+        "Grade Shoulder Internal Rotation Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Shoulder Internal Rotation Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000037",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Grade Wrist Extension Subject Test",
+      "canonical_candidate": "Grade Wrist Extension Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Grade Wrist Extension Subject Test"
+      ],
+      "source_forms": [
+        "Grade Wrist Extension Subject Test"
+      ],
+      "retrieval_terms": [
+        "Grade Wrist Extension Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000084",
+        "HHS4867-O-00000085"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000038",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Hip Internal Rotation Subject Test",
+      "canonical_candidate": "Hip Internal Rotation Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Hip Internal Rotation Subject Test"
+      ],
+      "source_forms": [
+        "Hip Internal Rotation Subject Test"
+      ],
+      "retrieval_terms": [
+        "Hip Internal Rotation Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000086",
+        "HHS4867-O-00000087"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000039",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Hip Joint Hip Flexion Subject Test",
+      "canonical_candidate": "Hip Joint Hip Flexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Hip Joint Hip Flexion Subject Test"
+      ],
+      "source_forms": [
+        "Hip Joint Hip Flexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Hip Joint Hip Flexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000088",
+        "HHS4867-O-00000089"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000040",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Inversion Subject Test",
+      "canonical_candidate": "Inversion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Inversion Subject Test"
+      ],
+      "source_forms": [
+        "Inversion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Inversion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000041",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Knee Extension Subject Test",
+      "canonical_candidate": "Knee Extension Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Knee Extension Subject Test"
+      ],
+      "source_forms": [
+        "Knee Extension Subject Test"
+      ],
+      "retrieval_terms": [
+        "Knee Extension Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000091",
+        "HHS4867-O-00000092"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000042",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Knee Joint Knee Flexion Subject Test",
+      "canonical_candidate": "Knee Joint Knee Flexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Knee Joint Knee Flexion Subject Test"
+      ],
+      "source_forms": [
+        "Knee Joint Knee Flexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Knee Joint Knee Flexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000093",
+        "HHS4867-O-00000094"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000043",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Shoulder External Rotation Subject Test",
+      "canonical_candidate": "Shoulder External Rotation Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Shoulder External Rotation Subject Test"
+      ],
+      "source_forms": [
+        "Shoulder External Rotation Subject Test"
+      ],
+      "retrieval_terms": [
+        "Shoulder External Rotation Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000095",
+        "HHS4867-O-00000096"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000044",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Shoulder Joint Shoulder flexion Subject Test",
+      "canonical_candidate": "Shoulder Joint Shoulder flexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Shoulder Joint Shoulder flexion Subject Test"
+      ],
+      "source_forms": [
+        "Shoulder Joint Shoulder flexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Shoulder Joint Shoulder flexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000097",
+        "HHS4867-O-00000098"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000045",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Test",
+      "canonical_candidate": "Test",
+      "keyword_path": [
+        "Investigations",
+        "Test"
+      ],
+      "source_forms": [
+        "Test"
+      ],
+      "retrieval_terms": [
+        "Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000099",
+        "HHS4867-O-00000100",
+        "HHS4867-O-00000101",
+        "HHS4867-O-00000102",
+        "HHS4867-O-00000103",
+        "HHS4867-O-00000104",
+        "HHS4867-O-00000105",
+        "HHS4867-O-00000106",
+        "HHS4867-O-00000107",
+        "HHS4867-O-00000108",
+        "HHS4867-O-00000109",
+        "HHS4867-O-00000110",
+        "HHS4867-O-00000111",
+        "HHS4867-O-00000112"
+      ],
+      "occurrence_count": 14,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0008",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000046",
+      "category": "investigations",
+      "broad_area": "Investigations",
+      "preferred_label": "Wrist Joint Wrist Flexion Subject Test",
+      "canonical_candidate": "Wrist Joint Wrist Flexion Subject Test",
+      "keyword_path": [
+        "Investigations",
+        "Wrist Joint Wrist Flexion Subject Test"
+      ],
+      "source_forms": [
+        "Wrist Joint Wrist Flexion Subject Test"
+      ],
+      "retrieval_terms": [
+        "Wrist Joint Wrist Flexion Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000113",
+        "HHS4867-O-00000114"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000047",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "manual muscle testing",
+      "canonical_candidate": "manual muscle testing",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "manual muscle testing"
+      ],
+      "source_forms": [
+        "manual muscle testing"
+      ],
+      "retrieval_terms": [
+        "manual muscle testing"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000115"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000048",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "muscle strength",
+      "canonical_candidate": "muscle strength",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "muscle strength"
+      ],
+      "source_forms": [
+        "muscle strength"
+      ],
+      "retrieval_terms": [
+        "muscle strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000116"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000049",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "preferred_label": "Oxford scale",
+      "canonical_candidate": "Oxford scale",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "Oxford scale"
+      ],
+      "source_forms": [
+        "Oxford scale"
+      ],
+      "retrieval_terms": [
+        "Oxford scale"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000117"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000050",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "almost end range",
+      "canonical_candidate": "almost end range",
+      "keyword_path": [
+        "Rehabilitation",
+        "almost end range"
+      ],
+      "source_forms": [
+        "almost end range"
+      ],
+      "retrieval_terms": [
+        "almost end range"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000118",
+        "HHS4867-O-00000119",
+        "HHS4867-O-00000120"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000051",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "comparison Muscle Strength",
+      "canonical_candidate": "comparison Muscle Strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "comparison Muscle Strength"
+      ],
+      "source_forms": [
+        "comparison Muscle Strength"
+      ],
+      "retrieval_terms": [
+        "comparison Muscle Strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000121"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000052",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "end range",
+      "canonical_candidate": "end range",
+      "keyword_path": [
+        "Rehabilitation",
+        "end range"
+      ],
+      "source_forms": [
+        "end range"
+      ],
+      "retrieval_terms": [
+        "end range"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000122"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000053",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Functional",
+      "canonical_candidate": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_forms": [
+        "Functional"
+      ],
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000123"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000054",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Grade Hand grip strength",
+      "canonical_candidate": "Grade Hand grip strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "Grade Hand grip strength"
+      ],
+      "source_forms": [
+        "Grade Hand grip strength"
+      ],
+      "retrieval_terms": [
+        "Grade Hand grip strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000124",
+        "HHS4867-O-00000125"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000055",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "maximum strength",
+      "canonical_candidate": "maximum strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "maximum strength"
+      ],
+      "source_forms": [
+        "maximum strength"
+      ],
+      "retrieval_terms": [
+        "maximum strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000126",
+        "HHS4867-O-00000127"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000056",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "measuring handgrip strength",
+      "canonical_candidate": "measuring handgrip strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "measuring handgrip strength"
+      ],
+      "source_forms": [
+        "measuring handgrip strength"
+      ],
+      "retrieval_terms": [
+        "measuring handgrip strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000128",
+        "HHS4867-O-00000129"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000057",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "measuring handgrip strength Subject Test",
+      "canonical_candidate": "measuring handgrip strength Subject Test",
+      "keyword_path": [
+        "Rehabilitation",
+        "measuring handgrip strength Subject Test"
+      ],
+      "source_forms": [
+        "measuring handgrip strength Subject Test"
+      ],
+      "retrieval_terms": [
+        "measuring handgrip strength Subject Test"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000130",
+        "HHS4867-O-00000131"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000058",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "muscle strength",
+      "canonical_candidate": "muscle strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "muscle strength"
+      ],
+      "source_forms": [
+        "muscle strength"
+      ],
+      "retrieval_terms": [
+        "muscle strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000132"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000059",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "range",
+      "canonical_candidate": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_forms": [
+        "range"
+      ],
+      "retrieval_terms": [
+        "range"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000133",
+        "HHS4867-O-00000134",
+        "HHS4867-O-00000135",
+        "HHS4867-O-00000136",
+        "HHS4867-O-00000137",
+        "HHS4867-O-00000138",
+        "HHS4867-O-00000139"
+      ],
+      "occurrence_count": 7,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0002",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000060",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "strength",
+      "canonical_candidate": "strength",
+      "keyword_path": [
+        "Rehabilitation",
+        "strength"
+      ],
+      "source_forms": [
+        "strength"
+      ],
+      "retrieval_terms": [
+        "strength"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000140",
+        "HHS4867-O-00000141",
+        "HHS4867-O-00000142"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000061",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)",
+      "canonical_candidate": "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)",
+      "keyword_path": [
+        "visual",
+        "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)"
+      ],
+      "source_forms": [
+        "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)"
+      ],
+      "retrieval_terms": [
+        "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000143"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000062",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 3: Slide 3",
+      "canonical_candidate": "Table on slide 3: Slide 3",
+      "keyword_path": [
+        "visual",
+        "Table on slide 3: Slide 3"
+      ],
+      "source_forms": [
+        "Table on slide 3: Slide 3"
+      ],
+      "retrieval_terms": [
+        "Table on slide 3: Slide 3"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000144"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000063",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 4: Slide 4",
+      "canonical_candidate": "Table on slide 4: Slide 4",
+      "keyword_path": [
+        "visual",
+        "Table on slide 4: Slide 4"
+      ],
+      "source_forms": [
+        "Table on slide 4: Slide 4"
+      ],
+      "retrieval_terms": [
+        "Table on slide 4: Slide 4"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000145"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000064",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 5: Slide 5",
+      "canonical_candidate": "Table on slide 5: Slide 5",
+      "keyword_path": [
+        "visual",
+        "Table on slide 5: Slide 5"
+      ],
+      "source_forms": [
+        "Table on slide 5: Slide 5"
+      ],
+      "retrieval_terms": [
+        "Table on slide 5: Slide 5"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000146"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000065",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 6: Slide 6",
+      "canonical_candidate": "Table on slide 6: Slide 6",
+      "keyword_path": [
+        "visual",
+        "Table on slide 6: Slide 6"
+      ],
+      "source_forms": [
+        "Table on slide 6: Slide 6"
+      ],
+      "retrieval_terms": [
+        "Table on slide 6: Slide 6"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000147"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "concept_id": "HHS4867-C-0000066",
+      "category": "visual",
+      "broad_area": "visual",
+      "preferred_label": "Table on slide 7: Slide 7",
+      "canonical_candidate": "Table on slide 7: Slide 7",
+      "keyword_path": [
+        "visual",
+        "Table on slide 7: Slide 7"
+      ],
+      "source_forms": [
+        "Table on slide 7: Slide 7"
+      ],
+      "retrieval_terms": [
+        "Table on slide 7: Slide 7"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000148"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "concepts": 66,
+    "occurrences": 148
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

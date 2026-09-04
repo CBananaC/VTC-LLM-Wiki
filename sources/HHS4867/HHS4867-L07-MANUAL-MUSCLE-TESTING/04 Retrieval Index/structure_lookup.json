@@ -1,0 +1,829 @@
+{
+  "schema_version": "vtc-hhs4185.course-structure.v1",
+  "record_type": "course_material_structure_lookup",
+  "book_id": "HHS4867",
+  "hierarchy_order": [
+    "course",
+    "document",
+    "part",
+    "slide",
+    "block"
+  ],
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "course": {
+    "section_id": "HHS4867-COURSE",
+    "level": "course",
+    "course_code": "HHS4867",
+    "title": "HHS4867 - Functional Movement Science",
+    "children": [
+      "HHS4867-L07-MANUAL-MUSCLE-TESTING"
+    ],
+    "status": "generated_not_verified",
+    "verification_status": "generated_not_verified",
+    "visual_ids": [],
+    "concept_ids": [
+      "HHS4867-C-0000001",
+      "HHS4867-C-0000002",
+      "HHS4867-C-0000003",
+      "HHS4867-C-0000004",
+      "HHS4867-C-0000005",
+      "HHS4867-C-0000006",
+      "HHS4867-C-0000007",
+      "HHS4867-C-0000008",
+      "HHS4867-C-0000009",
+      "HHS4867-C-0000010",
+      "HHS4867-C-0000011",
+      "HHS4867-C-0000012",
+      "HHS4867-C-0000013",
+      "HHS4867-C-0000014",
+      "HHS4867-C-0000015",
+      "HHS4867-C-0000016",
+      "HHS4867-C-0000017",
+      "HHS4867-C-0000018",
+      "HHS4867-C-0000019",
+      "HHS4867-C-0000020",
+      "HHS4867-C-0000021",
+      "HHS4867-C-0000022",
+      "HHS4867-C-0000023",
+      "HHS4867-C-0000024",
+      "HHS4867-C-0000025",
+      "HHS4867-C-0000026",
+      "HHS4867-C-0000027",
+      "HHS4867-C-0000028",
+      "HHS4867-C-0000029",
+      "HHS4867-C-0000030",
+      "HHS4867-C-0000031",
+      "HHS4867-C-0000032",
+      "HHS4867-C-0000033"
+    ]
+  },
+  "nodes": [
+    {
+      "section_id": "HHS4867-COURSE",
+      "level": "course",
+      "course_code": "HHS4867",
+      "title": "HHS4867 - Functional Movement Science",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "level": "document",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Lecture 7.1 - Manual Muscle Testing",
+      "source_file": "21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "parent_id": "HHS4867-COURSE",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03"
+      ],
+      "slide_start": 1,
+      "slide_end": 18,
+      "pdf_page_start": 1,
+      "pdf_page_end": 18,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_ids": [],
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000043",
+        "HHS4867-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Manual muscle testing overview",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "slide_start": 1,
+      "slide_end": 2,
+      "pdf_page_start": 1,
+      "pdf_page_end": 2,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000024",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Manual Muscle Testing",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+      "children": [],
+      "slide_number": 1,
+      "pdf_page": 1,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0001",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000018",
+        "HHS4867-C-0000019",
+        "HHS4867-C-0000020",
+        "HHS4867-C-0000024"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Manual Muscle Testing (MMT)",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART00",
+      "children": [],
+      "slide_number": 2,
+      "pdf_page": 2,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0002",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000008",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000023",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000028",
+        "HHS4867-C-0000030",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Oxford muscle-strength grading scale",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "slide_start": 3,
+      "slide_end": 4,
+      "pdf_page_start": 3,
+      "pdf_page_end": 4,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004"
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000029",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Muscle Strength Grading Scale (Oxford Scale)",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+      "children": [],
+      "slide_number": 3,
+      "pdf_page": 3,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0003",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000004",
+        "HHS4867-C-0000027",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Muscle Strength Grading Scale (Oxford Scale) - grades",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART01",
+      "children": [],
+      "slide_number": 4,
+      "pdf_page": 4,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0004",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000007",
+        "HHS4867-C-0000009",
+        "HHS4867-C-0000022",
+        "HHS4867-C-0000025",
+        "HHS4867-C-0000029"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "MMT procedure and testing positions",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "slide_start": 5,
+      "slide_end": 8,
+      "pdf_page_start": 5,
+      "pdf_page_end": 8,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008"
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000032",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "How to perform MMT",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "children": [],
+      "slide_number": 5,
+      "pdf_page": 5,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0005",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000021",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Testing Position",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "children": [],
+      "slide_number": 6,
+      "pdf_page": 6,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0006",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000003",
+        "HHS4867-C-0000017",
+        "HHS4867-C-0000032"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Testing Position (visual)",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "children": [],
+      "slide_number": 7,
+      "pdf_page": 7,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0007",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Testing Position Summary",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART02",
+      "children": [],
+      "slide_number": 8,
+      "pdf_page": 8,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0008",
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000005",
+        "HHS4867-C-0000006",
+        "HHS4867-C-0000010",
+        "HHS4867-C-0000011",
+        "HHS4867-C-0000012",
+        "HHS4867-C-0000013",
+        "HHS4867-C-0000014",
+        "HHS4867-C-0000015",
+        "HHS4867-C-0000016",
+        "HHS4867-C-0000033"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "level": "part",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Regional manual muscle testing examples",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "children": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "slide_start": 9,
+      "slide_end": 18,
+      "pdf_page_start": 9,
+      "pdf_page_end": 18,
+      "source_page_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018"
+      ],
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001",
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000034",
+        "HHS4867-C-0000035",
+        "HHS4867-C-0000036",
+        "HHS4867-C-0000037",
+        "HHS4867-C-0000038",
+        "HHS4867-C-0000039",
+        "HHS4867-C-0000040",
+        "HHS4867-C-0000041",
+        "HHS4867-C-0000042",
+        "HHS4867-C-0000043"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Shoulder Flexion & Extension",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 9,
+      "pdf_page": 9,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0009",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Shoulder Abduction",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 10,
+      "pdf_page": 10,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0010",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000033",
+        "HHS4867-C-0000041"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Shoulder Internal & External Rotation",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 11,
+      "pdf_page": 11,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0011",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Elbow Flexion & Extension",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 12,
+      "pdf_page": 12,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0012",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Hip Flexion & Extension",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 13,
+      "pdf_page": 13,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0013",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0013-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000037"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Hip Abduction",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 14,
+      "pdf_page": 14,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0014",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0014-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000036"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Hip Internal & External Rotation",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 15,
+      "pdf_page": 15,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0015",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0015-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000001",
+        "HHS4867-C-0000038"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Knee Flexion & Extension",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 16,
+      "pdf_page": 16,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0016",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0016-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000002",
+        "HHS4867-C-0000039"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Dynamometer",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 17,
+      "pdf_page": 17,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0017",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0017-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ]
+    },
+    {
+      "section_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+      "level": "slide",
+      "course_code": "HHS4867",
+      "document_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING",
+      "title": "Measuring Strength with Dynamometer",
+      "parent_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-PART03",
+      "children": [],
+      "slide_number": 18,
+      "pdf_page": 18,
+      "source_page_id": "HHS4867-L07-MANUAL-MUSCLE-TESTING-P0018",
+      "visual_ids": [
+        "HHS4867-L07-MANUAL-MUSCLE-TESTING-VIS-P0018-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "concept_ids": [
+        "HHS4867-C-0000026",
+        "HHS4867-C-0000031",
+        "HHS4867-C-0000040"
+      ]
+    }
+  ],
+  "counts": {
+    "documents": 1,
+    "parts": 4,
+    "slides": 18
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "outline_map": [
+    {
+      "outline_item": "Movement system components",
+      "mapped_slides": [
+        2
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Human skeleton and bone tissue",
+      "mapped_slides": [
+        3,
+        4,
+        5
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Cartilage, ligaments, and joints",
+      "mapped_slides": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Skeletal muscle functions and attachments",
+      "mapped_slides": [
+        13,
+        14,
+        15
+      ],
+      "mapping_status": "generated_not_verified"
+    },
+    {
+      "outline_item": "Muscle roles, torque, and contraction types",
+      "mapped_slides": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "mapping_status": "generated_not_verified"
+    }
+  ],
+  "hierarchy_semantics": {
+    "course": "HHS4867 course container",
+    "document": "one lecture PDF/deck",
+    "part": "inferred lecture topic grouping from slide sequence",
+    "slide": "PDF page and slide number",
+    "block": "English title, subtitle, paragraph, or preserved point-form item",
+    "visual": "location/name/type metadata only; visual contents are not reconstructed",
+    "table": "no table candidates detected in this deck"
+  },
+  "visual_content_policy": "Non-table visual contents were not separately OCRed; only source-page location, name, and type are indexed."
+}

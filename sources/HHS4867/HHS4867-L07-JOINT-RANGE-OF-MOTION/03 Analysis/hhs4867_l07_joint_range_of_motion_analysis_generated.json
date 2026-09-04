@@ -1,0 +1,3212 @@
+{
+  "schema_version": "vtc-hhs4185.course-analysis.v1",
+  "record_type": "course_material_analysis",
+  "book_id": "HHS4867",
+  "processing_order": [
+    "block",
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "page_keyword_extractions": [
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 1,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-001",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "HHS4867",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "HHS4867"
+          ],
+          "source_form": "HHS4867",
+          "canonical_candidate": "HHS4867",
+          "retrieval_terms": [
+            "HHS4867"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-002",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "HHS4867J",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "HHS4867J"
+          ],
+          "source_form": "HHS4867J",
+          "canonical_candidate": "HHS4867J",
+          "retrieval_terms": [
+            "HHS4867J"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-003",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "Motion HHS4867 Functional",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "Motion HHS4867 Functional"
+          ],
+          "source_form": "Motion HHS4867 Functional",
+          "canonical_candidate": "Motion HHS4867 Functional",
+          "retrieval_terms": [
+            "Motion HHS4867 Functional"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-004",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "Functional",
+          "keyword_path": [
+            "Rehabilitation",
+            "Functional"
+          ],
+          "source_form": "Functional",
+          "canonical_candidate": "Functional",
+          "retrieval_terms": [
+            "Functional"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-005",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "Joint Range",
+          "keyword_path": [
+            "Rehabilitation",
+            "Joint Range"
+          ],
+          "source_form": "Joint Range",
+          "canonical_candidate": "Joint Range",
+          "retrieval_terms": [
+            "Joint Range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-006",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "Range",
+          "keyword_path": [
+            "Rehabilitation",
+            "Range"
+          ],
+          "source_form": "Range",
+          "canonical_candidate": "Range",
+          "retrieval_terms": [
+            "Range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 6,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 2,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-001",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "AROM",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "AROM"
+          ],
+          "source_form": "AROM",
+          "canonical_candidate": "AROM",
+          "retrieval_terms": [
+            "AROM"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-002",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "PROM",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "PROM"
+          ],
+          "source_form": "PROM",
+          "canonical_candidate": "PROM",
+          "retrieval_terms": [
+            "PROM"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-003",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "ROM",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "ROM"
+          ],
+          "source_form": "ROM",
+          "canonical_candidate": "ROM",
+          "retrieval_terms": [
+            "ROM"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-004",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "assistance PROM passive range",
+          "keyword_path": [
+            "Rehabilitation",
+            "assistance PROM passive range"
+          ],
+          "source_form": "assistance PROM passive range",
+          "canonical_candidate": "assistance PROM passive range",
+          "retrieval_terms": [
+            "assistance PROM passive range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-005",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "Joint Range",
+          "keyword_path": [
+            "Rehabilitation",
+            "Joint Range"
+          ],
+          "source_form": "Joint Range",
+          "canonical_candidate": "Joint Range",
+          "retrieval_terms": [
+            "Joint Range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-006",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "normal range",
+          "keyword_path": [
+            "Rehabilitation",
+            "normal range"
+          ],
+          "source_form": "normal range",
+          "canonical_candidate": "normal range",
+          "retrieval_terms": [
+            "normal range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-007",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "range",
+          "keyword_path": [
+            "Rehabilitation",
+            "range"
+          ],
+          "source_form": "range",
+          "canonical_candidate": "range",
+          "retrieval_terms": [
+            "range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-008",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "ROM goniometer inclinometer AROM active range",
+          "keyword_path": [
+            "Rehabilitation",
+            "ROM goniometer inclinometer AROM active range"
+          ],
+          "source_form": "ROM goniometer inclinometer AROM active range",
+          "canonical_candidate": "ROM goniometer inclinometer AROM active range",
+          "retrieval_terms": [
+            "ROM goniometer inclinometer AROM active range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 8,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 3,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [],
+      "keyword_record_count": 0,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 4,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-001",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Hip",
+          "keyword_path": [
+            "Anatomy",
+            "Hip"
+          ],
+          "source_form": "Hip",
+          "canonical_candidate": "Hip",
+          "retrieval_terms": [
+            "Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-002",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Knee",
+          "keyword_path": [
+            "Anatomy",
+            "Knee"
+          ],
+          "source_form": "Knee",
+          "canonical_candidate": "Knee",
+          "retrieval_terms": [
+            "Knee"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-003",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "AROM Hip Flexion Hip Extension Hip",
+          "keyword_path": [
+            "Conditions",
+            "AROM Hip Flexion Hip Extension Hip"
+          ],
+          "source_form": "AROM Hip Flexion Hip Extension Hip",
+          "canonical_candidate": "AROM Hip Flexion Hip Extension Hip",
+          "retrieval_terms": [
+            "AROM Hip Flexion Hip Extension Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-004",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "degrees Normal AROM Hip",
+          "keyword_path": [
+            "Conditions",
+            "degrees Normal AROM Hip"
+          ],
+          "source_form": "degrees Normal AROM Hip",
+          "canonical_candidate": "degrees Normal AROM Hip",
+          "retrieval_terms": [
+            "degrees Normal AROM Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-005",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "degrees Normal AROM Hip Flexion Hip",
+          "keyword_path": [
+            "Conditions",
+            "degrees Normal AROM Hip Flexion Hip"
+          ],
+          "source_form": "degrees Normal AROM Hip Flexion Hip",
+          "canonical_candidate": "degrees Normal AROM Hip Flexion Hip",
+          "retrieval_terms": [
+            "degrees Normal AROM Hip Flexion Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-006",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "Flexion Hip Extension Hip Abduction Hip",
+          "keyword_path": [
+            "Conditions",
+            "Flexion Hip Extension Hip Abduction Hip"
+          ],
+          "source_form": "Flexion Hip Extension Hip Abduction Hip",
+          "canonical_candidate": "Flexion Hip Extension Hip Abduction Hip",
+          "retrieval_terms": [
+            "Flexion Hip Extension Hip Abduction Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-007",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "Hip Abduction Hip Internal rotation Hip",
+          "keyword_path": [
+            "Conditions",
+            "Hip Abduction Hip Internal rotation Hip"
+          ],
+          "source_form": "Hip Abduction Hip Internal rotation Hip",
+          "canonical_candidate": "Hip Abduction Hip Internal rotation Hip",
+          "retrieval_terms": [
+            "Hip Abduction Hip Internal rotation Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-008",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "Hip External rotation Knee Flexion Knee",
+          "keyword_path": [
+            "Conditions",
+            "Hip External rotation Knee Flexion Knee"
+          ],
+          "source_form": "Hip External rotation Knee Flexion Knee",
+          "canonical_candidate": "Hip External rotation Knee Flexion Knee",
+          "retrieval_terms": [
+            "Hip External rotation Knee Flexion Knee"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-009",
+          "category": "conditions",
+          "broad_area": "Conditions",
+          "small_area": "Internal rotation Hip External rotation Knee",
+          "keyword_path": [
+            "Conditions",
+            "Internal rotation Hip External rotation Knee"
+          ],
+          "source_form": "Internal rotation Hip External rotation Knee",
+          "canonical_candidate": "Internal rotation Hip External rotation Knee",
+          "retrieval_terms": [
+            "Internal rotation Hip External rotation Knee"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-010",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "AROM",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "AROM"
+          ],
+          "source_form": "AROM",
+          "canonical_candidate": "AROM",
+          "retrieval_terms": [
+            "AROM"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-011",
+          "category": "definitions_abbreviations",
+          "broad_area": "Definitions and abbreviations",
+          "small_area": "ROM",
+          "keyword_path": [
+            "Definitions and abbreviations",
+            "ROM"
+          ],
+          "source_form": "ROM",
+          "canonical_candidate": "ROM",
+          "retrieval_terms": [
+            "ROM"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-012",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "normal ROM range",
+          "keyword_path": [
+            "Rehabilitation",
+            "normal ROM range"
+          ],
+          "source_form": "normal ROM range",
+          "canonical_candidate": "normal ROM range",
+          "retrieval_terms": [
+            "normal ROM range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-013",
+          "category": "rehabilitation",
+          "broad_area": "Rehabilitation",
+          "small_area": "range",
+          "keyword_path": [
+            "Rehabilitation",
+            "range"
+          ],
+          "source_form": "range",
+          "canonical_candidate": "range",
+          "retrieval_terms": [
+            "range"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-LECTURE-0032",
+          "category": "section_topics",
+          "broad_area": "Section topics",
+          "small_area": "joints",
+          "keyword_path": [
+            "Section topics",
+            "joints"
+          ],
+          "source_form": "joints",
+          "canonical_candidate": "joints",
+          "retrieval_terms": [
+            "joints",
+            "joint"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\nNormal AROM\nHip Flexion\nHip Extension\nHip Abduction\nHip Internal rotation\nHip External rotation\nKnee Flexion\nKnee Extension\nShoulder Flexion\nShoulder Extension\nShoulder Abduction\nShoulder Internal rotation\nShoulder External rotation\nElbow Flexion\nElbow Extension",
+          "keyword_source": "lecture-specific-teaching-vocabulary",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "record_id": "HHS4867-KW-LECTURE-0033",
+          "category": "section_topics",
+          "broad_area": "Section topics",
+          "small_area": "shoulder abduction",
+          "keyword_path": [
+            "Section topics",
+            "shoulder abduction"
+          ],
+          "source_form": "shoulder abduction",
+          "canonical_candidate": "shoulder abduction",
+          "retrieval_terms": [
+            "shoulder abduction"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "AROM Summary\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\nNormal AROM\nHip Flexion\nHip Extension\nHip Abduction\nHip Internal rotation\nHip External rotation\nKnee Flexion\nKnee Extension\nShoulder Flexion\nShoulder Extension\nShoulder Abduction\nShoulder Internal rotation\nShoulder External rotation\nElbow Flexion\nElbow Extension",
+          "keyword_source": "lecture-specific-teaching-vocabulary",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 15,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 5,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [],
+      "keyword_record_count": 0,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 6,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-LECTURE-0034",
+          "category": "section_topics",
+          "broad_area": "Section topics",
+          "small_area": "shoulder abduction",
+          "keyword_path": [
+            "Section topics",
+            "shoulder abduction"
+          ],
+          "source_form": "shoulder abduction",
+          "canonical_candidate": "shoulder abduction",
+          "retrieval_terms": [
+            "shoulder abduction"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Shoulder Abduction",
+          "keyword_source": "lecture-specific-teaching-vocabulary",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 1,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 7,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [],
+      "keyword_record_count": 0,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 8,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [],
+      "keyword_record_count": 0,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 9,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009-001",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Hip",
+          "keyword_path": [
+            "Anatomy",
+            "Hip"
+          ],
+          "source_form": "Hip",
+          "canonical_candidate": "Hip",
+          "retrieval_terms": [
+            "Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Hip Flexion & Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 1,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 10,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010-001",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Hip",
+          "keyword_path": [
+            "Anatomy",
+            "Hip"
+          ],
+          "source_form": "Hip",
+          "canonical_candidate": "Hip",
+          "retrieval_terms": [
+            "Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Hip Abduction",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 1,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 11,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011-001",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Hip",
+          "keyword_path": [
+            "Anatomy",
+            "Hip"
+          ],
+          "source_form": "Hip",
+          "canonical_candidate": "Hip",
+          "retrieval_terms": [
+            "Hip"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Hip Int & Ext Rotation",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 1,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_number": 12,
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "keyword_records": [
+        {
+          "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012-001",
+          "category": "anatomy",
+          "broad_area": "Anatomy",
+          "small_area": "Knee",
+          "keyword_path": [
+            "Anatomy",
+            "Knee"
+          ],
+          "source_form": "Knee",
+          "canonical_candidate": "Knee",
+          "retrieval_terms": [
+            "Knee"
+          ],
+          "source_passage_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012-PASSAGE"
+          ],
+          "source_page_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+          ],
+          "section_ids": [
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+            "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+            "HHS4867-COURSE"
+          ],
+          "source_excerpt": "Knee Flexion & Extension",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ],
+      "keyword_record_count": 1,
+      "table_keyword_records": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "keyword_records": [
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_form": "HHS4867",
+      "canonical_candidate": "HHS4867",
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_form": "HHS4867J",
+      "canonical_candidate": "HHS4867J",
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-003",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "Motion HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Motion HHS4867 Functional"
+      ],
+      "source_form": "Motion HHS4867 Functional",
+      "canonical_candidate": "Motion HHS4867 Functional",
+      "retrieval_terms": [
+        "Motion HHS4867 Functional"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-004",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "canonical_candidate": "Functional",
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-005",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Joint Range",
+      "keyword_path": [
+        "Rehabilitation",
+        "Joint Range"
+      ],
+      "source_form": "Joint Range",
+      "canonical_candidate": "Joint Range",
+      "retrieval_terms": [
+        "Joint Range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Range",
+      "keyword_path": [
+        "Rehabilitation",
+        "Range"
+      ],
+      "source_form": "Range",
+      "canonical_candidate": "Range",
+      "retrieval_terms": [
+        "Range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AROM"
+      ],
+      "source_form": "AROM",
+      "canonical_candidate": "AROM",
+      "retrieval_terms": [
+        "AROM"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "PROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "PROM"
+      ],
+      "source_form": "PROM",
+      "canonical_candidate": "PROM",
+      "retrieval_terms": [
+        "PROM"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-003",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM"
+      ],
+      "source_form": "ROM",
+      "canonical_candidate": "ROM",
+      "retrieval_terms": [
+        "ROM"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-004",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "assistance PROM passive range",
+      "keyword_path": [
+        "Rehabilitation",
+        "assistance PROM passive range"
+      ],
+      "source_form": "assistance PROM passive range",
+      "canonical_candidate": "assistance PROM passive range",
+      "retrieval_terms": [
+        "assistance PROM passive range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-005",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Joint Range",
+      "keyword_path": [
+        "Rehabilitation",
+        "Joint Range"
+      ],
+      "source_form": "Joint Range",
+      "canonical_candidate": "Joint Range",
+      "retrieval_terms": [
+        "Joint Range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "normal range",
+      "keyword_path": [
+        "Rehabilitation",
+        "normal range"
+      ],
+      "source_form": "normal range",
+      "canonical_candidate": "normal range",
+      "retrieval_terms": [
+        "normal range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-007",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "canonical_candidate": "range",
+      "retrieval_terms": [
+        "range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ROM goniometer inclinometer AROM active range",
+      "keyword_path": [
+        "Rehabilitation",
+        "ROM goniometer inclinometer AROM active range"
+      ],
+      "source_form": "ROM goniometer inclinometer AROM active range",
+      "canonical_candidate": "ROM goniometer inclinometer AROM active range",
+      "retrieval_terms": [
+        "ROM goniometer inclinometer AROM active range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "canonical_candidate": "Hip",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Knee",
+      "keyword_path": [
+        "Anatomy",
+        "Knee"
+      ],
+      "source_form": "Knee",
+      "canonical_candidate": "Knee",
+      "retrieval_terms": [
+        "Knee"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-003",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "AROM Hip Flexion Hip Extension Hip",
+      "keyword_path": [
+        "Conditions",
+        "AROM Hip Flexion Hip Extension Hip"
+      ],
+      "source_form": "AROM Hip Flexion Hip Extension Hip",
+      "canonical_candidate": "AROM Hip Flexion Hip Extension Hip",
+      "retrieval_terms": [
+        "AROM Hip Flexion Hip Extension Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-004",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "degrees Normal AROM Hip",
+      "keyword_path": [
+        "Conditions",
+        "degrees Normal AROM Hip"
+      ],
+      "source_form": "degrees Normal AROM Hip",
+      "canonical_candidate": "degrees Normal AROM Hip",
+      "retrieval_terms": [
+        "degrees Normal AROM Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "degrees Normal AROM Hip Flexion Hip",
+      "keyword_path": [
+        "Conditions",
+        "degrees Normal AROM Hip Flexion Hip"
+      ],
+      "source_form": "degrees Normal AROM Hip Flexion Hip",
+      "canonical_candidate": "degrees Normal AROM Hip Flexion Hip",
+      "retrieval_terms": [
+        "degrees Normal AROM Hip Flexion Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Flexion Hip Extension Hip Abduction Hip",
+      "keyword_path": [
+        "Conditions",
+        "Flexion Hip Extension Hip Abduction Hip"
+      ],
+      "source_form": "Flexion Hip Extension Hip Abduction Hip",
+      "canonical_candidate": "Flexion Hip Extension Hip Abduction Hip",
+      "retrieval_terms": [
+        "Flexion Hip Extension Hip Abduction Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Hip Abduction Hip Internal rotation Hip",
+      "keyword_path": [
+        "Conditions",
+        "Hip Abduction Hip Internal rotation Hip"
+      ],
+      "source_form": "Hip Abduction Hip Internal rotation Hip",
+      "canonical_candidate": "Hip Abduction Hip Internal rotation Hip",
+      "retrieval_terms": [
+        "Hip Abduction Hip Internal rotation Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Hip External rotation Knee Flexion Knee",
+      "keyword_path": [
+        "Conditions",
+        "Hip External rotation Knee Flexion Knee"
+      ],
+      "source_form": "Hip External rotation Knee Flexion Knee",
+      "canonical_candidate": "Hip External rotation Knee Flexion Knee",
+      "retrieval_terms": [
+        "Hip External rotation Knee Flexion Knee"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-009",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "Internal rotation Hip External rotation Knee",
+      "keyword_path": [
+        "Conditions",
+        "Internal rotation Hip External rotation Knee"
+      ],
+      "source_form": "Internal rotation Hip External rotation Knee",
+      "canonical_candidate": "Internal rotation Hip External rotation Knee",
+      "retrieval_terms": [
+        "Internal rotation Hip External rotation Knee"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-010",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "AROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AROM"
+      ],
+      "source_form": "AROM",
+      "canonical_candidate": "AROM",
+      "retrieval_terms": [
+        "AROM"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-011",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "ROM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ROM"
+      ],
+      "source_form": "ROM",
+      "canonical_candidate": "ROM",
+      "retrieval_terms": [
+        "ROM"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-012",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "normal ROM range",
+      "keyword_path": [
+        "Rehabilitation",
+        "normal ROM range"
+      ],
+      "source_form": "normal ROM range",
+      "canonical_candidate": "normal ROM range",
+      "retrieval_terms": [
+        "normal ROM range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-013",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "canonical_candidate": "range",
+      "retrieval_terms": [
+        "range"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009-001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "canonical_candidate": "Hip",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Flexion & Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010-001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "canonical_candidate": "Hip",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Abduction",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011-001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Hip",
+      "keyword_path": [
+        "Anatomy",
+        "Hip"
+      ],
+      "source_form": "Hip",
+      "canonical_candidate": "Hip",
+      "retrieval_terms": [
+        "Hip"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Int & Ext Rotation",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012-001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "Knee",
+      "keyword_path": [
+        "Anatomy",
+        "Knee"
+      ],
+      "source_form": "Knee",
+      "canonical_candidate": "Knee",
+      "retrieval_terms": [
+        "Knee"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Knee Flexion & Extension",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-LECTURE-0032",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "joints",
+      "keyword_path": [
+        "Section topics",
+        "joints"
+      ],
+      "source_form": "joints",
+      "canonical_candidate": "joints",
+      "retrieval_terms": [
+        "joints",
+        "joint"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\nNormal AROM\nHip Flexion\nHip Extension\nHip Abduction\nHip Internal rotation\nHip External rotation\nKnee Flexion\nKnee Extension\nShoulder Flexion\nShoulder Extension\nShoulder Abduction\nShoulder Internal rotation\nShoulder External rotation\nElbow Flexion\nElbow Extension",
+      "keyword_source": "lecture-specific-teaching-vocabulary",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-LECTURE-0033",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "shoulder abduction",
+      "keyword_path": [
+        "Section topics",
+        "shoulder abduction"
+      ],
+      "source_form": "shoulder abduction",
+      "canonical_candidate": "shoulder abduction",
+      "retrieval_terms": [
+        "shoulder abduction"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "AROM Summary\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\nNormal AROM\nHip Flexion\nHip Extension\nHip Abduction\nHip Internal rotation\nHip External rotation\nKnee Flexion\nKnee Extension\nShoulder Flexion\nShoulder Extension\nShoulder Abduction\nShoulder Internal rotation\nShoulder External rotation\nElbow Flexion\nElbow Extension",
+      "keyword_source": "lecture-specific-teaching-vocabulary",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-LECTURE-0034",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "shoulder abduction",
+      "keyword_path": [
+        "Section topics",
+        "shoulder abduction"
+      ],
+      "source_form": "shoulder abduction",
+      "canonical_candidate": "shoulder abduction",
+      "retrieval_terms": [
+        "shoulder abduction"
+      ],
+      "source_passage_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006-PASSAGE"
+      ],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Abduction",
+      "keyword_source": "lecture-specific-teaching-vocabulary",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Goniometer visual",
+      "keyword_path": [
+        "Visual aids",
+        "Goniometer visual"
+      ],
+      "source_form": "Goniometer visual",
+      "canonical_candidate": "Goniometer visual",
+      "retrieval_terms": [
+        "Goniometer visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Goniometer visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Goniometer visual",
+      "keyword_path": [
+        "Visual aids",
+        "Goniometer visual"
+      ],
+      "source_form": "Goniometer visual",
+      "canonical_candidate": "Goniometer visual",
+      "retrieval_terms": [
+        "Goniometer visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Goniometer visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Flexion & Extension visual"
+      ],
+      "source_form": "Shoulder Flexion & Extension visual",
+      "canonical_candidate": "Shoulder Flexion & Extension visual",
+      "retrieval_terms": [
+        "Shoulder Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Abduction visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Abduction visual"
+      ],
+      "source_form": "Shoulder Abduction visual",
+      "canonical_candidate": "Shoulder Abduction visual",
+      "retrieval_terms": [
+        "Shoulder Abduction visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Abduction visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Internal & External Rotation visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "source_form": "Shoulder Internal & External Rotation visual",
+      "canonical_candidate": "Shoulder Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Internal & External Rotation visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Elbow Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Elbow Flexion & Extension visual"
+      ],
+      "source_form": "Elbow Flexion & Extension visual",
+      "canonical_candidate": "Elbow Flexion & Extension visual",
+      "retrieval_terms": [
+        "Elbow Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Elbow Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Flexion & Extension visual"
+      ],
+      "source_form": "Hip Flexion & Extension visual",
+      "canonical_candidate": "Hip Flexion & Extension visual",
+      "retrieval_terms": [
+        "Hip Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Abduction visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Abduction visual"
+      ],
+      "source_form": "Hip Abduction visual",
+      "canonical_candidate": "Hip Abduction visual",
+      "retrieval_terms": [
+        "Hip Abduction visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Abduction visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Internal & External Rotation visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Internal & External Rotation visual"
+      ],
+      "source_form": "Hip Internal & External Rotation visual",
+      "canonical_candidate": "Hip Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Hip Internal & External Rotation visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Internal & External Rotation visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Knee Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Knee Flexion & Extension visual"
+      ],
+      "source_form": "Knee Flexion & Extension visual",
+      "canonical_candidate": "Knee Flexion & Extension visual",
+      "retrieval_terms": [
+        "Knee Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Knee Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "summary_units": [
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Joint range-of-motion concepts",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 1,
+      "slide_end": 2,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+        "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Goniometry and normal ROM",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 3,
+      "slide_end": 4,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "summary": "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+      "level": "part",
+      "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "title": "Joint ROM examples",
+      "parent_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "slide_start": 5,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Shoulder Flexion & Extension Shoulder Abduction Shoulder Int & Ext Rotation Elbow Flexion & Extension Hip Flexion & Extension",
+      "summary_sentences": [
+        "Shoulder Flexion & Extension",
+        "Shoulder Abduction",
+        "Shoulder Int & Ext Rotation",
+        "Elbow Flexion & Extension",
+        "Hip Flexion & Extension"
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+      "level": "document",
+      "title": "Lecture 7.2 - Joint Range of Motion",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 12,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J",
+        "Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient",
+        "AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART00",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "summary": "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees. • Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it. Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension",
+      "summary_sentences": [
+        "Joint Range of Motion HHS4867 Functional Movement Science HHS4867J Joint Range of Motion • the distance and direction a joint can move between the flexed position and the extended position • Each specific joint has a normal range of motion that is expressed in degrees.",
+        "• Devices used for measuring ROM: goniometer, inclinometer • AROM: active range of motion • Patient moves the joint • AROM actively without any assistance • PROM: passive range of motion • PROM • Therapist moves the joint through the range of motion with no effort from the patient AROM Summary Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+        "Below are generally accepted values for a normal ROM for some joints as measured in degrees: Normal AROM Hip Flexion Hip Extension Hip Abduction Hip Internal rotation Hip External rotation Knee Flexion Knee Extension Shoulder Flexion Shoulder Extension Shoulder Abduction Shoulder Internal rotation Shoulder External rotation Elbow Flexion Elbow Extension"
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "pages": 12,
+    "keyword_records": 44,
+    "parts": 3,
+    "documents": 1,
+    "summary_units": 5,
+    "visual_keyword_records": 10,
+    "quotation_candidates": 7
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "visual_keyword_records": [
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Goniometer visual",
+      "keyword_path": [
+        "Visual aids",
+        "Goniometer visual"
+      ],
+      "source_form": "Goniometer visual",
+      "canonical_candidate": "Goniometer visual",
+      "retrieval_terms": [
+        "Goniometer visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Goniometer visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Goniometer visual",
+      "keyword_path": [
+        "Visual aids",
+        "Goniometer visual"
+      ],
+      "source_form": "Goniometer visual",
+      "canonical_candidate": "Goniometer visual",
+      "retrieval_terms": [
+        "Goniometer visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART01",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Goniometer visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Flexion & Extension visual"
+      ],
+      "source_form": "Shoulder Flexion & Extension visual",
+      "canonical_candidate": "Shoulder Flexion & Extension visual",
+      "retrieval_terms": [
+        "Shoulder Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Abduction visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Abduction visual"
+      ],
+      "source_form": "Shoulder Abduction visual",
+      "canonical_candidate": "Shoulder Abduction visual",
+      "retrieval_terms": [
+        "Shoulder Abduction visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Abduction visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Shoulder Internal & External Rotation visual",
+      "keyword_path": [
+        "Visual aids",
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "source_form": "Shoulder Internal & External Rotation visual",
+      "canonical_candidate": "Shoulder Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Shoulder Internal & External Rotation visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Shoulder Internal & External Rotation visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Elbow Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Elbow Flexion & Extension visual"
+      ],
+      "source_form": "Elbow Flexion & Extension visual",
+      "canonical_candidate": "Elbow Flexion & Extension visual",
+      "retrieval_terms": [
+        "Elbow Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Elbow Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Flexion & Extension visual"
+      ],
+      "source_form": "Hip Flexion & Extension visual",
+      "canonical_candidate": "Hip Flexion & Extension visual",
+      "retrieval_terms": [
+        "Hip Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Abduction visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Abduction visual"
+      ],
+      "source_form": "Hip Abduction visual",
+      "canonical_candidate": "Hip Abduction visual",
+      "retrieval_terms": [
+        "Hip Abduction visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Abduction visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Hip Internal & External Rotation visual",
+      "keyword_path": [
+        "Visual aids",
+        "Hip Internal & External Rotation visual"
+      ],
+      "source_form": "Hip Internal & External Rotation visual",
+      "canonical_candidate": "Hip Internal & External Rotation visual",
+      "retrieval_terms": [
+        "Hip Internal & External Rotation visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Hip Internal & External Rotation visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "record_id": "HHS4867-KW-HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001",
+      "category": "visual",
+      "broad_area": "Visual aids",
+      "small_area": "Knee Flexion & Extension visual",
+      "keyword_path": [
+        "Visual aids",
+        "Knee Flexion & Extension visual"
+      ],
+      "source_form": "Knee Flexion & Extension visual",
+      "canonical_candidate": "Knee Flexion & Extension visual",
+      "retrieval_terms": [
+        "Knee Flexion & Extension visual"
+      ],
+      "source_passage_ids": [],
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012"
+      ],
+      "source_element_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001"
+      ],
+      "section_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-PART02",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Knee Flexion & Extension visual",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "quotation_candidates": [
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-B002-EVIDENCE",
+      "quotation": "HHS4867 Functional Movement Science",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-B002",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 1 (PDF p. 1)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 1 (PDF p. 1))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B002-EVIDENCE",
+      "quotation": "• the distance and direction a joint can move between the flexed position and the extended position",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B002",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B003-EVIDENCE",
+      "quotation": "• Each specific joint has a normal range of motion that is expressed in degrees.",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B003",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B004-EVIDENCE",
+      "quotation": "• Devices used for measuring ROM: goniometer, inclinometer",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B004",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B012-EVIDENCE",
+      "quotation": "• Therapist moves the joint through the range of motion with no effort from the patient",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B012",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 2 (PDF p. 2))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B002-EVIDENCE",
+      "quotation": "Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B002",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 4 (PDF p. 4)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 4 (PDF p. 4))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    },
+    {
+      "evidence_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B003-EVIDENCE",
+      "quotation": "Below are generally accepted values for a normal ROM for some joints as measured in degrees:",
+      "source_passage_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B003",
+      "source_page_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004"
+      ],
+      "reference": {
+        "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+        "document_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+        "document_title": "Lecture 7.2 - Joint Range of Motion",
+        "source_file": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 4 (PDF p. 4)"
+      },
+      "in_text_citation": "(23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf, slide 4 (PDF p. 4))",
+      "quotation_status": "source_extracted_candidate",
+      "verification_status": "generated_not_verified",
+      "exact_quote_eligible": false,
+      "manual_source_image_check_required": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "vtc-llm-wiki.source-manifest.v1",
+  "record_type": "source_manifest",
+  "source_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+  "title": "Semester 1 (26-27) Scheme of Module Activity",
+  "course_code": "HHS3190M",
+  "source_role": "official_document",
+  "source_kind": "scheme_of_module_activity",
+  "added_at_hkt": "2026-09-04T08:30:27+08:00",
+  "package_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27",
+  "source_input": {
+    "source_files": [
+      {
+        "file_name": "01 - S1 SOW (26-27).pdf",
+        "original_path": "../Physiology & Anatomy/01 Official/01 - S1 SOW (26-27).pdf",
+        "size_bytes": 345726,
+        "sha256": "sha256:c86e56d21ea776a1f0d5fa197006ce939debc4e2c09b210bc785fbdb61508b6a",
+        "copied_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27/00 Source/01 - S1 SOW (26-27).pdf",
+        "copy_status": "copied"
+      }
+    ],
+    "source_urls": [],
+    "copy_source": true
+  },
+  "layers": {
+    "00": "00 Source",
+    "01": "01 OCR and Layout",
+    "02": "02 Text and Tables",
+    "03": "03 Analysis",
+    "04": "04 Retrieval Index"
+  },
+  "processing_status": "pending",
+  "verification_status": "not_verified",
+  "status": "registered",
+  "claims_index": "not_created",
+  "notes": "Three source-folder PDFs were compared by SHA-256 and are byte-identical; this package preserves one canonical copy and records the duplicate filenames in the processing log.",
+  "next_step": "Run the source-type-specific extraction/OCR and layout workflow, then manually check source pages before changing verification status."
+}

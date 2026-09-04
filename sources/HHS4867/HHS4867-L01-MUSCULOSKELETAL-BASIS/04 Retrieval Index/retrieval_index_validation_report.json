@@ -36,6 +36,16 @@
     "visuals": 15,
     "tables": 0
   },
+  "coverage": {
+    "ocr_engine": "not_run_paddlex_unavailable",
+    "layout_engine": "not_run_paddlex_unavailable",
+    "embedded_text_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "empty_embedded_text_pages": [],
+    "ocr_skipped_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "layout_skipped_pages": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "manual_review_required": true,
+    "note": "Pages listed as empty_embedded_text_pages require source-image review or a later OCR/layout pass; no derived record is treated as verified."
+  },
   "status": "generated_not_verified",
   "verification_status": "generated_not_verified",
   "valid": true,

@@ -1,0 +1,2537 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• The distance between the caregiver and patient decrease, and her knee bent with trunk more upright • The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position. • Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks. Better Body Mechanics",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_form": "knee",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 26,
+          "page_number_type": "slide_number",
+          "slide_number": 26,
+          "pdf_page": 26,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 26 (PDF p. 26)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Directing Forces by Blocking the knees • During standing or partial standing for a transfer, if the patient cannot generate sufficient internal force to maintain the knee in extension. • The caregiver may apply an external force, “blocking the knee” to assist the patient to stand.",
+      "retrieval_terms": [
+        "knee"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers • We can consider the mechanisms by which muscles act on bones using descriptions based on levers • Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation • A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement • In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces. • Movement of the skele",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_form": "muscle",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• The caregiver assists the client up from the wheelchair, but her upper body bends at the waist with knees straight& trunk angled forward at about 70° • The ES muscle of the trunk must generate sufficient force to maintain the trunk in this flexed position Poor Body Mechanics",
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "skeleton",
+      "keyword_path": [
+        "Anatomy",
+        "skeleton"
+      ],
+      "source_form": "skeleton",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers\n• We can consider the mechanisms by which muscles act on bones using descriptions based on levers\n• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation\n• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement\n• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.\n• Movement of the skele",
+      "retrieval_terms": [
+        "skeleton"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "small_area": "spine",
+      "keyword_path": [
+        "Anatomy",
+        "spine"
+      ],
+      "source_form": "spine",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "spine"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "ES muscle",
+      "keyword_path": [
+        "Conditions",
+        "ES muscle"
+      ],
+      "source_form": "ES muscle",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• The caregiver assists the client up from the wheelchair, but her upper body bends at the waist with knees straight& trunk angled forward at about 70° • The ES muscle of the trunk must generate sufficient force to maintain the trunk in this flexed position Poor Body Mechanics",
+      "retrieval_terms": [
+        "ES muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "injury",
+      "keyword_path": [
+        "Conditions",
+        "injury"
+      ],
+      "source_form": "injury",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals. • To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+      "retrieval_terms": [
+        "injury"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "lumbar spine",
+      "keyword_path": [
+        "Conditions",
+        "lumbar spine"
+      ],
+      "source_form": "lumbar spine",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "lumbar spine"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "small_area": "sufficient muscle",
+      "keyword_path": [
+        "Conditions",
+        "sufficient muscle"
+      ],
+      "source_form": "sufficient muscle",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers • We can consider the mechanisms by which muscles act on bones using descriptions based on levers • Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation • A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement • In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces. • Movement of the skele",
+      "retrieval_terms": [
+        "sufficient muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867"
+      ],
+      "source_form": "HHS4867",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Analysis of Movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "HHS4867J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4867J"
+      ],
+      "source_form": "HHS4867J",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Analysis of Movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "HHS4867J"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "Movement HHS4867 Functional",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "Movement HHS4867 Functional"
+      ],
+      "source_form": "Movement HHS4867 Functional",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Analysis of Movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Movement HHS4867 Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000012",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_form": "activities",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_form": "balance",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Centre of Mass (CM) = Centre of Gravity (CG) • CM: an object’s balance point • The body is composed of many parts. Each part can be considered as a single entity, and has a CG • The entire body can be considered as a single mass • S2 • The CG of the typical human body is located in the pelvic region, just anterior to S2 • The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+      "retrieval_terms": [
+        "balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000013",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "balance"
+      ],
+      "source_form": "balance",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Base of Support (BoS) • BoS • BoS: the contact area of an object with its supporting surface • A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back • If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "retrieval_terms": [
+        "balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000017",
+      "concept_id": "HHS4867-C-0000014",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "BoS Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "BoS Mobility"
+      ],
+      "source_form": "BoS Mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Stability v.s. Mobility Stability is promoted when: • The BoS is greater in area • BoS • The Line of Gravity (LoG) is near the center of BoS • The CG is lower & closer to the BoS Mobility is promoted when: • The BoS is smaller in area • The LoG is allowed to move • BoS beyond the center of the BoS • The distance of CG above the BoS • BoS is greater Remarks: The Line of Gravity (LoG) means the orientation & direction of gravity acting on the full body’s CoM",
+      "retrieval_terms": [
+        "BoS Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000018",
+      "concept_id": "HHS4867-C-0000015",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "dynamic activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "dynamic activities"
+      ],
+      "source_form": "dynamic activities",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "dynamic activities",
+        "dynamic activity"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000019",
+      "concept_id": "HHS4867-C-0000016",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0001",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Analysis of Movement HHS4867 Functional Movement Science HHS4867J",
+      "retrieval_terms": [
+        "Functional",
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000020",
+      "concept_id": "HHS4867-C-0000016",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "functional",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals. • To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+      "retrieval_terms": [
+        "Functional",
+        "functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000021",
+      "concept_id": "HHS4867-C-0000017",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "hinder mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "hinder mobility"
+      ],
+      "source_form": "hinder mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Friction • The force resisting movement between two contacting surfaces • It can be used to promote stability • Too much friction can damage tissues and hinder mobility",
+      "retrieval_terms": [
+        "hinder mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000022",
+      "concept_id": "HHS4867-C-0000018",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "maintain balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "maintain balance"
+      ],
+      "source_form": "maintain balance",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Base of Support (BoS) • BoS • BoS: the contact area of an object with its supporting surface • A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back • If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "retrieval_terms": [
+        "maintain balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000023",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals. • To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+      "retrieval_terms": [
+        "mobility",
+        "Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000024",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 9,
+          "page_number_type": "slide_number",
+          "slide_number": 9,
+          "pdf_page": 9,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 9 (PDF p. 9)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0009",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Friction • The force resisting movement between two contacting surfaces • It can be used to promote stability • Too much friction can damage tissues and hinder mobility",
+      "retrieval_terms": [
+        "mobility",
+        "Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000025",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "Mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Stability & Mobility Center of Gravity Base of Support",
+      "retrieval_terms": [
+        "mobility",
+        "Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000026",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "Mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Stability v.s. Mobility Stability is promoted when: • The BoS is greater in area • BoS • The Line of Gravity (LoG) is near the center of BoS • The CG is lower & closer to the BoS Mobility is promoted when: • The BoS is smaller in area • The LoG is allowed to move • BoS beyond the center of the BoS • The distance of CG above the BoS • BoS is greater Remarks: The Line of Gravity (LoG) means the orientation & direction of gravity acting on the full body’s CoM",
+      "retrieval_terms": [
+        "mobility",
+        "Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000027",
+      "concept_id": "HHS4867-C-0000019",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "mobility"
+      ],
+      "source_form": "mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• The distance between the caregiver and patient decrease, and her knee bent with trunk more upright • The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position. • Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks. Better Body Mechanics",
+      "retrieval_terms": [
+        "mobility",
+        "Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000028",
+      "concept_id": "HHS4867-C-0000020",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "object’s balance",
+      "keyword_path": [
+        "Rehabilitation",
+        "object’s balance"
+      ],
+      "source_form": "object’s balance",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Centre of Mass (CM) = Centre of Gravity (CG) • CM: an object’s balance point • The body is composed of many parts. Each part can be considered as a single entity, and has a CG • The entire body can be considered as a single mass • S2 • The CG of the typical human body is located in the pelvic region, just anterior to S2 • The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+      "retrieval_terms": [
+        "object’s balance"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000029",
+      "concept_id": "HHS4867-C-0000021",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "performing tasks achieving functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "performing tasks achieving functional"
+      ],
+      "source_form": "performing tasks achieving functional",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 2,
+          "page_number_type": "slide_number",
+          "slide_number": 2,
+          "pdf_page": 2,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 2 (PDF p. 2)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0002",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART00",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• In patient care techniques, your body becomes the most essential instrument you have for performing tasks & achieving functional goals. • To use your body effectively to achieve patient mobility while protecting yourself against injury, and to educate patients in the safe & effective use of their bodies, you must have a fundamental understanding of certain lawsof physics.",
+      "retrieval_terms": [
+        "performing tasks achieving functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000030",
+      "concept_id": "HHS4867-C-0000022",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "range",
+      "keyword_path": [
+        "Rehabilitation",
+        "range"
+      ],
+      "source_form": "range",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000031",
+      "concept_id": "HHS4867-C-0000023",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "safe range",
+      "keyword_path": [
+        "Rehabilitation",
+        "safe range"
+      ],
+      "source_form": "safe range",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization • Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS • In any active human movement, some components of the body are stabilized so that other components can move • The body has to maintain postural control during dynamic activities • The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles • Dynamic trunk stabili",
+      "retrieval_terms": [
+        "safe range"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000032",
+      "concept_id": "HHS4867-C-0000024",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Stability Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Stability Mobility"
+      ],
+      "source_form": "Stability Mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 14,
+          "page_number_type": "slide_number",
+          "slide_number": 14,
+          "pdf_page": 14,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 14 (PDF p. 14)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0014",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Stability & Mobility Center of Gravity Base of Support",
+      "retrieval_terms": [
+        "Stability Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000033",
+      "concept_id": "HHS4867-C-0000025",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Stability v s Mobility",
+      "keyword_path": [
+        "Rehabilitation",
+        "Stability v s Mobility"
+      ],
+      "source_form": "Stability v s Mobility",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 16,
+          "page_number_type": "slide_number",
+          "slide_number": 16,
+          "pdf_page": 16,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 16 (PDF p. 16)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0016",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Stability v.s. Mobility Stability is promoted when: • The BoS is greater in area • BoS • The Line of Gravity (LoG) is near the center of BoS • The CG is lower & closer to the BoS Mobility is promoted when: • The BoS is smaller in area • The LoG is allowed to move • BoS beyond the center of the BoS • The distance of CG above the BoS • BoS is greater Remarks: The Line of Gravity (LoG) means the orientation & direction of gravity acting on the full body’s CoM",
+      "retrieval_terms": [
+        "Stability v s Mobility"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000034",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 22,
+          "page_number_type": "slide_number",
+          "slide_number": 22,
+          "pdf_page": 22,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 22 (PDF p. 22)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proper Body Mechanics • In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position • To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation • For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+      "retrieval_terms": [
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000035",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 23,
+          "page_number_type": "slide_number",
+          "slide_number": 23,
+          "pdf_page": 23,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 23 (PDF p. 23)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0023",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Patient position To achieve good body mechanics in the transfer task, the patient: • Moves forward in the chair, decreasing the distance between patient & caregiver • Place the feet under the CG and slightly apart to maximize the BoS BoS • Leans forward so that the LoG is as close as possible to the BoS • Places the hands on the armrests",
+      "retrieval_terms": [
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000036",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 24,
+          "page_number_type": "slide_number",
+          "slide_number": 24,
+          "pdf_page": 24,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 24 (PDF p. 24)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0024",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Caregiver position • Toachieve good body mechanics in the transfer task, the caregiver: • Closes the distance between the caregiver and the patient by: • Bringing the feet into or close to the patient’s BoS • Flexing the trunk so that the caregiver is leaning slightly toward the patient",
+      "retrieval_terms": [
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000037",
+      "concept_id": "HHS4867-C-0000026",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer"
+      ],
+      "source_form": "transfer",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 26,
+          "page_number_type": "slide_number",
+          "slide_number": 26,
+          "pdf_page": 26,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 26 (PDF p. 26)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0026",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Directing Forces by Blocking the knees • During standing or partial standing for a transfer, if the patient cannot generate sufficient internal force to maintain the knee in extension. • The caregiver may apply an external force, “blocking the knee” to assist the patient to stand.",
+      "retrieval_terms": [
+        "transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000038",
+      "concept_id": "HHS4867-C-0000027",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "bones",
+      "keyword_path": [
+        "Section topics",
+        "bones"
+      ],
+      "source_form": "bones",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers\n• We can consider the mechanisms by which muscles act on bones using descriptions based on levers\n• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation\n• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement\n• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.\n• Movement of the skele",
+      "retrieval_terms": [
+        "bones",
+        "bone"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000039",
+      "concept_id": "HHS4867-C-0000028",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "joints",
+      "keyword_path": [
+        "Section topics",
+        "joints"
+      ],
+      "source_form": "joints",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers\n• We can consider the mechanisms by which muscles act on bones using descriptions based on levers\n• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation\n• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement\n• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.\n• Movement of the skele",
+      "retrieval_terms": [
+        "joints",
+        "joint"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000040",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 7,
+          "page_number_type": "slide_number",
+          "slide_number": 7,
+          "pdf_page": 7,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 7 (PDF p. 7)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0007",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Force\n• Push or pull that can produce, arrest or modify movement\n• 2 types of force:\n• Linear movements (in a line)\n• Rotational /Angular movements\n• Forces can be further divided into\n• External Force, those that act on the body, e.g. gravity\n• Internal Force,those that produced bythe body,\n• e.g. forces generated by the muscles",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000041",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 10,
+          "page_number_type": "slide_number",
+          "slide_number": 10,
+          "pdf_page": 10,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 10 (PDF p. 10)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0010",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers\n• We can consider the mechanisms by which muscles act on bones using descriptions based on levers\n• Alever is a rigid structure, in this case a bone, that moves on a fixed point called the fulcrum in this case an articulation\n• A lever moves when an applied force or effort is sufficient to overcome any load or resistance that would oppose or prevent such movement\n• In the body, each bone is a lever and each joint is a fulcrum, and muscles supply the applied forces.\n• Movement of the skele",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000042",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Base of Support (BoS)\n• BoS\n• BoS: the contact area of an object with its supporting surface\n• A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back\n• If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000043",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 17,
+          "page_number_type": "slide_number",
+          "slide_number": 17,
+          "pdf_page": 17,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 17 (PDF p. 17)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0017",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Dynamic Trunk Stabilization\n• Static stability refers to the property of maintaining and controlling the body’s orientation in space, usually by keeping the LoG within the BoS\n• In any active human movement, some components of the body are stabilized so that other components can move\n• The body has to maintain postural control during dynamic activities\n• The key to achieve postural control is actively contracting the most central muscles of the body, i.e. the core muscles\n• Dynamic trunk stabili",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000044",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "• The distance between the caregiver and patient decrease, and her knee bent with trunk more upright\n• The force of ES muscles in this knee-bent & trunk more upright position is lower than the previous straight leg position.\n• Low back injuries are one of the most common musculoskeletal disorders experienced by people involved in patient mobility tasks.\nBetter Body Mechanics",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000045",
+      "concept_id": "HHS4867-C-0000029",
+      "category": "section_topics",
+      "broad_area": "Section topics",
+      "small_area": "muscles",
+      "keyword_path": [
+        "Section topics",
+        "muscles"
+      ],
+      "source_form": "muscles",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 22,
+          "page_number_type": "slide_number",
+          "slide_number": 22,
+          "pdf_page": 22,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 22 (PDF p. 22)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proper Body Mechanics\n• In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position\n• To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation\n• For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+      "retrieval_terms": [
+        "muscles",
+        "muscle"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000046",
+      "concept_id": "HHS4867-C-0000030",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "body weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "body weight"
+      ],
+      "source_form": "body weight",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 22,
+          "page_number_type": "slide_number",
+          "slide_number": 22,
+          "pdf_page": 22,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 22 (PDF p. 22)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proper Body Mechanics • In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position • To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation • For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+      "retrieval_terms": [
+        "body weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000047",
+      "concept_id": "HHS4867-C-0000031",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "together small BoS even small weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "together small BoS even small weight"
+      ],
+      "source_form": "together small BoS even small weight",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Base of Support (BoS) • BoS • BoS: the contact area of an object with its supporting surface • A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back • If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "retrieval_terms": [
+        "together small BoS even small weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000048",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 5,
+          "page_number_type": "slide_number",
+          "slide_number": 5,
+          "pdf_page": 5,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 5 (PDF p. 5)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0005",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Centre of Mass (CM) = Centre of Gravity (CG) • CM: an object’s balance point • The body is composed of many parts. Each part can be considered as a single entity, and has a CG • The entire body can be considered as a single mass • S2 • The CG of the typical human body is located in the pelvic region, just anterior to S2 • The CG shifts as the component segments of the body change position or as weight is added or removed from the body",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000049",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 15,
+          "page_number_type": "slide_number",
+          "slide_number": 15,
+          "pdf_page": 15,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 15 (PDF p. 15)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0015",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART02",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Base of Support (BoS) • BoS • BoS: the contact area of an object with its supporting surface • A largerBoS allows the health worker to accomplish certain tasks with decreased force on the lower back • If the worker’s feet are close together (small BoS), even small weight shifts will move the body’s CG beyond the BoS, requiring the worker bend at the trunk to maintain balance, thus places a great deal of stress on the lower back muscles",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000050",
+      "concept_id": "HHS4867-C-0000032",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 22,
+          "page_number_type": "slide_number",
+          "slide_number": 22,
+          "pdf_page": 22,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 22 (PDF p. 22)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0022",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Proper Body Mechanics • In the previous example, we only consider the force exerted on the caregiver’slower back muscles by simply maintaining a flexed trunk position • To complete the transfer task, the caregiver must add the movement of the patient’s body weight into the equation • For optimal performance, both the patient and the caregiver must utilize good body mechanics",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000051",
+      "concept_id": "HHS4867-C-0000033",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Better Body Mechanics visual",
+      "keyword_path": [
+        "visual",
+        "Better Body Mechanics visual"
+      ],
+      "source_form": "Better Body Mechanics visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0021-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 21,
+          "page_number_type": "slide_number",
+          "slide_number": 21,
+          "pdf_page": 21,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 21 (PDF p. 21)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0021",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Better Body Mechanics visual",
+      "retrieval_terms": [
+        "Better Body Mechanics visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000052",
+      "concept_id": "HHS4867-C-0000034",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Directing Forces by Blocking the knees (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Directing Forces by Blocking the knees (diagram) visual"
+      ],
+      "source_form": "Directing Forces by Blocking the knees (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0027-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 27,
+          "page_number_type": "slide_number",
+          "slide_number": 27,
+          "pdf_page": 27,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 27 (PDF p. 27)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0027",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Directing Forces by Blocking the knees (diagram) visual",
+      "retrieval_terms": [
+        "Directing Forces by Blocking the knees (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000053",
+      "concept_id": "HHS4867-C-0000035",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Effects of adding/removing weights on shifting the CG visual",
+      "keyword_path": [
+        "visual",
+        "Effects of adding/removing weights on shifting the CG visual"
+      ],
+      "source_form": "Effects of adding/removing weights on shifting the CG visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0006-C0000"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 6,
+          "page_number_type": "slide_number",
+          "slide_number": 6,
+          "pdf_page": 6,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 6 (PDF p. 6)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0006",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Effects of adding/removing weights on shifting the CG visual",
+      "retrieval_terms": [
+        "Effects of adding/removing weights on shifting the CG visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000054",
+      "concept_id": "HHS4867-C-0000036",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Levers (diagram) visual",
+      "keyword_path": [
+        "visual",
+        "Levers (diagram) visual"
+      ],
+      "source_form": "Levers (diagram) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0011-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 11,
+          "page_number_type": "slide_number",
+          "slide_number": 11,
+          "pdf_page": 11,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 11 (PDF p. 11)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0011",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Levers (diagram) visual",
+      "retrieval_terms": [
+        "Levers (diagram) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000055",
+      "concept_id": "HHS4867-C-0000037",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Moment = Force (N) x Distance (m) visual",
+      "keyword_path": [
+        "visual",
+        "Moment = Force (N) x Distance (m) visual"
+      ],
+      "source_form": "Moment = Force (N) x Distance (m) visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0013-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 13,
+          "page_number_type": "slide_number",
+          "slide_number": 13,
+          "pdf_page": 13,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 13 (PDF p. 13)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0013",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART01",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Moment = Force (N) x Distance (m) visual",
+      "retrieval_terms": [
+        "Moment = Force (N) x Distance (m) visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000056",
+      "concept_id": "HHS4867-C-0000038",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Poor Body Mechanics visual",
+      "keyword_path": [
+        "visual",
+        "Poor Body Mechanics visual"
+      ],
+      "source_form": "Poor Body Mechanics visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0020-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 20,
+          "page_number_type": "slide_number",
+          "slide_number": 20,
+          "pdf_page": 20,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 20 (PDF p. 20)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0020",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Poor Body Mechanics visual",
+      "retrieval_terms": [
+        "Poor Body Mechanics visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000057",
+      "concept_id": "HHS4867-C-0000039",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Positioning for stability visual",
+      "keyword_path": [
+        "visual",
+        "Positioning for stability visual"
+      ],
+      "source_form": "Positioning for stability visual",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-VIS-P0025-C0001"
+      ],
+      "source_page_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+          "document_id": "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+          "document_title": "Lecture 3 - Analysis of Movement",
+          "source_file": "07 - 3. Analysis of Movement 運動動作分析.pdf",
+          "page_number": 25,
+          "page_number_type": "slide_number",
+          "slide_number": 25,
+          "pdf_page": 25,
+          "formatted": "07 - 3. Analysis of Movement 運動動作分析.pdf, slide 25 (PDF p. 25)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-P0025",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT-PART03",
+        "HHS4867-L03-ANALYSIS-OF-MOVEMENT",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Positioning for stability visual",
+      "retrieval_terms": [
+        "Positioning for stability visual"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 57
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

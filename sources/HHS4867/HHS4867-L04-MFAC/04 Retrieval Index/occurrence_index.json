@@ -1,0 +1,786 @@
+{
+  "schema_version": "llm-wiki.occurrence-index.v1-course",
+  "record_type": "occurrence_index",
+  "book_id": "HHS4867",
+  "occurrences": [
+    {
+      "occurrence_id": "HHS4867-O-00000001",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "III",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "III"
+      ],
+      "source_form": "III",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "III"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000002",
+      "concept_id": "HHS4867-C-0000001",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "III",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "III"
+      ],
+      "source_form": "III",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "III"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000003",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "VII",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "VII"
+      ],
+      "source_form": "VII",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "VII"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000004",
+      "concept_id": "HHS4867-C-0000002",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "small_area": "VII",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "VII"
+      ],
+      "source_form": "VII",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "VII"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000005",
+      "concept_id": "HHS4867-C-0000003",
+      "category": "measurements",
+      "broad_area": "Measurements and clinical values",
+      "small_area": "Modified Functional Ambulation Categories",
+      "keyword_path": [
+        "Measurements and clinical values",
+        "Modified Functional Ambulation Categories"
+      ],
+      "source_form": "Modified Functional Ambulation Categories",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Modified Functional Ambulation Categories\nThis classification does not take account of any aid used.",
+      "retrieval_terms": [
+        "Modified Functional Ambulation Categories",
+        "Modified Functional Ambulation Category"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000006",
+      "concept_id": "HHS4867-C-0000004",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ambulation",
+      "keyword_path": [
+        "Rehabilitation",
+        "ambulation"
+      ],
+      "source_form": "ambulation",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Modified Functional Ambulation Categories\nThis classification does not take account of any aid used.",
+      "retrieval_terms": [
+        "ambulation"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000007",
+      "concept_id": "HHS4867-C-0000005",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Functional"
+      ],
+      "source_form": "Functional",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Modified Functional Ambulation Categories This classification does not take account of any aid used.",
+      "retrieval_terms": [
+        "Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000008",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ground VI Indoor walker Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "ground VI Indoor walker Transfer"
+      ],
+      "source_form": "ground VI Indoor walker Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "ground VI Indoor walker Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000009",
+      "concept_id": "HHS4867-C-0000006",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "ground VI Indoor walker Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "ground VI Indoor walker Transfer"
+      ],
+      "source_form": "ground VI Indoor walker Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "ground VI Indoor walker Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000010",
+      "concept_id": "HHS4867-C-0000007",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Modified Functional",
+      "keyword_path": [
+        "Rehabilitation",
+        "Modified Functional"
+      ],
+      "source_form": "Modified Functional",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Modified Functional Ambulation Categories This classification does not take account of any aid used.",
+      "retrieval_terms": [
+        "Modified Functional"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000011",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000012",
+      "concept_id": "HHS4867-C-0000008",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "small_area": "Transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "Transfer"
+      ],
+      "source_form": "Transfer",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "Transfer"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000013",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "body weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "body weight"
+      ],
+      "source_form": "body weight",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "body weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000014",
+      "concept_id": "HHS4867-C-0000009",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "body weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "body weight"
+      ],
+      "source_form": "body weight",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "body weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000015",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000016",
+      "concept_id": "HHS4867-C-0000010",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "small_area": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_form": "weight",
+      "source_passage_ids": [
+        "HHS4867-L04-MFAC-P0001-PASSAGE"
+      ],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-TBL-P0001-C01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Categories | S tage | Definition I | Lyer | Unable to walk / unable to sit without support>1min / assist to sit II | Sitter | Sit without support >1min / unable to walk with 1 person assistance III | Dependent walker | Walk with 1 person assistance – level ground (continuous manual contact to support body weight) IV | Assisted walker | Walk with 1 person assistance – level ground (continuous or intermittent manual contact) V | Supervised walker | Walk with standby guarding from 1 person – level ",
+      "retrieval_terms": [
+        "weight"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "occurrence_id": "HHS4867-O-00000017",
+      "concept_id": "HHS4867-C-0000011",
+      "category": "visual",
+      "broad_area": "visual",
+      "small_area": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "keyword_path": [
+        "visual",
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories"
+      ],
+      "source_form": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "source_passage_ids": [],
+      "source_element_ids": [
+        "HHS4867-L04-MFAC-VIS-P0001-T01"
+      ],
+      "source_page_ids": [
+        "HHS4867-L04-MFAC-P0001"
+      ],
+      "source_pages": [
+        {
+          "source_page_id": "HHS4867-L04-MFAC-P0001",
+          "document_id": "HHS4867-L04-MFAC",
+          "document_title": "Lecture 4 - Modified Functional Ambulation Categories",
+          "source_file": "10 - 4. Modified Functional Ambulation Categories.pdf",
+          "page_number": 1,
+          "page_number_type": "slide_number",
+          "slide_number": 1,
+          "pdf_page": 1,
+          "formatted": "10 - 4. Modified Functional Ambulation Categories.pdf, slide 1 (PDF p. 1)"
+        }
+      ],
+      "section_ids": [
+        "HHS4867-L04-MFAC-P0001",
+        "HHS4867-L04-MFAC-PART01",
+        "HHS4867-L04-MFAC",
+        "HHS4867-COURSE"
+      ],
+      "source_excerpt": "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+      "retrieval_terms": [
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Categories",
+        "Table on slide 1: Lecture 4 - Modified Functional Ambulation Category"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "occurrences": 17
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

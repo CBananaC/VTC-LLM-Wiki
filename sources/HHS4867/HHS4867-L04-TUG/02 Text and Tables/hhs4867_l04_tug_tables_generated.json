@@ -1,0 +1,45 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L04-TUG",
+  "source": {
+    "filename": "11 - 4. Timed up and go.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/11 - 4. Timed up and go.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L04-TUG/00 Source/11 - 4. Timed up and go.pdf",
+    "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+    "size_bytes": 80974,
+    "pdf_page_count": 1,
+    "pdfinfo": {
+      "Creator": "Macromedia FlashPaper 2.01.2283.0",
+      "Producer": "PDFlib 5.0.3 (C++/Win32)",
+      "CreationDate": "Wed Sep 14 06:31:35 2005 HKT",
+      "ModDate": "Sun Mar 16 00:10:17 2014 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "no",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 1,
+      "Encrypted": "no",
+      "Page size": "612 x 792 pts (letter)",
+      "Page rot": "0",
+      "File size": 80974,
+      "Optimized": "yes",
+      "PDF version": "1.4"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [],
+  "counts": {
+    "tables": 0
+  },
+  "no_table_result": "No coordinate table grids were detected; no table layout or contents were invented.",
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

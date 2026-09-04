@@ -1,0 +1,13 @@
+# Lecture 7.2 - Joint Range of Motion
+
+- Source ID: `HHS4867-L07-JOINT-RANGE-OF-MOTION`
+- Course: `HHS4867`
+- Source file: `23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf`
+- Original path: `02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf`
+- SHA-256: `sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b`
+- Slides/PDF pages: `12`
+- Verification: `generated_not_verified`
+
+This is a source-preserving presentation package. The raw PDF in `00 Source` is immutable. The duplicate decision is recorded in `source_manifest.json`; exact-byte duplicate paths are not scanned again.
+
+Processing layers are `00 Source`, `01 OCR and Layout`, `02 Text and Tables`, `03 Analysis`, and `04 Retrieval Index`. The derived layer keeps English slide blocks separate from raw bilingual text, records non-table visuals as metadata-only, and reconstructs detected tables separately.

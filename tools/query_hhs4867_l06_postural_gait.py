@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
+"""Source-specific HHS4867 retrieval wrapper."""
 from pathlib import Path
-import query_hhs4867_lecture as query
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from query_hhs4867_retrieval import main
 
-SOURCE_ID = "HHS4867-L06-POSTURAL-GAIT"
-ROOT = Path(__file__).resolve().parents[1]
-query.SOURCE_ID = SOURCE_ID
-query.DEFAULT_INDEX = ROOT / "sources/HHS4867" / SOURCE_ID / "04 Retrieval Index"
-query.DEFAULT_TEXT = ROOT / "sources/HHS4867" / SOURCE_ID / "02 Text and Tables"
-query.TABLE_FILE = "hhs4867_l06_postural_gait_tables_generated.json"
-query.main()
+if __name__ == "__main__":
+    raise SystemExit(main(default_source_id="HHS4867-L06-POSTURAL-GAIT"))

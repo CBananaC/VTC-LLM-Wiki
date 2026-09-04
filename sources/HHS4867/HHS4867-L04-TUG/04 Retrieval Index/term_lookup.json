@@ -1,0 +1,213 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "balance": {
+      "display_forms": [
+        "balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gait": {
+      "display_forms": [
+        "gait"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gaitspeedbalance": {
+      "display_forms": [
+        "gait speed balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gaitspeedbalancefunctional": {
+      "display_forms": [
+        "gait speed balance functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gotugtest": {
+      "display_forms": [
+        "Go TUG Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "interpretationsecondsnormalsecondsgoodmobility": {
+      "display_forms": [
+        "Interpretation seconds normal seconds good mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "lecture4timedupandgotugtestvisual": {
+      "display_forms": [
+        "Lecture 4 - Timed Up and Go (TUG) Test visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014",
+        "HHS4867-O-00000015",
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "mobility": {
+      "display_forms": [
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "poormobility": {
+      "display_forms": [
+        "poor mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "test": {
+      "display_forms": [
+        "Test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000003"
+      ],
+      "categories": [
+        "investigations"
+      ]
+    },
+    "timedupandgo": {
+      "display_forms": [
+        "Timed Up and Go"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    },
+    "tug": {
+      "display_forms": [
+        "TUG"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "tugtest": {
+      "display_forms": [
+        "TUG test"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005"
+      ],
+      "categories": [
+        "measurements"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 14,
+    "concepts_referenced": 14,
+    "occurrences_referenced": 16
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

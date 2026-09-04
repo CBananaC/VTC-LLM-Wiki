@@ -1,0 +1,201 @@
+{
+  "schema_version": "vtc-hhs4867.presentation-deduplication.v1",
+  "record_type": "presentation_deduplication_audit",
+  "course_code": "HHS4867",
+  "course_title": "HHS4867 - Functional Movement Science",
+  "scope": [
+    "02 Lectures/*.pdf",
+    "03 Workshops/*.pdf"
+  ],
+  "scope_note": "The source folder contains PDF exports rather than .ppt/.pptx files. Reference PDFs and media-link PDFs were excluded because they are not presentation decks.",
+  "candidate_file_count": 35,
+  "unique_sha256_count": 16,
+  "groups": [
+    {
+      "sha256": "sha256:3dedc496c6ede15fac7c9d3b1a20223b48c6028b7d63d8b1c5709de02dca58f6",
+      "canonical_path": "02 Lectures/01 - 1. Ambulation Transfer.pdf",
+      "duplicate_paths": [
+        "03 Workshops/01 - 1. Ambulation Transfer.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:79b0752b58456a48ac0daad88d0f3b905f475c22adb646461aa39b112559bf7d",
+      "canonical_path": "02 Lectures/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+      "duplicate_paths": [
+        "02 Lectures/03 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:5166af5744e2e60aae249febc412885fb3d343aae9f65533b9b4cf86cac380ff",
+      "canonical_path": "02 Lectures/04 - 2. Manual Muscle Testing.pdf",
+      "duplicate_paths": [
+        "03 Workshops/02 - 2. Manual Muscle Testing.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:c127ee5681c01610ef3055ee91c38b6c6f2fb6a40afed3a73834e8159d32f900",
+      "canonical_path": "02 Lectures/05 - 2. Neuromuscular control of movement 人體運動神經控制.pdf",
+      "duplicate_paths": [
+        "02 Lectures/06 - 2. Neuromuscular control of movement 人體運動神經控制.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:b27d5b536e86147999c4372ca0ae004723482b49c595f4fc7ab67ce305d13c3c",
+      "canonical_path": "02 Lectures/07 - 3. Analysis of Movement 運動動作分析.pdf",
+      "duplicate_paths": [
+        "02 Lectures/08 - 3. Analysis of Movement 運動動作分析.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:a893627bfd355229fb7f7a14ed4039833693621af5b0c77cc09d9618767ab2ef",
+      "canonical_path": "02 Lectures/09 - 3. Range of Motion.pdf",
+      "duplicate_paths": [
+        "03 Workshops/03 - 3. Range of Motion.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:c1d4cafdbdfd5ca8c761bf39565769b1450147db5d8c26e06580d5ff0099cf2f",
+      "canonical_path": "02 Lectures/10 - 4. Modified Functional Ambulation Categories.pdf",
+      "duplicate_paths": [
+        "03 Workshops/04 - 4. Modified Functional Ambulation Categories.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:e67ca4cc1e3085e3991c70b093d0389ff676ddc159c26b70d9d7128431eb8e70",
+      "canonical_path": "02 Lectures/11 - 4. Timed up and go.pdf",
+      "duplicate_paths": [
+        "03 Workshops/05 - 4. Timed up and go.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:77024a9eb8c9c728a11ace349055cd4f405788d1490039788bdb495704c25e92",
+      "canonical_path": "02 Lectures/12 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf",
+      "duplicate_paths": [
+        "02 Lectures/13 - 4. Transfer techniques and standard wheelchairs 轉移技巧及輪椅使用.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:0874af5ddd68811eb971509bac80586153eab568398cbd2be9349d513d967ef3",
+      "canonical_path": "02 Lectures/14 - 4867 1A.pdf",
+      "duplicate_paths": [
+        "02 Lectures/25 - 4867 1A.pdf",
+        "03 Workshops/06 - 4867 1A.pdf"
+      ],
+      "file_count": 3,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:77db5a9adc27a1421c562536f8c3b8713354d4b86cd6dc9b71a8d7157c362bbb",
+      "canonical_path": "02 Lectures/15 - 4867 1B.pdf",
+      "duplicate_paths": [
+        "02 Lectures/26 - 4867 1B.pdf",
+        "03 Workshops/07 - 4867 1B.pdf"
+      ],
+      "file_count": 3,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:36583631890ccccb8dad7937bc50e1d4a3797feb18844d459cb94f483760ba55",
+      "canonical_path": "02 Lectures/16 - 4867 1C.pdf",
+      "duplicate_paths": [
+        "02 Lectures/27 - 4867 1C.pdf",
+        "03 Workshops/08 - 4867 1C.pdf"
+      ],
+      "file_count": 3,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:087f96fdc830e3e39241a85cc50134d23e30ab2f96703231a2a0847211612505",
+      "canonical_path": "02 Lectures/17 - 5. Mobility Walking Aids 助行工具.pdf",
+      "duplicate_paths": [
+        "02 Lectures/18 - 5. Mobility Walking Aids 助行工具.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:19970d5e2c4e6fd0fe646f2760f28e08edf0ed316cccd6718c59cd903541b8bc",
+      "canonical_path": "02 Lectures/19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "duplicate_paths": [
+        "02 Lectures/20 - 6. Postural and Gait 姿勢及步態評估.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:ed27b2fe1b3e3966caf2e24d96773d7b878c6a8e3879a4abfb7ee1cb819174a2",
+      "canonical_path": "02 Lectures/21 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf",
+      "duplicate_paths": [
+        "02 Lectures/22 - 7.1 Manual Muscle Testing 手動肌肉測試.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+      "canonical_path": "02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+      "duplicate_paths": [
+        "02 Lectures/24 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf"
+      ],
+      "file_count": 2,
+      "duplicate_action": "process canonical path once; record other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "existing_processed_package": {
+    "source_id": "HHS4867-L01-MUSCULOSKELETAL-BASIS",
+    "canonical_path": "02 Lectures/02 - 1. Musculsketal basis for movement 人體肌肉骨骼基礎.pdf",
+    "action": "reuse existing processed package; do not rescan"
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

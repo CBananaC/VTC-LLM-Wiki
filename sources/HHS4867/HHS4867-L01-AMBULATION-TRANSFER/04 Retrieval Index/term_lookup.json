@@ -1,0 +1,1548 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4867",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000083"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "adoptedavoidhip": {
+      "display_forms": [
+        "adopted Avoid hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "adoptedavoidhipflexionavoidhip": {
+      "display_forms": [
+        "adopted Avoid hip flexion Avoid hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000014"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "affectedllfigmodifiedpointgait": {
+      "display_forms": [
+        "affected LL Fig Modified point gait"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000084"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "aidsbedmobility": {
+      "display_forms": [
+        "aids Bed mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000085"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "aidsbedmobilitymobility": {
+      "display_forms": [
+        "aids Bed mobility Mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000086"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "aidsbedmobilitymobilityactivities": {
+      "display_forms": [
+        "aids Bed mobility Mobility activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000087"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "aidsbedmobilitymobilityactivity": {
+      "display_forms": [
+        "aids Bed mobility Mobility activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000087"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "aidsmovewalking": {
+      "display_forms": [
+        "aids Move walking"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000088"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "alternormalgait": {
+      "display_forms": [
+        "alter normal gait"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000089"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "ama": {
+      "display_forms": [
+        "AMA"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000044"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "ambulateegspinal": {
+      "display_forms": [
+        "ambulate e g spinal"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000015"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "ambulateegspinalcordinjury": {
+      "display_forms": [
+        "ambulate e g spinal cord injury"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000016"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "ambulation": {
+      "display_forms": [
+        "ambulation"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000090",
+        "HHS4867-O-00000091",
+        "HHS4867-O-00000092"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "assistantsittingtransfer": {
+      "display_forms": [
+        "assistant Sitting transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000093"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "balance": {
+      "display_forms": [
+        "balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000094",
+        "HHS4867-O-00000095",
+        "HHS4867-O-00000096"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "bearweight": {
+      "display_forms": [
+        "bear weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000134"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "bedmobility": {
+      "display_forms": [
+        "bed mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000097"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "betterstabilityspecialprecautionstotalhip": {
+      "display_forms": [
+        "better stability Special precautions Total hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000017"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "bodystrength": {
+      "display_forms": [
+        "body strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000098"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "chest": {
+      "display_forms": [
+        "chest"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "copd": {
+      "display_forms": [
+        "COPD"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000045"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "cva": {
+      "display_forms": [
+        "CVA"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000046"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "dislocation": {
+      "display_forms": [
+        "dislocation"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000018"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "dislocationvulnerablepositionhip": {
+      "display_forms": [
+        "dislocation Vulnerable position Hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000019"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "dysfunction": {
+      "display_forms": [
+        "dysfunction"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000020"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "egcongestiveheartfailure": {
+      "display_forms": [
+        "e g congestive heart failure"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000021"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "egcvaparkinson": {
+      "display_forms": [
+        "e g CVA Parkinson"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000022"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "egparalysis": {
+      "display_forms": [
+        "e g paralysis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000023"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "egparalysisamputationhip": {
+      "display_forms": [
+        "e g paralysis amputation hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000024"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "egparalysisamputationhipsurgery": {
+      "display_forms": [
+        "e g paralysis amputation hip surgery"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000081"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "failure": {
+      "display_forms": [
+        "failure"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000025"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "function": {
+      "display_forms": [
+        "Function"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000099"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000100",
+        "HHS4867-O-00000101",
+        "HHS4867-O-00000102",
+        "HHS4867-O-00000103",
+        "HHS4867-O-00000104",
+        "HHS4867-O-00000105",
+        "HHS4867-O-00000106",
+        "HHS4867-O-00000107",
+        "HHS4867-O-00000108",
+        "HHS4867-O-00000109"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "fwb": {
+      "display_forms": [
+        "FWB"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000047",
+        "HHS4867-O-00000048",
+        "HHS4867-O-00000049",
+        "HHS4867-O-00000050"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "fwbmodifiedpointfwbvtransfer": {
+      "display_forms": [
+        "FWB Modified point FWB V Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000110"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gait": {
+      "display_forms": [
+        "gait"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000111",
+        "HHS4867-O-00000112",
+        "HHS4867-O-00000113"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "gparalysisamputationhipsurgerystrength": {
+      "display_forms": [
+        "g paralysis amputation hip surgery Strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000114"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "haemiplegia": {
+      "display_forms": [
+        "haemiplegia"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "haemiplegiaieleftsideweakness": {
+      "display_forms": [
+        "haemiplegia i e left side weakness"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000135"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "has4867": {
+      "display_forms": [
+        "HAS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000051",
+        "HHS4867-O-00000052",
+        "HHS4867-O-00000053"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "has4867functional": {
+      "display_forms": [
+        "HAS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000054",
+        "HHS4867-O-00000055",
+        "HHS4867-O-00000056"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hemiplegia": {
+      "display_forms": [
+        "hemiplegia"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000026",
+        "HHS4867-O-00000027"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "hemiplegiaieleftsideweakness": {
+      "display_forms": [
+        "hemiplegia i e left side weakness"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000135"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "hhs4867": {
+      "display_forms": [
+        "HHS4867"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000057",
+        "HHS4867-O-00000058",
+        "HHS4867-O-00000059",
+        "HHS4867-O-00000060",
+        "HHS4867-O-00000061",
+        "HHS4867-O-00000062",
+        "HHS4867-O-00000063"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867functional": {
+      "display_forms": [
+        "HHS4867 Functional"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000064",
+        "HHS4867-O-00000065",
+        "HHS4867-O-00000066",
+        "HHS4867-O-00000067",
+        "HHS4867-O-00000068",
+        "HHS4867-O-00000069",
+        "HHS4867-O-00000070"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hhs4867functionalmovementscienceambulationtransfer": {
+      "display_forms": [
+        "HHS4867 Functional Movement Science Ambulation Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000071"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "hip": {
+      "display_forms": [
+        "Hip",
+        "hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000002",
+        "HHS4867-O-00000003",
+        "HHS4867-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "hipknee": {
+      "display_forms": [
+        "hip knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000028"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "iii": {
+      "display_forms": [
+        "III"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000072"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "impairedbalance": {
+      "display_forms": [
+        "impaired balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000115"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "impairedbalanceegstroke": {
+      "display_forms": [
+        "impaired balance e g stroke"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000116"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "injury": {
+      "display_forms": [
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000029"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "knee": {
+      "display_forms": [
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000005",
+        "HHS4867-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "lecture1ambulationtransfervisual": {
+      "display_forms": [
+        "Lecture 1 - Ambulation & Transfer visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000142"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "lefthaemiplegia": {
+      "display_forms": [
+        "left haemiplegia"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "lefthemiplegia": {
+      "display_forms": [
+        "left hemiplegia"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000030",
+        "HHS4867-O-00000031"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "leftposteriorpelvis": {
+      "display_forms": [
+        "left posterior pelvis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000032"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "leftposteriorpelvistransfer": {
+      "display_forms": [
+        "left posterior pelvis Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000117"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "lowbackdysfunction": {
+      "display_forms": [
+        "low back dysfunction"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000033"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "lumbarspine": {
+      "display_forms": [
+        "lumbar spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "mobility": {
+      "display_forms": [
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000118"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "modifiedpointgait": {
+      "display_forms": [
+        "modified point gait"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000119"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "moveaffectedlegforwardbearweight": {
+      "display_forms": [
+        "Move affected leg forward Bear weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000136"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "muscle": {
+      "display_forms": [
+        "Muscle"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "nwb": {
+      "display_forms": [
+        "NWB"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000073",
+        "HHS4867-O-00000074",
+        "HHS4867-O-00000075",
+        "HHS4867-O-00000076"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "pain": {
+      "display_forms": [
+        "Pain"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000137"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "paralysis": {
+      "display_forms": [
+        "paralysis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "parkinson": {
+      "display_forms": [
+        "Parkinson"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000036",
+        "HHS4867-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "pelvis": {
+      "display_forms": [
+        "pelvis"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000008",
+        "HHS4867-O-00000009"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "performbedmobility": {
+      "display_forms": [
+        "perform Bed mobility"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000120"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "performbedmobilitytransfer": {
+      "display_forms": [
+        "perform Bed mobility Transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000121"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "performbedmobilitytransferactivities": {
+      "display_forms": [
+        "perform Bed mobility Transfer activities"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000122"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "performbedmobilitytransferactivity": {
+      "display_forms": [
+        "perform Bed mobility Transfer activity"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000122"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "prosthetichip": {
+      "display_forms": [
+        "prosthetic hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000038"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "pwb": {
+      "display_forms": [
+        "PWB"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000077",
+        "HHS4867-O-00000078",
+        "HHS4867-O-00000079"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "rightsidekeeprighthip": {
+      "display_forms": [
+        "right side Keep right hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000039"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "rightsidekeeprighthipknee": {
+      "display_forms": [
+        "right side Keep right hip knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000040"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "slide10visual": {
+      "display_forms": [
+        "Slide 10 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000143"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide2visual": {
+      "display_forms": [
+        "Slide 2 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000144"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide3visual": {
+      "display_forms": [
+        "Slide 3 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000145"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide4visual": {
+      "display_forms": [
+        "Slide 4 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000093"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000146",
+        "HHS4867-O-00000147"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide5visual": {
+      "display_forms": [
+        "Slide 5 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000094"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000148",
+        "HHS4867-O-00000149",
+        "HHS4867-O-00000150",
+        "HHS4867-O-00000151",
+        "HHS4867-O-00000152",
+        "HHS4867-O-00000153",
+        "HHS4867-O-00000154",
+        "HHS4867-O-00000155"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide6visual": {
+      "display_forms": [
+        "Slide 6 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000095"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000156",
+        "HHS4867-O-00000157"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide7visual": {
+      "display_forms": [
+        "Slide 7 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000096"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000158",
+        "HHS4867-O-00000159",
+        "HHS4867-O-00000160",
+        "HHS4867-O-00000161"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide8visual": {
+      "display_forms": [
+        "Slide 8 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000097"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000162",
+        "HHS4867-O-00000163",
+        "HHS4867-O-00000164",
+        "HHS4867-O-00000165",
+        "HHS4867-O-00000166"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "slide9visual": {
+      "display_forms": [
+        "Slide 9 visual"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000098"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000167",
+        "HHS4867-O-00000168",
+        "HHS4867-O-00000169"
+      ],
+      "categories": [
+        "visual"
+      ]
+    },
+    "spinal": {
+      "display_forms": [
+        "spinal"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000010"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "spine": {
+      "display_forms": [
+        "spine"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000011"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    },
+    "stairsrequiregoodstandingbalance": {
+      "display_forms": [
+        "stairs Require good standing balance"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000123"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "straighteningextendinghip": {
+      "display_forms": [
+        "straightening extending hip"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000041"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "straighteningextendinghipknee": {
+      "display_forms": [
+        "straightening extending hip knee"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000042"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "strength": {
+      "display_forms": [
+        "Strength",
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000124",
+        "HHS4867-O-00000125"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "stroke": {
+      "display_forms": [
+        "stroke"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000043"
+      ],
+      "categories": [
+        "conditions"
+      ]
+    },
+    "surgery": {
+      "display_forms": [
+        "surgery"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000082"
+      ],
+      "categories": [
+        "management_treatment"
+      ]
+    },
+    "thr": {
+      "display_forms": [
+        "THR"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000080"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ]
+    },
+    "transfer": {
+      "display_forms": [
+        "Transfer",
+        "transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000126",
+        "HHS4867-O-00000127",
+        "HHS4867-O-00000128",
+        "HHS4867-O-00000129",
+        "HHS4867-O-00000130"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "transferstandingtransfer": {
+      "display_forms": [
+        "transfer Standing transfer"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000131"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "walking": {
+      "display_forms": [
+        "walking"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000132"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "walkingaid": {
+      "display_forms": [
+        "walking aid"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000133"
+      ],
+      "categories": [
+        "rehabilitation"
+      ]
+    },
+    "weakness": {
+      "display_forms": [
+        "weakness"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000138"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "weight": {
+      "display_forms": [
+        "Weight",
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000139",
+        "HHS4867-O-00000140",
+        "HHS4867-O-00000141"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ]
+    },
+    "wrist": {
+      "display_forms": [
+        "wrist"
+      ],
+      "concept_ids": [
+        "HHS4867-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4867-O-00000012"
+      ],
+      "categories": [
+        "anatomy"
+      ]
+    }
+  },
+  "counts": {
+    "terms": 104,
+    "concepts_referenced": 98,
+    "occurrences_referenced": 169
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

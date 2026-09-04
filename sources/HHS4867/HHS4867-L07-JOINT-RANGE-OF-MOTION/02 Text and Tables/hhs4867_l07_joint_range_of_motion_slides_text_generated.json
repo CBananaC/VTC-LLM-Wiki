@@ -1,0 +1,1502 @@
+{
+  "schema_version": "vtc-hhs4867-lecture.v1",
+  "record_type": "lecture_slides_english_reading_order",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION",
+  "source": {
+    "filename": "23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L07-JOINT-RANGE-OF-MOTION/00 Source/23 - 7.2 Joint Range of Motion 關節活動幅度測量.pdf",
+    "sha256": "sha256:08c6c16d5b81242bdfe1fcd583eeebf062da8820e01d854786eeb6ec945f890b",
+    "pdf_page_count": 12,
+    "pdfinfo": {
+      "Title": "Joint Range of Motion  關節活動幅度",
+      "Author": "LO HIP SHING DOMINIC",
+      "Creator": "Microsoft® PowerPoint® LTSC",
+      "Producer": "Microsoft® PowerPoint® LTSC",
+      "CreationDate": "Thu Aug 27 11:52:58 2026 HKT",
+      "ModDate": "Thu Aug 27 11:52:58 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 12,
+      "Encrypted": "no",
+      "Page size": "960 x 540 pts",
+      "Page rot": "0",
+      "File size": 266480,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "language_policy": "English-only derived layer; raw bilingual PDF/OCR retained separately.",
+  "point_form_policy": "Leading bullet/arrow markers and indentation are retained, including the deck's ⚫ markers.",
+  "visual_text_policy": "Text inside non-table visual regions is not separately OCRed or reconstructed.",
+  "slides": [
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+      "slide_number": 1,
+      "title": "Joint Range of Motion",
+      "english_text": "Joint Range of Motion\nHHS4867 Functional Movement Science\nHHS4867J",
+      "raw_bilingual_text": "Joint Range of Motion\n關節活動幅度\nHHS4867 Functional Movement Science\nHHS4867J 功能性運動科學",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+          "slide_number": 1,
+          "content_type": "slide_title",
+          "text": "Joint Range of Motion",
+          "body_text": "Joint Range of Motion",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 60.24,
+          "indent_level": 3,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            288.26,
+            178.781,
+            671.787,
+            214.767
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-B002",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867 Functional Movement Science",
+          "body_text": "HHS4867 Functional Movement Science",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            2
+          ],
+          "bbox_points": [
+            228.02,
+            338.003,
+            709.212,
+            363.167
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001-B003",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0001",
+          "slide_number": 1,
+          "content_type": "subtitle",
+          "text": "HHS4867J",
+          "body_text": "HHS4867J",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            228.02,
+            368.184,
+            560.269,
+            396.647
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+      "slide_number": 2,
+      "title": "Joint Range of Motion",
+      "english_text": "Joint Range of Motion\n• the distance and direction a joint can move between the flexed position and the extended position\n• Each specific joint has a normal range of motion that is expressed in degrees.\n• Devices used for measuring ROM: goniometer, inclinometer\n• AROM: active range of motion\n• Patient moves the joint\n• AROM\nactively without any\nassistance\n• PROM: passive range of motion\n• PROM\n• Therapist moves the joint through the range of motion with no effort from the patient",
+      "raw_bilingual_text": "Joint Range Of Motion 關節活動幅度 (ROM)\n• the distance and direction a joint\n• 關節在屈曲位置和伸展位置之\n間的距離和方向。\ncan move between the flexed\nposition and the extended position\n• Each specific joint has a normal\n• 每個特定關節都有一個以度數\n表示的正常活動範圍。\nrange of motion that is expressed\nin degrees.\n• Devices used for measuring ROM:\n• 用於測量活動範圍的設備：量\n角器、傾斜計。\ngoniometer, inclinometer\n• AROM: active range of motion\n• Patient moves the joint\n• AROM（主動活動幅度）：患者\n主動移動關節，無需任何協助。\nactively without any\nassistance\n• PROM: passive range of motion\n• PROM（被動活動幅度）：治療\n• Therapist moves the joint\n師在患者無需用力的情況下，\n將關節移動到活動幅度內。\nthrough the range of motion\nwith no effort from the\npatient",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "slide_title",
+          "text": "Joint Range of Motion",
+          "body_text": "Joint Range of Motion",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.33,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            168.98,
+            41.944,
+            660.981,
+            70.407
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B002",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• the distance and direction a joint can move between the flexed position and the extended position",
+          "body_text": "the distance and direction a joint can move between the flexed position and the extended position",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1,
+            2,
+            3
+          ],
+          "bbox_points": [
+            168.65,
+            112.708,
+            438.224,
+            176.156
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B003",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Each specific joint has a normal range of motion that is expressed in degrees.",
+          "body_text": "Each specific joint has a normal range of motion that is expressed in degrees.",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            4,
+            5,
+            6
+          ],
+          "bbox_points": [
+            168.65,
+            177.56,
+            434.048,
+            240.961
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B004",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Devices used for measuring ROM: goniometer, inclinometer",
+          "body_text": "Devices used for measuring ROM: goniometer, inclinometer",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            7,
+            8
+          ],
+          "bbox_points": [
+            168.65,
+            242.38,
+            442.022,
+            284.176
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B005",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• AROM: active range of motion",
+          "body_text": "AROM: active range of motion",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            168.65,
+            285.58,
+            421.154,
+            305.776
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B006",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Patient moves the joint",
+          "body_text": "Patient moves the joint",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            204.65,
+            307.158,
+            392.706,
+            327.381
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B007",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• AROM",
+          "body_text": "AROM",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 316.68,
+          "indent_level": 13,
+          "source_line_indices": [
+            24
+          ],
+          "bbox_points": [
+            485.33,
+            308.45,
+            754.99,
+            329.24
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B008",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "subheading",
+          "text": "actively without any",
+          "body_text": "actively without any",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 58.56,
+          "indent_level": 2,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            227.21,
+            332.806,
+            374.09,
+            349.006
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B009",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "paragraph",
+          "text": "assistance",
+          "body_text": "assistance",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 58.56,
+          "indent_level": 2,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            227.21,
+            354.406,
+            299.264,
+            370.606
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B010",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• PROM: passive range of motion",
+          "body_text": "PROM: passive range of motion",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            168.65,
+            372.01,
+            428.144,
+            392.206
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B011",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• PROM",
+          "body_text": "PROM",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 316.68,
+          "indent_level": 13,
+          "source_line_indices": [
+            26
+          ],
+          "bbox_points": [
+            485.33,
+            373.28,
+            753.67,
+            394.07
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002-B012",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0002",
+          "slide_number": 2,
+          "content_type": "list_item",
+          "text": "• Therapist moves the joint through the range of motion with no effort from the patient",
+          "body_text": "Therapist moves the joint through the range of motion with no effort from the patient",
+          "marker": "•",
+          "marker_source": "embedded_text",
+          "indent_points": 36.0,
+          "indent_level": 2,
+          "source_line_indices": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "bbox_points": [
+            204.65,
+            393.61,
+            429.133,
+            478.626
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+      "slide_number": 3,
+      "title": "Goniometer",
+      "english_text": "Goniometer",
+      "raw_bilingual_text": "Goniometer 測角儀",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0003",
+          "slide_number": 3,
+          "content_type": "slide_title",
+          "text": "Goniometer",
+          "body_text": "Goniometer",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            163.15,
+            59.516,
+            403.66,
+            92.133
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001",
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0001",
+          "visual_type": "image",
+          "name": "Goniometer visual",
+          "pdf_page": 3,
+          "slide_number": 3,
+          "location": {
+            "bbox_points": [
+              150.6,
+              162.0,
+              496.92,
+              464.4
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        },
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0003-C0002",
+          "visual_type": "image",
+          "name": "Goniometer visual",
+          "pdf_page": 3,
+          "slide_number": 3,
+          "location": {
+            "bbox_points": [
+              498.0,
+              198.0,
+              806.88,
+              452.04
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+      "slide_number": 4,
+      "title": "AROM Summary",
+      "english_text": "AROM Summary\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\nNormal AROM\nHip Flexion\nHip Extension\nHip Abduction\nHip Internal rotation\nHip External rotation\nKnee Flexion\nKnee Extension\nShoulder Flexion\nShoulder Extension\nShoulder Abduction\nShoulder Internal rotation\nShoulder External rotation\nElbow Flexion\nElbow Extension",
+      "raw_bilingual_text": "AROM Summary 主動活動幅度摘要\nEach joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.\n每個關節都有一個正常的活動幅度（ROM）值，而每個人達到此幅度的能力各不相同。\nBelow are generally accepted values for a normal ROM for some joints as measured in degrees:\n以下是一些關節正常活動幅度的一般公認數值，以角度計算：\nNormal AROM\n正常主動活動幅度\nHip Flexion 髖關節屈曲\n100\nHip Extension 髖關節伸展\n30\nHip Abduction 髖關節外展\n40\nHip Internal rotation 髖關節內旋\n40\nHip External rotation髖關節外旋\n50\nKnee Flexion 膝關節屈曲\n130\nKnee Extension 膝關節伸展\n0\nShoulder Flexion 肩屈曲\n180\nShoulder Extension 肩部伸展\n50\nShoulder Abduction 肩部外展\n180\nShoulder Internal rotation 肩部內旋\n90\nShoulder External rotation 肩部外旋\n90\nElbow Flexion 肘部屈曲\n140\nElbow Extension肘部伸展\n0",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "slide_title",
+          "text": "AROM Summary",
+          "body_text": "AROM Summary",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 9.12,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            174.02,
+            27.306,
+            682.87,
+            59.923
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B002",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+          "body_text": "Each joint has a normal ROM range of values, while each person has a different amount of ability to achieve it.",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            1
+          ],
+          "bbox_points": [
+            164.9,
+            75.27,
+            790.087,
+            89.31
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B003",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Below are generally accepted values for a normal ROM for some joints as measured in degrees:",
+          "body_text": "Below are generally accepted values for a normal ROM for some joints as measured in degrees:",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 3.12,
+          "indent_level": 0,
+          "source_line_indices": [
+            3
+          ],
+          "bbox_points": [
+            168.02,
+            108.87,
+            707.802,
+            122.91
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B004",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Normal AROM",
+          "body_text": "Normal AROM",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 431.98,
+          "indent_level": 18,
+          "source_line_indices": [
+            5
+          ],
+          "bbox_points": [
+            596.88,
+            157.456,
+            717.264,
+            173.656
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B005",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Hip Flexion",
+          "body_text": "Hip Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 130.18,
+          "indent_level": 5,
+          "source_line_indices": [
+            6
+          ],
+          "bbox_points": [
+            295.08,
+            208.782,
+            480.464,
+            227.106
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B006",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Hip Extension",
+          "body_text": "Hip Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 120.7,
+          "indent_level": 5,
+          "source_line_indices": [
+            7
+          ],
+          "bbox_points": [
+            285.6,
+            230.812,
+            489.944,
+            249.136
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B007",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Hip Abduction",
+          "body_text": "Hip Abduction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 118.18,
+          "indent_level": 5,
+          "source_line_indices": [
+            8
+          ],
+          "bbox_points": [
+            283.08,
+            252.842,
+            492.464,
+            271.166
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B008",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Hip Internal rotation",
+          "body_text": "Hip Internal rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 93.94,
+          "indent_level": 4,
+          "source_line_indices": [
+            9
+          ],
+          "bbox_points": [
+            258.84,
+            274.882,
+            516.704,
+            293.206
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B009",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Hip External rotation",
+          "body_text": "Hip External rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 94.18,
+          "indent_level": 4,
+          "source_line_indices": [
+            10
+          ],
+          "bbox_points": [
+            259.08,
+            299.036,
+            516.464,
+            315.236
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B010",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Knee Flexion",
+          "body_text": "Knee Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 124.66,
+          "indent_level": 5,
+          "source_line_indices": [
+            11
+          ],
+          "bbox_points": [
+            289.56,
+            318.942,
+            485.864,
+            337.266
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B011",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Knee Extension",
+          "body_text": "Knee Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 115.18,
+          "indent_level": 5,
+          "source_line_indices": [
+            12
+          ],
+          "bbox_points": [
+            280.08,
+            342.962,
+            495.464,
+            361.286
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B012",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Shoulder Flexion",
+          "body_text": "Shoulder Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 127.66,
+          "indent_level": 5,
+          "source_line_indices": [
+            13
+          ],
+          "bbox_points": [
+            292.56,
+            365.002,
+            482.78,
+            383.326
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B013",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Shoulder Extension",
+          "body_text": "Shoulder Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 109.18,
+          "indent_level": 5,
+          "source_line_indices": [
+            14
+          ],
+          "bbox_points": [
+            274.08,
+            387.032,
+            501.5,
+            405.356
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B014",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Shoulder Abduction",
+          "body_text": "Shoulder Abduction",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 106.66,
+          "indent_level": 4,
+          "source_line_indices": [
+            15
+          ],
+          "bbox_points": [
+            271.56,
+            409.043,
+            503.924,
+            427.391
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B015",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Shoulder Internal rotation",
+          "body_text": "Shoulder Internal rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 82.42,
+          "indent_level": 3,
+          "source_line_indices": [
+            16
+          ],
+          "bbox_points": [
+            247.32,
+            431.075,
+            528.284,
+            449.423
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B016",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Shoulder External rotation",
+          "body_text": "Shoulder External rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 80.38,
+          "indent_level": 3,
+          "source_line_indices": [
+            17
+          ],
+          "bbox_points": [
+            245.28,
+            454.782,
+            530.18,
+            473.106
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B017",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Elbow Flexion",
+          "body_text": "Elbow Flexion",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 129.22,
+          "indent_level": 5,
+          "source_line_indices": [
+            18
+          ],
+          "bbox_points": [
+            294.12,
+            476.814,
+            481.46,
+            495.138
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        },
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004-B018",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0004",
+          "slide_number": 4,
+          "content_type": "subtitle",
+          "text": "Elbow Extension",
+          "body_text": "Elbow Extension",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 121.9,
+          "indent_level": 5,
+          "source_line_indices": [
+            19
+          ],
+          "bbox_points": [
+            286.8,
+            500.97,
+            488.66,
+            517.17
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": []
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+      "slide_number": 5,
+      "title": "Shoulder Flexion & Extension",
+      "english_text": "Shoulder Flexion & Extension",
+      "raw_bilingual_text": "Shoulder Flexion & Extension 肩關節屈曲及伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0005",
+          "slide_number": 5,
+          "content_type": "slide_title",
+          "text": "Shoulder Flexion & Extension",
+          "body_text": "Shoulder Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            246.98,
+            22.704,
+            761.231,
+            51.167
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0005-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Flexion & Extension visual",
+          "pdf_page": 5,
+          "slide_number": 5,
+          "location": {
+            "bbox_points": [
+              129.6,
+              52.08,
+              830.4,
+              448.08
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+      "slide_number": 6,
+      "title": "Shoulder Abduction",
+      "english_text": "Shoulder Abduction",
+      "raw_bilingual_text": "Shoulder Abduction 肩關節外展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0006",
+          "slide_number": 6,
+          "content_type": "slide_title",
+          "text": "Shoulder Abduction",
+          "body_text": "Shoulder Abduction",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            308.04,
+            17.885,
+            652.98,
+            46.373
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0006-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Abduction visual",
+          "pdf_page": 6,
+          "slide_number": 6,
+          "location": {
+            "bbox_points": [
+              127.8,
+              54.36,
+              831.96,
+              452.28
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+      "slide_number": 7,
+      "title": "Shoulder Internal & External Rotation",
+      "english_text": "Shoulder Int & Ext Rotation",
+      "raw_bilingual_text": "Shoulder Int & Ext Rotation 肩關節內及外旋",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0007",
+          "slide_number": 7,
+          "content_type": "subtitle",
+          "text": "Shoulder Int & Ext Rotation",
+          "body_text": "Shoulder Int & Ext Rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            230.04,
+            13.964,
+            702.862,
+            42.427
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0007-C0001",
+          "visual_type": "image",
+          "name": "Shoulder Internal & External Rotation visual",
+          "pdf_page": 7,
+          "slide_number": 7,
+          "location": {
+            "bbox_points": [
+              124.2,
+              42.0,
+              835.8,
+              444.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+      "slide_number": 8,
+      "title": "Elbow Flexion & Extension",
+      "english_text": "Elbow Flexion & Extension",
+      "raw_bilingual_text": "Elbow Flexion & Extension 肘關節屈曲和伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0008",
+          "slide_number": 8,
+          "content_type": "slide_title",
+          "text": "Elbow Flexion & Extension",
+          "body_text": "Elbow Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            222.98,
+            38.034,
+            715.926,
+            66.497
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0008-C0001",
+          "visual_type": "image",
+          "name": "Elbow Flexion & Extension visual",
+          "pdf_page": 8,
+          "slide_number": 8,
+          "location": {
+            "bbox_points": [
+              132.0,
+              96.0,
+              834.0,
+              492.6
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+      "slide_number": 9,
+      "title": "Hip Flexion & Extension",
+      "english_text": "Hip Flexion & Extension",
+      "raw_bilingual_text": "Hip Flexion & Extension 髖關節屈曲及伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0009",
+          "slide_number": 9,
+          "content_type": "slide_title",
+          "text": "Hip Flexion & Extension",
+          "body_text": "Hip Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            246.98,
+            22.704,
+            708.246,
+            51.167
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0009-C0001",
+          "visual_type": "image",
+          "name": "Hip Flexion & Extension visual",
+          "pdf_page": 9,
+          "slide_number": 9,
+          "location": {
+            "bbox_points": [
+              138.36,
+              60.0,
+              839.28,
+              456.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+      "slide_number": 10,
+      "title": "Hip Abduction",
+      "english_text": "Hip Abduction",
+      "raw_bilingual_text": "Hip Abduction 髖關節外展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0010",
+          "slide_number": 10,
+          "content_type": "slide_title",
+          "text": "Hip Abduction",
+          "body_text": "Hip Abduction",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            290.18,
+            20.904,
+            581.93,
+            49.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0010-C0001",
+          "visual_type": "image",
+          "name": "Hip Abduction visual",
+          "pdf_page": 10,
+          "slide_number": 10,
+          "location": {
+            "bbox_points": [
+              126.0,
+              54.0,
+              826.92,
+              450.0
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+      "slide_number": 11,
+      "title": "Hip Internal & External Rotation",
+      "english_text": "Hip Int & Ext Rotation",
+      "raw_bilingual_text": "Hip Int & Ext Rotation 髖關節內及外旋",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0011",
+          "slide_number": 11,
+          "content_type": "subtitle",
+          "text": "Hip Int & Ext Rotation",
+          "body_text": "Hip Int & Ext Rotation",
+          "marker": null,
+          "marker_source": null,
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            234.98,
+            21.904,
+            654.77,
+            50.367
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0011-C0001",
+          "visual_type": "image",
+          "name": "Hip Internal & External Rotation visual",
+          "pdf_page": 11,
+          "slide_number": 11,
+          "location": {
+            "bbox_points": [
+              129.6,
+              53.88,
+              830.4,
+              449.88
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    },
+    {
+      "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+      "slide_number": 12,
+      "title": "Knee Flexion & Extension",
+      "english_text": "Knee Flexion & Extension",
+      "raw_bilingual_text": "Knee Flexion & Extension 膝關節屈曲及伸展",
+      "blocks": [
+        {
+          "block_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012-B001",
+          "source_page_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-P0012",
+          "slide_number": 12,
+          "content_type": "slide_title",
+          "text": "Knee Flexion & Extension",
+          "body_text": "Knee Flexion & Extension",
+          "marker": null,
+          "marker_source": "manual-title-line-reconstruction",
+          "indent_points": 0.0,
+          "indent_level": 0,
+          "source_line_indices": [
+            0
+          ],
+          "bbox_points": [
+            222.98,
+            40.534,
+            699.126,
+            68.997
+          ],
+          "language": "en",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified",
+          "content_source": "embedded-pdf-text"
+        }
+      ],
+      "visual_ids": [
+        "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "visual_placeholders": [
+        {
+          "visual_id": "HHS4867-L07-JOINT-RANGE-OF-MOTION-VIS-P0012-C0001",
+          "visual_type": "image",
+          "name": "Knee Flexion & Extension visual",
+          "pdf_page": 12,
+          "slide_number": 12,
+          "location": {
+            "bbox_points": [
+              117.0,
+              98.16,
+              837.0,
+              504.96
+            ],
+            "bbox_px": null,
+            "coordinate_origin": "top-left",
+            "location_source": "mutool-trace-embedded-image-object"
+          },
+          "policy": "metadata_only",
+          "status": "generated_not_verified",
+          "verification_status": "generated_not_verified"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 12,
+    "blocks": 42,
+    "list_items": 9
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

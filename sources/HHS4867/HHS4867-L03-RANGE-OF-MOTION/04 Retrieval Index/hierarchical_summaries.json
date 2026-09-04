@@ -1,0 +1,114 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "hierarchical_summaries",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L03-RANGE-OF-MOTION",
+  "processing_order": [
+    "slide",
+    "part",
+    "document",
+    "course"
+  ],
+  "units": [
+    {
+      "unit_id": "HHS4867-L03-RANGE-OF-MOTION-PART01",
+      "level": "part",
+      "document_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+      "parent_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "slide_start": 1,
+      "slide_end": 8,
+      "source_page_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0001",
+        "HHS4867-L03-RANGE-OF-MOTION-P0002",
+        "HHS4867-L03-RANGE-OF-MOTION-P0003",
+        "HHS4867-L03-RANGE-OF-MOTION-P0004",
+        "HHS4867-L03-RANGE-OF-MOTION-P0005",
+        "HHS4867-L03-RANGE-OF-MOTION-P0006",
+        "HHS4867-L03-RANGE-OF-MOTION-P0007",
+        "HHS4867-L03-RANGE-OF-MOTION-P0008"
+      ],
+      "summary": "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint. Each specific joint has a normal range of motion that is expressed in degrees. Universal goniometer is commonly used for measuring ROM. Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1. Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°.",
+      "summary_sentences": [
+        "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint.",
+        "Each specific joint has a normal range of motion that is expressed in degrees.",
+        "Universal goniometer is commonly used for measuring ROM.",
+        "Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1.",
+        "Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°."
+      ],
+      "summary_method": "extractive_source_sentences_at_part_candidate",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-L03-RANGE-OF-MOTION",
+      "level": "document",
+      "title": "Lecture 3 - Measurement of Range of Motion (ROM)",
+      "parent_id": "HHS4867-COURSE",
+      "slide_start": 1,
+      "slide_end": 8,
+      "source_page_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0001",
+        "HHS4867-L03-RANGE-OF-MOTION-P0002",
+        "HHS4867-L03-RANGE-OF-MOTION-P0003",
+        "HHS4867-L03-RANGE-OF-MOTION-P0004",
+        "HHS4867-L03-RANGE-OF-MOTION-P0005",
+        "HHS4867-L03-RANGE-OF-MOTION-P0006",
+        "HHS4867-L03-RANGE-OF-MOTION-P0007",
+        "HHS4867-L03-RANGE-OF-MOTION-P0008"
+      ],
+      "summary": "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint. Each specific joint has a normal range of motion that is expressed in degrees. Universal goniometer is commonly used for measuring ROM. Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1. Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°. The axis is at the center of the body that allows the moving arm to move freely on the body of the device. The axis and body is placed over the joint being measured. The stationary arm will be aligned with the inactive part of the joint measured while the moving arm is placed on the part of the limb, which is moved in the joint’s motion.",
+      "summary_sentences": [
+        "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint.",
+        "Each specific joint has a normal range of motion that is expressed in degrees.",
+        "Universal goniometer is commonly used for measuring ROM.",
+        "Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1.",
+        "Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°.",
+        "The axis is at the center of the body that allows the moving arm to move freely on the body of the device.",
+        "The axis and body is placed over the joint being measured.",
+        "The stationary arm will be aligned with the inactive part of the joint measured while the moving arm is placed on the part of the limb, which is moved in the joint’s motion."
+      ],
+      "summary_method": "extractive_child_part_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-PART01"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "unit_id": "HHS4867-COURSE",
+      "level": "course",
+      "title": "HHS4867 - Functional Movement Science",
+      "parent_id": null,
+      "source_page_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION-P0001",
+        "HHS4867-L03-RANGE-OF-MOTION-P0002",
+        "HHS4867-L03-RANGE-OF-MOTION-P0003",
+        "HHS4867-L03-RANGE-OF-MOTION-P0004",
+        "HHS4867-L03-RANGE-OF-MOTION-P0005",
+        "HHS4867-L03-RANGE-OF-MOTION-P0006",
+        "HHS4867-L03-RANGE-OF-MOTION-P0007",
+        "HHS4867-L03-RANGE-OF-MOTION-P0008"
+      ],
+      "summary": "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint. Each specific joint has a normal range of motion that is expressed in degrees. Universal goniometer is commonly used for measuring ROM. Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1. Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°. The axis is at the center of the body that allows the moving arm to move freely on the body of the device. The axis and body is placed over the joint being measured. The stationary arm will be aligned with the inactive part of the joint measured while the moving arm is placed on the part of the limb, which is moved in the joint’s motion.",
+      "summary_sentences": [
+        "Functional Movement Science (HAS4867) Measurement of Range of Motion (ROM) Range of Motion can be defined as the amount of motion available at a joint.",
+        "Each specific joint has a normal range of motion that is expressed in degrees.",
+        "Universal goniometer is commonly used for measuring ROM.",
+        "Universal Goniometer A universal goniometer is made of metal or plastic and it has three parts: 1.",
+        "Moving arm The body of the goniometer is like a protractor and may form a full or half circle, with the scale from 0 - 180° or 360°.",
+        "The axis is at the center of the body that allows the moving arm to move freely on the body of the device.",
+        "The axis and body is placed over the joint being measured.",
+        "The stationary arm will be aligned with the inactive part of the joint measured while the moving arm is placed on the part of the limb, which is moved in the joint’s motion."
+      ],
+      "summary_method": "extractive_child_document_summary_merge",
+      "child_summary_ids": [
+        "HHS4867-L03-RANGE-OF-MOTION"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

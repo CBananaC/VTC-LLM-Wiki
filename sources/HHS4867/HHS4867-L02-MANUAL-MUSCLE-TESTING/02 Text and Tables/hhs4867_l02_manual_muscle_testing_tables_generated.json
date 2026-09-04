@@ -1,0 +1,1826 @@
+{
+  "schema_version": "vtc-hhs4867-slide-deck.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS4867",
+  "source_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+  "source": {
+    "filename": "04 - 2. Manual Muscle Testing.pdf",
+    "path": "/Users/creamybanana/Downloads/Movement Science/02 Lectures/04 - 2. Manual Muscle Testing.pdf",
+    "package_source_path": "/Users/creamybanana/Downloads/VTC LLM Wiki/sources/HHS4867/HHS4867-L02-MANUAL-MUSCLE-TESTING/00 Source/04 - 2. Manual Muscle Testing.pdf",
+    "sha256": "sha256:5166af5744e2e60aae249febc412885fb3d343aae9f65533b9b4cf86cac380ff",
+    "size_bytes": 309550,
+    "pdf_page_count": 8,
+    "pdfinfo": {
+      "Title": "Microsoft Word - Manual Muscle Testing .docx",
+      "Keywords": "",
+      "Creator": "Word",
+      "Producer": "Mac OS X 10.11.2 Quartz PDFContext",
+      "CreationDate": "Sun Nov 13 23:53:02 2016 HKT",
+      "ModDate": "Sun Nov 13 23:53:02 2016 HKT",
+      "Custom Metadata": "yes",
+      "Metadata Stream": "no",
+      "Tagged": "no",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 8,
+      "Encrypted": "no",
+      "Page size": "595.28 x 841.89 pts (A4)",
+      "Page rot": "0",
+      "File size": 309550,
+      "Optimized": "no",
+      "PDF version": "1.3"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used",
+    "layout_engine": "not_run; MuPDF image trace and pdfplumber table grid used",
+    "visual_text_policy": "Non-table visual contents were not separately OCRed or reconstructed."
+  },
+  "tables": [
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0001-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0001-T01",
+      "name": "Table on slide 1: Lecture 2 - Manual Muscle Testing (MMT)",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "bbox_points": [
+        85.069,
+        492.7,
+        501.606,
+        761.38
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": " | Shoulder Joint | \n1. Shoulder flexion |  | \nSubject Test Position Sitting with arm by the side Action Ask the subject to raise arm up to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s scapula and gives the resistance above the elbow The MMT grading is: Grade 3 - if the subject can hold the test position only Grade 4 - if the subject can hold the position against moderate resistance Grade 5 – if the subject can hold the position against full resistance Gravity Eliminated Position Side lying with the testing arm supported by the examiner, and check the |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Shoulder Joint",
+                "raw_text": "Shoulder Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "1. Shoulder flexion",
+                "raw_text": "1. Shoulder flexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting with arm by the side Action Ask the subject to raise arm up to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s scapula and gives the resistance above the elbow The MMT grading is: Grade 3 - if the subject can hold the test position only Grade 4 - if the subject can hold the position against moderate resistance Grade 5 – if the subject can hold the position against full resistance Gravity Eliminated Position Side lying with the testing arm supported by the examiner, and check the",
+                "raw_text": "Subject Test Position Sitting with arm by the side Action Ask the subject to raise arm up to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s scapula and gives the resistance above the elbow The MMT grading is: Grade 3 - if the subject can hold the test position only Grade 4 - if the subject can hold the position against moderate resistance Grade 5 – if the subject can hold the position against full resistance Gravity Eliminated Position Side lying with the testing arm supported by the examiner, and check the",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Shoulder Joint",
+            "raw_text": "Shoulder Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Shoulder flexion",
+            "raw_text": "1. Shoulder flexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting with arm by the side Action Ask the subject to raise arm up to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s scapula and gives the resistance above the elbow The MMT grading is: Grade 3 - if the subject can hold the test position only Grade 4 - if the subject can hold the position against moderate resistance Grade 5 – if the subject can hold the position against full resistance Gravity Eliminated Position Side lying with the testing arm supported by the examiner, and check the",
+            "raw_text": "Subject Test Position Sitting with arm by the side Action Ask the subject to raise arm up to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s scapula and gives the resistance above the elbow The MMT grading is: Grade 3 - if the subject can hold the test position only Grade 4 - if the subject can hold the position against moderate resistance Grade 5 – if the subject can hold the position against full resistance Gravity Eliminated Position Side lying with the testing arm supported by the examiner, and check the"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0001",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    },
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0003-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0003-T01",
+      "name": "Table on slide 3: Slide 3",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "bbox_points": [
+        85.032,
+        72.82,
+        501.624,
+        765.7
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": "5. Shoulder External Rotation |  | \nSubject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to swing arm forward to almost end range, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Sitting with the testing arm by the side of body, elbow flexed to 90°, and check the subject whether he/she can do a full ROM or not (Grade 2) |  | \n | Elbow Joint | \n1. Elbow Flexion |  | \nSubject Test Position Sitting with arm by the side Action Ask the subject to bend the elbow to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s shoulder and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the table or not (Grade 2) |  | \n2. Elbow Extension |  | \nSubject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to fully extend the elbow, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the plinth or not (Grade 2) |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "5. Shoulder External Rotation",
+                "raw_text": "5. Shoulder External Rotation",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to swing arm forward to almost end range, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Sitting with the testing arm by the side of body, elbow flexed to 90°, and check the subject whether he/she can do a full ROM or not (Grade 2)",
+                "raw_text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to swing arm forward to almost end range, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Sitting with the testing arm by the side of body, elbow flexed to 90°, and check the subject whether he/she can do a full ROM or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Elbow Joint",
+                "raw_text": "Elbow Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "1. Elbow Flexion",
+                "raw_text": "1. Elbow Flexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting with arm by the side Action Ask the subject to bend the elbow to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s shoulder and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the table or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting with arm by the side Action Ask the subject to bend the elbow to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s shoulder and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the table or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "2. Elbow Extension",
+                "raw_text": "2. Elbow Extension",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to fully extend the elbow, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the plinth or not (Grade 2)",
+                "raw_text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to fully extend the elbow, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the plinth or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "5. Shoulder External Rotation",
+            "raw_text": "5. Shoulder External Rotation"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to swing arm forward to almost end range, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Sitting with the testing arm by the side of body, elbow flexed to 90°, and check the subject whether he/she can do a full ROM or not (Grade 2)",
+            "raw_text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to swing arm forward to almost end range, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Sitting with the testing arm by the side of body, elbow flexed to 90°, and check the subject whether he/she can do a full ROM or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Elbow Joint",
+            "raw_text": "Elbow Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Elbow Flexion",
+            "raw_text": "1. Elbow Flexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting with arm by the side Action Ask the subject to bend the elbow to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s shoulder and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the table or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting with arm by the side Action Ask the subject to bend the elbow to 90°, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s shoulder and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the table or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "2. Elbow Extension",
+            "raw_text": "2. Elbow Extension"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to fully extend the elbow, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the plinth or not (Grade 2)",
+            "raw_text": "Subject Test Position Prone lying with arm abducting to 90°, elbow flexed to 90°, with palm facing backward Action Ask the subject to fully extend the elbow, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s humerus and gives the resistance above the wrist Gravity Eliminated Position Supine lying with the arm abducted to 90° & shoulder externally rotated, check the subject whether he/she can slide the forearm along the plinth or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0003",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    },
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0004-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0004-T01",
+      "name": "Table on slide 4: Slide 4",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "bbox_points": [
+        85.06,
+        72.94,
+        501.61,
+        765.7
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": " | Wrist Joint | \n1. Wrist Flexion |  | \nSubject Test Position Sitting with forearm supinated, resting on the table Action Ask the subject to flex the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the palmar surface of hand Gravity Eliminated Position Ask the subject to flex the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2) |  | \n2. Wrist Extension |  | \nSubject Test Position Sitting with forearm pronated, resting on the table Action Ask the subject to extend the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the dorsal surface of the hand Gravity Eliminated Position Ask the subject to extend the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2) |  | \n | Hand grip strength | \nDynamometer is a tool that widely used for measuring handgrip strength. Subject Test Position Sitting with arm by the side of body, elbow flexed at 90°, forearm in neutral position Action Ask the subject to grip the Dynamometer with maximum strength. |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Wrist Joint",
+                "raw_text": "Wrist Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "1. Wrist Flexion",
+                "raw_text": "1. Wrist Flexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting with forearm supinated, resting on the table Action Ask the subject to flex the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the palmar surface of hand Gravity Eliminated Position Ask the subject to flex the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting with forearm supinated, resting on the table Action Ask the subject to flex the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the palmar surface of hand Gravity Eliminated Position Ask the subject to flex the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "2. Wrist Extension",
+                "raw_text": "2. Wrist Extension",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting with forearm pronated, resting on the table Action Ask the subject to extend the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the dorsal surface of the hand Gravity Eliminated Position Ask the subject to extend the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting with forearm pronated, resting on the table Action Ask the subject to extend the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the dorsal surface of the hand Gravity Eliminated Position Ask the subject to extend the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Hand grip strength",
+                "raw_text": "Hand grip strength",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "Dynamometer is a tool that widely used for measuring handgrip strength. Subject Test Position Sitting with arm by the side of body, elbow flexed at 90°, forearm in neutral position Action Ask the subject to grip the Dynamometer with maximum strength.",
+                "raw_text": "Dynamometer is a tool that widely used for measuring handgrip strength. Subject Test Position Sitting with arm by the side of body, elbow flexed at 90°, forearm in neutral position Action Ask the subject to grip the Dynamometer with maximum strength.",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Wrist Joint",
+            "raw_text": "Wrist Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Wrist Flexion",
+            "raw_text": "1. Wrist Flexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting with forearm supinated, resting on the table Action Ask the subject to flex the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the palmar surface of hand Gravity Eliminated Position Ask the subject to flex the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting with forearm supinated, resting on the table Action Ask the subject to flex the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the palmar surface of hand Gravity Eliminated Position Ask the subject to flex the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "2. Wrist Extension",
+            "raw_text": "2. Wrist Extension"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting with forearm pronated, resting on the table Action Ask the subject to extend the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the dorsal surface of the hand Gravity Eliminated Position Ask the subject to extend the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting with forearm pronated, resting on the table Action Ask the subject to extend the wrist, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s forearm and gives the resistance on the dorsal surface of the hand Gravity Eliminated Position Ask the subject to extend the wrist, with the forearm supported & hand resting on the medial border, check whether he/she can slide the hand along the table or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Hand grip strength",
+            "raw_text": "Hand grip strength"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Dynamometer is a tool that widely used for measuring handgrip strength. Subject Test Position Sitting with arm by the side of body, elbow flexed at 90°, forearm in neutral position Action Ask the subject to grip the Dynamometer with maximum strength.",
+            "raw_text": "Dynamometer is a tool that widely used for measuring handgrip strength. Subject Test Position Sitting with arm by the side of body, elbow flexed at 90°, forearm in neutral position Action Ask the subject to grip the Dynamometer with maximum strength."
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0004",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    },
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0005-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0005-T01",
+      "name": "Table on slide 5: Slide 5",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "bbox_points": [
+        85.032,
+        72.94,
+        501.624,
+        765.7
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": " | Hip Joint | \n1. Hip Flexion |  | \nSubject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to flex the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance proximal to the knee Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, and the knee is allowed to flex preventing hamstrings tension. Check whether he/she can flex the hip through the range of motion or not (Grade 2) |  | \n2. Hip Extension |  | \nSubject Test Position Prone lying with legs extended Action Ask the subject to extend the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, with the testing hip flexed, knee extended. Check the subject whether he/she can do a full ROM or not (Grade 2) |  | \n3. Hip Abduction |  | \nSubject Test Position Side lying with upper leg extended, lower leg flexed Action Ask the subject to abduct the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Supine lying with the testing leg extended, and check whether he/she can do a full ROM or not (Grade 2) |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Hip Joint",
+                "raw_text": "Hip Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "1. Hip Flexion",
+                "raw_text": "1. Hip Flexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to flex the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance proximal to the knee Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, and the knee is allowed to flex preventing hamstrings tension. Check whether he/she can flex the hip through the range of motion or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to flex the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance proximal to the knee Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, and the knee is allowed to flex preventing hamstrings tension. Check whether he/she can flex the hip through the range of motion or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "2. Hip Extension",
+                "raw_text": "2. Hip Extension",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "Subject Test Position Prone lying with legs extended Action Ask the subject to extend the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, with the testing hip flexed, knee extended. Check the subject whether he/she can do a full ROM or not (Grade 2)",
+                "raw_text": "Subject Test Position Prone lying with legs extended Action Ask the subject to extend the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, with the testing hip flexed, knee extended. Check the subject whether he/she can do a full ROM or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "3. Hip Abduction",
+                "raw_text": "3. Hip Abduction",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "Subject Test Position Side lying with upper leg extended, lower leg flexed Action Ask the subject to abduct the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Supine lying with the testing leg extended, and check whether he/she can do a full ROM or not (Grade 2)",
+                "raw_text": "Subject Test Position Side lying with upper leg extended, lower leg flexed Action Ask the subject to abduct the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Supine lying with the testing leg extended, and check whether he/she can do a full ROM or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Hip Joint",
+            "raw_text": "Hip Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Hip Flexion",
+            "raw_text": "1. Hip Flexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to flex the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance proximal to the knee Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, and the knee is allowed to flex preventing hamstrings tension. Check whether he/she can flex the hip through the range of motion or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to flex the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance proximal to the knee Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, and the knee is allowed to flex preventing hamstrings tension. Check whether he/she can flex the hip through the range of motion or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "2. Hip Extension",
+            "raw_text": "2. Hip Extension"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Prone lying with legs extended Action Ask the subject to extend the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, with the testing hip flexed, knee extended. Check the subject whether he/she can do a full ROM or not (Grade 2)",
+            "raw_text": "Subject Test Position Prone lying with legs extended Action Ask the subject to extend the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Side lying with the subject’s leg supported by the examiner, with the testing hip flexed, knee extended. Check the subject whether he/she can do a full ROM or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "3. Hip Abduction",
+            "raw_text": "3. Hip Abduction"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Side lying with upper leg extended, lower leg flexed Action Ask the subject to abduct the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Supine lying with the testing leg extended, and check whether he/she can do a full ROM or not (Grade 2)",
+            "raw_text": "Subject Test Position Side lying with upper leg extended, lower leg flexed Action Ask the subject to abduct the hip through range of motion, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the knee joint Gravity Eliminated Position Supine lying with the testing leg extended, and check whether he/she can do a full ROM or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0005",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    },
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0006-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0006-T01",
+      "name": "Table on slide 6: Slide 6",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "bbox_points": [
+        85.032,
+        72.82,
+        501.624,
+        765.7
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": "4. Hip Internal Rotation |  | \nSubject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to internally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can internally rotate the hip or not (Grade 2) |  | \n5. Hip External Rotation |  | \nSubject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to externally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can externally rotate the hip or not (Grade 2) |  | \n | Knee Joint | \n1. Knee Flexion |  | \nSubject Test Position Prone lying with legs extended Action Ask the subject to flex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to flex the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2) |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "4. Hip Internal Rotation",
+                "raw_text": "4. Hip Internal Rotation",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to internally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can internally rotate the hip or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to internally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can internally rotate the hip or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "5. Hip External Rotation",
+                "raw_text": "5. Hip External Rotation",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to externally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can externally rotate the hip or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to externally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can externally rotate the hip or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Knee Joint",
+                "raw_text": "Knee Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "1. Knee Flexion",
+                "raw_text": "1. Knee Flexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "Subject Test Position Prone lying with legs extended Action Ask the subject to flex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to flex the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+                "raw_text": "Subject Test Position Prone lying with legs extended Action Ask the subject to flex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to flex the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "4. Hip Internal Rotation",
+            "raw_text": "4. Hip Internal Rotation"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to internally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can internally rotate the hip or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to internally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can internally rotate the hip or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "5. Hip External Rotation",
+            "raw_text": "5. Hip External Rotation"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to externally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can externally rotate the hip or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to externally rotate the hip, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Supine lying with testing leg extended, and check whether he/she can externally rotate the hip or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Knee Joint",
+            "raw_text": "Knee Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Knee Flexion",
+            "raw_text": "1. Knee Flexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Prone lying with legs extended Action Ask the subject to flex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to flex the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+            "raw_text": "Subject Test Position Prone lying with legs extended Action Ask the subject to flex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the subject’s pelvis and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to flex the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0006",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    },
+    {
+      "table_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-TBL-P0007-C01",
+      "visual_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-VIS-P0007-T01",
+      "name": "Table on slide 7: Slide 7",
+      "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "bbox_points": [
+        85.032,
+        72.82,
+        501.624,
+        765.7
+      ],
+      "coordinate_origin": "top-left",
+      "content": {
+        "text": "2. Knee Extension |  | \nSubject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to extend the knee through range of motion without knee locking, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to extend the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2) |  | \n | Ankle Joint | \n1. Dorsiflexion |  | \nSubject Test Position Sitting on high plinth, legs over the edge of the plinth with ankle plantarflexed Action Ask the subject to dorsiflex the ankle, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the leg and gives the resistance on the dorsal surface of the foot Gravity Eliminated Position Ask the subject to dorsiflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2) |  | \n2. Plantarflexion |  | \nSubject Test Position Prone lying with legs extended, feet over the edge of plinth Action Ask the subject to plantarflex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance against the forefoot as well as the calcaneus Gravity Eliminated Position Ask the subject to plantarflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2) |  | ",
+        "rows": [
+          {
+            "row_index": 0,
+            "cells": [
+              {
+                "text": "2. Knee Extension",
+                "raw_text": "2. Knee Extension",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 1,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to extend the knee through range of motion without knee locking, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to extend the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to extend the knee through range of motion without knee locking, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to extend the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 2,
+            "cells": [
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "Ankle Joint",
+                "raw_text": "Ankle Joint",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 3,
+            "cells": [
+              {
+                "text": "1. Dorsiflexion",
+                "raw_text": "1. Dorsiflexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 4,
+            "cells": [
+              {
+                "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth with ankle plantarflexed Action Ask the subject to dorsiflex the ankle, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the leg and gives the resistance on the dorsal surface of the foot Gravity Eliminated Position Ask the subject to dorsiflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+                "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth with ankle plantarflexed Action Ask the subject to dorsiflex the ankle, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the leg and gives the resistance on the dorsal surface of the foot Gravity Eliminated Position Ask the subject to dorsiflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 5,
+            "cells": [
+              {
+                "text": "2. Plantarflexion",
+                "raw_text": "2. Plantarflexion",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_index": 6,
+            "cells": [
+              {
+                "text": "Subject Test Position Prone lying with legs extended, feet over the edge of plinth Action Ask the subject to plantarflex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance against the forefoot as well as the calcaneus Gravity Eliminated Position Ask the subject to plantarflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+                "raw_text": "Subject Test Position Prone lying with legs extended, feet over the edge of plinth Action Ask the subject to plantarflex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance against the forefoot as well as the calcaneus Gravity Eliminated Position Ask the subject to plantarflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+                "column_index": 0,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 1,
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "text": "",
+                "raw_text": "",
+                "column_index": 2,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ]
+      },
+      "raw_table_rows_preserved": [
+        [
+          {
+            "text": "2. Knee Extension",
+            "raw_text": "2. Knee Extension"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to extend the knee through range of motion without knee locking, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to extend the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth Action Ask the subject to extend the knee through range of motion without knee locking, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the thigh and gives the resistance proximal to the ankle joint Gravity Eliminated Position Ask the subject to extend the knee in side lying position, with the upper leg supported by the examiner, the testing leg on the plinth, and see whether he/she can slide the leg along the plinth or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "Ankle Joint",
+            "raw_text": "Ankle Joint"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "1. Dorsiflexion",
+            "raw_text": "1. Dorsiflexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth with ankle plantarflexed Action Ask the subject to dorsiflex the ankle, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the leg and gives the resistance on the dorsal surface of the foot Gravity Eliminated Position Ask the subject to dorsiflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+            "raw_text": "Subject Test Position Sitting on high plinth, legs over the edge of the plinth with ankle plantarflexed Action Ask the subject to dorsiflex the ankle, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner stabilizes the leg and gives the resistance on the dorsal surface of the foot Gravity Eliminated Position Ask the subject to dorsiflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "2. Plantarflexion",
+            "raw_text": "2. Plantarflexion"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ],
+        [
+          {
+            "text": "Subject Test Position Prone lying with legs extended, feet over the edge of plinth Action Ask the subject to plantarflex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance against the forefoot as well as the calcaneus Gravity Eliminated Position Ask the subject to plantarflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)",
+            "raw_text": "Subject Test Position Prone lying with legs extended, feet over the edge of plinth Action Ask the subject to plantarflex the knee, and hold the position against therapist’s manual resistance Examiner’s Resistance Examiner gives the resistance against the forefoot as well as the calcaneus Gravity Eliminated Position Ask the subject to plantarflex the ankle in side lying position, with the testing leg on the plinth, and see whether he/she can move the foot along the plinth or not (Grade 2)"
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          },
+          {
+            "text": "",
+            "raw_text": ""
+          }
+        ]
+      ],
+      "reconstruction_method": "pdfplumber-table-grid-with-English-derived-cells-and-raw-cell-text",
+      "table_reconstruction_available": true,
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "document_id": "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "document_title": "Lecture 2 - Manual Muscle Testing (MMT)",
+        "source_file": "04 - 2. Manual Muscle Testing.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "04 - 2. Manual Muscle Testing.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-P0007",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING-PART01",
+        "HHS4867-L02-MANUAL-MUSCLE-TESTING",
+        "HHS4867-COURSE"
+      ]
+    }
+  ],
+  "counts": {
+    "tables": 6
+  },
+  "no_table_result": null,
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

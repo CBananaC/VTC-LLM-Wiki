@@ -1,0 +1,1206 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4867",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0003-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Ideal Erect Posture visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          421.44,
+          78.84,
+          711.48,
+          489.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0003",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Ideal Erect Posture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0004-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0004",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Ideal Erect Posture (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          14.88,
+          96.0,
+          705.12,
+          486.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0004",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Ideal Erect Posture (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0005-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Understanding the Posture visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          380.16,
+          126.36,
+          660.6,
+          493.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0005",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Understanding the Posture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0006-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Poor Posture visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          114.0,
+          84.0,
+          641.52,
+          508.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0006",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Poor Posture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0007-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Upper body in different posture visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          12.12,
+          139.56,
+          705.36,
+          492.12
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0007",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Upper body in different posture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0008-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 8,
+      "slide_number": 8,
+      "visual_type": "image",
+      "name": "Effect of Pelvic Tilt on lower body posture visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          36.0,
+          126.0,
+          684.0,
+          498.96
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 8,
+        "page_number_type": "slide_number",
+        "slide_number": 8,
+        "pdf_page": 8,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 8 (PDF p. 8)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0008",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Effect of Pelvic Tilt on lower body posture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0009-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Elbow - Carrying angle visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          401.64,
+          28.32,
+          704.04,
+          536.52
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0009",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Elbow - Carrying angle"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0010-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 10,
+      "slide_number": 10,
+      "visual_type": "image",
+      "name": "Hip / Knee - Q angle visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          504.0,
+          90.0,
+          699.84,
+          437.88
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 10,
+        "page_number_type": "slide_number",
+        "slide_number": 10,
+        "pdf_page": 10,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 10 (PDF p. 10)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0010",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Hip / Knee - Q angle"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0011-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Hip / Knee - Genu Varum and Genu Valgum visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          341.16,
+          124.68,
+          678.96,
+          409.2
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0011",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Hip / Knee - Genu Varum and Genu Valgum"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0012-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Foot visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          82.2,
+          153.12,
+          643.44,
+          522.24
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0012",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Foot"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0013-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Foot (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          127.56,
+          162.24,
+          548.04,
+          491.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0013",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Foot (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0014-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 14,
+      "slide_number": 14,
+      "visual_type": "image",
+      "name": "Postural Assessment: Tools visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          429.72,
+          122.64,
+          683.4,
+          506.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 14,
+        "page_number_type": "slide_number",
+        "slide_number": 14,
+        "pdf_page": 14,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 14 (PDF p. 14)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0014",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Postural Assessment: Tools"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0015-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Postural Assessment: Views visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          235.32,
+          133.92,
+          697.08,
+          496.8
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0015",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Postural Assessment: Views"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0016-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Postural Assessment: Analysis visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          11.04,
+          127.32,
+          711.48,
+          477.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0016",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0016",
+        "HHS4867-L06-POSTURAL-GAIT-PART01",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Postural features and assessment",
+          "Postural Assessment: Analysis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0018-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 18,
+      "slide_number": 18,
+      "visual_type": "image",
+      "name": "Gait cycle visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          5.52,
+          228.0,
+          713.52,
+          486.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 18,
+        "page_number_type": "slide_number",
+        "slide_number": 18,
+        "pdf_page": 18,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 18 (PDF p. 18)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0018",
+        "HHS4867-L06-POSTURAL-GAIT-PART02",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Gait fundamentals",
+          "Gait cycle"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0021-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Stride length visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          108.0,
+          276.12,
+          595.32,
+          485.64
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0021",
+        "HHS4867-L06-POSTURAL-GAIT-PART02",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Gait fundamentals",
+          "Stride length"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0026-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0026",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Spastic hemiplegia (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          6.0,
+          72.0,
+          714.0,
+          472.08
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0026",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Pathological gait",
+          "Spastic hemiplegia (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0028-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0028",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "image",
+      "name": "Spastic diplegia (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          210.0,
+          9.84,
+          504.0,
+          530.16
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0028",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Pathological gait",
+          "Spastic diplegia (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Shuffling gait (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          462.0,
+          86.4,
+          704.52,
+          429.6
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Pathological gait",
+          "Shuffling gait (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0030-C0002",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Shuffling gait (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          24.0,
+          102.0,
+          440.04,
+          414.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0030",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Pathological gait",
+          "Shuffling gait (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0032-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0032",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Trendelenburg Gait (visual) visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          114.0,
+          39.0,
+          588.0,
+          501.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0032",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0032",
+        "HHS4867-L06-POSTURAL-GAIT-PART03",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Pathological gait",
+          "Trendelenburg Gait (visual)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    },
+    {
+      "visual_id": "HHS4867-L06-POSTURAL-GAIT-VIS-P0034-C0001",
+      "table_id": null,
+      "document_id": "HHS4867-L06-POSTURAL-GAIT",
+      "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+      "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+      "pdf_page": 34,
+      "slide_number": 34,
+      "visual_type": "image",
+      "name": "Timed up and Go test visual",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.36,
+          133.44,
+          720.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "detection_note": "Non-table visual; visual contents were not separately OCRed or reconstructed.",
+      "page_reference": {
+        "source_page_id": "HHS4867-L06-POSTURAL-GAIT-P0034",
+        "document_id": "HHS4867-L06-POSTURAL-GAIT",
+        "document_title": "Lecture 6 - Postural Assessment and Gait",
+        "source_file": "19 - 6. Postural and Gait 姿勢及步態評估.pdf",
+        "page_number": 34,
+        "page_number_type": "slide_number",
+        "slide_number": 34,
+        "pdf_page": 34,
+        "formatted": "19 - 6. Postural and Gait 姿勢及步態評估.pdf, slide 34 (PDF p. 34)"
+      },
+      "section_ids": [
+        "HHS4867-L06-POSTURAL-GAIT-P0034",
+        "HHS4867-L06-POSTURAL-GAIT-PART04",
+        "HHS4867-L06-POSTURAL-GAIT",
+        "HHS4867-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4867 - Functional Movement Science",
+          "Lecture 6 - Postural Assessment and Gait",
+          "Functional mobility tests",
+          "Timed up and Go test"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null
+    }
+  ],
+  "counts": {
+    "visuals": 22,
+    "tables": 0,
+    "non_tables": 22
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}
