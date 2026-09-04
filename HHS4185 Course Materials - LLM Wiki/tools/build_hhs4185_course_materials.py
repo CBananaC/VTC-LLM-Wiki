@@ -492,16 +492,22 @@ def caption_near(page: dict[str, Any], bbox: list[float]) -> str | None:
 
 
 def source_page_reference(document: dict[str, Any], page: dict[str, Any]) -> dict[str, Any]:
+    source_type = str(document.get("source_type", "lecture"))
+    is_slide = source_type in {"lecture", "workshop", "tutorial"}
+    if is_slide:
+        formatted = f"{document['file_name']}, slide {page['pdf_page']} (PDF p. {page['pdf_page']})"
+    else:
+        formatted = f"{document['file_name']}, PDF p. {page['pdf_page']}"
     return {
         "source_page_id": page["source_page_id"],
         "document_id": document["document_id"],
         "document_title": document["title"],
         "source_file": document["file_name"],
         "page_number": page["pdf_page"],
-        "page_number_type": "slide_number",
-        "slide_number": page["pdf_page"],
+        "page_number_type": "slide_number" if is_slide else "pdf_page",
+        "slide_number": page["pdf_page"] if is_slide else None,
         "pdf_page": page["pdf_page"],
-        "formatted": f"{document['file_name']}, slide {page['pdf_page']} (PDF p. {page['pdf_page']})",
+        "formatted": formatted,
     }
 
 
@@ -1089,9 +1095,11 @@ def build_retrieval_indexes(documents: list[dict[str, Any]], pages: list[dict[st
     passage_lines = []
     for page in pages:
         document = next(doc for doc in documents if doc["document_id"] == page["document_id"])
+        is_slide = str(document.get("source_type", "lecture")) in {"lecture", "workshop", "tutorial"}
         page_id = page["source_page_id"]
         part_id = page_to_part.get(page_id)
-        path = ["HHS4185 - Common Rehabilitation Conditions", document["title"], summary_by_id.get(part_id, {}).get("title", ""), page.get("title_candidate") or f"Slide {page['pdf_page']}"]
+        page_label = f"Slide {page['pdf_page']}" if is_slide else f"PDF page {page['pdf_page']}"
+        path = ["HHS4185 - Common Rehabilitation Conditions", document["title"], summary_by_id.get(part_id, {}).get("title", ""), page.get("title_candidate") or page_label]
         passage_lines.append({
             "source_passage_id": f"{page_id}-PASSAGE",
             "text": derived_page_text(page),
@@ -1100,10 +1108,11 @@ def build_retrieval_indexes(documents: list[dict[str, Any]], pages: list[dict[st
             "source_file": document["file_name"],
             "source_page_ids": [page_id],
             "source_pages": [source_page_reference(document, page)],
-            "slide_number": page["pdf_page"],
+            "pdf_page": page["pdf_page"],
+            "slide_number": page["pdf_page"] if is_slide else None,
             "section_ids": [value for value in [page_id, part_id, document["document_id"], "HHS4185-COURSE"] if value],
             "section_path": [value for value in path if value],
-            "content_type": "slide_text",
+            "content_type": "slide_text" if is_slide else "page_text",
             "ocr_text": page.get("ocr_text"),
             "status": STATUS,
             "verification_status": STATUS,

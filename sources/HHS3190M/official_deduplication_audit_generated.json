@@ -1,0 +1,27 @@
+{
+  "schema_version": "vtc-hhs3190m.official-document-deduplication.v1",
+  "record_type": "official_document_deduplication_audit",
+  "course_code": "HHS3190M",
+  "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+  "scope": ["01 Official/*.pdf"],
+  "scope_note": "The three S1 SOW PDFs were compared by SHA-256. They are byte-identical, so one canonical source was registered and processed once.",
+  "candidate_file_count": 3,
+  "unique_sha256_count": 1,
+  "groups": [
+    {
+      "sha256": "sha256:c86e56d21ea776a1f0d5fa197006ce939debc4e2c09b210bc785fbdb61508b6a",
+      "canonical_path": "01 Official/01 - S1 SOW (26-27).pdf",
+      "duplicate_paths": [
+        "01 Official/02 - S1 SOW (26-27).pdf",
+        "01 Official/03 - S1 SOW (26-27).pdf"
+      ],
+      "file_count": 3,
+      "processed_source_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "duplicate_action": "process canonical path once; retain other paths as exact-byte duplicates",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

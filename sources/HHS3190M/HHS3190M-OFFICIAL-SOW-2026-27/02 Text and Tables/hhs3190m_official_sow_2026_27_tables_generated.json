@@ -1,0 +1,2249 @@
+{
+  "schema_version": "vtc-hhs3190m-official-document.v1",
+  "record_type": "lecture_table_reconstructions",
+  "book_id": "HHS3190M",
+  "source_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+  "source": {
+    "filename": "01 - S1 SOW (26-27).pdf",
+    "path": "/Users/creamybanana/Downloads/Physiology & Anatomy/01 Official/01 - S1 SOW (26-27).pdf",
+    "sha256": "sha256:c86e56d21ea776a1f0d5fa197006ce939debc4e2c09b210bc785fbdb61508b6a",
+    "pdf_page_count": 5,
+    "pdfinfo": {
+      "Author": "TSANG HIU YAN",
+      "Creator": "Microsoft® Word LTSC",
+      "Producer": "Microsoft® Word LTSC",
+      "CreationDate": "Fri Aug 28 11:10:52 2026 HKT",
+      "ModDate": "Fri Aug 28 11:10:52 2026 HKT",
+      "Custom Metadata": "no",
+      "Metadata Stream": "yes",
+      "Tagged": "yes",
+      "UserProperties": "no",
+      "Suspects": "no",
+      "Form": "none",
+      "JavaScript": "no",
+      "Pages": 5,
+      "Encrypted": "no",
+      "Page size": "595.32 x 841.92 pts (A4)",
+      "Page rot": "0",
+      "File size": 345726,
+      "Optimized": "no",
+      "PDF version": "1.7"
+    },
+    "text_extraction": "embedded PDF text with bbox coordinates",
+    "ocr_engine": "not_run; embedded PDF text and MuPDF image trace used"
+  },
+  "tables": [
+    {
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0002-01",
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0002-TABLE01",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "name": "Module Assessment Plan",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0002",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "bbox_points": [
+        35.0,
+        65.0,
+        570.0,
+        400.0
+      ],
+      "layout_grid": {
+        "row_count": 7,
+        "column_count": 4,
+        "columns": [
+          "Assessment Part (Proportion)",
+          "Assessment Items (Proportion)",
+          "MILO",
+          "Assessment Schedule"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Continuous Assessment (CA) (50%) | (1) CA Physiology Assignment (10%) | 1, 2 | Semester 2",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Continuous Assessment (CA) (50%)",
+              "language": "en",
+              "row_span": 5
+            },
+            {
+              "column_index": 1,
+              "text": "(1) CA Physiology Assignment (10%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "1, 2",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Semester 2",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": " | (2) CA Anatomy Assignment (10%) | 3, 4 | To be announced",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "",
+              "language": "en",
+              "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+            },
+            {
+              "column_index": 1,
+              "text": "(2) CA Anatomy Assignment (10%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "3, 4",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "To be announced",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": " | (3) CA Physiology Tutorial Exercises (15%) | 1, 2 | Semester 1",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "",
+              "language": "en",
+              "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+            },
+            {
+              "column_index": 1,
+              "text": "(3) CA Physiology Tutorial Exercises (15%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "1, 2",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Semester 1",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": " | (4) CA Anatomy Quiz (5%) | 3, 4 | To be announced",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "",
+              "language": "en",
+              "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+            },
+            {
+              "column_index": 1,
+              "text": "(4) CA Anatomy Quiz (5%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "3, 4",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "To be announced",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": " | (5) CA Test (10%) | 1, 2, 3, 4 | Semester 1",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "",
+              "language": "en",
+              "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+            },
+            {
+              "column_index": 1,
+              "text": "(5) CA Test (10%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "1, 2, 3, 4",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Semester 1",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 5,
+          "text": "End-of-Module Assessment (EA) (50%) | (6) EA Test (20%) | 1, 2, 3, 4 | Semester 2 (Early May)",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "End-of-Module Assessment (EA) (50%)",
+              "language": "en",
+              "row_span": 2
+            },
+            {
+              "column_index": 1,
+              "text": "(6) EA Test (20%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "1, 2, 3, 4",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Semester 2 (Early May)",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 6,
+          "text": " | (7) EA Case Study (30%) | 1, 2, 3, 4, 5 | Semester 2 (Early May)",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "",
+              "language": "en",
+              "source_cell_note": "Covered by the preceding merged End-of-Module Assessment cell."
+            },
+            {
+              "column_index": 1,
+              "text": "(7) EA Case Study (30%)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "1, 2, 3, 4, 5",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "Semester 2 (Early May)",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Continuous Assessment (CA) (50%) | (1) CA Physiology Assignment (10%) | 1, 2 | Semester 2\n | (2) CA Anatomy Assignment (10%) | 3, 4 | To be announced\n | (3) CA Physiology Tutorial Exercises (15%) | 1, 2 | Semester 1\n | (4) CA Anatomy Quiz (5%) | 3, 4 | To be announced\n | (5) CA Test (10%) | 1, 2, 3, 4 | Semester 1\nEnd-of-Module Assessment (EA) (50%) | (6) EA Test (20%) | 1, 2, 3, 4 | Semester 2 (Early May)\n | (7) EA Case Study (30%) | 1, 2, 3, 4, 5 | Semester 2 (Early May)",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Continuous Assessment (CA) (50%) | (1) CA Physiology Assignment (10%) | 1, 2 | Semester 2",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Continuous Assessment (CA) (50%)",
+                "language": "en",
+                "row_span": 5
+              },
+              {
+                "column_index": 1,
+                "text": "(1) CA Physiology Assignment (10%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "1, 2",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Semester 2",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": " | (2) CA Anatomy Assignment (10%) | 3, 4 | To be announced",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "",
+                "language": "en",
+                "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+              },
+              {
+                "column_index": 1,
+                "text": "(2) CA Anatomy Assignment (10%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "3, 4",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "To be announced",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": " | (3) CA Physiology Tutorial Exercises (15%) | 1, 2 | Semester 1",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "",
+                "language": "en",
+                "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+              },
+              {
+                "column_index": 1,
+                "text": "(3) CA Physiology Tutorial Exercises (15%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "1, 2",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Semester 1",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": " | (4) CA Anatomy Quiz (5%) | 3, 4 | To be announced",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "",
+                "language": "en",
+                "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+              },
+              {
+                "column_index": 1,
+                "text": "(4) CA Anatomy Quiz (5%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "3, 4",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "To be announced",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 4,
+            "text": " | (5) CA Test (10%) | 1, 2, 3, 4 | Semester 1",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "",
+                "language": "en",
+                "source_cell_note": "Covered by the preceding merged Continuous Assessment cell."
+              },
+              {
+                "column_index": 1,
+                "text": "(5) CA Test (10%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "1, 2, 3, 4",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Semester 1",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 5,
+            "text": "End-of-Module Assessment (EA) (50%) | (6) EA Test (20%) | 1, 2, 3, 4 | Semester 2 (Early May)",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "End-of-Module Assessment (EA) (50%)",
+                "language": "en",
+                "row_span": 2
+              },
+              {
+                "column_index": 1,
+                "text": "(6) EA Test (20%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "1, 2, 3, 4",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Semester 2 (Early May)",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 6,
+            "text": " | (7) EA Case Study (30%) | 1, 2, 3, 4, 5 | Semester 2 (Early May)",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "",
+                "language": "en",
+                "source_cell_note": "Covered by the preceding merged End-of-Module Assessment cell."
+              },
+              {
+                "column_index": 1,
+                "text": "(7) EA Case Study (30%)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "1, 2, 3, 4, 5",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "Semester 2 (Early May)",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0004-02",
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0004-TABLE02",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "name": "HHS3190M Lesson Plan",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0004",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "bbox_points": [
+        35.0,
+        80.0,
+        805.0,
+        532.0
+      ],
+      "layout_grid": {
+        "row_count": 16,
+        "column_count": 9,
+        "columns": [
+          "Week",
+          "Lecture",
+          "Physiology Tutorial 1A (Rm 352)",
+          "Physiology Tutorial 1B (Rm 352)",
+          "Physiology Tutorial 1C (Rm352)",
+          "Anatomy Workshop 1A (Rm 352)",
+          "Anatomy Workshop 1B (Rm 352)",
+          "Anatomy Workshop 1C (Rm352)",
+          "Content"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "1 | 02/09/26; 1530-1730 | --- | --- | --- | --- | --- | --- | Physiology Lecture: L1",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "1",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "02/09/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L1",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "2 | 09/09/26; 1530-1730 | --- | --- | --- | 09/09/26; 1030-1230 | 09/09/26; 0830-1030 | 08/09/26; 1330-1530 | Physiology Lecture: L1 + L2; Anatomy Workshop: L1 Terminology",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "2",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "09/09/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "09/09/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "09/09/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "08/09/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L1 + L2; Anatomy Workshop: L1 Terminology",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 2,
+          "text": "3 | --- | 15/09/26; 1030-1230 | 16/09/26; 0830-1030 | 16/09/26; 1330-1530 | --- | --- | --- | Physiology Tutorial: L2 + Ex 1",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "3",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "15/09/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "16/09/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "16/09/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Tutorial: L2 + Ex 1",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 3,
+          "text": "4 | 23/09/26; 1530-1730 | --- | --- | --- | 23/09/26; 1030-1230 | 23/09/26; 0830-1030 | 22/09/26; 1330-1530 | Anatomy Lecture: L3 LL Bones; Anatomy Workshop: L2 Bones & Joints",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "4",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "23/09/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "23/09/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "23/09/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "22/09/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: L3 LL Bones; Anatomy Workshop: L2 Bones & Joints",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 4,
+          "text": "5 | 30/09/26; 1530-1730 | 30/09/26; 1030-1230 | 30/09/26; 0830-1030 | 29/09/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4; Physiology Tutorial: L3",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "5",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "30/09/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "30/09/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "30/09/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "29/09/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L4; Physiology Tutorial: L3",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 5,
+          "text": "6 | 07/10/26; 1530-1730 | --- | --- | --- | 07/10/26; 1030-1230 | 07/10/26; 0830-1030 | 06/10/26; 1330-1530 | Anatomy Lecture: L4 UL Bones; Anatomy Workshop: WS1 Terminology",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "6",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "07/10/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "07/10/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "07/10/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "06/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: L4 UL Bones; Anatomy Workshop: WS1 Terminology",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 6,
+          "text": "7 | 14/10/26; 1030-1230 | 14/10/26; 1030-1230 | 14/10/26; 0830-1030 | 13/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4 + L5; Physiology Tutorial: CA Ex 2",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "7",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "14/10/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "14/10/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "14/10/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "13/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L4 + L5; Physiology Tutorial: CA Ex 2",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 7,
+          "text": "8 | 21/10/26; 1530-1730 | --- | --- | --- | 21/10/26; 1030-1230 | 21/10/26; 0830-1030 | 20/10/26; 1330-1530 | Anatomy Lecture: L5 Introduction of Muscles; Anatomy Workshop: WS2 Movement Analysis",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "8",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "21/10/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "21/10/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "21/10/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "20/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: L5 Introduction of Muscles; Anatomy Workshop: WS2 Movement Analysis",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 8,
+          "text": "9 | 28/10/26; 1530-1730 | 28/10/26; 1030-1230 | 28/10/26; 0830-1030 | 27/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L5; Physiology Tutorial: L5",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "9",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "28/10/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "28/10/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "28/10/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "27/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L5; Physiology Tutorial: L5",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 9,
+          "text": "10 | 04/11/26; 1530-1730 | --- | --- | --- | 04/11/26; 1030-1230 | 04/11/26; 0830-1030 | 03/11/26; 1330-1530 | Anatomy Lecture: L6 LL Muscles; Anatomy Workshop: WS3 Muscle contraction",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "10",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "04/11/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "04/11/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "04/11/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "03/11/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: L6 LL Muscles; Anatomy Workshop: WS3 Muscle contraction",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 10,
+          "text": "11 | 11/11/26; 1530-1730 | 11/11/26; 1030-1230 | 11/11/26; 0830-1030 | 10/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L6; Physiology Tutorial: CA Ex 3",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "11",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "11/11/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "11/11/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "11/11/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "10/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L6; Physiology Tutorial: CA Ex 3",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 11,
+          "text": "12 | 18/11/26; 1530-1730 | --- | --- | --- | 18/11/26; 1030-1230 | 18/11/26; 0830-1030 | 17/11/26; 1330-1530 | Anatomy Lecture: L7 UL Muscles; Anatomy Workshop: WS4 Agonist & Antagonist",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "12",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "18/11/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "18/11/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "18/11/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "17/11/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: L7 UL Muscles; Anatomy Workshop: WS4 Agonist & Antagonist",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 12,
+          "text": "13 | 25/11/26; 1530-1730 | 25/11/26; 1030-1230 | 25/11/26; 0830-1030 | 24/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L7; Physiology Tutorial: L6 + CA Ex 4",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "13",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "25/11/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "25/11/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "25/11/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "24/10/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L7; Physiology Tutorial: L6 + CA Ex 4",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 13,
+          "text": "14 | 02/12/26; 1530-1730 | --- | --- | --- | 02/12/26; 1030-1230 | 02/12/26; 0830-1030 | 01/12/26; 1330-1530 | Anatomy Lecture: Revision; Anatomy Workshop: WS5 Two Joint Muscle",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "14",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "02/12/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "02/12/26; 1030-1230",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "02/12/26; 0830-1030",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "01/12/26; 1330-1530",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: Revision; Anatomy Workshop: WS5 Two Joint Muscle",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 14,
+          "text": "15 | 09/12/26; 1530-1730 | (Reserved) | (Reserved) | (Reserved) | --- | --- | --- | Physiology Lecture: L7+ Revision",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "15",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "09/12/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Physiology Lecture: L7+ Revision",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 15,
+          "text": "16 | 16/12/26; 1530-1730 | --- | --- | --- | (Reserved) | (Reserved) | (Reserved) | Anatomy Lecture: TBC; Anatomy Workshop: TBC",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "16",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "16/12/26; 1530-1730",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 3,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 4,
+              "text": "---",
+              "language": "en"
+            },
+            {
+              "column_index": 5,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 6,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 7,
+              "text": "(Reserved)",
+              "language": "en"
+            },
+            {
+              "column_index": 8,
+              "text": "Anatomy Lecture: TBC; Anatomy Workshop: TBC",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "1 | 02/09/26; 1530-1730 | --- | --- | --- | --- | --- | --- | Physiology Lecture: L1\n2 | 09/09/26; 1530-1730 | --- | --- | --- | 09/09/26; 1030-1230 | 09/09/26; 0830-1030 | 08/09/26; 1330-1530 | Physiology Lecture: L1 + L2; Anatomy Workshop: L1 Terminology\n3 | --- | 15/09/26; 1030-1230 | 16/09/26; 0830-1030 | 16/09/26; 1330-1530 | --- | --- | --- | Physiology Tutorial: L2 + Ex 1\n4 | 23/09/26; 1530-1730 | --- | --- | --- | 23/09/26; 1030-1230 | 23/09/26; 0830-1030 | 22/09/26; 1330-1530 | Anatomy Lecture: L3 LL Bones; Anatomy Workshop: L2 Bones & Joints\n5 | 30/09/26; 1530-1730 | 30/09/26; 1030-1230 | 30/09/26; 0830-1030 | 29/09/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4; Physiology Tutorial: L3\n6 | 07/10/26; 1530-1730 | --- | --- | --- | 07/10/26; 1030-1230 | 07/10/26; 0830-1030 | 06/10/26; 1330-1530 | Anatomy Lecture: L4 UL Bones; Anatomy Workshop: WS1 Terminology\n7 | 14/10/26; 1030-1230 | 14/10/26; 1030-1230 | 14/10/26; 0830-1030 | 13/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4 + L5; Physiology Tutorial: CA Ex 2\n8 | 21/10/26; 1530-1730 | --- | --- | --- | 21/10/26; 1030-1230 | 21/10/26; 0830-1030 | 20/10/26; 1330-1530 | Anatomy Lecture: L5 Introduction of Muscles; Anatomy Workshop: WS2 Movement Analysis\n9 | 28/10/26; 1530-1730 | 28/10/26; 1030-1230 | 28/10/26; 0830-1030 | 27/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L5; Physiology Tutorial: L5\n10 | 04/11/26; 1530-1730 | --- | --- | --- | 04/11/26; 1030-1230 | 04/11/26; 0830-1030 | 03/11/26; 1330-1530 | Anatomy Lecture: L6 LL Muscles; Anatomy Workshop: WS3 Muscle contraction\n11 | 11/11/26; 1530-1730 | 11/11/26; 1030-1230 | 11/11/26; 0830-1030 | 10/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L6; Physiology Tutorial: CA Ex 3\n12 | 18/11/26; 1530-1730 | --- | --- | --- | 18/11/26; 1030-1230 | 18/11/26; 0830-1030 | 17/11/26; 1330-1530 | Anatomy Lecture: L7 UL Muscles; Anatomy Workshop: WS4 Agonist & Antagonist\n13 | 25/11/26; 1530-1730 | 25/11/26; 1030-1230 | 25/11/26; 0830-1030 | 24/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L7; Physiology Tutorial: L6 + CA Ex 4\n14 | 02/12/26; 1530-1730 | --- | --- | --- | 02/12/26; 1030-1230 | 02/12/26; 0830-1030 | 01/12/26; 1330-1530 | Anatomy Lecture: Revision; Anatomy Workshop: WS5 Two Joint Muscle\n15 | 09/12/26; 1530-1730 | (Reserved) | (Reserved) | (Reserved) | --- | --- | --- | Physiology Lecture: L7+ Revision\n16 | 16/12/26; 1530-1730 | --- | --- | --- | (Reserved) | (Reserved) | (Reserved) | Anatomy Lecture: TBC; Anatomy Workshop: TBC",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "1 | 02/09/26; 1530-1730 | --- | --- | --- | --- | --- | --- | Physiology Lecture: L1",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "1",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "02/09/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L1",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "2 | 09/09/26; 1530-1730 | --- | --- | --- | 09/09/26; 1030-1230 | 09/09/26; 0830-1030 | 08/09/26; 1330-1530 | Physiology Lecture: L1 + L2; Anatomy Workshop: L1 Terminology",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "2",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "09/09/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "09/09/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "09/09/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "08/09/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L1 + L2; Anatomy Workshop: L1 Terminology",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 2,
+            "text": "3 | --- | 15/09/26; 1030-1230 | 16/09/26; 0830-1030 | 16/09/26; 1330-1530 | --- | --- | --- | Physiology Tutorial: L2 + Ex 1",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "3",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "15/09/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "16/09/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "16/09/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Tutorial: L2 + Ex 1",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 3,
+            "text": "4 | 23/09/26; 1530-1730 | --- | --- | --- | 23/09/26; 1030-1230 | 23/09/26; 0830-1030 | 22/09/26; 1330-1530 | Anatomy Lecture: L3 LL Bones; Anatomy Workshop: L2 Bones & Joints",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "4",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "23/09/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "23/09/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "23/09/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "22/09/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: L3 LL Bones; Anatomy Workshop: L2 Bones & Joints",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 4,
+            "text": "5 | 30/09/26; 1530-1730 | 30/09/26; 1030-1230 | 30/09/26; 0830-1030 | 29/09/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4; Physiology Tutorial: L3",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "5",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "30/09/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "30/09/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "30/09/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "29/09/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L4; Physiology Tutorial: L3",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 5,
+            "text": "6 | 07/10/26; 1530-1730 | --- | --- | --- | 07/10/26; 1030-1230 | 07/10/26; 0830-1030 | 06/10/26; 1330-1530 | Anatomy Lecture: L4 UL Bones; Anatomy Workshop: WS1 Terminology",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "6",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "07/10/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "07/10/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "07/10/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "06/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: L4 UL Bones; Anatomy Workshop: WS1 Terminology",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 6,
+            "text": "7 | 14/10/26; 1030-1230 | 14/10/26; 1030-1230 | 14/10/26; 0830-1030 | 13/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L4 + L5; Physiology Tutorial: CA Ex 2",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "7",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "14/10/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "14/10/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "14/10/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "13/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L4 + L5; Physiology Tutorial: CA Ex 2",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 7,
+            "text": "8 | 21/10/26; 1530-1730 | --- | --- | --- | 21/10/26; 1030-1230 | 21/10/26; 0830-1030 | 20/10/26; 1330-1530 | Anatomy Lecture: L5 Introduction of Muscles; Anatomy Workshop: WS2 Movement Analysis",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "8",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "21/10/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "21/10/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "21/10/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "20/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: L5 Introduction of Muscles; Anatomy Workshop: WS2 Movement Analysis",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 8,
+            "text": "9 | 28/10/26; 1530-1730 | 28/10/26; 1030-1230 | 28/10/26; 0830-1030 | 27/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L5; Physiology Tutorial: L5",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "9",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "28/10/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "28/10/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "28/10/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "27/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L5; Physiology Tutorial: L5",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 9,
+            "text": "10 | 04/11/26; 1530-1730 | --- | --- | --- | 04/11/26; 1030-1230 | 04/11/26; 0830-1030 | 03/11/26; 1330-1530 | Anatomy Lecture: L6 LL Muscles; Anatomy Workshop: WS3 Muscle contraction",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "10",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "04/11/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "04/11/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "04/11/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "03/11/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: L6 LL Muscles; Anatomy Workshop: WS3 Muscle contraction",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 10,
+            "text": "11 | 11/11/26; 1530-1730 | 11/11/26; 1030-1230 | 11/11/26; 0830-1030 | 10/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L6; Physiology Tutorial: CA Ex 3",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "11",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "11/11/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "11/11/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "11/11/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "10/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L6; Physiology Tutorial: CA Ex 3",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 11,
+            "text": "12 | 18/11/26; 1530-1730 | --- | --- | --- | 18/11/26; 1030-1230 | 18/11/26; 0830-1030 | 17/11/26; 1330-1530 | Anatomy Lecture: L7 UL Muscles; Anatomy Workshop: WS4 Agonist & Antagonist",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "12",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "18/11/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "18/11/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "18/11/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "17/11/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: L7 UL Muscles; Anatomy Workshop: WS4 Agonist & Antagonist",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 12,
+            "text": "13 | 25/11/26; 1530-1730 | 25/11/26; 1030-1230 | 25/11/26; 0830-1030 | 24/10/26; 1330-1530 | --- | --- | --- | Physiology Lecture: L7; Physiology Tutorial: L6 + CA Ex 4",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "13",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "25/11/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "25/11/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "25/11/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "24/10/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L7; Physiology Tutorial: L6 + CA Ex 4",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 13,
+            "text": "14 | 02/12/26; 1530-1730 | --- | --- | --- | 02/12/26; 1030-1230 | 02/12/26; 0830-1030 | 01/12/26; 1330-1530 | Anatomy Lecture: Revision; Anatomy Workshop: WS5 Two Joint Muscle",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "14",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "02/12/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "02/12/26; 1030-1230",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "02/12/26; 0830-1030",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "01/12/26; 1330-1530",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: Revision; Anatomy Workshop: WS5 Two Joint Muscle",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 14,
+            "text": "15 | 09/12/26; 1530-1730 | (Reserved) | (Reserved) | (Reserved) | --- | --- | --- | Physiology Lecture: L7+ Revision",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "15",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "09/12/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Physiology Lecture: L7+ Revision",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 15,
+            "text": "16 | 16/12/26; 1530-1730 | --- | --- | --- | (Reserved) | (Reserved) | (Reserved) | Anatomy Lecture: TBC; Anatomy Workshop: TBC",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "16",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "16/12/26; 1530-1730",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 3,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 4,
+                "text": "---",
+                "language": "en"
+              },
+              {
+                "column_index": 5,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 6,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 7,
+                "text": "(Reserved)",
+                "language": "en"
+              },
+              {
+                "column_index": 8,
+                "text": "Anatomy Lecture: TBC; Anatomy Workshop: TBC",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    },
+    {
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0005-03",
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0005-TABLE03",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "name": "HHS3190M Teacher's Information",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0005",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "bbox_points": [
+        35.0,
+        62.0,
+        550.0,
+        170.0
+      ],
+      "layout_grid": {
+        "row_count": 2,
+        "column_count": 3,
+        "columns": [
+          "Role",
+          "Teacher",
+          "Contact"
+        ]
+      },
+      "coordinate_rows": [
+        {
+          "source_row_index": 0,
+          "text": "Physiology Teacher | Ms. Silvia Tsang (Semester 1) | Email: stsang@vtc.edu.hk; Direct Line / WhatsApp: 26123545",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Physiology Teacher",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Ms. Silvia Tsang (Semester 1)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Email: stsang@vtc.edu.hk; Direct Line / WhatsApp: 26123545",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "source_row_index": 1,
+          "text": "Anatomy Teacher | Ms. Fion Yeung (Semester 1) | Email: fionyeung@vtc.edu.hk; Direct Line: 26123592 / WhatsApp: 61878933",
+          "cells": [
+            {
+              "column_index": 0,
+              "text": "Anatomy Teacher",
+              "language": "en"
+            },
+            {
+              "column_index": 1,
+              "text": "Ms. Fion Yeung (Semester 1)",
+              "language": "en"
+            },
+            {
+              "column_index": 2,
+              "text": "Email: fionyeung@vtc.edu.hk; Direct Line: 26123592 / WhatsApp: 61878933",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "content": {
+        "text": "Physiology Teacher | Ms. Silvia Tsang (Semester 1) | Email: stsang@vtc.edu.hk; Direct Line / WhatsApp: 26123545\nAnatomy Teacher | Ms. Fion Yeung (Semester 1) | Email: fionyeung@vtc.edu.hk; Direct Line: 26123592 / WhatsApp: 61878933",
+        "rows": [
+          {
+            "source_row_index": 0,
+            "text": "Physiology Teacher | Ms. Silvia Tsang (Semester 1) | Email: stsang@vtc.edu.hk; Direct Line / WhatsApp: 26123545",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Physiology Teacher",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Ms. Silvia Tsang (Semester 1)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Email: stsang@vtc.edu.hk; Direct Line / WhatsApp: 26123545",
+                "language": "en"
+              }
+            ]
+          },
+          {
+            "source_row_index": 1,
+            "text": "Anatomy Teacher | Ms. Fion Yeung (Semester 1) | Email: fionyeung@vtc.edu.hk; Direct Line: 26123592 / WhatsApp: 61878933",
+            "cells": [
+              {
+                "column_index": 0,
+                "text": "Anatomy Teacher",
+                "language": "en"
+              },
+              {
+                "column_index": 1,
+                "text": "Ms. Fion Yeung (Semester 1)",
+                "language": "en"
+              },
+              {
+                "column_index": 2,
+                "text": "Email: fionyeung@vtc.edu.hk; Direct Line: 26123592 / WhatsApp: 61878933",
+                "language": "en"
+              }
+            ]
+          }
+        ]
+      },
+      "reconstruction_method": "manual-source-slide-structure-with-embedded-text-and-visual-review",
+      "language": "en",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified"
+    }
+  ],
+  "counts": {
+    "tables": 3
+  },
+  "no_table_result": null,
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

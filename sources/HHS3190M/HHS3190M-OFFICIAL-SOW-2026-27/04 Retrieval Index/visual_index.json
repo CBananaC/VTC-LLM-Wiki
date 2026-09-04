@@ -1,0 +1,180 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS3190M",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0002-TABLE01",
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0002-01",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0002",
+      "source_file": "01 - S1 SOW (26-27).pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "table",
+      "name": "Module Assessment Plan",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          35.0,
+          65.0,
+          570.0,
+          400.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "manual-visual-review-of-vector-table"
+      },
+      "policy": "full_table_reconstruction",
+      "detection_note": "Vector-drawn table; reconstructed from embedded English text and visual layout review.",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0002",
+        "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+        "document_title": "Semester 1 (26-27) Scheme of Module Activity",
+        "source_file": "01 - S1 SOW (26-27).pdf",
+        "page_number": 2,
+        "page_number_type": "pdf_page",
+        "slide_number": null,
+        "pdf_page": 2,
+        "formatted": "01 - S1 SOW (26-27).pdf, PDF p. 2"
+      },
+      "section_ids": [
+        "HHS3190M-OFFICIAL-SOW-2026-27-P0002",
+        "HHS3190M-OFFICIAL-SOW-2026-27-PART01",
+        "HHS3190M-OFFICIAL-SOW-2026-27",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Semester 1 (26-27) Scheme of Module Activity",
+          "Module assessment plan and pass requirements",
+          "Module Assessment Plan"
+        ]
+      ],
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../02 Text and Tables/hhs3190m_official_sow_2026_27_tables_generated.json"
+    },
+    {
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0004-TABLE02",
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0004-02",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0004",
+      "source_file": "01 - S1 SOW (26-27).pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "table",
+      "name": "HHS3190M Lesson Plan",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          35.0,
+          80.0,
+          805.0,
+          532.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "manual-visual-review-of-vector-table"
+      },
+      "policy": "full_table_reconstruction",
+      "detection_note": "Vector-drawn table; reconstructed from embedded English text and visual layout review.",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0004",
+        "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+        "document_title": "Semester 1 (26-27) Scheme of Module Activity",
+        "source_file": "01 - S1 SOW (26-27).pdf",
+        "page_number": 4,
+        "page_number_type": "pdf_page",
+        "slide_number": null,
+        "pdf_page": 4,
+        "formatted": "01 - S1 SOW (26-27).pdf, PDF p. 4"
+      },
+      "section_ids": [
+        "HHS3190M-OFFICIAL-SOW-2026-27-P0004",
+        "HHS3190M-OFFICIAL-SOW-2026-27-PART03",
+        "HHS3190M-OFFICIAL-SOW-2026-27",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Semester 1 (26-27) Scheme of Module Activity",
+          "HHS3190M lesson plan",
+          "HHS3190M Lesson Plan"
+        ]
+      ],
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../02 Text and Tables/hhs3190m_official_sow_2026_27_tables_generated.json"
+    },
+    {
+      "visual_id": "HHS3190M-OFFICIAL-SOW-2026-27-VIS-P0005-TABLE03",
+      "table_id": "HHS3190M-OFFICIAL-SOW-2026-27-TBL-P0005-03",
+      "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+      "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0005",
+      "source_file": "01 - S1 SOW (26-27).pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "table",
+      "name": "HHS3190M Teacher's Information",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          35.0,
+          62.0,
+          550.0,
+          170.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "manual-visual-review-of-vector-table"
+      },
+      "policy": "full_table_reconstruction",
+      "detection_note": "Vector-drawn table; reconstructed from embedded English text and visual layout review.",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS3190M-OFFICIAL-SOW-2026-27-P0005",
+        "document_id": "HHS3190M-OFFICIAL-SOW-2026-27",
+        "document_title": "Semester 1 (26-27) Scheme of Module Activity",
+        "source_file": "01 - S1 SOW (26-27).pdf",
+        "page_number": 5,
+        "page_number_type": "pdf_page",
+        "slide_number": null,
+        "pdf_page": 5,
+        "formatted": "01 - S1 SOW (26-27).pdf, PDF p. 5"
+      },
+      "section_ids": [
+        "HHS3190M-OFFICIAL-SOW-2026-27-P0005",
+        "HHS3190M-OFFICIAL-SOW-2026-27-PART04",
+        "HHS3190M-OFFICIAL-SOW-2026-27",
+        "HHS3190M-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
+          "Semester 1 (26-27) Scheme of Module Activity",
+          "HHS3190M teacher information",
+          "HHS3190M Teacher's Information"
+        ]
+      ],
+      "table_reconstruction_available": true,
+      "table_reconstruction_source": "../02 Text and Tables/hhs3190m_official_sow_2026_27_tables_generated.json"
+    }
+  ],
+  "counts": {
+    "visuals": 3,
+    "tables": 3,
+    "non_tables": 0
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

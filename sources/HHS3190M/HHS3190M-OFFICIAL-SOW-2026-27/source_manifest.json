@@ -29,10 +29,39 @@
     "03": "03 Analysis",
     "04": "04 Retrieval Index"
   },
-  "processing_status": "pending",
-  "verification_status": "not_verified",
-  "status": "registered",
+  "processing_status": "processed_generated_layers",
+  "verification_status": "generated_not_verified",
+  "status": "processed_generated_layers",
   "claims_index": "not_created",
   "notes": "Three source-folder PDFs were compared by SHA-256 and are byte-identical; this package preserves one canonical copy and records the duplicate filenames in the processing log.",
-  "next_step": "Run the source-type-specific extraction/OCR and layout workflow, then manually check source pages before changing verification status."
+  "next_step": "Manually review representative pages, list nesting, visual bounding boxes, page references, and any table candidates before changing verification status.",
+  "processing": {
+    "workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English pages and preserved point-form structure -> visual inventory -> table detection/reconstruction -> hierarchical summaries and keywords -> retrieval index",
+    "completed_at_hkt": "2026-09-04T08:43:52+08:00",
+    "outputs": {
+      "source_inventory": "source_manifest.json",
+      "ocr_layout": "01 OCR and Layout/hhs3190m_official_sow_2026_27_pages_ocr_layout_generated.jsonl",
+      "structure": "01 OCR and Layout/hhs3190m_official_sow_2026_27_structure_generated.json",
+      "text": "02 Text and Tables/hhs3190m_official_sow_2026_27_slides_text_generated.json",
+      "visuals": "02 Text and Tables/hhs3190m_official_sow_2026_27_visual_manifest_generated.json",
+      "tables": "02 Text and Tables/hhs3190m_official_sow_2026_27_tables_generated.json",
+      "analysis": "03 Analysis/hhs3190m_official_sow_2026_27_analysis_generated.json",
+      "summaries": "03 Analysis/hhs3190m_official_sow_2026_27_summaries_generated.json",
+      "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json",
+      "query_helper": "../../../tools/query_hhs3190m_official_sow.py"
+    },
+    "counts": {
+      "pages": 5,
+      "parts": 5,
+      "blocks": 56,
+      "concepts": 142,
+      "occurrences": 151,
+      "terms": 147,
+      "passages": 5,
+      "visuals": 3,
+      "tables": 3,
+      "quotation_candidates": 37
+    },
+    "all_derived_status": "generated_not_verified"
+  }
 }

@@ -461,10 +461,25 @@ def add_manual_table_candidates(visuals: list[dict[str, Any]], tables: list[dict
         raw_rows = candidate.get("rows", [])
         rows = []
         for row_index, raw_row in enumerate(raw_rows):
-            cells = [{"column_index": index, "text": str(value), "language": "en"} for index, value in enumerate(raw_row)]
+            cells = []
+            for index, value in enumerate(raw_row):
+                if isinstance(value, dict):
+                    cell = {
+                        "column_index": int(value.get("column_index", index)),
+                        "text": str(value.get("text", "")),
+                        "language": "en",
+                    }
+                    for span_key in ("row_span", "col_span"):
+                        if span_key in value:
+                            cell[span_key] = int(value[span_key])
+                    if "source_cell_note" in value:
+                        cell["source_cell_note"] = str(value["source_cell_note"])
+                else:
+                    cell = {"column_index": index, "text": str(value), "language": "en"}
+                cells.append(cell)
             rows.append({
                 "source_row_index": row_index,
-                "text": " | ".join(str(value) for value in raw_row),
+                "text": " | ".join(str(cell["text"]) for cell in cells),
                 "cells": cells,
             })
         visual = {
@@ -942,26 +957,51 @@ def main() -> None:
             stream.write(json.dumps(passage, ensure_ascii=False) + "\n")
     write_json(index_layer / "retrieval_index_validation_report.json", validation)
     write_json(index_layer / "hierarchical_summaries.json", {"schema_version": SCHEMA, "record_type": "hierarchical_summaries", "book_id": COURSE_CODE, "source_id": SOURCE_ID, "processing_order": ["slide", "part", "document", "course"], "units": analysis["summary_units"], "status": STATUS, "verification_status": STATUS})
+    source_type = str(DOCUMENT.get("source_type", "lecture"))
+    is_slide_source = source_type in {"lecture", "workshop", "tutorial"}
+    reference_rule = (
+        "Cite the source filename and slide number; PDF page equals slide number for this export."
+        if is_slide_source
+        else "Cite the source filename and PDF page number; retain any printed page label separately when available."
+    )
     write_json(index_layer / "formal_output_schema.json", {
         "schema_version": "vtc-hhs3190m.formal-answer.v1",
         "record_type": "formal_answer_contract",
         "required_sections": ["answer", "source_quotations", "references"],
-        "reference_rule": "Cite lecture filename and slide number; PDF page equals slide number for this export.",
+        "reference_rule": reference_rule,
         "visual_rule": "Cite visual name/type/location; reconstruct contents only for returned tables.",
         "verification_rule": "Generated text, quotations, visual mappings, and summaries require manual source-slide verification.",
         "status": STATUS,
         "verification_status": STATUS,
     })
+    retrieval_unit_key = "slides" if is_slide_source else "pages"
+    retrieval_priority = (
+        "This is primary HHS3190M course-material lecture evidence."
+        if is_slide_source
+        else "This is primary HHS3190M official-document evidence."
+    )
+    retrieval_counts = {
+        retrieval_unit_key: len(pages),
+        "parts": len(parts),
+        "blocks": sum(len(slide["blocks"]) for slide in slide_exports),
+        "concepts": len(indexes["concept_index"]["concepts"]),
+        "occurrences": len(indexes["occurrence_index"]["occurrences"]),
+        "terms": indexes["term_lookup"]["counts"]["terms"],
+        "passages": len(indexes["passage_lines"]),
+        "visuals": len(visuals),
+        "tables": len(tables),
+        "quotation_candidates": len(analysis["quotation_candidates"]),
+    }
     retrieval_manifest = {
         "schema_version": "vtc-hhs3190m.retrieval-index-manifest.v1",
         "record_type": "retrieval_index_manifest",
         "book_id": COURSE_CODE,
         "source_id": SOURCE_ID,
         "package_path": f"sources/{COURSE_CODE}/{SOURCE_ID}",
-        "index_files": {"concepts": "concept_index.json", "occurrences": "occurrence_index.json", "terms": "term_lookup.json", "passages": "passage_index.jsonl", "visuals": "visual_index.json", "structure": "structure_lookup.json", "summaries": "hierarchical_summaries.json", "formal_output": "formal_output_schema.json", "validation": "retrieval_index_validation_report.json"},
-        "source_separation": "This lecture package remains separate from other HHS3190M sources and all HHS4185 packages.",
-        "retrieval_policy": {"course_priority": "This is primary HHS3190M lecture evidence.", "source_passages_primary": True, "summaries_context_only": True, "non_table_visuals_metadata_only": True, "tables_full_reconstruction_when_detected": True, "exact_quotes_require_manual_verification": True, "claims_index": "not_created"},
-        "counts": {"slides": len(pages), "parts": len(parts), "blocks": sum(len(slide["blocks"]) for slide in slide_exports), "concepts": len(indexes["concept_index"]["concepts"]), "occurrences": len(indexes["occurrence_index"]["occurrences"]), "terms": indexes["term_lookup"]["counts"]["terms"], "passages": len(indexes["passage_lines"]), "visuals": len(visuals), "tables": len(tables), "quotation_candidates": len(analysis["quotation_candidates"])},
+        "index_files": {"concepts": "concept_index.json", "occurrences": "occurrence_index.json", "terms": "term_lookup.json", "passages": "passage_index.jsonl", "visuals": "visual_index.json", "structure": "structure_lookup.json", "summaries": "hierarchical_summaries.json", "formal_output": "formal_output_schema.json", "validation": "retrieval_index_validation_report.json", "ai_usage": "AI_USAGE_INSTRUCTIONS.md"},
+        "source_separation": "This source package remains separate from other HHS3190M sources and all HHS4185 packages.",
+        "retrieval_policy": {"course_priority": retrieval_priority, "source_passages_primary": True, "summaries_context_only": True, "non_table_visuals_metadata_only": True, "tables_full_reconstruction_when_detected": True, "exact_quotes_require_manual_verification": True, "claims_index": "not_created"},
+        "counts": retrieval_counts,
         "status": STATUS,
         "verification_status": STATUS,
     }
@@ -970,8 +1010,9 @@ def main() -> None:
     source_manifest_path = output_root / "source_manifest.json"
     source_manifest = json.loads(source_manifest_path.read_text(encoding="utf-8"))
     source_manifest.update({"processing_status": "processed_generated_layers", "verification_status": STATUS, "status": "processed_generated_layers"})
-    source_manifest["processing"] = {"workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": QUERY_HELPER_PATH}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
-    source_manifest["next_step"] = "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status."
+    unit_label = "slides" if is_slide_source else "pages"
+    source_manifest["processing"] = {"workflow": f"register -> inspect -> embedded text and PaddleOCR OCR/layout -> English {unit_label} and preserved point-form structure -> visual inventory -> table detection/reconstruction -> hierarchical summaries and keywords -> retrieval index", "completed_at_hkt": datetime.now().astimezone().isoformat(timespec="seconds"), "outputs": {"source_inventory": "source_manifest.json", "ocr_layout": f"01 OCR and Layout/{OUTPUT_STEM}_pages_ocr_layout_generated.jsonl", "structure": f"01 OCR and Layout/{OUTPUT_STEM}_structure_generated.json", "text": f"02 Text and Tables/{OUTPUT_STEM}_slides_text_generated.json", "visuals": f"02 Text and Tables/{OUTPUT_STEM}_visual_manifest_generated.json", "tables": f"02 Text and Tables/{OUTPUT_STEM}_tables_generated.json", "analysis": f"03 Analysis/{OUTPUT_STEM}_analysis_generated.json", "summaries": f"03 Analysis/{OUTPUT_STEM}_summaries_generated.json", "retrieval_index": "04 Retrieval Index/retrieval_index_manifest.json", "query_helper": QUERY_HELPER_PATH}, "counts": retrieval_manifest["counts"], "all_derived_status": STATUS}
+    source_manifest["next_step"] = f"Manually review representative {unit_label}, list nesting, visual bounding boxes, page references, and any table candidates before changing verification status."
     write_json(source_manifest_path, source_manifest)
 
     print(json.dumps({"output_root": str(output_root), "source": str(source), "source_sha256": source_hash, "counts": retrieval_manifest["counts"], "validation": validation, "status": STATUS}, ensure_ascii=False, indent=2))

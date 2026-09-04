@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Return an agent-neutral retrieval packet for any HHS3190M deck."""
+"""Return an agent-neutral retrieval packet for an HHS3190M source package."""
 
 from __future__ import annotations
 
@@ -88,7 +88,7 @@ def hit_score(hit: dict[str, Any]) -> tuple[int, int, int, str]:
 
 def formal_quote(passage: dict[str, Any]) -> dict[str, Any]:
     reference = (passage.get("source_pages") or [{}])[0]
-    return {
+    result = {
         "evidence_id": f"{passage.get('source_passage_id')}-EVIDENCE",
         "quotation": passage.get("text", ""),
         "source_passage_id": passage.get("source_passage_id"),
@@ -98,8 +98,10 @@ def formal_quote(passage: dict[str, Any]) -> dict[str, Any]:
         "quotation_status": "source_extracted_candidate",
         "verification_status": STATUS,
         "exact_quote_eligible": False,
-        "manual_source_slide_check_required": True,
     }
+    check_key = "manual_source_slide_check_required" if reference.get("page_number_type") == "slide_number" else "manual_source_page_check_required"
+    result[check_key] = True
+    return result
 
 
 def formal_visual(visual: dict[str, Any]) -> dict[str, Any]:

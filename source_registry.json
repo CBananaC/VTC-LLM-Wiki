@@ -959,13 +959,16 @@
     {
       "source_id": "HHS3190M-OFFICIAL-SOW-2026-27",
       "course_code": "HHS3190M",
+      "course_title": "HHS3190M - Human Physiology and Functional Anatomy for Rehabilitation Services",
       "source_role": "official_document",
       "source_kind": "scheme_of_module_activity",
       "title": "Semester 1 (26-27) Scheme of Module Activity",
-      "package_status": "registered",
+      "package_status": "processed_official_document",
       "package_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27",
       "source_manifest_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27/source_manifest.json",
-      "query_helper_path": null,
+      "retrieval_index_path": "sources/HHS3190M/HHS3190M-OFFICIAL-SOW-2026-27/04 Retrieval Index",
+      "query_helper_path": "tools/query_hhs3190m_official_sow.py",
+      "retrieval_group": "HHS3190M-course-first",
       "priority": 1,
       "source_files": [
         {
@@ -978,8 +981,10 @@
         }
       ],
       "source_urls": [],
-      "verification_status": "not_verified",
-      "claims_index": "not_created"
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "coverage_status": "processed_official_document",
+      "deduplication_audit_path": "sources/HHS3190M/official_deduplication_audit_generated.json"
     }
   ]
 }

@@ -17,7 +17,7 @@ VTC LLM Wiki/
 ├── HHS4185 Course Materials - LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
 ├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
-├── sources/HHS3190M/                         # eight deduplicated lecture decks
+├── sources/HHS3190M/                         # nine deduplicated course sources
 └── sources/HHS4867/
 ```
 
@@ -67,11 +67,22 @@ python3 tools/query_vtc_wiki.py \
 ```
 
 The HHS3190M packages remain separate from HHS4185. They contain the raw PDFs,
-English slide blocks with preserved point form, visual locations, reconstructed
+English derived text with preserved point form, visual locations, reconstructed
 tables where detected, hierarchical summaries, formal references, and portable
 indexes. The eight lecture-folder PDFs were byte-identical in pairs, so only
 one canonical PDF per SHA-256 group was processed; the duplicate audit is
-`sources/HHS3190M/duplicate_audit_generated.json`.
+`sources/HHS3190M/duplicate_audit_generated.json`. The official Semester 1
+Scheme of Module Activity is a separate course-priority package with its own
+three-file duplicate audit at
+`sources/HHS3190M/official_deduplication_audit_generated.json`.
+
+Query the official document directly when asking about learning outcomes,
+assessment rules, the weekly lesson plan, or teacher information:
+
+```bash
+python3 tools/query_hhs3190m_official_sow.py \
+  --query "70% attendance"
+```
 
 For the HHS4867 Functional Movement Science presentation decks:
 
