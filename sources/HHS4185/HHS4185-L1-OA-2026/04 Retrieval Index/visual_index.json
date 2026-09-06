@@ -1,0 +1,3383 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4185",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4185-L1-VIS-P0001-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0001",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L1: Orthopaedic – Joint Problems: Osteoarthritis,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          0.0,
+          720.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0001",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "01 - L1.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0001",
+        "HHS4185-L1-PART01",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Lecture cover",
+          "L1: Orthopaedic – Joint Problems: Osteoarthritis,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0001-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0001",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L1: Orthopaedic – Joint Problems: Osteoarthritis,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          245.64,
+          0.0,
+          720.0,
+          27.66
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object",
+        "raw_bbox_points": [
+          245.64,
+          -1.079,
+          720.9,
+          27.66
+        ],
+        "location_note": "Published coordinates clamped to the slide bounds; raw detector coordinates retained separately."
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0001",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "01 - L1.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0001",
+        "HHS4185-L1-PART01",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Lecture cover",
+          "L1: Orthopaedic – Joint Problems: Osteoarthritis,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0001-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0001",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L1: Orthopaedic – Joint Problems: Osteoarthritis,",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          474.72,
+          11.161,
+          624.06,
+          42.78
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0001",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "01 - L1.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0001",
+        "HHS4185-L1-PART01",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Lecture cover",
+          "L1: Orthopaedic – Joint Problems: Osteoarthritis,"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0002-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0002",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: Arthritis Overview",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          162.12,
+          203.88,
+          560.1,
+          283.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0002",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - L1.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0002",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Arthritis Overview"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0002-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0002",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 2,
+      "slide_number": 2,
+      "visual_type": "image",
+      "name": "Visual associated with: Arthritis Overview",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          241.92,
+          242.64,
+          480.42,
+          322.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0002",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 2,
+        "page_number_type": "slide_number",
+        "slide_number": 2,
+        "pdf_page": 2,
+        "formatted": "01 - L1.pdf, slide 2 (PDF p. 2)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0002",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Arthritis Overview"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0004-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0004",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 4,
+      "slide_number": 4,
+      "visual_type": "image",
+      "name": "Visual associated with: Common signs & symptoms",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          309.364,
+          415.392,
+          694.474,
+          540.0
+        ],
+        "bbox_px": [
+          644.5081176757812,
+          865.40087890625,
+          1446.821044921875,
+          1125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0004",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 4,
+        "page_number_type": "slide_number",
+        "slide_number": 4,
+        "pdf_page": 4,
+        "formatted": "01 - L1.pdf, slide 4 (PDF p. 4)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0004",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Common signs & symptoms"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0005-C0007",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0005",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: Common signs & symptoms",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          260.718,
+          399.311,
+          468.749,
+          538.921
+        ],
+        "bbox_px": [
+          543.1621704101562,
+          831.8983154296875,
+          976.5612182617188,
+          1122.75146484375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0005",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - L1.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0005",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Common signs & symptoms"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0005-C0009",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0005",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: Common signs & symptoms",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          476.818,
+          400.237,
+          691.899,
+          540.0
+        ],
+        "bbox_px": [
+          993.370849609375,
+          833.826171875,
+          1441.455810546875,
+          1125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0005",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "01 - L1.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0005",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Common signs & symptoms"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0006-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0006",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 6,
+      "slide_number": 6,
+      "visual_type": "image",
+      "name": "Visual associated with: Diagnosis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          458.46,
+          438.351,
+          620.836,
+          539.854
+        ],
+        "bbox_px": [
+          955.1260375976562,
+          913.2311401367188,
+          1293.408447265625,
+          1124.6959228515625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0006",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 6,
+        "page_number_type": "slide_number",
+        "slide_number": 6,
+        "pdf_page": 6,
+        "formatted": "01 - L1.pdf, slide 6 (PDF p. 6)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0006",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "Diagnosis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0007",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: narrowing of joint space",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          15.564,
+          173.892,
+          705.285,
+          451.77
+        ],
+        "bbox_px": [
+          32.42424011230469,
+          362.2747802734375,
+          1469.3446044921875,
+          941.1870727539062
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0007",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - L1.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0007",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "narrowing of joint space"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0007-C0012",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0007",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: narrowing of joint space",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          17.368,
+          173.583,
+          270.816,
+          451.715
+        ],
+        "bbox_px": [
+          36.18344497680664,
+          361.6304931640625,
+          564.1991577148438,
+          941.0721435546875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0007",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "01 - L1.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0007",
+        "HHS4185-L1-PART02",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Arthritis Overview",
+          "narrowing of joint space"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0009-C0015",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0009",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Osteoarthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          542.612,
+          374.333,
+          668.596,
+          498.02
+        ],
+        "bbox_px": [
+          1130.4415283203125,
+          779.861083984375,
+          1392.9073486328125,
+          1037.5421142578125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0009",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - L1.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0009",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0009-C0016",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0009",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Osteoarthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          422.412,
+          374.478,
+          534.455,
+          497.908
+        ],
+        "bbox_px": [
+          880.0239868164062,
+          780.1619873046875,
+          1113.4481201171875,
+          1037.30810546875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0009",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - L1.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0009",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0009-C0020",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0009",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Osteoarthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          422.033,
+          373.641,
+          669.58,
+          497.944
+        ],
+        "bbox_px": [
+          879.2353515625,
+          778.4195556640625,
+          1394.95849609375,
+          1037.3837890625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0009",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "01 - L1.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0009",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0011-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0011",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Progression of Osteoarthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          146.744,
+          303.888,
+          573.155,
+          479.468
+        ],
+        "bbox_px": [
+          305.7174987792969,
+          633.1009521484375,
+          1194.07373046875,
+          998.892333984375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0011",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "01 - L1.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0011",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Progression of Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0011-C0013",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0011",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "image",
+      "name": "Visual associated with: Progression of Osteoarthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          147.303,
+          304.597,
+          271.368,
+          477.208
+        ],
+        "bbox_px": [
+          306.8807067871094,
+          634.577880859375,
+          565.3504028320312,
+          994.1842041015625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0011",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "01 - L1.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0011",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Progression of Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0012-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0012",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 12,
+      "slide_number": 12,
+      "visual_type": "image",
+      "name": "Visual associated with: (OA Knee)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          229.055,
+          120.926,
+          489.692,
+          357.127
+        ],
+        "bbox_px": [
+          477.1971740722656,
+          251.9293212890625,
+          1020.1922607421875,
+          744.0148315429688
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0012",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 12,
+        "page_number_type": "slide_number",
+        "slide_number": 12,
+        "pdf_page": 12,
+        "formatted": "01 - L1.pdf, slide 12 (PDF p. 12)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0012",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "(OA Knee)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0013-C0018",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0013",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 13,
+      "slide_number": 13,
+      "visual_type": "image",
+      "name": "Visual associated with: Osteoarthritis Knee",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          37.275,
+          132.912,
+          715.792,
+          462.842
+        ],
+        "bbox_px": [
+          77.65634155273438,
+          276.90020751953125,
+          1491.23388671875,
+          964.255126953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0013",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 13,
+        "page_number_type": "slide_number",
+        "slide_number": 13,
+        "pdf_page": 13,
+        "formatted": "01 - L1.pdf, slide 13 (PDF p. 13)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0013",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Osteoarthritis Knee"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0015-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0015",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Stages of OA Knee",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          15.038,
+          52.235,
+          701.786,
+          482.761
+        ],
+        "bbox_px": [
+          31.329631805419922,
+          108.82372283935547,
+          1462.053955078125,
+          1005.7530517578125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0015",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "01 - L1.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0015",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Stages of OA Knee"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0019",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Knee Deformity",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          406.913,
+          125.672,
+          609.033,
+          423.571
+        ],
+        "bbox_px": [
+          847.7352294921875,
+          261.8166809082031,
+          1268.81884765625,
+          882.440185546875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0019",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "01 - L1.pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0019",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Knee Deformity"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0019-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0019",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Visual associated with: Knee Deformity",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          109.396,
+          125.36,
+          313.429,
+          423.982
+        ],
+        "bbox_px": [
+          227.90902709960938,
+          261.16729736328125,
+          652.9773559570312,
+          883.2947998046875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0019",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "01 - L1.pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0019",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Knee Deformity"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0021-C0013",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0021",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Visual associated with: Medications",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          338.319,
+          436.171,
+          530.984,
+          539.406
+        ],
+        "bbox_px": [
+          704.8313598632812,
+          908.688720703125,
+          1106.2158203125,
+          1123.7620849609375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0021",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "01 - L1.pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0021",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Medications"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0021-C0017",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0021",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Visual associated with: Medications",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          559.336,
+          445.86,
+          708.925,
+          515.17
+        ],
+        "bbox_px": [
+          1165.283935546875,
+          928.8743286132812,
+          1476.9263916015625,
+          1073.270751953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0021",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "01 - L1.pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0021",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Medications"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0023-C0013",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0023",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Visual associated with: Disease Management",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          404.7,
+          384.159,
+          643.159,
+          535.872
+        ],
+        "bbox_px": [
+          843.1256103515625,
+          800.33203125,
+          1339.9146728515625,
+          1116.400146484375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0023",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "01 - L1.pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0023",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Disease Management"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0026-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0026",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Joint Replacement",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          444.685,
+          239.31,
+          671.497,
+          451.738
+        ],
+        "bbox_px": [
+          926.4269409179688,
+          498.5627746582031,
+          1398.95166015625,
+          941.1209716796875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0026",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "01 - L1.pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0026",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Total Joint Replacement"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0026-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0026",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Joint Replacement",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          28.52,
+          173.231,
+          396.339,
+          439.378
+        ],
+        "bbox_px": [
+          59.41629409790039,
+          360.8981628417969,
+          825.7055053710938,
+          915.3711547851562
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0026",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "01 - L1.pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0026",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Total Joint Replacement"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0028-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0028",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "chart",
+      "name": "Visual associated with: Protection, 2019)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          228.173,
+          155.041,
+          486.218,
+          441.998
+        ],
+        "bbox_px": [
+          475.35968017578125,
+          323.0013732910156,
+          1012.9544677734375,
+          920.8291625976562
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0028",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "01 - L1.pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0028",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Protection, 2019)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0029-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0029",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "Visual associated with: Rheumatoid Arthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          136.56,
+          203.88,
+          585.66,
+          283.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0029",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "01 - L1.pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0029",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Rheumatoid Arthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0029-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0029",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "Visual associated with: Rheumatoid Arthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          203.64,
+          242.64,
+          480.42,
+          322.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0029",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "01 - L1.pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0029",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Rheumatoid Arthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0029-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0029",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 29,
+      "slide_number": 29,
+      "visual_type": "image",
+      "name": "Visual associated with: Rheumatoid Arthritis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          433.32,
+          242.64,
+          518.7,
+          322.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0029",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 29,
+        "page_number_type": "slide_number",
+        "slide_number": 29,
+        "pdf_page": 29,
+        "formatted": "01 - L1.pdf, slide 29 (PDF p. 29)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0029",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Rheumatoid Arthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          469.817,
+          326.271,
+          718.062,
+          488.094
+        ],
+        "bbox_px": [
+          978.7852783203125,
+          679.7308959960938,
+          1495.9627685546875,
+          1016.8630981445312
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          3.408,
+          315.692,
+          178.803,
+          505.892
+        ],
+        "bbox_px": [
+          7.099863052368164,
+          657.6911010742188,
+          372.5061340332031,
+          1053.94189453125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          204.693,
+          358.415,
+          452.291,
+          488.09
+        ],
+        "bbox_px": [
+          426.443115234375,
+          746.6982421875,
+          942.2730712890625,
+          1016.8536376953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0006",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          146.772,
+          113.805,
+          312.164,
+          266.337
+        ],
+        "bbox_px": [
+          305.77490234375,
+          237.0936279296875,
+          650.34130859375,
+          554.86865234375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0010",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          316.098,
+          117.198,
+          587.484,
+          266.381
+        ],
+        "bbox_px": [
+          658.537841796875,
+          244.1616668701172,
+          1223.926025390625,
+          554.9607543945312
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0032-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0032",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Common Joint Deformities in RA",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          315.85,
+          117.88,
+          411.322,
+          265.872
+        ],
+        "bbox_px": [
+          658.0210571289062,
+          245.58250427246094,
+          856.919921875,
+          553.8995361328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0032",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "01 - L1.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0032",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Common Joint Deformities in RA"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0036-C0014",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0036",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 36,
+      "slide_number": 36,
+      "visual_type": "image",
+      "name": "Visual associated with: • https://www.youtube.com/watch?v=Yc-9dfem3lM",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          366.89,
+          138.285,
+          531.434,
+          368.611
+        ],
+        "bbox_px": [
+          764.3543090820312,
+          288.09307861328125,
+          1107.1544189453125,
+          767.9397583007812
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0036",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 36,
+        "page_number_type": "slide_number",
+        "slide_number": 36,
+        "pdf_page": 36,
+        "formatted": "01 - L1.pdf, slide 36 (PDF p. 36)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0036",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "• https://www.youtube.com/watch?v=Yc-9dfem3lM"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0036-C0018",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0036",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 36,
+      "slide_number": 36,
+      "visual_type": "image",
+      "name": "Visual associated with: • https://www.youtube.com/watch?v=Yc-9dfem3lM",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          542.933,
+          161.486,
+          679.027,
+          288.613
+        ],
+        "bbox_px": [
+          1131.1104736328125,
+          336.4287414550781,
+          1414.6385498046875,
+          601.276611328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0036",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 36,
+        "page_number_type": "slide_number",
+        "slide_number": 36,
+        "pdf_page": 36,
+        "formatted": "01 - L1.pdf, slide 36 (PDF p. 36)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0036",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "• https://www.youtube.com/watch?v=Yc-9dfem3lM"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0036-C0020",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0036",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 36,
+      "slide_number": 36,
+      "visual_type": "image",
+      "name": "Visual associated with: • https://www.youtube.com/watch?v=Yc-9dfem3lM",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          29.352,
+          71.651,
+          686.373,
+          401.997
+        ],
+        "bbox_px": [
+          61.15056610107422,
+          149.27227783203125,
+          1429.9439697265625,
+          837.4940185546875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0036",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 36,
+        "page_number_type": "slide_number",
+        "slide_number": 36,
+        "pdf_page": 36,
+        "formatted": "01 - L1.pdf, slide 36 (PDF p. 36)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0036",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "• https://www.youtube.com/watch?v=Yc-9dfem3lM"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0040-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0040",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 40,
+      "slide_number": 40,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of Orthosis & Assistive Devices",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          449.599,
+          121.084,
+          630.465,
+          243.232
+        ],
+        "bbox_px": [
+          936.6644287109375,
+          252.25836181640625,
+          1313.4691162109375,
+          506.7337341308594
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0040",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 40,
+        "page_number_type": "slide_number",
+        "slide_number": 40,
+        "pdf_page": 40,
+        "formatted": "01 - L1.pdf, slide 40 (PDF p. 40)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0040",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Examples of Orthosis & Assistive Devices"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0040-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0040",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 40,
+      "slide_number": 40,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of Orthosis & Assistive Devices",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          450.143,
+          350.057,
+          630.674,
+          452.439
+        ],
+        "bbox_px": [
+          937.7988891601562,
+          729.2864379882812,
+          1313.9046630859375,
+          942.580810546875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0040",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 40,
+        "page_number_type": "slide_number",
+        "slide_number": 40,
+        "pdf_page": 40,
+        "formatted": "01 - L1.pdf, slide 40 (PDF p. 40)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0040",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Examples of Orthosis & Assistive Devices"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0040-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0040",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 40,
+      "slide_number": 40,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of Orthosis & Assistive Devices",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          73.872,
+          121.505,
+          300.168,
+          242.093
+        ],
+        "bbox_px": [
+          153.899169921875,
+          253.1353302001953,
+          625.3508911132812,
+          504.36029052734375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0040",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 40,
+        "page_number_type": "slide_number",
+        "slide_number": 40,
+        "pdf_page": 40,
+        "formatted": "01 - L1.pdf, slide 40 (PDF p. 40)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0040",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Examples of Orthosis & Assistive Devices"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0040-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0040",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 40,
+      "slide_number": 40,
+      "visual_type": "image",
+      "name": "Visual associated with: Examples of Orthosis & Assistive Devices",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          74.635,
+          298.691,
+          211.732,
+          472.529
+        ],
+        "bbox_px": [
+          155.48875427246094,
+          622.2720947265625,
+          441.10760498046875,
+          984.43505859375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0040",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 40,
+        "page_number_type": "slide_number",
+        "slide_number": 40,
+        "pdf_page": 40,
+        "formatted": "01 - L1.pdf, slide 40 (PDF p. 40)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0040",
+        "HHS4185-L1-PART04",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Rheumatoid Arthritis",
+          "Examples of Orthosis & Assistive Devices"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0043-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0043",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Visual associated with: Ankylosing Spondylitis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          113.76,
+          203.88,
+          608.46,
+          283.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0043",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "01 - L1.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0043",
+        "HHS4185-L1-PART05",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Ankylosing Spondylitis",
+          "Ankylosing Spondylitis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0043-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0043",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Visual associated with: Ankylosing Spondylitis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          222.72,
+          242.64,
+          499.5,
+          322.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0043",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "01 - L1.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0043",
+        "HHS4185-L1-PART05",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Ankylosing Spondylitis",
+          "Ankylosing Spondylitis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0048-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0048",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 48,
+      "slide_number": 48,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Joint Replacement",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          104.88,
+          203.88,
+          617.46,
+          283.38
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0048",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 48,
+        "page_number_type": "slide_number",
+        "slide_number": 48,
+        "pdf_page": 48,
+        "formatted": "01 - L1.pdf, slide 48 (PDF p. 48)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0048",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Total Joint Replacement"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0048-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0048",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 48,
+      "slide_number": 48,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Joint Replacement",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          203.64,
+          242.64,
+          518.7,
+          322.14
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0048",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 48,
+        "page_number_type": "slide_number",
+        "slide_number": 48,
+        "pdf_page": 48,
+        "formatted": "01 - L1.pdf, slide 48 (PDF p. 48)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0048",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Total Joint Replacement"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0049-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0049",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 49,
+      "slide_number": 49,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Knee Replacement (TKR)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          54.31,
+          147.708,
+          664.982,
+          469.092
+        ],
+        "bbox_px": [
+          113.14572143554688,
+          307.7249450683594,
+          1385.379150390625,
+          977.275390625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0049",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 49,
+        "page_number_type": "slide_number",
+        "slide_number": 49,
+        "pdf_page": 49,
+        "formatted": "01 - L1.pdf, slide 49 (PDF p. 49)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0049",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Total Knee Replacement (TKR)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0050-C0012",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0050",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 50,
+      "slide_number": 50,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Knee Replacement (TKR)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          387.443,
+          336.071,
+          716.756,
+          516.166
+        ],
+        "bbox_px": [
+          807.1719360351562,
+          700.147705078125,
+          1493.2421875,
+          1075.345458984375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0050",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 50,
+        "page_number_type": "slide_number",
+        "slide_number": 50,
+        "pdf_page": 50,
+        "formatted": "01 - L1.pdf, slide 50 (PDF p. 50)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0050",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Total Knee Replacement (TKR)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0053-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0053",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 53,
+      "slide_number": 53,
+      "visual_type": "image",
+      "name": "Visual associated with: Total Hip Replacement (THR)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          95.374,
+          171.748,
+          612.689,
+          449.41
+        ],
+        "bbox_px": [
+          198.6958465576172,
+          357.8084716796875,
+          1276.43603515625,
+          936.2711791992188
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0053",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 53,
+        "page_number_type": "slide_number",
+        "slide_number": 53,
+        "pdf_page": 53,
+        "formatted": "01 - L1.pdf, slide 53 (PDF p. 53)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0053",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Total Hip Replacement (THR)"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0057-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0057",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: Precautions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          350.927,
+          301.583,
+          542.311,
+          495.409
+        ],
+        "bbox_px": [
+          731.098388671875,
+          628.2981567382812,
+          1129.815185546875,
+          1032.1024169921875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0057",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "01 - L1.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0057",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Precautions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0057-C0007",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0057",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: Precautions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          350.258,
+          91.611,
+          541.074,
+          283.954
+        ],
+        "bbox_px": [
+          729.7035522460938,
+          190.85726928710938,
+          1127.2384033203125,
+          591.5716552734375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0057",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "01 - L1.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0057",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Precautions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0057-C0009",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0057",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: Precautions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          40.03,
+          94.284,
+          216.151,
+          284.279
+        ],
+        "bbox_px": [
+          83.39547729492188,
+          196.42527770996094,
+          450.3143310546875,
+          592.2486572265625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0057",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "01 - L1.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0057",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Precautions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0057-C0012",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0057",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: Precautions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          39.364,
+          302.29,
+          214.507,
+          479.112
+        ],
+        "bbox_px": [
+          82.00801849365234,
+          629.7715454101562,
+          446.8890686035156,
+          998.1495971679688
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0057",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "01 - L1.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0057",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Precautions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0057-C0014",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0057",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: Precautions",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          39.228,
+          94.289,
+          216.096,
+          478.597
+        ],
+        "bbox_px": [
+          81.72586059570312,
+          196.4362335205078,
+          450.2002868652344,
+          997.0760498046875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0057",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "01 - L1.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0057",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Precautions"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0058-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0058",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 58,
+      "slide_number": 58,
+      "visual_type": "image",
+      "name": "Visual associated with: Risk of Surgery",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          329.911,
+          365.046,
+          571.256,
+          500.296
+        ],
+        "bbox_px": [
+          687.3151245117188,
+          760.51220703125,
+          1190.1171875,
+          1042.2841796875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0058",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 58,
+        "page_number_type": "slide_number",
+        "slide_number": 58,
+        "pdf_page": 58,
+        "formatted": "01 - L1.pdf, slide 58 (PDF p. 58)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0058",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Risk of Surgery"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0058-C0015",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0058",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 58,
+      "slide_number": 58,
+      "visual_type": "image",
+      "name": "Visual associated with: Risk of Surgery",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          607.132,
+          338.929,
+          708.072,
+          516.123
+        ],
+        "bbox_px": [
+          1264.858154296875,
+          706.1019287109375,
+          1475.14990234375,
+          1075.257080078125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0058",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 58,
+        "page_number_type": "slide_number",
+        "slide_number": 58,
+        "pdf_page": 58,
+        "formatted": "01 - L1.pdf, slide 58 (PDF p. 58)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0058",
+        "HHS4185-L1-PART06",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Total Joint Replacement",
+          "Risk of Surgery"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    {
+      "visual_id": "HHS4185-L1-VIS-P0011-M0001",
+      "table_id": null,
+      "document_id": "HHS4185-L1",
+      "source_page_id": "HHS4185-L1-P0011",
+      "source_file": "01 - L1.pdf",
+      "pdf_page": 11,
+      "slide_number": 11,
+      "visual_type": "diagram",
+      "name": "Progression of Osteoarthritis flow diagram",
+      "caption": "Progression of Osteoarthritis flow diagram",
+      "location": {
+        "bbox_points": [
+          30.0,
+          100.0,
+          690.0,
+          300.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "manual_source_page_review"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L1-P0011",
+        "document_id": "HHS4185-L1",
+        "document_title": "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+        "source_file": "01 - L1.pdf",
+        "page_number": 11,
+        "page_number_type": "slide_number",
+        "slide_number": 11,
+        "pdf_page": 11,
+        "formatted": "01 - L1.pdf, slide 11 (PDF p. 11)"
+      },
+      "section_ids": [
+        "HHS4185-L1-P0011",
+        "HHS4185-L1-PART03",
+        "HHS4185-L1",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 1 - Joint problems: osteoarthritis, rheumatology, ankylosing spondylitis and joint replacement",
+          "Osteoarthritis",
+          "Progression of Osteoarthritis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L1-OA-2026"
+    }
+  ],
+  "counts": {
+    "visuals": 58,
+    "tables": 0,
+    "non_tables": 58
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-L1-OA-2026"
+}

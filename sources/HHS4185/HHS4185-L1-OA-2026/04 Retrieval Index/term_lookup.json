@@ -1,0 +1,4315 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000177"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000306",
+        "HHS4185-O-00000307",
+        "HHS4185-O-00000308",
+        "HHS4185-O-00000309",
+        "HHS4185-O-00000310",
+        "HHS4185-O-00000311"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "activitieslikewalkingbendingjointinflammation": {
+      "display_forms": [
+        "activities like walking bending joint inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000178"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000312"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000177"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000306",
+        "HHS4185-O-00000307",
+        "HHS4185-O-00000308",
+        "HHS4185-O-00000309",
+        "HHS4185-O-00000310",
+        "HHS4185-O-00000311"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "acuteinflammationrednessjointswellingwarmthpain": {
+      "display_forms": [
+        "Acute inflammation Redness jointswelling warmth pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000223"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000385"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "agedcommonlyaffectedsitesweight": {
+      "display_forms": [
+        "Aged Commonly affected sites Weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000224"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000386"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "aggressivetreatment": {
+      "display_forms": [
+        "aggressive treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000146"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000232"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "aje152": {
+      "display_forms": [
+        "aje/152"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000150"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "anaemia": {
+      "display_forms": [
+        "anaemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "analgesicmedicationpillsointmentinjectionphysiotherapy": {
+      "display_forms": [
+        "Analgesic medication pills ointment injection Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000179"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000313"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "anemia": {
+      "display_forms": [
+        "anemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ankylosingspondylitis": {
+      "display_forms": [
+        "Ankylosing Spondylitis",
+        "ankylosing spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000035",
+        "HHS4185-O-00000036",
+        "HHS4185-O-00000037",
+        "HHS4185-O-00000038",
+        "HHS4185-O-00000039"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ankylosingspondylitisrheumatologyvolumeissueapril": {
+      "display_forms": [
+        "ankylosing spondylitis Rheumatology Volume Issue April"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000173"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000291"
+      ],
+      "categories": [
+        "medications"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "antiinterleukin6": {
+      "display_forms": [
+        "anti-interleukin-6"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000151"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "antitnfαbcelldepletiontherapy": {
+      "display_forms": [
+        "Anti-TNF α B cell depletion therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000147"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000233"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "appetitelowgradefever": {
+      "display_forms": [
+        "appetite low-grade fever"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000225"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000387"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "appetitelowgradefeverlungschest": {
+      "display_forms": [
+        "appetite low-grade fever Lungs chest"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000226"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000388"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "appetitelowgradefeverlungschestpain": {
+      "display_forms": [
+        "appetite low-grade fever Lungs chest pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000227"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000389"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "april": {
+      "display_forms": [
+        "April"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000174"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000292"
+      ],
+      "categories": [
+        "medications"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "areasnervenumbnesstinglingpainweakness": {
+      "display_forms": [
+        "areas Nerve numbness tingling pain weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000228"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000390"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "arthritis": {
+      "display_forms": [
+        "Arthritis",
+        "arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000040",
+        "HHS4185-O-00000041",
+        "HHS4185-O-00000042",
+        "HHS4185-O-00000043",
+        "HHS4185-O-00000044",
+        "HHS4185-O-00000045",
+        "HHS4185-O-00000046",
+        "HHS4185-O-00000047",
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "arthritisfoundationosteoarthritishttpswwwarthritis": {
+      "display_forms": [
+        "Arthritis Foundation Osteoarthritis https www arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000050"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "arthritislatinwordarthronjointitis": {
+      "display_forms": [
+        "Arthritis Latin word arthron Joint itis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000051"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "asianadultscontrolblood": {
+      "display_forms": [
+        "Asian adults Control blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000122"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000199"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "assistivedeviceegorthosis": {
+      "display_forms": [
+        "assistive device e g orthosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "assistivedeviceegwalking": {
+      "display_forms": [
+        "assistive device e g walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000180"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000314"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "blood": {
+      "display_forms": [
+        "Blood",
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000123"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000200",
+        "HHS4185-O-00000201",
+        "HHS4185-O-00000202",
+        "HHS4185-O-00000203"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bloodanaemialowrbcboneosteoporosis": {
+      "display_forms": [
+        "Blood anaemia low RBC Bone Osteoporosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000124"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000204"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bloodanemialowrbcboneosteoporosis": {
+      "display_forms": [
+        "Blood anemia low RBC Bone Osteoporosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000124"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000204"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bmi": {
+      "display_forms": [
+        "BMI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000152"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bodydecreasejointrange": {
+      "display_forms": [
+        "body Decrease joint range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000181"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000315"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bonejustunderneathcartilagepain": {
+      "display_forms": [
+        "bone just underneath cartilage pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000229"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000391"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bonyareasnerve": {
+      "display_forms": [
+        "bony areas Nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "bonyareasnervenumbnesstinglingpain": {
+      "display_forms": [
+        "bony areas Nerve numbness tingling pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000230"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000392"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "breathsobpersistentcough": {
+      "display_forms": [
+        "breath SOB persistent cough"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000231"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000393"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "breathsobpersistentcoughinflammation": {
+      "display_forms": [
+        "breath SOB persistent cough inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000232"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000394"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "c1c2": {
+      "display_forms": [
+        "C1-C2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000153"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "cells10112857": {
+      "display_forms": [
+        "cells10112857"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000154"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ch9": {
+      "display_forms": [
+        "ch9"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000155"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "chest": {
+      "display_forms": [
+        "chest"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "chroniclongterminflammatoryjointinflammation": {
+      "display_forms": [
+        "Chronic long term Inflammatory joint inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000054"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "chronicpain": {
+      "display_forms": [
+        "chronic pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000233"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000395"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "colitis": {
+      "display_forms": [
+        "colitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000055"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "conservativetreatment": {
+      "display_forms": [
+        "conservative treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000148"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000234"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "continuephasemanagementgraduallyincreasewalking": {
+      "display_forms": [
+        "Continue phase management Gradually increase walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000182"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000316"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "controlromexstrengtheningexweight": {
+      "display_forms": [
+        "control ROM ex Strengthening ex Weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000234"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000396"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "corticosteriodsexercisesreducepainstiffnessphysiotherapy": {
+      "display_forms": [
+        "Corticosteriods Exercises reduce pain stiffness Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000183"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000317"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "cough": {
+      "display_forms": [
+        "cough"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000235"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000397"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "coughinflammationscarringheartchestpain": {
+      "display_forms": [
+        "cough inflammation scarring Heart chest pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000236"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000398"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "cox2": {
+      "display_forms": [
+        "COX-2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000156"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "crp": {
+      "display_forms": [
+        "CRP"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000157"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ctla4": {
+      "display_forms": [
+        "CTLA-4"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000158"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "cyclooxygenase2": {
+      "display_forms": [
+        "Cyclo-Oxygenase-2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000159"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dailyactivities": {
+      "display_forms": [
+        "daily activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000184"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000318",
+        "HHS4185-O-00000319",
+        "HHS4185-O-00000320",
+        "HHS4185-O-00000321",
+        "HHS4185-O-00000322"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dailyactivitieslikewalking": {
+      "display_forms": [
+        "daily activities like walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000185"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000323"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dailyactivity": {
+      "display_forms": [
+        "daily activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000184"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000318",
+        "HHS4185-O-00000319",
+        "HHS4185-O-00000320",
+        "HHS4185-O-00000321",
+        "HHS4185-O-00000322"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dbnmdczmd7o": {
+      "display_forms": [
+        "dBnMDczmd7o"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000160"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "decreasepain": {
+      "display_forms": [
+        "decrease pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000237"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000399"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "deviceegwalkingaidsknee": {
+      "display_forms": [
+        "device e g walking aids knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000186"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000324"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "diagnosis": {
+      "display_forms": [
+        "Diagnosis",
+        "diagnosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000056",
+        "HHS4185-O-00000057",
+        "HHS4185-O-00000058"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "disability": {
+      "display_forms": [
+        "disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000187"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000325"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dmardsbiologicscorticosteriodsexercisesreducepain": {
+      "display_forms": [
+        "DMARDs Biologics Corticosteriods Exercises reduce pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000238"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000400"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "drb": {
+      "display_forms": [
+        "DRB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000093"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000161"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "dvt": {
+      "display_forms": [
+        "DVT"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000094"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000162"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "e508e522": {
+      "display_forms": [
+        "e508-e522"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000095"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000163"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "e508e522laueccooperclam": {
+      "display_forms": [
+        "e508-e522 Lau EC Cooper C Lam"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000096"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000164"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "e6ce6b3pdfexercise": {
+      "display_forms": [
+        "E6 C E6 B3 pdf Exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000097"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000165"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "egtensifthydrotherapyknee": {
+      "display_forms": [
+        "e g TENS IFT Hydrotherapy Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000149"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000235"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "eresourcesknee": {
+      "display_forms": [
+        "E-Resources Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000059"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "eresourceskneeosteoarthritis": {
+      "display_forms": [
+        "E-Resources Knee Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000060"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "esr": {
+      "display_forms": [
+        "ESR"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000098"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000166"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "exercise": {
+      "display_forms": [
+        "Exercise",
+        "exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000150"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000236",
+        "HHS4185-O-00000237",
+        "HHS4185-O-00000238",
+        "HHS4185-O-00000239",
+        "HHS4185-O-00000240"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "exerciserecommendedminutesmoderateintensityexercise": {
+      "display_forms": [
+        "exercise recommended minutes moderate intensity exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000151"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000241"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "facilitatefunctionsmobility": {
+      "display_forms": [
+        "facilitate functions mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000188"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000326"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "failedconservativemanagement": {
+      "display_forms": [
+        "failed conservative management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000152"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000242"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "fatigue": {
+      "display_forms": [
+        "fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000239"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000401",
+        "HHS4185-O-00000402"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "fbungausgmanagement": {
+      "display_forms": [
+        "F Bungau S G Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000153"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000243"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "fever": {
+      "display_forms": [
+        "fever"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000240"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000403"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "fewweeksgraduallyincreasewalking": {
+      "display_forms": [
+        "few weeks Gradually increase walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000189"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000327"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "foundationosteoarthritishttpswwwarthritisorgdiseasesosteoarthritis": {
+      "display_forms": [
+        "Foundation Osteoarthritis https www arthritis org/diseases/osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "foundationrheumatoidarthritishttpswwwarthritis": {
+      "display_forms": [
+        "Foundation Rheumatoid Arthritis https www arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000062"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "functional": {
+      "display_forms": [
+        "functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000190"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000328",
+        "HHS4185-O-00000329"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "gbd": {
+      "display_forms": [
+        "GBD"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000099"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000167",
+        "HHS4185-O-00000168"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "genetic": {
+      "display_forms": [
+        "Genetic"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000125"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000205",
+        "HHS4185-O-00000206"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "govarthritisbasicsosteoarthritis": {
+      "display_forms": [
+        "gov/arthritis/basics/osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000063"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "govarthritisbasicsrheumatoidarthritis": {
+      "display_forms": [
+        "gov/arthritis/basics/rheumatoid-arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000064"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "handswriststoessymmetricaljointpain": {
+      "display_forms": [
+        "Hands Wrists toes Symmetrical joint pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000241"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000404"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hearteyesdrynesspain": {
+      "display_forms": [
+        "heart Eyes dryness pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000242"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000405"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hearteyesdrynesspainrednessblood": {
+      "display_forms": [
+        "heart Eyes dryness pain redness Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000126"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000207"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hip": {
+      "display_forms": [
+        "Hip",
+        "hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000002",
+        "HHS4185-O-00000003",
+        "HHS4185-O-00000004",
+        "HHS4185-O-00000005",
+        "HHS4185-O-00000006",
+        "HHS4185-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hkntwcmscdocspep22": {
+      "display_forms": [
+        "hk/ntwc/msc/docs/pep/22"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000100"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000169"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hla": {
+      "display_forms": [
+        "HLA"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000101"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000170"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hlab27": {
+      "display_forms": [
+        "HLA-B27"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000102"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000171"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "hongkongchineseobesityjointinjury": {
+      "display_forms": [
+        "Hong Kong Chinese obesity joint injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000065"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "htezlykhnbiqfeh9": {
+      "display_forms": [
+        "HTeZLYKHnbiQfEH9"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000103"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000172"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "iegbdosteoarthritis": {
+      "display_forms": [
+        "i e GBD Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000066"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ift": {
+      "display_forms": [
+        "IFT"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000104"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000173",
+        "HHS4185-O-00000174"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "imaging": {
+      "display_forms": [
+        "Imaging",
+        "imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000127"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000208",
+        "HHS4185-O-00000209"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "implantsbleedingpersistentpain": {
+      "display_forms": [
+        "implants Bleeding Persistent pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000243"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000406"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "improvemusclestrengthmaintainhealthyweight": {
+      "display_forms": [
+        "Improve muscle strength Maintain healthy weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000191"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000330"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "improvepostureflexibilityjointmobilitysurgery": {
+      "display_forms": [
+        "improve posture flexibility joint mobility Surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000192"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000331"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "increasingagebiologicalsexfemalegenetic": {
+      "display_forms": [
+        "Increasing age Biological sex female Genetic"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000128"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000210"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "infection": {
+      "display_forms": [
+        "Infection"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000067"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "infectiondeepveinthrombosisdvtblood": {
+      "display_forms": [
+        "Infection Deep vein thrombosis DVT blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000129"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000211"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "inflammation": {
+      "display_forms": [
+        "Inflammation",
+        "inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000176"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000294",
+        "HHS4185-O-00000295",
+        "HHS4185-O-00000296",
+        "HHS4185-O-00000297",
+        "HHS4185-O-00000298",
+        "HHS4185-O-00000299",
+        "HHS4185-O-00000300",
+        "HHS4185-O-00000301",
+        "HHS4185-O-00000302",
+        "HHS4185-O-00000303",
+        "HHS4185-O-00000304",
+        "HHS4185-O-00000305"
+      ],
+      "categories": [
+        "pathophysiology"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "inflammationpain": {
+      "display_forms": [
+        "inflammation pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000244"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000407",
+        "HHS4185-O-00000408"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "inflammationregularexercise": {
+      "display_forms": [
+        "inflammation Regular exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000154"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000244"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "inflammationscarringheartchestpaininflammation": {
+      "display_forms": [
+        "inflammation scarring Heart chest pain inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000245"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000409"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "injury": {
+      "display_forms": [
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000068",
+        "HHS4185-O-00000069"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "intervention": {
+      "display_forms": [
+        "Intervention",
+        "intervention"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000155"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000245",
+        "HHS4185-O-00000246"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "itis": {
+      "display_forms": [
+        "itis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jak": {
+      "display_forms": [
+        "JAK"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000105"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000175"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointfrictionxray": {
+      "display_forms": [
+        "joint friction X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000130"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000212"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointinjuriesoveruseweakmusclesgenetic": {
+      "display_forms": [
+        "joint injuries Overuse Weak muscles Genetic"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000131"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000213"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointpain": {
+      "display_forms": [
+        "joint pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000246"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000410"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointproblemsosteoarthritisrheumatologyankylosingspondylitis": {
+      "display_forms": [
+        "Joint Problems Osteoarthritis Rheumatology Ankylosing Spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointssymmetricalbloodtestcheckinflammation": {
+      "display_forms": [
+        "joints symmetrical Blood test Check inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000132"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000214"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointswalking": {
+      "display_forms": [
+        "joints walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000193"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000332"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "jointswellingpainstiffnessdecreasedrange": {
+      "display_forms": [
+        "Joint swelling pain stiffness decreased range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000194"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000333"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "knee": {
+      "display_forms": [
+        "Knee",
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000008",
+        "HHS4185-O-00000009",
+        "HHS4185-O-00000010",
+        "HHS4185-O-00000011",
+        "HHS4185-O-00000012",
+        "HHS4185-O-00000013",
+        "HHS4185-O-00000014",
+        "HHS4185-O-00000015",
+        "HHS4185-O-00000016",
+        "HHS4185-O-00000017",
+        "HHS4185-O-00000018",
+        "HHS4185-O-00000019",
+        "HHS4185-O-00000020",
+        "HHS4185-O-00000021",
+        "HHS4185-O-00000022",
+        "HHS4185-O-00000023"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "kneeflexknee": {
+      "display_forms": [
+        "knee flex knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000072"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "kneeoakneeoakneepathology": {
+      "display_forms": [
+        "Knee OA Knee OA Knee pathology"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000073"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "l1orthopaedicjointproblemsosteoarthritis": {
+      "display_forms": [
+        "L1 Orthopaedic Joint Problems Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000106"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000176"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "lam": {
+      "display_forms": [
+        "Lam"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000175"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000293"
+      ],
+      "categories": [
+        "medications"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "latinwordarthronjointitisinflammation": {
+      "display_forms": [
+        "Latin word arthron Joint itis Inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000074"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "longtermdisability": {
+      "display_forms": [
+        "long-term disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000195"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000334"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "longtermdisabilitypain": {
+      "display_forms": [
+        "long-term disability pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000196"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000335"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "lowimpactactivities": {
+      "display_forms": [
+        "low impact activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000197"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000336",
+        "HHS4185-O-00000337"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "lowimpactactivitieslikeswimmingwalking": {
+      "display_forms": [
+        "low impact activities like swimming walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000198"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000338",
+        "HHS4185-O-00000339"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "lowimpactactivity": {
+      "display_forms": [
+        "low impact activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000197"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000336",
+        "HHS4185-O-00000337"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "mainpageengasphongkongarthritis": {
+      "display_forms": [
+        "Mainpage eng asp Hong Kong Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000075"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "management": {
+      "display_forms": [
+        "Management",
+        "management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000156"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000247",
+        "HHS4185-O-00000248",
+        "HHS4185-O-00000249",
+        "HHS4185-O-00000250",
+        "HHS4185-O-00000251",
+        "HHS4185-O-00000252",
+        "HHS4185-O-00000253",
+        "HHS4185-O-00000254",
+        "HHS4185-O-00000255",
+        "HHS4185-O-00000256",
+        "HHS4185-O-00000257"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "managementanalgesicmedicationdmardsphysiotherapy": {
+      "display_forms": [
+        "Management Analgesic medication DMARDs Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000199"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000340"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "managementstageanalgesicmedicationphysiotherapy": {
+      "display_forms": [
+        "Management Stage Analgesic medication Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000200"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000341"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "managementstageexercise": {
+      "display_forms": [
+        "Management Stage Exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000157"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000258"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "medicationpillsointmentinjectionphysiotherapyknee": {
+      "display_forms": [
+        "medication pills ointment injection Physiotherapy Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000201"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000342"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "mobility": {
+      "display_forms": [
+        "mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000202"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000343",
+        "HHS4185-O-00000344",
+        "HHS4185-O-00000345",
+        "HHS4185-O-00000346",
+        "HHS4185-O-00000347",
+        "HHS4185-O-00000348"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "mobilitysofttissuesflexibilityimprovemuscle": {
+      "display_forms": [
+        "mobility soft tissues flexibility Improve muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000203"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000349"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "modalitytherapyegwaxtherapy": {
+      "display_forms": [
+        "modality therapy e g Wax therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000158"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000259"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "movementrange": {
+      "display_forms": [
+        "movement Range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000204"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000350"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "multiplejointssymmetricalblood": {
+      "display_forms": [
+        "multiple joints symmetrical Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000133"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000215"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "multiplejointssymmetricalbloodtest": {
+      "display_forms": [
+        "multiple joints symmetrical Blood test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000134"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000216"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000024",
+        "HHS4185-O-00000025",
+        "HHS4185-O-00000026"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "musclesstrengtheningflexibilityjointmobility": {
+      "display_forms": [
+        "muscles strengthening flexibility joint mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000205"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000351"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "musclesstrengtheningjointmobility": {
+      "display_forms": [
+        "muscles strengthening joint mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000206"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000352",
+        "HHS4185-O-00000353"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "musclestrengtheningjointmobility": {
+      "display_forms": [
+        "muscle strengthening joint mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000207"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000354"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "muscleweakness": {
+      "display_forms": [
+        "muscle weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000247"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000411"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "muscleweaknessbucklingimaging": {
+      "display_forms": [
+        "muscle weakness buckling Imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000135"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000217"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "muscleweaknessbucklingimagingtest": {
+      "display_forms": [
+        "muscle weakness buckling Imaging test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000136"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000218"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "muscleweaknessbucklingimagingtestxray": {
+      "display_forms": [
+        "muscle weakness buckling Imaging test X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000137"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000219"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ndedchurchilllivingstoneankylosingspondylitis": {
+      "display_forms": [
+        "nd ed Churchill Livingstone Ankylosing spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "necrosis": {
+      "display_forms": [
+        "necrosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "nerve": {
+      "display_forms": [
+        "Nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027",
+        "HHS4185-O-00000028"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "nervenumbnesstinglingpainweaknessblood": {
+      "display_forms": [
+        "Nerve numbness tingling pain weakness Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000138"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000220"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "nhs": {
+      "display_forms": [
+        "NHS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000107"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000177"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "normalknee": {
+      "display_forms": [
+        "Normal Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "nsaid": {
+      "display_forms": [
+        "NSAID"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000108"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000178"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "nsaids": {
+      "display_forms": [
+        "NSAIDS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000108"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000178"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "numbnesstinglingpainweaknessbloodanaemia": {
+      "display_forms": [
+        "numbness tingling pain weakness Blood anaemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000139"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000221"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "numbnesstinglingpainweaknessbloodanemia": {
+      "display_forms": [
+        "numbness tingling pain weakness Blood anemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000139"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000221"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "oaknee": {
+      "display_forms": [
+        "OA knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "oakneemalefemaleoahip": {
+      "display_forms": [
+        "OA Knee Male Female OA Hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "occupational": {
+      "display_forms": [
+        "occupational"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000208"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000355"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "occupationalactivities": {
+      "display_forms": [
+        "occupational activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000209"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000356"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "occupationalactivity": {
+      "display_forms": [
+        "occupational activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000209"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000356"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "org10": {
+      "display_forms": [
+        "org/10"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000109"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000179"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "organsbodysystemswholebodyfatigue": {
+      "display_forms": [
+        "organs body systems Whole body fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000248"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000412"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "orgdiseasesosteoarthritis": {
+      "display_forms": [
+        "org/diseases/osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000082"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "orgdiseasesrheumatoidarthritis": {
+      "display_forms": [
+        "org/diseases/rheumatoid-arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000083"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "orthosis": {
+      "display_forms": [
+        "Orthosis",
+        "orthosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084",
+        "HHS4185-O-00000085"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoarthritis": {
+      "display_forms": [
+        "Osteoarthritis",
+        "osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086",
+        "HHS4185-O-00000087",
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090",
+        "HHS4185-O-00000091",
+        "HHS4185-O-00000092",
+        "HHS4185-O-00000093",
+        "HHS4185-O-00000094",
+        "HHS4185-O-00000095",
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoarthritiscollaboratorshongkongoaknee": {
+      "display_forms": [
+        "Osteoarthritis Collaborators Hong Kong OA Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000098"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoarthritisknee": {
+      "display_forms": [
+        "Osteoarthritis Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099",
+        "HHS4185-O-00000100",
+        "HHS4185-O-00000101",
+        "HHS4185-O-00000102"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoarthritiskneeoaknee": {
+      "display_forms": [
+        "Osteoarthritis Knee OA Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000103"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoarthritiskneeoakneeoaknee": {
+      "display_forms": [
+        "Osteoarthritis Knee OA Knee OA Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000104"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteonecrosis": {
+      "display_forms": [
+        "osteonecrosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteonecrosisavascularnecrosis": {
+      "display_forms": [
+        "osteonecrosis avascular necrosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "osteoporosis": {
+      "display_forms": [
+        "Osteoporosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000107"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "pain": {
+      "display_forms": [
+        "Pain",
+        "pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000249"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000413",
+        "HHS4185-O-00000414",
+        "HHS4185-O-00000415",
+        "HHS4185-O-00000416",
+        "HHS4185-O-00000417",
+        "HHS4185-O-00000418",
+        "HHS4185-O-00000419",
+        "HHS4185-O-00000420",
+        "HHS4185-O-00000421",
+        "HHS4185-O-00000422",
+        "HHS4185-O-00000423",
+        "HHS4185-O-00000424",
+        "HHS4185-O-00000425",
+        "HHS4185-O-00000426",
+        "HHS4185-O-00000427",
+        "HHS4185-O-00000428",
+        "HHS4185-O-00000429",
+        "HHS4185-O-00000430",
+        "HHS4185-O-00000431",
+        "HHS4185-O-00000432"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "painrednessbloodvesselsaffectblood": {
+      "display_forms": [
+        "pain redness Blood vessels affect blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000140"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000222"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "painstiffnessswellingimprovejointmobility": {
+      "display_forms": [
+        "pain stiffness swelling Improve joint mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000210"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000357"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "painswellingcontrolhipprecautionship": {
+      "display_forms": [
+        "Pain swelling control Hip precautions hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000250"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000433"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "pathology": {
+      "display_forms": [
+        "pathology"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000108"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "pelvis": {
+      "display_forms": [
+        "pelvis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000029"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "persistentcoughinflammationscarringheartchest": {
+      "display_forms": [
+        "persistent cough inflammation scarring Heart chest"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000251"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000434"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "physiotherapy": {
+      "display_forms": [
+        "Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000211"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000358",
+        "HHS4185-O-00000359",
+        "HHS4185-O-00000360",
+        "HHS4185-O-00000361",
+        "HHS4185-O-00000362"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "physiotherapyimprovepostureflexibilityjointmobility": {
+      "display_forms": [
+        "Physiotherapy improve posture flexibility joint mobility"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000212"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000363"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "pillowromexstrengtheningexweight": {
+      "display_forms": [
+        "pillow ROM ex Strengthening ex Weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000252"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000435"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "pmid": {
+      "display_forms": [
+        "PMID"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000110"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000180"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "postopmanagement": {
+      "display_forms": [
+        "Post-op Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000159"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000260",
+        "HHS4185-O-00000261",
+        "HHS4185-O-00000262",
+        "HHS4185-O-00000263"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "postopmanagementpostsurgery": {
+      "display_forms": [
+        "Post-op Management Post surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000160"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000264",
+        "HHS4185-O-00000265",
+        "HHS4185-O-00000266",
+        "HHS4185-O-00000267"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "postopmanagementpostsurgerydaypain": {
+      "display_forms": [
+        "Post-op Management Post surgery Day Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000161"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000268",
+        "HHS4185-O-00000269"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "postsurgery": {
+      "display_forms": [
+        "Post surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000162"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000270",
+        "HHS4185-O-00000271"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "postsurgeryweekcontinuephasemanagement": {
+      "display_forms": [
+        "Post surgery Week Continue phase management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000163"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000272",
+        "HHS4185-O-00000273"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "preventionosteoarthritis": {
+      "display_forms": [
+        "Prevention Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000109"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "preventionosteoarthritishttpswwwcdcgovarthritisbasicsosteoarthritis": {
+      "display_forms": [
+        "Prevention Osteoarthritis https www cdc gov/arthritis/basics/osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000110"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "preventionrheumatoidarthritis": {
+      "display_forms": [
+        "Prevention Rheumatoid Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000111"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "preventionweight": {
+      "display_forms": [
+        "Prevention Weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000253"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000436"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "preventionweightmanagement": {
+      "display_forms": [
+        "Prevention Weight management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000164"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000274"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "prolongedsittingxray": {
+      "display_forms": [
+        "prolonged sitting X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000141"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000223"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "psoriasis": {
+      "display_forms": [
+        "psoriasis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000112"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rainflammation": {
+      "display_forms": [
+        "RA Inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000113"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "range": {
+      "display_forms": [
+        "Range",
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000213"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000364",
+        "HHS4185-O-00000365",
+        "HHS4185-O-00000366"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "raxray": {
+      "display_forms": [
+        "RA X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000142"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000224"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "raxrayimaging": {
+      "display_forms": [
+        "RA X-ray imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000143"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000225"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rbc": {
+      "display_forms": [
+        "RBC"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000111"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000181"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "reducepain": {
+      "display_forms": [
+        "reduce pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000254"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000437"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "reducepaininflammation": {
+      "display_forms": [
+        "reduce pain inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000255"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000438"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "referencearthritis": {
+      "display_forms": [
+        "Reference Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000114"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "referencearthritisfoundationrheumatoidarthritis": {
+      "display_forms": [
+        "Reference Arthritis Foundation Rheumatoid Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000115"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "referencegbdosteoarthritis": {
+      "display_forms": [
+        "Reference GBD Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000116"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000214"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000367",
+        "HHS4185-O-00000368"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rehabilitationreducecontrolinflammation": {
+      "display_forms": [
+        "Rehabilitation Reduce control inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000215"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000369"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "relieveobjectiveexaminationacuteinflammation": {
+      "display_forms": [
+        "relieve Objectiveexamination Acute inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000117"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatoidarthritis": {
+      "display_forms": [
+        "Rheumatoid Arthritis",
+        "rheumatoid arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000118",
+        "HHS4185-O-00000119",
+        "HHS4185-O-00000120",
+        "HHS4185-O-00000121"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatoidarthritishttpswwwarthritisorgdiseasesrheumatoidarthritis": {
+      "display_forms": [
+        "Rheumatoid Arthritis https www arthritis org/diseases/rheumatoid-arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000122"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatoidarthritishttpswwwcdcgovarthritisbasicsrheumatoidarthritis": {
+      "display_forms": [
+        "Rheumatoid Arthritis https www cdc gov/arthritis/basics/rheumatoid-arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000123"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatoidarthritisrarecommendearlydiagnosis": {
+      "display_forms": [
+        "Rheumatoid Arthritis RA Recommend early diagnosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000124"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatologyken287": {
+      "display_forms": [
+        "rheumatology/ken287"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000112"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000182"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rheumatologyket387": {
+      "display_forms": [
+        "rheumatology/ket387"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000113"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000183"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rigidspine": {
+      "display_forms": [
+        "rigid spine"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000125"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "rom": {
+      "display_forms": [
+        "ROM"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000114"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000184",
+        "HHS4185-O-00000185",
+        "HHS4185-O-00000186",
+        "HHS4185-O-00000187",
+        "HHS4185-O-00000188"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "romjointprotectionstrategiessufficientexercise": {
+      "display_forms": [
+        "ROM Joint protection strategies Sufficient exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000165"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000275"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "shock": {
+      "display_forms": [
+        "shock"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000126"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "shouldersextremetirednessfatigue": {
+      "display_forms": [
+        "shoulders extreme tiredness fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000256"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000439"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "significantpain": {
+      "display_forms": [
+        "significant pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000257"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000440"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "signssymptomsjointsjointpain": {
+      "display_forms": [
+        "Signs symptoms Joints Joint pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000258"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000441"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "signssymptomsjointswellingpain": {
+      "display_forms": [
+        "signs symptoms Joint swelling pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000259"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000442"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "sob": {
+      "display_forms": [
+        "SOB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000115"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000189"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "softtissuesflexibilityimprovemusclestrength": {
+      "display_forms": [
+        "soft tissues flexibility Improve muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000216"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000370"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "spine": {
+      "display_forms": [
+        "spine"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000030",
+        "HHS4185-O-00000031",
+        "HHS4185-O-00000032"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "spondylitis": {
+      "display_forms": [
+        "Spondylitis",
+        "spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000127",
+        "HHS4185-O-00000128",
+        "HHS4185-O-00000129",
+        "HHS4185-O-00000130",
+        "HHS4185-O-00000131",
+        "HHS4185-O-00000132",
+        "HHS4185-O-00000133"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "spondylitisnhshttpswwwnhsukconditionsankylosingspondylitis": {
+      "display_forms": [
+        "spondylitis NHS https www nhs uk/conditions/ankylosing-spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000134"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "stageanalgesicmedicationpillsointmentphysiotherapy": {
+      "display_forms": [
+        "Stage analgesic medication pills ointment Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000217"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000371"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "strength": {
+      "display_forms": [
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000218"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000372"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "strengtheningflexibilityjointmobilityhydrotherapyknee": {
+      "display_forms": [
+        "strengthening flexibility joint mobility Hydrotherapy knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000219"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000373"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "strengtheningjointmobilityelectrophysicalmodalitytherapy": {
+      "display_forms": [
+        "strengthening joint mobility Electrophysical modality therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000220"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000374",
+        "HHS4185-O-00000375"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "strengthmaintainhealthyweightsufficientexercise": {
+      "display_forms": [
+        "strength Maintain healthy weight Sufficient exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000221"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000376"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "stroke": {
+      "display_forms": [
+        "stroke"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000135"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgery": {
+      "display_forms": [
+        "Surgery",
+        "surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000166"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000276",
+        "HHS4185-O-00000277",
+        "HHS4185-O-00000278",
+        "HHS4185-O-00000279",
+        "HHS4185-O-00000280",
+        "HHS4185-O-00000281"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgerydaypainswellingcontrolhip": {
+      "display_forms": [
+        "surgery Day Pain swelling control Hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000167"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000282"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgeryinfection": {
+      "display_forms": [
+        "Surgery Infection"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000168"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000283"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgeryinfectiondeepvein": {
+      "display_forms": [
+        "Surgery Infection Deep vein"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000169"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000284"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgeryinfectiondeepveinthrombosis": {
+      "display_forms": [
+        "Surgery Infection Deep vein thrombosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000170"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000285"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "surgicalintervention": {
+      "display_forms": [
+        "Surgical Intervention",
+        "surgical intervention"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000171"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000286",
+        "HHS4185-O-00000287"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "swellingpain": {
+      "display_forms": [
+        "swelling pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000260"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000443"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "symptomsnotedlikejointstiffnesspain": {
+      "display_forms": [
+        "symptoms noted like joint stiffness pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000261"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000444"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "tens": {
+      "display_forms": [
+        "TENS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000116"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000190",
+        "HHS4185-O-00000191"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "test": {
+      "display_forms": [
+        "test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000144"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000226",
+        "HHS4185-O-00000227"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "therapy": {
+      "display_forms": [
+        "therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000172"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000288",
+        "HHS4185-O-00000289",
+        "HHS4185-O-00000290"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "thighshinknee": {
+      "display_forms": [
+        "thigh shin knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000136"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "thr": {
+      "display_forms": [
+        "THR"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000117"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000192",
+        "HHS4185-O-00000193"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "thrombosis": {
+      "display_forms": [
+        "thrombosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000137"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "tkr": {
+      "display_forms": [
+        "TKR"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000118"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000194",
+        "HHS4185-O-00000195"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "topicspdfwavhtmlarthritis": {
+      "display_forms": [
+        "topics/pdfwav html Arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000138"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "topicspdfwavhtmlarthritisfoundationosteoarthritis": {
+      "display_forms": [
+        "topics/pdfwav html Arthritis Foundation Osteoarthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000139"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "totalhip": {
+      "display_forms": [
+        "Total Hip",
+        "total hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000140",
+        "HHS4185-O-00000141"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "totalknee": {
+      "display_forms": [
+        "Total Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000142",
+        "HHS4185-O-00000143"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ukconditionsankylosingspondylitis": {
+      "display_forms": [
+        "uk/conditions/ankylosing-spondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000144"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "ulcerativecolitis": {
+      "display_forms": [
+        "ulcerative colitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000145"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "valgusknockknee": {
+      "display_forms": [
+        "valgus knock knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000146"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "vein": {
+      "display_forms": [
+        "vein"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "veinnerve": {
+      "display_forms": [
+        "vein Nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000147"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "veinnervedamageheartattackstroke": {
+      "display_forms": [
+        "vein Nerve damage Heart attack stroke"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000148"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "vejjxk7f6": {
+      "display_forms": [
+        "Vejj-XK7f6"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000119"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000196"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "vejjxk7f6s": {
+      "display_forms": [
+        "Vejj-XK7f6s"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000119"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000196"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "walking": {
+      "display_forms": [
+        "walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000222"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000377",
+        "HHS4185-O-00000378",
+        "HHS4185-O-00000379",
+        "HHS4185-O-00000380",
+        "HHS4185-O-00000381",
+        "HHS4185-O-00000382",
+        "HHS4185-O-00000383",
+        "HHS4185-O-00000384"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "weakness": {
+      "display_forms": [
+        "weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000262"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000445",
+        "HHS4185-O-00000446"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "wearteararthritis": {
+      "display_forms": [
+        "wear tear arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000149"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "weight": {
+      "display_forms": [
+        "Weight",
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000263"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000447",
+        "HHS4185-O-00000448",
+        "HHS4185-O-00000449",
+        "HHS4185-O-00000450",
+        "HHS4185-O-00000451"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "www3": {
+      "display_forms": [
+        "www3"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000120"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000197"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "xray": {
+      "display_forms": [
+        "X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000145"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000228",
+        "HHS4185-O-00000229",
+        "HHS4185-O-00000230",
+        "HHS4185-O-00000231"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    },
+    "yc9dfem3lm": {
+      "display_forms": [
+        "Yc-9dfem3lM"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000121"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000198"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L1-OA-2026"
+    }
+  },
+  "counts": {
+    "terms": 272,
+    "concepts_referenced": 263,
+    "occurrences_referenced": 451
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-L1-OA-2026"
+}
