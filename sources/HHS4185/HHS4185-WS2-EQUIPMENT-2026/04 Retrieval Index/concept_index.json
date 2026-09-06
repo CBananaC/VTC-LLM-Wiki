@@ -1,0 +1,2853 @@
+{
+  "schema_version": "llm-wiki.concept-index.v1-course",
+  "record_type": "concept_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "keyword_taxonomy": {
+    "conditions": "Conditions",
+    "anatomy": "Anatomy",
+    "symptoms_signs": "Symptoms and signs",
+    "etiology_risk_factors": "Aetiology and risk factors",
+    "pathophysiology": "Pathophysiology",
+    "investigations": "Investigations",
+    "management_treatment": "Management and treatment",
+    "medications": "Medications",
+    "rehabilitation": "Rehabilitation",
+    "complications_prognosis": "Complications and prognosis",
+    "measurements": "Measurements and clinical values",
+    "definitions_abbreviations": "Definitions and abbreviations",
+    "procedures": "Procedures",
+    "populations": "Populations",
+    "section_topics": "Section topics",
+    "visuals": "Visuals and tables",
+    "general_medical_terms": "General medical terms"
+  },
+  "concepts": [
+    {
+      "concept_id": "HHS4185-C-0000001",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "hip",
+      "canonical_candidate": "hip",
+      "keyword_path": [
+        "Anatomy",
+        "hip"
+      ],
+      "source_forms": [
+        "hip"
+      ],
+      "retrieval_terms": [
+        "hip"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001",
+        "HHS4185-O-00000002",
+        "HHS4185-O-00000003"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0007",
+        "HHS4185-WS2-P0011"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000002",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "knee",
+      "canonical_candidate": "knee",
+      "keyword_path": [
+        "Anatomy",
+        "knee"
+      ],
+      "source_forms": [
+        "knee"
+      ],
+      "retrieval_terms": [
+        "knee"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000004"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000003",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "lung",
+      "canonical_candidate": "lung",
+      "keyword_path": [
+        "Anatomy",
+        "lung"
+      ],
+      "source_forms": [
+        "lung"
+      ],
+      "retrieval_terms": [
+        "lung"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000005"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000004",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "muscle",
+      "canonical_candidate": "muscle",
+      "keyword_path": [
+        "Anatomy",
+        "muscle"
+      ],
+      "source_forms": [
+        "muscle"
+      ],
+      "retrieval_terms": [
+        "muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000006"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000005",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "nerve",
+      "canonical_candidate": "nerve",
+      "keyword_path": [
+        "Anatomy",
+        "nerve"
+      ],
+      "source_forms": [
+        "nerve"
+      ],
+      "retrieval_terms": [
+        "nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007",
+        "HHS4185-O-00000008"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000006",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "pelvis",
+      "canonical_candidate": "pelvis",
+      "keyword_path": [
+        "Anatomy",
+        "pelvis"
+      ],
+      "source_forms": [
+        "pelvis"
+      ],
+      "retrieval_terms": [
+        "pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000007",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "peripheral",
+      "canonical_candidate": "peripheral",
+      "keyword_path": [
+        "Anatomy",
+        "peripheral"
+      ],
+      "source_forms": [
+        "peripheral"
+      ],
+      "retrieval_terms": [
+        "peripheral"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000010"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000008",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "Spinal",
+      "canonical_candidate": "Spinal",
+      "keyword_path": [
+        "Anatomy",
+        "Spinal"
+      ],
+      "source_forms": [
+        "Spinal"
+      ],
+      "retrieval_terms": [
+        "Spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000011"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000009",
+      "category": "anatomy",
+      "broad_area": "Anatomy",
+      "preferred_label": "wrist",
+      "canonical_candidate": "wrist",
+      "keyword_path": [
+        "Anatomy",
+        "wrist"
+      ],
+      "source_forms": [
+        "wrist"
+      ],
+      "retrieval_terms": [
+        "wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000012"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000010",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "ASIS pelvis",
+      "canonical_candidate": "ASIS pelvis",
+      "keyword_path": [
+        "Conditions",
+        "ASIS pelvis"
+      ],
+      "source_forms": [
+        "ASIS pelvis"
+      ],
+      "retrieval_terms": [
+        "ASIS pelvis"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000013"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000011",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "atrophy",
+      "canonical_candidate": "atrophy",
+      "keyword_path": [
+        "Conditions",
+        "atrophy"
+      ],
+      "source_forms": [
+        "atrophy"
+      ],
+      "retrieval_terms": [
+        "atrophy"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000014"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000012",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Carpal Tunnel Wrist",
+      "canonical_candidate": "Carpal Tunnel Wrist",
+      "keyword_path": [
+        "Conditions",
+        "Carpal Tunnel Wrist"
+      ],
+      "source_forms": [
+        "Carpal Tunnel Wrist"
+      ],
+      "retrieval_terms": [
+        "Carpal Tunnel Wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000015"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000013",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "carpal tunnel wrist brace",
+      "canonical_candidate": "carpal tunnel wrist brace",
+      "keyword_path": [
+        "Conditions",
+        "carpal tunnel wrist brace"
+      ],
+      "source_forms": [
+        "carpal tunnel wrist brace"
+      ],
+      "retrieval_terms": [
+        "carpal tunnel wrist brace"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000016"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000014",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Cord Injury lower limbs paralyzed tetraplegia",
+      "canonical_candidate": "Cord Injury lower limbs paralyzed tetraplegia",
+      "keyword_path": [
+        "Conditions",
+        "Cord Injury lower limbs paralyzed tetraplegia"
+      ],
+      "source_forms": [
+        "Cord Injury lower limbs paralyzed tetraplegia"
+      ],
+      "retrieval_terms": [
+        "Cord Injury lower limbs paralyzed tetraplegia"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000017"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000015",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Diploma",
+      "canonical_candidate": "Diploma",
+      "keyword_path": [
+        "Conditions",
+        "Diploma"
+      ],
+      "source_forms": [
+        "Diploma"
+      ],
+      "retrieval_terms": [
+        "Diploma"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000018"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000016",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "exchange muscle atrophy joint contractures peripheral",
+      "canonical_candidate": "exchange muscle atrophy joint contractures peripheral",
+      "keyword_path": [
+        "Conditions",
+        "exchange muscle atrophy joint contractures peripheral"
+      ],
+      "source_forms": [
+        "exchange muscle atrophy joint contractures peripheral"
+      ],
+      "retrieval_terms": [
+        "exchange muscle atrophy joint contractures peripheral"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000019"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000017",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "fracture",
+      "canonical_candidate": "fracture",
+      "keyword_path": [
+        "Conditions",
+        "fracture"
+      ],
+      "source_forms": [
+        "fracture"
+      ],
+      "retrieval_terms": [
+        "fracture"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000020"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000018",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Injury",
+      "canonical_candidate": "Injury",
+      "keyword_path": [
+        "Conditions",
+        "Injury"
+      ],
+      "source_forms": [
+        "Injury",
+        "injury"
+      ],
+      "retrieval_terms": [
+        "Injury",
+        "injury"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000021",
+        "HHS4185-O-00000022",
+        "HHS4185-O-00000023"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2-P0026"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000019",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "kneecap inch wide knee",
+      "canonical_candidate": "kneecap inch wide knee",
+      "keyword_path": [
+        "Conditions",
+        "kneecap inch wide knee"
+      ],
+      "source_forms": [
+        "kneecap inch wide knee"
+      ],
+      "retrieval_terms": [
+        "kneecap inch wide knee"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000024"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000020",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "knee strap",
+      "canonical_candidate": "knee strap",
+      "keyword_path": [
+        "Conditions",
+        "knee strap"
+      ],
+      "source_forms": [
+        "knee strap"
+      ],
+      "retrieval_terms": [
+        "knee strap"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000025"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000021",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "lung volumes impaired gas exchange muscle",
+      "canonical_candidate": "lung volumes impaired gas exchange muscle",
+      "keyword_path": [
+        "Conditions",
+        "lung volumes impaired gas exchange muscle"
+      ],
+      "source_forms": [
+        "lung volumes impaired gas exchange muscle"
+      ],
+      "retrieval_terms": [
+        "lung volumes impaired gas exchange muscle"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000026"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000022",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "median nerve",
+      "canonical_candidate": "median nerve",
+      "keyword_path": [
+        "Conditions",
+        "median nerve"
+      ],
+      "source_forms": [
+        "median nerve"
+      ],
+      "retrieval_terms": [
+        "median nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000023",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "moving e g Spinal",
+      "canonical_candidate": "moving e g Spinal",
+      "keyword_path": [
+        "Conditions",
+        "moving e g Spinal"
+      ],
+      "source_forms": [
+        "moving e g Spinal"
+      ],
+      "retrieval_terms": [
+        "moving e g Spinal"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000028"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000024",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "moving e g Spinal Cord Injury",
+      "canonical_candidate": "moving e g Spinal Cord Injury",
+      "keyword_path": [
+        "Conditions",
+        "moving e g Spinal Cord Injury"
+      ],
+      "source_forms": [
+        "moving e g Spinal Cord Injury"
+      ],
+      "retrieval_terms": [
+        "moving e g Spinal Cord Injury"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000029"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000025",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "muscle atrophy",
+      "canonical_candidate": "muscle atrophy",
+      "keyword_path": [
+        "Conditions",
+        "muscle atrophy"
+      ],
+      "source_forms": [
+        "muscle atrophy"
+      ],
+      "retrieval_terms": [
+        "muscle atrophy"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000030"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000026",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "muscle atrophy joint contractures peripheral nerve",
+      "canonical_candidate": "muscle atrophy joint contractures peripheral nerve",
+      "keyword_path": [
+        "Conditions",
+        "muscle atrophy joint contractures peripheral nerve"
+      ],
+      "source_forms": [
+        "muscle atrophy joint contractures peripheral nerve"
+      ],
+      "retrieval_terms": [
+        "muscle atrophy joint contractures peripheral nerve"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000031"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000027",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "oxygen consumption venous pooling reduced lung",
+      "canonical_candidate": "oxygen consumption venous pooling reduced lung",
+      "keyword_path": [
+        "Conditions",
+        "oxygen consumption venous pooling reduced lung"
+      ],
+      "source_forms": [
+        "oxygen consumption venous pooling reduced lung"
+      ],
+      "retrieval_terms": [
+        "oxygen consumption venous pooling reduced lung"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000032"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000028",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "pelvic fracture",
+      "canonical_candidate": "pelvic fracture",
+      "keyword_path": [
+        "Conditions",
+        "pelvic fracture"
+      ],
+      "source_forms": [
+        "pelvic fracture"
+      ],
+      "retrieval_terms": [
+        "pelvic fracture"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000029",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "stroke",
+      "canonical_candidate": "stroke",
+      "keyword_path": [
+        "Conditions",
+        "stroke"
+      ],
+      "source_forms": [
+        "stroke"
+      ],
+      "retrieval_terms": [
+        "stroke"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000030",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "tetraplegia",
+      "canonical_candidate": "tetraplegia",
+      "keyword_path": [
+        "Conditions",
+        "tetraplegia"
+      ],
+      "source_forms": [
+        "tetraplegia"
+      ],
+      "retrieval_terms": [
+        "tetraplegia"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000035"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000031",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "Tunnel Wrist Brace Aim stabilize wrist",
+      "canonical_candidate": "Tunnel Wrist Brace Aim stabilize wrist",
+      "keyword_path": [
+        "Conditions",
+        "Tunnel Wrist Brace Aim stabilize wrist"
+      ],
+      "source_forms": [
+        "Tunnel Wrist Brace Aim stabilize wrist"
+      ],
+      "retrieval_terms": [
+        "Tunnel Wrist Brace Aim stabilize wrist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000036"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000032",
+      "category": "conditions",
+      "broad_area": "Conditions",
+      "preferred_label": "volumes impaired gas exchange muscle atrophy",
+      "canonical_candidate": "volumes impaired gas exchange muscle atrophy",
+      "keyword_path": [
+        "Conditions",
+        "volumes impaired gas exchange muscle atrophy"
+      ],
+      "source_forms": [
+        "volumes impaired gas exchange muscle atrophy"
+      ],
+      "retrieval_terms": [
+        "volumes impaired gas exchange muscle atrophy"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000037"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000033",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ADL",
+      "canonical_candidate": "ADL",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ADL"
+      ],
+      "source_forms": [
+        "ADL"
+      ],
+      "retrieval_terms": [
+        "ADL"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000038",
+        "HHS4185-O-00000039"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0002",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0023",
+        "HHS4185-WS2-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000034",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206",
+      "canonical_candidate": "AS114206",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206"
+      ],
+      "source_forms": [
+        "AS114206"
+      ],
+      "retrieval_terms": [
+        "AS114206"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000040"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000035",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AS114206 Higher Diploma",
+      "canonical_candidate": "AS114206 Higher Diploma",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AS114206 Higher Diploma"
+      ],
+      "source_forms": [
+        "AS114206 Higher Diploma"
+      ],
+      "retrieval_terms": [
+        "AS114206 Higher Diploma"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000041"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000036",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "ASIS",
+      "canonical_candidate": "ASIS",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "ASIS"
+      ],
+      "source_forms": [
+        "ASIS"
+      ],
+      "retrieval_terms": [
+        "ASIS"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000042"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000037",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "AY2627",
+      "canonical_candidate": "AY2627",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "AY2627"
+      ],
+      "source_forms": [
+        "AY2627"
+      ],
+      "retrieval_terms": [
+        "AY2627"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000038",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4185",
+      "canonical_candidate": "HHS4185",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185"
+      ],
+      "source_forms": [
+        "HHS4185"
+      ],
+      "retrieval_terms": [
+        "HHS4185"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000044"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000039",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "HHS4185J",
+      "canonical_candidate": "HHS4185J",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "HHS4185J"
+      ],
+      "source_forms": [
+        "HHS4185J"
+      ],
+      "retrieval_terms": [
+        "HHS4185J"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000045"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000040",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "nkhqXzFmN4",
+      "canonical_candidate": "nkhqXzFmN4",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "nkhqXzFmN4"
+      ],
+      "source_forms": [
+        "nkhqXzFmN4"
+      ],
+      "retrieval_terms": [
+        "nkhqXzFmN4"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000046"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0020",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000041",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "OgyL9VwTM",
+      "canonical_candidate": "OgyL9VwTM",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "OgyL9VwTM"
+      ],
+      "source_forms": [
+        "OgyL9VwTM"
+      ],
+      "retrieval_terms": [
+        "OgyL9VwTM"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000047"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0015",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000042",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "REGULARLY",
+      "canonical_candidate": "REGULARLY",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "REGULARLY"
+      ],
+      "source_forms": [
+        "REGULARLY"
+      ],
+      "retrieval_terms": [
+        "REGULARLY"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000048"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000043",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "rheJbel8vSk",
+      "canonical_candidate": "rheJbel8vSk",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "rheJbel8vSk"
+      ],
+      "source_forms": [
+        "rheJbel8vSk"
+      ],
+      "retrieval_terms": [
+        "rheJbel8vSk"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000049"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0019",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000044",
+      "category": "definitions_abbreviations",
+      "broad_area": "Definitions and abbreviations",
+      "preferred_label": "WS2",
+      "canonical_candidate": "WS2",
+      "keyword_path": [
+        "Definitions and abbreviations",
+        "WS2"
+      ],
+      "source_forms": [
+        "WS2"
+      ],
+      "retrieval_terms": [
+        "WS2"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000050"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000045",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "arm sling",
+      "canonical_candidate": "arm sling",
+      "keyword_path": [
+        "General medical terms",
+        "arm sling"
+      ],
+      "source_forms": [
+        "arm sling"
+      ],
+      "retrieval_terms": [
+        "arm sling"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000051"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000046",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "back brace",
+      "canonical_candidate": "back brace",
+      "keyword_path": [
+        "General medical terms",
+        "back brace"
+      ],
+      "source_forms": [
+        "back brace"
+      ],
+      "retrieval_terms": [
+        "back brace"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0026",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000047",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "bed to wheelchair",
+      "canonical_candidate": "bed to wheelchair",
+      "keyword_path": [
+        "General medical terms",
+        "bed to wheelchair"
+      ],
+      "source_forms": [
+        "bed to wheelchair"
+      ],
+      "retrieval_terms": [
+        "bed to wheelchair"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053",
+        "HHS4185-O-00000054",
+        "HHS4185-O-00000055",
+        "HHS4185-O-00000056"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4185-WS2-P0011",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0012",
+        "HHS4185-WS2-P0013",
+        "HHS4185-WS2-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000048",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "calf strap",
+      "canonical_candidate": "calf strap",
+      "keyword_path": [
+        "General medical terms",
+        "calf strap"
+      ],
+      "source_forms": [
+        "calf strap"
+      ],
+      "retrieval_terms": [
+        "calf strap"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000057"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000049",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "ceiling hoist",
+      "canonical_candidate": "ceiling hoist",
+      "keyword_path": [
+        "General medical terms",
+        "ceiling hoist"
+      ],
+      "source_forms": [
+        "ceiling hoist"
+      ],
+      "retrieval_terms": [
+        "ceiling hoist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000058",
+        "HHS4185-O-00000059",
+        "HHS4185-O-00000060",
+        "HHS4185-O-00000061",
+        "HHS4185-O-00000062",
+        "HHS4185-O-00000063",
+        "HHS4185-O-00000064",
+        "HHS4185-O-00000065",
+        "HHS4185-O-00000066",
+        "HHS4185-O-00000067",
+        "HHS4185-O-00000068",
+        "HHS4185-O-00000069"
+      ],
+      "occurrence_count": 12,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-P0005",
+        "HHS4185-WS2-P0006",
+        "HHS4185-WS2-P0007",
+        "HHS4185-WS2-P0008",
+        "HHS4185-WS2-P0009",
+        "HHS4185-WS2-P0010",
+        "HHS4185-WS2-P0011",
+        "HHS4185-WS2-P0012",
+        "HHS4185-WS2-P0013",
+        "HHS4185-WS2-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000050",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "commode",
+      "canonical_candidate": "commode",
+      "keyword_path": [
+        "General medical terms",
+        "commode"
+      ],
+      "source_forms": [
+        "commode"
+      ],
+      "retrieval_terms": [
+        "commode"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0023",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000051",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "easy stand",
+      "canonical_candidate": "easy stand",
+      "keyword_path": [
+        "General medical terms",
+        "easy stand"
+      ],
+      "source_forms": [
+        "easy stand"
+      ],
+      "retrieval_terms": [
+        "easy stand"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071",
+        "HHS4185-O-00000072",
+        "HHS4185-O-00000073",
+        "HHS4185-O-00000074",
+        "HHS4185-O-00000075"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-P0019",
+        "HHS4185-WS2-P0020"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000052",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "hospital bed",
+      "canonical_candidate": "hospital bed",
+      "keyword_path": [
+        "General medical terms",
+        "hospital bed"
+      ],
+      "source_forms": [
+        "hospital bed"
+      ],
+      "retrieval_terms": [
+        "hospital bed"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0021",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000053",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "joint contractures",
+      "canonical_candidate": "joint contractures",
+      "keyword_path": [
+        "General medical terms",
+        "joint contractures"
+      ],
+      "source_forms": [
+        "joint contractures"
+      ],
+      "retrieval_terms": [
+        "joint contractures",
+        "joint contracture"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000054",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "manual handling",
+      "canonical_candidate": "manual handling",
+      "keyword_path": [
+        "General medical terms",
+        "manual handling"
+      ],
+      "source_forms": [
+        "manual handling"
+      ],
+      "retrieval_terms": [
+        "manual handling"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0026",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000055",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "mobile hoist",
+      "canonical_candidate": "mobile hoist",
+      "keyword_path": [
+        "General medical terms",
+        "mobile hoist"
+      ],
+      "source_forms": [
+        "mobile hoist"
+      ],
+      "retrieval_terms": [
+        "mobile hoist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0004"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000056",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "orthostatic hypotension",
+      "canonical_candidate": "orthostatic hypotension",
+      "keyword_path": [
+        "General medical terms",
+        "orthostatic hypotension"
+      ],
+      "source_forms": [
+        "orthostatic hypotension"
+      ],
+      "retrieval_terms": [
+        "orthostatic hypotension"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000057",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "pelvic belt",
+      "canonical_candidate": "pelvic belt",
+      "keyword_path": [
+        "General medical terms",
+        "pelvic belt"
+      ],
+      "source_forms": [
+        "pelvic belt"
+      ],
+      "retrieval_terms": [
+        "pelvic belt"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000082"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000058",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "portable hoist",
+      "canonical_candidate": "portable hoist",
+      "keyword_path": [
+        "General medical terms",
+        "portable hoist"
+      ],
+      "source_forms": [
+        "portable hoist"
+      ],
+      "retrieval_terms": [
+        "portable hoist"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000083"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000059",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "pressure sore",
+      "canonical_candidate": "pressure sore",
+      "keyword_path": [
+        "General medical terms",
+        "pressure sore"
+      ],
+      "source_forms": [
+        "pressure sore"
+      ],
+      "retrieval_terms": [
+        "pressure sore"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000060",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "ripple bed",
+      "canonical_candidate": "ripple bed",
+      "keyword_path": [
+        "General medical terms",
+        "ripple bed"
+      ],
+      "source_forms": [
+        "ripple bed"
+      ],
+      "retrieval_terms": [
+        "ripple bed"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000085"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000061",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "shoulder sling",
+      "canonical_candidate": "shoulder sling",
+      "keyword_path": [
+        "General medical terms",
+        "shoulder sling"
+      ],
+      "source_forms": [
+        "shoulder sling"
+      ],
+      "retrieval_terms": [
+        "shoulder sling"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000062",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "sling",
+      "canonical_candidate": "sling",
+      "keyword_path": [
+        "General medical terms",
+        "sling"
+      ],
+      "source_forms": [
+        "sling"
+      ],
+      "retrieval_terms": [
+        "sling"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000087",
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090",
+        "HHS4185-O-00000091",
+        "HHS4185-O-00000092",
+        "HHS4185-O-00000093",
+        "HHS4185-O-00000094",
+        "HHS4185-O-00000095",
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097",
+        "HHS4185-O-00000098"
+      ],
+      "occurrence_count": 12,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-P0005",
+        "HHS4185-WS2-P0006",
+        "HHS4185-WS2-P0007",
+        "HHS4185-WS2-P0008",
+        "HHS4185-WS2-P0009",
+        "HHS4185-WS2-P0010",
+        "HHS4185-WS2-P0011",
+        "HHS4185-WS2-P0012",
+        "HHS4185-WS2-P0013",
+        "HHS4185-WS2-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000063",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "subluxation",
+      "canonical_candidate": "subluxation",
+      "keyword_path": [
+        "General medical terms",
+        "subluxation"
+      ],
+      "source_forms": [
+        "subluxation"
+      ],
+      "retrieval_terms": [
+        "subluxation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000064",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "tilt table",
+      "canonical_candidate": "tilt table",
+      "keyword_path": [
+        "General medical terms",
+        "tilt table"
+      ],
+      "source_forms": [
+        "tilt table"
+      ],
+      "retrieval_terms": [
+        "tilt table"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000100",
+        "HHS4185-O-00000101",
+        "HHS4185-O-00000102",
+        "HHS4185-O-00000103",
+        "HHS4185-O-00000104"
+      ],
+      "occurrence_count": 5,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-P0018",
+        "HHS4185-WS2-P0019",
+        "HHS4185-WS2-P0020"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000065",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "venous pooling",
+      "canonical_candidate": "venous pooling",
+      "keyword_path": [
+        "General medical terms",
+        "venous pooling"
+      ],
+      "source_forms": [
+        "venous pooling"
+      ],
+      "retrieval_terms": [
+        "venous pooling"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000066",
+      "category": "general_medical_terms",
+      "broad_area": "General medical terms",
+      "preferred_label": "wheelchair to bed",
+      "canonical_candidate": "wheelchair to bed",
+      "keyword_path": [
+        "General medical terms",
+        "wheelchair to bed"
+      ],
+      "source_forms": [
+        "wheelchair to bed"
+      ],
+      "retrieval_terms": [
+        "wheelchair to bed"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106",
+        "HHS4185-O-00000107",
+        "HHS4185-O-00000108",
+        "HHS4185-O-00000109"
+      ],
+      "occurrence_count": 4,
+      "section_ids": [
+        "HHS4185-WS2-P0007",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0008",
+        "HHS4185-WS2-P0009",
+        "HHS4185-WS2-P0010"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000067",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "antigravity exercise",
+      "canonical_candidate": "antigravity exercise",
+      "keyword_path": [
+        "Management and treatment",
+        "antigravity exercise"
+      ],
+      "source_forms": [
+        "antigravity exercise"
+      ],
+      "retrieval_terms": [
+        "antigravity exercise"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000110"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000068",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "exercise",
+      "canonical_candidate": "exercise",
+      "keyword_path": [
+        "Management and treatment",
+        "exercise"
+      ],
+      "source_forms": [
+        "exercise"
+      ],
+      "retrieval_terms": [
+        "exercise"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000111"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000069",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "increased ventilation",
+      "canonical_candidate": "increased ventilation",
+      "keyword_path": [
+        "Management and treatment",
+        "increased ventilation"
+      ],
+      "source_forms": [
+        "increased ventilation"
+      ],
+      "retrieval_terms": [
+        "increased ventilation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000112"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000070",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "increased ventilation increased arousal improved weight",
+      "canonical_candidate": "increased ventilation increased arousal improved weight",
+      "keyword_path": [
+        "Management and treatment",
+        "increased ventilation increased arousal improved weight"
+      ],
+      "source_forms": [
+        "increased ventilation increased arousal improved weight"
+      ],
+      "retrieval_terms": [
+        "increased ventilation increased arousal improved weight"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000113"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000071",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "operation",
+      "canonical_candidate": "operation",
+      "keyword_path": [
+        "Management and treatment",
+        "operation"
+      ],
+      "source_forms": [
+        "operation"
+      ],
+      "retrieval_terms": [
+        "operation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000114",
+        "HHS4185-O-00000115"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000072",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "people x main operation",
+      "canonical_candidate": "people x main operation",
+      "keyword_path": [
+        "Management and treatment",
+        "people x main operation"
+      ],
+      "source_forms": [
+        "people x main operation"
+      ],
+      "retrieval_terms": [
+        "people x main operation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000116"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000073",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "shoulder operation",
+      "canonical_candidate": "shoulder operation",
+      "keyword_path": [
+        "Management and treatment",
+        "shoulder operation"
+      ],
+      "source_forms": [
+        "shoulder operation"
+      ],
+      "retrieval_terms": [
+        "shoulder operation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000117"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000074",
+      "category": "management_treatment",
+      "broad_area": "Management and treatment",
+      "preferred_label": "ventilation",
+      "canonical_candidate": "ventilation",
+      "keyword_path": [
+        "Management and treatment",
+        "ventilation"
+      ],
+      "source_forms": [
+        "ventilation"
+      ],
+      "retrieval_terms": [
+        "ventilation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000118"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000075",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities",
+      "canonical_candidate": "activities",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities"
+      ],
+      "source_forms": [
+        "activities"
+      ],
+      "retrieval_terms": [
+        "activities",
+        "activity"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000119"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0002",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000076",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "activities of daily living",
+      "canonical_candidate": "activities of daily living",
+      "keyword_path": [
+        "Rehabilitation",
+        "activities of daily living"
+      ],
+      "source_forms": [
+        "activities of daily living"
+      ],
+      "retrieval_terms": [
+        "activities of daily living"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000120",
+        "HHS4185-O-00000121"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0002",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0023",
+        "HHS4185-WS2-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000077",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "daily living ADL",
+      "canonical_candidate": "daily living ADL",
+      "keyword_path": [
+        "Rehabilitation",
+        "daily living ADL"
+      ],
+      "source_forms": [
+        "daily living ADL"
+      ],
+      "retrieval_terms": [
+        "daily living ADL"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000122"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0002",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000078",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "daily living ADL ADL",
+      "canonical_candidate": "daily living ADL ADL",
+      "keyword_path": [
+        "Rehabilitation",
+        "daily living ADL ADL"
+      ],
+      "source_forms": [
+        "daily living ADL ADL"
+      ],
+      "retrieval_terms": [
+        "daily living ADL ADL"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000123"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0002",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000079",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "disability",
+      "canonical_candidate": "disability",
+      "keyword_path": [
+        "Rehabilitation",
+        "disability"
+      ],
+      "source_forms": [
+        "disability"
+      ],
+      "retrieval_terms": [
+        "disability"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000124"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0023",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000080",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "disabled members esp transfer",
+      "canonical_candidate": "disabled members esp transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "disabled members esp transfer"
+      ],
+      "source_forms": [
+        "disabled members esp transfer"
+      ],
+      "retrieval_terms": [
+        "disabled members esp transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000125"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0021",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000081",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "Rehabilitation",
+      "canonical_candidate": "Rehabilitation",
+      "keyword_path": [
+        "Rehabilitation",
+        "Rehabilitation"
+      ],
+      "source_forms": [
+        "Rehabilitation",
+        "rehabilitation"
+      ],
+      "retrieval_terms": [
+        "Rehabilitation",
+        "rehabilitation"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000126",
+        "HHS4185-O-00000127"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0001",
+        "HHS4185-WS2-PART01",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0002"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000082",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "transfer",
+      "canonical_candidate": "transfer",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer"
+      ],
+      "source_forms": [
+        "transfer"
+      ],
+      "retrieval_terms": [
+        "transfer"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000128",
+        "HHS4185-O-00000129",
+        "HHS4185-O-00000130",
+        "HHS4185-O-00000131",
+        "HHS4185-O-00000132",
+        "HHS4185-O-00000133",
+        "HHS4185-O-00000134",
+        "HHS4185-O-00000135"
+      ],
+      "occurrence_count": 8,
+      "section_ids": [
+        "HHS4185-WS2-P0006",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0008",
+        "HHS4185-WS2-P0010",
+        "HHS4185-WS2-P0011",
+        "HHS4185-WS2-P0012",
+        "HHS4185-WS2-P0013",
+        "HHS4185-WS2-P0021",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2-P0026",
+        "HHS4185-WS2-PART05"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000083",
+      "category": "rehabilitation",
+      "broad_area": "Rehabilitation",
+      "preferred_label": "transfer machine",
+      "canonical_candidate": "transfer machine",
+      "keyword_path": [
+        "Rehabilitation",
+        "transfer machine"
+      ],
+      "source_forms": [
+        "transfer machine"
+      ],
+      "retrieval_terms": [
+        "transfer machine"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000136",
+        "HHS4185-O-00000137",
+        "HHS4185-O-00000138",
+        "HHS4185-O-00000139",
+        "HHS4185-O-00000140",
+        "HHS4185-O-00000141",
+        "HHS4185-O-00000142",
+        "HHS4185-O-00000143",
+        "HHS4185-O-00000144",
+        "HHS4185-O-00000145",
+        "HHS4185-O-00000146",
+        "HHS4185-O-00000147"
+      ],
+      "occurrence_count": 12,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0004",
+        "HHS4185-WS2-P0005",
+        "HHS4185-WS2-P0006",
+        "HHS4185-WS2-P0007",
+        "HHS4185-WS2-P0008",
+        "HHS4185-WS2-P0009",
+        "HHS4185-WS2-P0010",
+        "HHS4185-WS2-P0011",
+        "HHS4185-WS2-P0012",
+        "HHS4185-WS2-P0013",
+        "HHS4185-WS2-P0014"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000084",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "bear weight",
+      "canonical_candidate": "bear weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "bear weight"
+      ],
+      "source_forms": [
+        "bear weight"
+      ],
+      "retrieval_terms": [
+        "bear weight"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000148"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000085",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "medium distribute weight",
+      "canonical_candidate": "medium distribute weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "medium distribute weight"
+      ],
+      "source_forms": [
+        "medium distribute weight"
+      ],
+      "retrieval_terms": [
+        "medium distribute weight"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000149"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000086",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "movements reduce pain",
+      "canonical_candidate": "movements reduce pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "movements reduce pain"
+      ],
+      "source_forms": [
+        "movements reduce pain"
+      ],
+      "retrieval_terms": [
+        "movements reduce pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000150"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000087",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "pain",
+      "canonical_candidate": "pain",
+      "keyword_path": [
+        "Symptoms and signs",
+        "pain"
+      ],
+      "source_forms": [
+        "pain"
+      ],
+      "retrieval_terms": [
+        "pain"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000151"
+      ],
+      "occurrence_count": 1,
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000088",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "weight",
+      "canonical_candidate": "weight",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight"
+      ],
+      "source_forms": [
+        "weight"
+      ],
+      "retrieval_terms": [
+        "weight"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000152",
+        "HHS4185-O-00000153",
+        "HHS4185-O-00000154"
+      ],
+      "occurrence_count": 3,
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "concept_id": "HHS4185-C-0000089",
+      "category": "symptoms_signs",
+      "broad_area": "Symptoms and signs",
+      "preferred_label": "weight bearing",
+      "canonical_candidate": "weight bearing",
+      "keyword_path": [
+        "Symptoms and signs",
+        "weight bearing"
+      ],
+      "source_forms": [
+        "weight bearing"
+      ],
+      "retrieval_terms": [
+        "weight bearing"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000155",
+        "HHS4185-O-00000156"
+      ],
+      "occurrence_count": 2,
+      "section_ids": [
+        "HHS4185-WS2-P0017",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE",
+        "HHS4185-WS2-P0018"
+      ],
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    }
+  ],
+  "counts": {
+    "concepts": 89,
+    "occurrences": 156
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+}

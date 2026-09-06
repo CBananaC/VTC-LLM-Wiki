@@ -16,6 +16,7 @@ VTC LLM Wiki/
 │   └── ADD_SOURCE.md
 ├── HHS4185 Course Materials - LLM Wiki/
 ├── Davidson 25th Edition - LLM Wiki/
+├── sources/HHS4185/                         # standalone course/workshop sources
 ├── sources/HHS4185/HHS4185-REF-ORTHO-SPECIAL-TESTS/
 ├── sources/HHS3190M/                         # nine deduplicated course sources
 └── sources/HHS4867/
@@ -75,6 +76,12 @@ one canonical PDF per SHA-256 group was processed; the duplicate audit is
 Scheme of Module Activity is a separate course-priority package with its own
 three-file duplicate audit at
 `sources/HHS3190M/official_deduplication_audit_generated.json`.
+
+The HHS4185 workshop packages under `sources/HHS4185/` are separate from the
+aggregate course package. Workshop 2 — Introduction to Rehabilitation
+Equipment (2) has its own raw PDF, English-derived slide passages, visual
+locations, topic structure, summaries, keywords, formal references, indexes,
+and query helper; all generated records remain `generated_not_verified`.
 
 Query the official document directly when asking about learning outcomes,
 assessment rules, the weekly lesson plan, or teacher information:

@@ -1,0 +1,1450 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "terms": {
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000119"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "activitiesofdailyliving": {
+      "display_forms": [
+        "activities of daily living"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000120",
+        "HHS4185-O-00000121"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000119"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "adl": {
+      "display_forms": [
+        "ADL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000038",
+        "HHS4185-O-00000039"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "antigravityexercise": {
+      "display_forms": [
+        "antigravity exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000110"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "armsling": {
+      "display_forms": [
+        "arm sling"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000051"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "as114206": {
+      "display_forms": [
+        "AS114206"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000040"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "as114206higherdiploma": {
+      "display_forms": [
+        "AS114206 Higher Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000041"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "asis": {
+      "display_forms": [
+        "ASIS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000042"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "asispelvis": {
+      "display_forms": [
+        "ASIS pelvis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000013"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "atrophy": {
+      "display_forms": [
+        "atrophy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000014"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ay2627": {
+      "display_forms": [
+        "AY2627"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000043"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "backbrace": {
+      "display_forms": [
+        "back brace"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000052"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "bearweight": {
+      "display_forms": [
+        "bear weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000148"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "bedtowheelchair": {
+      "display_forms": [
+        "bed to wheelchair"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000053",
+        "HHS4185-O-00000054",
+        "HHS4185-O-00000055",
+        "HHS4185-O-00000056"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "calfstrap": {
+      "display_forms": [
+        "calf strap"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000057"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "carpaltunnelwrist": {
+      "display_forms": [
+        "Carpal Tunnel Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000015"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "carpaltunnelwristbrace": {
+      "display_forms": [
+        "carpal tunnel wrist brace"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000016"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ceilinghoist": {
+      "display_forms": [
+        "ceiling hoist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000058",
+        "HHS4185-O-00000059",
+        "HHS4185-O-00000060",
+        "HHS4185-O-00000061",
+        "HHS4185-O-00000062",
+        "HHS4185-O-00000063",
+        "HHS4185-O-00000064",
+        "HHS4185-O-00000065",
+        "HHS4185-O-00000066",
+        "HHS4185-O-00000067",
+        "HHS4185-O-00000068",
+        "HHS4185-O-00000069"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "commode": {
+      "display_forms": [
+        "commode"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "cordinjurylowerlimbsparalyzedtetraplegia": {
+      "display_forms": [
+        "Cord Injury lower limbs paralyzed tetraplegia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000017"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "dailylivingadl": {
+      "display_forms": [
+        "daily living ADL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000122"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "dailylivingadladl": {
+      "display_forms": [
+        "daily living ADL ADL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000123"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "diploma": {
+      "display_forms": [
+        "Diploma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000018"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "disability": {
+      "display_forms": [
+        "disability"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000124"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "disabledmembersesptransfer": {
+      "display_forms": [
+        "disabled members esp transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000125"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "easystand": {
+      "display_forms": [
+        "easy stand"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071",
+        "HHS4185-O-00000072",
+        "HHS4185-O-00000073",
+        "HHS4185-O-00000074",
+        "HHS4185-O-00000075"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "exchangemuscleatrophyjointcontracturesperipheral": {
+      "display_forms": [
+        "exchange muscle atrophy joint contractures peripheral"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000019"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "exercise": {
+      "display_forms": [
+        "exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000111"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "fracture": {
+      "display_forms": [
+        "fracture"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000020"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "hhs4185": {
+      "display_forms": [
+        "HHS4185"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000044"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "hhs4185j": {
+      "display_forms": [
+        "HHS4185J"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000045"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "hip": {
+      "display_forms": [
+        "hip"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001",
+        "HHS4185-O-00000002",
+        "HHS4185-O-00000003"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "hospitalbed": {
+      "display_forms": [
+        "hospital bed"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000076"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "increasedventilation": {
+      "display_forms": [
+        "increased ventilation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000112"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "increasedventilationincreasedarousalimprovedweight": {
+      "display_forms": [
+        "increased ventilation increased arousal improved weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000113"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "injury": {
+      "display_forms": [
+        "Injury",
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000021",
+        "HHS4185-O-00000022",
+        "HHS4185-O-00000023"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "jointcontracture": {
+      "display_forms": [
+        "joint contracture"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "jointcontractures": {
+      "display_forms": [
+        "joint contractures"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "knee": {
+      "display_forms": [
+        "knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000004"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "kneecapinchwideknee": {
+      "display_forms": [
+        "kneecap inch wide knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000024"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "kneestrap": {
+      "display_forms": [
+        "knee strap"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000025"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "lung": {
+      "display_forms": [
+        "lung"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000005"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "lungvolumesimpairedgasexchangemuscle": {
+      "display_forms": [
+        "lung volumes impaired gas exchange muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000026"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "manualhandling": {
+      "display_forms": [
+        "manual handling"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "mediannerve": {
+      "display_forms": [
+        "median nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000027"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "mediumdistributeweight": {
+      "display_forms": [
+        "medium distribute weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000149"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "mobilehoist": {
+      "display_forms": [
+        "mobile hoist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "movementsreducepain": {
+      "display_forms": [
+        "movements reduce pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000150"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "movingegspinal": {
+      "display_forms": [
+        "moving e g Spinal"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000028"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "movingegspinalcordinjury": {
+      "display_forms": [
+        "moving e g Spinal Cord Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000029"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "muscle": {
+      "display_forms": [
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "muscleatrophy": {
+      "display_forms": [
+        "muscle atrophy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000030"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "muscleatrophyjointcontracturesperipheralnerve": {
+      "display_forms": [
+        "muscle atrophy joint contractures peripheral nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000031"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "nerve": {
+      "display_forms": [
+        "nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007",
+        "HHS4185-O-00000008"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "nkhqxzfmn4": {
+      "display_forms": [
+        "nkhqXzFmN4"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000046"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ogyl9vwtm": {
+      "display_forms": [
+        "OgyL9VwTM"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000047"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "operation": {
+      "display_forms": [
+        "operation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000114",
+        "HHS4185-O-00000115"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "orthostatichypotension": {
+      "display_forms": [
+        "orthostatic hypotension"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "oxygenconsumptionvenouspoolingreducedlung": {
+      "display_forms": [
+        "oxygen consumption venous pooling reduced lung"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000032"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "pain": {
+      "display_forms": [
+        "pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000151"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "pelvicbelt": {
+      "display_forms": [
+        "pelvic belt"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000082"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "pelvicfracture": {
+      "display_forms": [
+        "pelvic fracture"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000033"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "pelvis": {
+      "display_forms": [
+        "pelvis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "peoplexmainoperation": {
+      "display_forms": [
+        "people x main operation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000116"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "peripheral": {
+      "display_forms": [
+        "peripheral"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000010"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "portablehoist": {
+      "display_forms": [
+        "portable hoist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000083"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "pressuresore": {
+      "display_forms": [
+        "pressure sore"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "regularly": {
+      "display_forms": [
+        "REGULARLY"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000048"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "Rehabilitation",
+        "rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000126",
+        "HHS4185-O-00000127"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "rhejbel8vsk": {
+      "display_forms": [
+        "rheJbel8vSk"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000049"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ripplebed": {
+      "display_forms": [
+        "ripple bed"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000085"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "shoulderoperation": {
+      "display_forms": [
+        "shoulder operation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000117"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "shouldersling": {
+      "display_forms": [
+        "shoulder sling"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "sling": {
+      "display_forms": [
+        "sling"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000087",
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089",
+        "HHS4185-O-00000090",
+        "HHS4185-O-00000091",
+        "HHS4185-O-00000092",
+        "HHS4185-O-00000093",
+        "HHS4185-O-00000094",
+        "HHS4185-O-00000095",
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097",
+        "HHS4185-O-00000098"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "spinal": {
+      "display_forms": [
+        "Spinal"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000011"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "stroke": {
+      "display_forms": [
+        "stroke"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000034"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "subluxation": {
+      "display_forms": [
+        "subluxation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000099"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "tetraplegia": {
+      "display_forms": [
+        "tetraplegia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000035"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "tilttable": {
+      "display_forms": [
+        "tilt table"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000100",
+        "HHS4185-O-00000101",
+        "HHS4185-O-00000102",
+        "HHS4185-O-00000103",
+        "HHS4185-O-00000104"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "transfer": {
+      "display_forms": [
+        "transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000128",
+        "HHS4185-O-00000129",
+        "HHS4185-O-00000130",
+        "HHS4185-O-00000131",
+        "HHS4185-O-00000132",
+        "HHS4185-O-00000133",
+        "HHS4185-O-00000134",
+        "HHS4185-O-00000135"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "transfermachine": {
+      "display_forms": [
+        "transfer machine"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000136",
+        "HHS4185-O-00000137",
+        "HHS4185-O-00000138",
+        "HHS4185-O-00000139",
+        "HHS4185-O-00000140",
+        "HHS4185-O-00000141",
+        "HHS4185-O-00000142",
+        "HHS4185-O-00000143",
+        "HHS4185-O-00000144",
+        "HHS4185-O-00000145",
+        "HHS4185-O-00000146",
+        "HHS4185-O-00000147"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "tunnelwristbraceaimstabilizewrist": {
+      "display_forms": [
+        "Tunnel Wrist Brace Aim stabilize wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000036"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "venouspooling": {
+      "display_forms": [
+        "venous pooling"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ventilation": {
+      "display_forms": [
+        "ventilation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000118"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "volumesimpairedgasexchangemuscleatrophy": {
+      "display_forms": [
+        "volumes impaired gas exchange muscle atrophy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000037"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000152",
+        "HHS4185-O-00000153",
+        "HHS4185-O-00000154"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "weightbearing": {
+      "display_forms": [
+        "weight bearing"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000155",
+        "HHS4185-O-00000156"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "wheelchairtobed": {
+      "display_forms": [
+        "wheelchair to bed"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106",
+        "HHS4185-O-00000107",
+        "HHS4185-O-00000108",
+        "HHS4185-O-00000109"
+      ],
+      "categories": [
+        "general_medical_terms"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "wrist": {
+      "display_forms": [
+        "wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000012"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    "ws2": {
+      "display_forms": [
+        "WS2"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000050"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    }
+  },
+  "counts": {
+    "terms": 91,
+    "concepts_referenced": 89,
+    "occurrences_referenced": 156
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+}

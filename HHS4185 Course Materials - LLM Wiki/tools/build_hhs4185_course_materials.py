@@ -87,6 +87,13 @@ DOCUMENTS = [
         "title": "Workshop 1 - Introduction to rehabilitation equipment",
     },
     {
+        "document_id": "HHS4185-WS2",
+        "file_name": "HHS4185_WS2_Equipment.pdf",
+        "source_type": "workshop",
+        "workshop_number": 2,
+        "title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+    },
+    {
         "document_id": "HHS4185-T1-ICF",
         "file_name": "HHS4185_T1_ICF.pdf",
         "source_type": "tutorial",
@@ -103,6 +110,7 @@ SOURCE_ALIASES = {
     "HHS4185_L2.pdf": ("02 Lectures/02 - L2.pdf",),
     "HHS4185J_L2.pdf": ("02 Lectures/03 - HHS4185J L2.pdf",),
     "HHS4185_WS1_Equipment.pdf": ("03 Workshops/02 - WS1 Equipment.pdf",),
+    "HHS4185_WS2_Equipment.pdf": ("03 Workshops/AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",),
     "HHS4185_T1_ICF.pdf": ("03 Workshops/01 - T1 ICF.pdf",),
 }
 

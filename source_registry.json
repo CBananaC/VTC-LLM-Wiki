@@ -985,6 +985,61 @@
       "claims_index": "not_created",
       "coverage_status": "processed_official_document",
       "deduplication_audit_path": "sources/HHS3190M/official_deduplication_audit_generated.json"
+    },
+    {
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026",
+      "course_code": "HHS4185",
+      "source_role": "course_materials",
+      "source_kind": "workshop",
+      "title": "Workshop 2 - Introduction to Rehabilitation Equipment (2)",
+      "package_status": "processed_source_package",
+      "package_path": "sources/HHS4185/HHS4185-WS2-EQUIPMENT-2026",
+      "source_manifest_path": "sources/HHS4185/HHS4185-WS2-EQUIPMENT-2026/source_manifest.json",
+      "query_helper_path": "sources/HHS4185/HHS4185-WS2-EQUIPMENT-2026/query_source.py",
+      "priority": 1,
+      "source_files": [
+        {
+          "file_name": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+          "original_path": "../Rehabilitation Conditions/03 Workshops/AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+          "size_bytes": 885017,
+          "sha256": "sha256:a5a57d4cb76dfc884666cf5285694bbdd48e1aba040a3f6fcc755e09dc3fb511",
+          "copied_path": "sources/HHS4185/HHS4185-WS2-EQUIPMENT-2026/00 Source/AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+          "copy_status": "copied"
+        }
+      ],
+      "source_urls": [],
+      "verification_status": "generated_not_verified",
+      "claims_index": "not_created",
+      "retrieval_index_path": "sources/HHS4185/HHS4185-WS2-EQUIPMENT-2026/04 Retrieval Index",
+      "coverage_status": "processed_source_package",
+      "processing_counts": {
+        "documents": 1,
+        "pages": 27,
+        "passages": 27,
+        "parts": 6,
+        "concepts": 89,
+        "occurrences": 156,
+        "terms": 91,
+        "visuals": 13,
+        "tables": 0
+      },
+      "processing_validation": {
+        "documents_present": true,
+        "canonical_sha256_unique": true,
+        "all_pages_have_ocr": true,
+        "all_pages_have_layout": true,
+        "concept_ids_unique": true,
+        "occurrence_ids_unique": true,
+        "occurrence_concept_links_resolve": true,
+        "term_concept_links_resolve": true,
+        "passage_count_matches_pages": true,
+        "passage_page_references_present": true,
+        "visual_page_references_present": true,
+        "generated_not_verified_preserved": true,
+        "source_package_id_present": true,
+        "raw_pdf_exists": true,
+        "raw_hash_matches_registered_source": true
+      }
     }
   ]
 }

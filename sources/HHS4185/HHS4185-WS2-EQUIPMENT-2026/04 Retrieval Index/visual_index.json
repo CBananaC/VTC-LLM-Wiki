@@ -1,0 +1,799 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4185",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0003-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0003",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 3,
+      "slide_number": 3,
+      "visual_type": "image",
+      "name": "Uncaptioned ceiling-hoist equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          433.627,
+          411.426,
+          830.512,
+          525.391
+        ],
+        "bbox_px": [
+          903.3890991210938,
+          857.1365966796875,
+          1730.2342529296875,
+          1094.5654296875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0003",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 3,
+        "page_number_type": "slide_number",
+        "slide_number": 3,
+        "pdf_page": 3,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 3 (PDF p. 3)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0003",
+        "HHS4185-WS2-PART02",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Ceiling Hoist / Portable Hoist and transfer procedures",
+          "Ceiling Hoist / Portable Hoist"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0015-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0015",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Uncaptioned ceiling-hoist transfer video still",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          164.054,
+          84.698,
+          795.781,
+          442.19
+        ],
+        "bbox_px": [
+          341.7797546386719,
+          176.45391845703125,
+          1657.876220703125,
+          921.229248046875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0015",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0015",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Tilt Table / Easy Stand",
+          "Ceiling Hoist / Portable Hoist - video demonstration"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0016-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0016",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Uncaptioned tilt-table equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          730.43,
+          159.016,
+          790.812,
+          254.684
+        ],
+        "bbox_px": [
+          1521.7296142578125,
+          331.2830505371094,
+          1647.524658203125,
+          530.5925903320312
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0016",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Tilt Table / Easy Stand",
+          "Tilt Table / Easy Stand"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0016-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0016",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "image",
+      "name": "Uncaptioned Easy Stand equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          709.995,
+          283.241,
+          816.725,
+          450.612
+        ],
+        "bbox_px": [
+          1479.156982421875,
+          590.085205078125,
+          1701.509521484375,
+          938.7743530273438
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0016",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0016",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Tilt Table / Easy Stand",
+          "Tilt Table / Easy Stand"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0019-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0019",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 19,
+      "slide_number": 19,
+      "visual_type": "image",
+      "name": "Uncaptioned Easy Stand video still",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          165.006,
+          79.966,
+          793.925,
+          435.85
+        ],
+        "bbox_px": [
+          343.7633972167969,
+          166.5966339111328,
+          1654.01123046875,
+          908.0209350585938
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0019",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 19,
+        "page_number_type": "slide_number",
+        "slide_number": 19,
+        "pdf_page": 19,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 19 (PDF p. 19)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0019",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Tilt Table / Easy Stand",
+          "Tilt Table / Easy Stand - video demonstration"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0020-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0020",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 20,
+      "slide_number": 20,
+      "visual_type": "image",
+      "name": "Uncaptioned standing-equipment video still",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          160.208,
+          87.843,
+          798.56,
+          448.203
+        ],
+        "bbox_px": [
+          333.76617431640625,
+          183.00595092773438,
+          1663.6669921875,
+          933.7559204101562
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0020",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 20,
+        "page_number_type": "slide_number",
+        "slide_number": 20,
+        "pdf_page": 20,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 20 (PDF p. 20)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0020",
+        "HHS4185-WS2-PART03",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Tilt Table / Easy Stand",
+          "Tilt Table / Easy Stand - video demonstration"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0021-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0021",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 21,
+      "slide_number": 21,
+      "visual_type": "image",
+      "name": "Uncaptioned hospital-bed equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          389.944,
+          358.12,
+          614.119,
+          524.375
+        ],
+        "bbox_px": [
+          812.383544921875,
+          746.083984375,
+          1279.413818359375,
+          1092.447265625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0021",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 21,
+        "page_number_type": "slide_number",
+        "slide_number": 21,
+        "pdf_page": 21,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 21 (PDF p. 21)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0021",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Hospital Bed / Ripple Bed",
+          "Hospital bed"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0022-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0022",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 22,
+      "slide_number": 22,
+      "visual_type": "image",
+      "name": "Uncaptioned ripple-bed equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          563.935,
+          196.481,
+          807.201,
+          335.61
+        ],
+        "bbox_px": [
+          1174.864990234375,
+          409.3354797363281,
+          1681.668701171875,
+          699.1864624023438
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0022",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 22,
+        "page_number_type": "slide_number",
+        "slide_number": 22,
+        "pdf_page": 22,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 22 (PDF p. 22)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0022",
+        "HHS4185-WS2-PART04",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Hospital Bed / Ripple Bed",
+          "Ripple Bed"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0023-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0023",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 23,
+      "slide_number": 23,
+      "visual_type": "image",
+      "name": "Uncaptioned commode equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          440.022,
+          184.991,
+          747.377,
+          438.0
+        ],
+        "bbox_px": [
+          916.7120361328125,
+          385.3974914550781,
+          1557.0347900390625,
+          912.4993286132812
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0023",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 23,
+        "page_number_type": "slide_number",
+        "slide_number": 23,
+        "pdf_page": 23,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 23 (PDF p. 23)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0023",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Rehab equipment for activities of daily living (ADL)",
+          "Rehab equipment for ADL"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0024-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0024",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 24,
+      "slide_number": 24,
+      "visual_type": "image",
+      "name": "Uncaptioned shoulder/arm-sling equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          674.493,
+          94.816,
+          816.92,
+          242.688
+        ],
+        "bbox_px": [
+          1405.194580078125,
+          197.53271484375,
+          1701.9168701171875,
+          505.5999450683594
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0024",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 24,
+        "page_number_type": "slide_number",
+        "slide_number": 24,
+        "pdf_page": 24,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 24 (PDF p. 24)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0024",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Rehab equipment for activities of daily living (ADL)",
+          "Support on Body parts"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0025-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0025",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Uncaptioned carpal-tunnel wrist-brace image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          633.105,
+          156.228,
+          795.986,
+          302.85
+        ],
+        "bbox_px": [
+          1318.9677734375,
+          325.47442626953125,
+          1658.303466796875,
+          630.9369506835938
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0025",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Rehab equipment for activities of daily living (ADL)",
+          "Carpal Tunnel Wrist Brace"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0025-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0025",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 25,
+      "slide_number": 25,
+      "visual_type": "image",
+      "name": "Uncaptioned carpal-tunnel wrist-brace image (second view)",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          655.488,
+          316.011,
+          787.959,
+          439.071
+        ],
+        "bbox_px": [
+          1365.599853515625,
+          658.3560180664062,
+          1641.581298828125,
+          914.7313842773438
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0025",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 25,
+        "page_number_type": "slide_number",
+        "slide_number": 25,
+        "pdf_page": 25,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 25 (PDF p. 25)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0025",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Rehab equipment for activities of daily living (ADL)",
+          "Carpal Tunnel Wrist Brace"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    },
+    {
+      "visual_id": "HHS4185-WS2-VIS-P0026-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-WS2",
+      "source_page_id": "HHS4185-WS2-P0026",
+      "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+      "pdf_page": 26,
+      "slide_number": 26,
+      "visual_type": "image",
+      "name": "Uncaptioned back-brace equipment image",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          560.613,
+          192.849,
+          769.202,
+          402.748
+        ],
+        "bbox_px": [
+          1167.944580078125,
+          401.7680969238281,
+          1602.5048828125,
+          839.057861328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "name_basis": "generated from page title/context; no printed caption detected",
+      "page_reference": {
+        "source_page_id": "HHS4185-WS2-P0026",
+        "document_id": "HHS4185-WS2",
+        "document_title": "Workshop 2 - Introduction to rehabilitation equipment (2)",
+        "source_file": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf",
+        "page_number": 26,
+        "page_number_type": "slide_number",
+        "slide_number": 26,
+        "pdf_page": 26,
+        "formatted": "AY2627_HHS4185  4185J_ W2_復康器材(二).pdf, slide 26 (PDF p. 26)"
+      },
+      "section_ids": [
+        "HHS4185-WS2-P0026",
+        "HHS4185-WS2-PART05",
+        "HHS4185-WS2",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Workshop 2 - Introduction to rehabilitation equipment (2)",
+          "Rehab equipment for activities of daily living (ADL)",
+          "Back Brace"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+    }
+  ],
+  "counts": {
+    "visuals": 13,
+    "tables": 0,
+    "non_tables": 13
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-WS2-EQUIPMENT-2026"
+}

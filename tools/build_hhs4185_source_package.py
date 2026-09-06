@@ -535,3 +535,187 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+WS2_PAGE_TITLE_OVERRIDES = {
+    15: "Ceiling Hoist / Portable Hoist - video demonstration",
+    16: "Tilt Table / Easy Stand",
+    17: "Tilt Table / Easy Stand",
+    18: "Tilt Table / Easy Stand - Key Steps",
+    19: "Tilt Table / Easy Stand - video demonstration",
+    20: "Tilt Table / Easy Stand - video demonstration",
+}
+
+WS2_PART_SPECS = (
+    ("Workshop overview and content", 1, 2),
+    ("Ceiling Hoist / Portable Hoist and transfer procedures", 3, 14),
+    ("Tilt Table / Easy Stand", 15, 20),
+    ("Hospital Bed / Ripple Bed", 21, 22),
+    ("Rehab equipment for activities of daily living (ADL)", 23, 26),
+    ("Reference", 27, 27),
+)
+
+WS2_KEYWORD_PAGES = {
+    "ceiling hoist": range(3, 15),
+    "portable hoist": (3,),
+    "mobile hoist": (3, 4),
+    "transfer machine": range(3, 15),
+    "sling": range(3, 15),
+    "wheelchair to bed": range(7, 11),
+    "bed to wheelchair": range(11, 15),
+    "tilt table": range(16, 21),
+    "easy stand": range(16, 21),
+    "orthostatic hypotension": (16,),
+    "venous pooling": (16,),
+    "muscle atrophy": (16,),
+    "joint contractures": (16,),
+    "weight bearing": (17, 18),
+    "pelvic belt": (18,),
+    "calf strap": (18,),
+    "knee strap": (18,),
+    "hospital bed": (21,),
+    "ripple bed": (22,),
+    "pressure sore": (22,),
+    "activities of daily living": (2, 23),
+    "ADL": (2, 23),
+    "commode": (23,),
+    "shoulder sling": (24,),
+    "arm sling": (24,),
+    "subluxation": (24,),
+    "carpal tunnel wrist brace": (25,),
+    "median nerve": (25,),
+    "back brace": (26,),
+    "manual handling": (26,),
+}
+
+
+def apply_ws2_keyword_overrides(
+    source_id: str,
+    analysis: dict[str, Any],
+    pages: list[dict[str, Any]],
+    page_to_part: dict[str, str],
+) -> None:
+    """Index short equipment/topic phrases that generic medical filters omit."""
+    if source_id != "HHS4185-WS2-EQUIPMENT-2026":
+        return
+    page_by_number = {int(page["pdf_page"]): page for page in pages}
+    page_records = {
+        record["source_page_id"]: record
+        for record in analysis.get("page_keyword_extractions", [])
+    }
+    existing = {
+        (record.get("source_page_ids", [None])[0], course_builder.normalize(record.get("canonical_candidate", "")))
+        for record in analysis.get("keyword_records", [])
+    }
+    added = 0
+    for term, page_numbers in WS2_KEYWORD_PAGES.items():
+        category = course_builder.category_for(term, source_kind="paragraph")
+        broad_area = course_builder.CATEGORY_LABELS.get(category, category)
+        for page_number in page_numbers:
+            page = page_by_number.get(int(page_number))
+            if not page:
+                continue
+            page_id = page["source_page_id"]
+            key = (page_id, course_builder.normalize(term))
+            if key in existing:
+                continue
+            ancestors = [page_id, page_to_part.get(page_id, ""), page["document_id"], "HHS4185-COURSE"]
+            record = {
+                "record_id": f"HHS4185-KW-{page_id}-DOMAIN-{added + 1:03d}",
+                "category": category,
+                "broad_area": broad_area,
+                "small_area": term,
+                "keyword_path": [broad_area, term],
+                "source_form": term,
+                "canonical_candidate": term,
+                "retrieval_terms": course_builder.alias_variants(term),
+                "source_passage_ids": [f"{page_id}-PASSAGE"],
+                "source_page_ids": [page_id],
+                "section_ids": [value for value in ancestors if value],
+                "source_excerpt": course_builder.clean_text(page.get("reading_order_text", ""))[:500],
+                "content_type": "structured_domain_keyword_candidate",
+                "keyword_origin": "source-specific equipment/topic phrase retained for retrieval",
+                "status": STATUS,
+                "verification_status": STATUS,
+            }
+            analysis["keyword_records"].append(record)
+            if page_id in page_records:
+                page_records[page_id]["keyword_records"].append(record)
+                page_records[page_id]["keyword_record_count"] = len(page_records[page_id]["keyword_records"])
+            existing.add(key)
+            added += 1
+    analysis.setdefault("counts", {})["keyword_records"] = len(analysis["keyword_records"])
+
+
+def apply_ws2_structure_overrides(
+    source_id: str,
+    documents: list[dict[str, Any]],
+    pages: list[dict[str, Any]],
+    parts: list[dict[str, Any]],
+    page_to_part: dict[str, str],
+) -> tuple[list[dict[str, Any]], dict[str, str]]:
+    if source_id != "HHS4185-WS2-EQUIPMENT-2026":
+        return parts, page_to_part
+    document = documents[0]
+    document_id = document["document_id"]
+    for page in pages:
+        override = WS2_PAGE_TITLE_OVERRIDES.get(page.get("pdf_page"))
+        if override:
+            page["title_candidate"] = override
+    override_parts: list[dict[str, Any]] = []
+    override_page_to_part: dict[str, str] = {}
+    for index, (title, start_page, end_page) in enumerate(WS2_PART_SPECS, 1):
+        part_id = f"{document_id}-PART{index:02d}"
+        part_pages = [
+            page for page in pages
+            if start_page <= page["pdf_page"] <= end_page
+        ]
+        override_parts.append({
+            "unit_id": part_id,
+            "level": "part",
+            "document_id": document_id,
+            "document_title": document["title"],
+            "title": title,
+            "slide_start": start_page,
+            "slide_end": end_page,
+            "pdf_page_start": start_page,
+            "pdf_page_end": end_page,
+            "source_page_ids": [page["source_page_id"] for page in part_pages],
+            "status": STATUS,
+            "verification_status": STATUS,
+        })
+        for page in part_pages:
+            override_page_to_part[page["source_page_id"]] = part_id
+    return override_parts, override_page_to_part
+
+
+def apply_ws2_visual_names(source_id: str, visuals: list[dict[str, Any]]) -> None:
+    if source_id != "HHS4185-WS2-EQUIPMENT-2026":
+        return
+    page_counts: dict[int, int] = {}
+    for visual in visuals:
+        page = int(visual.get("pdf_page", 0))
+        ordinal = page_counts.get(page, 0) + 1
+        page_counts[page] = ordinal
+        names = {
+            3: "Uncaptioned ceiling-hoist equipment image",
+            15: "Uncaptioned ceiling-hoist transfer video still",
+            16: {1: "Uncaptioned tilt-table equipment image", 2: "Uncaptioned Easy Stand equipment image"},
+            19: "Uncaptioned Easy Stand video still",
+            20: "Uncaptioned standing-equipment video still",
+            21: "Uncaptioned hospital-bed equipment image",
+            22: "Uncaptioned ripple-bed equipment image",
+            23: "Uncaptioned commode equipment image",
+            24: "Uncaptioned shoulder/arm-sling equipment image",
+            25: {1: "Uncaptioned carpal-tunnel wrist-brace image", 2: "Uncaptioned carpal-tunnel wrist-brace image (second view)"},
+            26: "Uncaptioned back-brace equipment image",
+        }.get(page)
+        if isinstance(names, dict):
+            names = names.get(ordinal)
+        if names:
+            visual["name"] = names
+            visual["name_basis"] = "generated from page title/context; no printed caption detected"
+    parts, page_to_part = apply_ws2_structure_overrides(
+        source_id, documents, pages, parts, page_to_part
+    )
+    apply_ws2_visual_names(source_id, visuals)
+    apply_ws2_keyword_overrides(source_id, analysis, pages, page_to_part)
