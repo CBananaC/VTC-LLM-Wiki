@@ -1,0 +1,905 @@
+{
+  "source_id": "HHS4185-L3-SOFT-TISSUE-2026",
+  "tables": [
+    {
+      "table_id": "HHS4185-L3-TBL-P0016-C01",
+      "visual_id": "HHS4185-L3-VIS-P0016-C0002",
+      "name": "TABLE 2 - Approximate rates of tissue healing",
+      "source_page_id": "HHS4185-L3-P0016",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "bbox_points": [
+        31.838,
+        61.68,
+        687.519,
+        454.36
+      ],
+      "coordinate_rows": [],
+      "content": {
+        "text": "Skin | shaded healing range: 4–14 d through 6–12 mo\nSQ | shaded healing range: 4–14 d through 5–7 wk\nFascia | shaded healing range: 3–4 wk through 5–7 wk\nMuscle\nDOMS (exercise induced) | shaded healing range: 0–3 d through 0–3 d\nGrade 1 | shaded healing range: 0–3 d through 5–7 wk\nGrade 2 | shaded healing range: 3–4 wk through 3–6 mo\nGrade 3 | shaded healing range: 5–7 wk through 6–12 mo\nTendon\nAcute | shaded healing range: 3–4 wk through 5–7 wk\nSubacute | shaded healing range: 2–3 mo through 6–12 mo\nChronic | shaded healing range: 3–6 mo through >1 year\nRupture/surgical repair | shaded healing range: 3–6 mo through >1 year\nLigament (extra-articular)\nGrade 1 | shaded healing range: 4–14 d through 5–7 wk\nGrade 2 | shaded healing range: 3–4 wk through 6–12 mo\nGrade 3 | shaded healing range: 5–7 wk through 6–12 mo\nIntra-articular | >1 year: Unlikely to fully heal\nBone | shaded healing range: 5–7 wk through 2–3 mo",
+        "rows": [
+          {
+            "row_index": 1,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Skin"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "6–12 mo"
+            },
+            "text": "Skin | shaded healing range: 4–14 d through 6–12 mo"
+          },
+          {
+            "row_index": 2,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "SQ"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "SQ | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 3,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Fascia"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Fascia | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 4,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Muscle"
+              }
+            ],
+            "text": "Muscle"
+          },
+          {
+            "row_index": 5,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "DOMS (exercise induced)"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "0–3 d"
+            },
+            "text": "DOMS (exercise induced) | shaded healing range: 0–3 d through 0–3 d"
+          },
+          {
+            "row_index": 6,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 0–3 d through 5–7 wk"
+          },
+          {
+            "row_index": 7,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "3–6 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 3–6 mo"
+          },
+          {
+            "row_index": 8,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 9,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Tendon"
+              }
+            ],
+            "text": "Tendon"
+          },
+          {
+            "row_index": 10,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Acute"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Acute | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 11,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Subacute"
+              }
+            ],
+            "shaded_range": {
+              "start": "2–3 mo",
+              "end": "6–12 mo"
+            },
+            "text": "Subacute | shaded healing range: 2–3 mo through 6–12 mo"
+          },
+          {
+            "row_index": 12,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Chronic"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Chronic | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 13,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Rupture/surgical repair"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Rupture/surgical repair | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 14,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Ligament (extra-articular)"
+              }
+            ],
+            "text": "Ligament (extra-articular)"
+          },
+          {
+            "row_index": 15,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 16,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 6–12 mo"
+          },
+          {
+            "row_index": 17,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 18,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Intra-articular"
+              }
+            ],
+            "annotations": [
+              {
+                "column": ">1 year",
+                "text": "Unlikely to fully heal"
+              }
+            ],
+            "text": "Intra-articular | >1 year: Unlikely to fully heal"
+          },
+          {
+            "row_index": 19,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Bone"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "2–3 mo"
+            },
+            "text": "Bone | shaded healing range: 5–7 wk through 2–3 mo"
+          }
+        ],
+        "logical_columns": [
+          "Tissue and grades of injury",
+          "0–3 d",
+          "4–14 d",
+          "3–4 wk",
+          "5–7 wk",
+          "2–3 mo",
+          "3–6 mo",
+          "6–12 mo",
+          ">1 year"
+        ],
+        "logical_rows": [
+          {
+            "row_index": 1,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Skin"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "6–12 mo"
+            },
+            "text": "Skin | shaded healing range: 4–14 d through 6–12 mo"
+          },
+          {
+            "row_index": 2,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "SQ"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "SQ | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 3,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Fascia"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Fascia | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 4,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Muscle"
+              }
+            ],
+            "text": "Muscle"
+          },
+          {
+            "row_index": 5,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "DOMS (exercise induced)"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "0–3 d"
+            },
+            "text": "DOMS (exercise induced) | shaded healing range: 0–3 d through 0–3 d"
+          },
+          {
+            "row_index": 6,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 0–3 d through 5–7 wk"
+          },
+          {
+            "row_index": 7,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "3–6 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 3–6 mo"
+          },
+          {
+            "row_index": 8,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 9,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Tendon"
+              }
+            ],
+            "text": "Tendon"
+          },
+          {
+            "row_index": 10,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Acute"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Acute | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 11,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Subacute"
+              }
+            ],
+            "shaded_range": {
+              "start": "2–3 mo",
+              "end": "6–12 mo"
+            },
+            "text": "Subacute | shaded healing range: 2–3 mo through 6–12 mo"
+          },
+          {
+            "row_index": 12,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Chronic"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Chronic | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 13,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Rupture/surgical repair"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Rupture/surgical repair | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 14,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Ligament (extra-articular)"
+              }
+            ],
+            "text": "Ligament (extra-articular)"
+          },
+          {
+            "row_index": 15,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 16,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 6–12 mo"
+          },
+          {
+            "row_index": 17,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 18,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Intra-articular"
+              }
+            ],
+            "annotations": [
+              {
+                "column": ">1 year",
+                "text": "Unlikely to fully heal"
+              }
+            ],
+            "text": "Intra-articular | >1 year: Unlikely to fully heal"
+          },
+          {
+            "row_index": 19,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Bone"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "2–3 mo"
+            },
+            "text": "Bone | shaded healing range: 5–7 wk through 2–3 mo"
+          }
+        ],
+        "footnotes": [
+          "Abbreviations: DOMS, delayed onset muscle soreness; SQ, subcutaneous.",
+          "Expected time frame for tissue healing after injury. Rate of healing is influenced by the degree of tissue damage (Grade), particularly with muscle, tendon, and ligament injury.",
+          "Muscle: Grade 1, mild damage (<5% of fibers), minimal loss of strength and function; Grade 2, moderate fiber damage, loss of strength and function; Grade 3, complete rupture of muscle/muscle-tendon and loss of function.",
+          "Ligament: Grade 1, stretching, little/no tear, no joint instability; Grade 2, partial tear, mild instability; Grade 3, complete rupture, loss of function.",
+          "The shaded cells correspond to the range of healing time for the specific tissue/injury indicated in the left column. Healing time varies based on degree of tissue injury."
+        ]
+      },
+      "reconstruction_method": "visual-reviewed-English-table-image-with-timeline-ranges-and-footnotes",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "language_policy": "english_only_visual_reviewed_table; raw_bilingual_page_text_preserved_separately",
+      "reconstruction_status": "visual_reviewed_logical_english_layer",
+      "visual_language": "en",
+      "reconstruction_note": "The source table is a raster visual. Shaded bars are represented as explicit start/end time ranges, and the source wording is retained without converting the chart into prose.",
+      "logical_layout": {
+        "columns": [
+          "Tissue and grades of injury",
+          "0–3 d",
+          "4–14 d",
+          "3–4 wk",
+          "5–7 wk",
+          "2–3 mo",
+          "3–6 mo",
+          "6–12 mo",
+          ">1 year"
+        ],
+        "rows": [
+          {
+            "row_index": 1,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Skin"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "6–12 mo"
+            },
+            "text": "Skin | shaded healing range: 4–14 d through 6–12 mo"
+          },
+          {
+            "row_index": 2,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "SQ"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "SQ | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 3,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Fascia"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Fascia | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 4,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Muscle"
+              }
+            ],
+            "text": "Muscle"
+          },
+          {
+            "row_index": 5,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "DOMS (exercise induced)"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "0–3 d"
+            },
+            "text": "DOMS (exercise induced) | shaded healing range: 0–3 d through 0–3 d"
+          },
+          {
+            "row_index": 6,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "0–3 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 0–3 d through 5–7 wk"
+          },
+          {
+            "row_index": 7,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "3–6 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 3–6 mo"
+          },
+          {
+            "row_index": 8,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 9,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Tendon"
+              }
+            ],
+            "text": "Tendon"
+          },
+          {
+            "row_index": 10,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Acute"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "5–7 wk"
+            },
+            "text": "Acute | shaded healing range: 3–4 wk through 5–7 wk"
+          },
+          {
+            "row_index": 11,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Subacute"
+              }
+            ],
+            "shaded_range": {
+              "start": "2–3 mo",
+              "end": "6–12 mo"
+            },
+            "text": "Subacute | shaded healing range: 2–3 mo through 6–12 mo"
+          },
+          {
+            "row_index": 12,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Chronic"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Chronic | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 13,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Rupture/surgical repair"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–6 mo",
+              "end": ">1 year"
+            },
+            "text": "Rupture/surgical repair | shaded healing range: 3–6 mo through >1 year"
+          },
+          {
+            "row_index": 14,
+            "row_role": "group",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Ligament (extra-articular)"
+              }
+            ],
+            "text": "Ligament (extra-articular)"
+          },
+          {
+            "row_index": 15,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 1"
+              }
+            ],
+            "shaded_range": {
+              "start": "4–14 d",
+              "end": "5–7 wk"
+            },
+            "text": "Grade 1 | shaded healing range: 4–14 d through 5–7 wk"
+          },
+          {
+            "row_index": 16,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 2"
+              }
+            ],
+            "shaded_range": {
+              "start": "3–4 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 2 | shaded healing range: 3–4 wk through 6–12 mo"
+          },
+          {
+            "row_index": 17,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Grade 3"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "6–12 mo"
+            },
+            "text": "Grade 3 | shaded healing range: 5–7 wk through 6–12 mo"
+          },
+          {
+            "row_index": 18,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Intra-articular"
+              }
+            ],
+            "annotations": [
+              {
+                "column": ">1 year",
+                "text": "Unlikely to fully heal"
+              }
+            ],
+            "text": "Intra-articular | >1 year: Unlikely to fully heal"
+          },
+          {
+            "row_index": 19,
+            "row_role": "data",
+            "cells": [
+              {
+                "column": "Tissue and grades of injury",
+                "text": "Bone"
+              }
+            ],
+            "shaded_range": {
+              "start": "5–7 wk",
+              "end": "2–3 mo"
+            },
+            "text": "Bone | shaded healing range: 5–7 wk through 2–3 mo"
+          }
+        ],
+        "footnotes": [
+          "Abbreviations: DOMS, delayed onset muscle soreness; SQ, subcutaneous.",
+          "Expected time frame for tissue healing after injury. Rate of healing is influenced by the degree of tissue damage (Grade), particularly with muscle, tendon, and ligament injury.",
+          "Muscle: Grade 1, mild damage (<5% of fibers), minimal loss of strength and function; Grade 2, moderate fiber damage, loss of strength and function; Grade 3, complete rupture of muscle/muscle-tendon and loss of function.",
+          "Ligament: Grade 1, stretching, little/no tear, no joint instability; Grade 2, partial tear, mild instability; Grade 3, complete rupture, loss of function.",
+          "The shaded cells correspond to the range of healing time for the specific tissue/injury indicated in the left column. Healing time varies based on degree of tissue injury."
+        ]
+      },
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    }
+  ],
+  "counts": {
+    "tables": 1
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified"
+}

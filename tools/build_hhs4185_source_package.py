@@ -43,7 +43,81 @@ SOURCE_CONFIGS: dict[str, dict[str, str]] = {
         "raw_file": "02 - WS1 Equipment.pdf",
         "title": "Workshop 1 - Introduction to Rehabilitation Equipment",
     },
+    "HHS4185-L3-SOFT-TISSUE-2026": {
+        "document_id": "HHS4185-L3",
+        "raw_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_type": "lecture_bilingual",
+    },
 }
+
+L3_PART_SPECS = (
+    ("Lecture cover", 1, 1),
+    ("Soft Tissues Overview", 2, 9),
+    ("Soft Tissue Injuries", 10, 24),
+    ("Ligament Sprain", 25, 34),
+    ("Tendon / Muscle Strain", 35, 44),
+    ("Muscle Contusion", 45, 52),
+    ("Repetitive Strain Injury", 53, 60),
+    ("Carpal Tunnel Syndrome", 61, 66),
+    ("Trigger Finger", 67, 70),
+    ("Tennis elbow / Lateral epicondylitis", 71, 72),
+    ("Plantar Fasciitis", 73, 76),
+    ("E-Resources", 77, 81),
+)
+
+
+ADDITIONAL_DOCUMENTS: tuple[dict[str, Any], ...] = (
+    {
+        "document_id": "HHS4185-L3",
+        "file_name": "HHS4185J_L3.pdf",
+        "source_type": "lecture",
+        "lecture_number": 3,
+        "title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+    },
+)
+
+
+def ensure_additional_documents() -> None:
+    for document in ADDITIONAL_DOCUMENTS:
+        if not any(existing.get("document_id") == document["document_id"] for existing in course_builder.DOCUMENTS):
+            course_builder.DOCUMENTS.append(dict(document))
+
+
+def apply_l3_structure_overrides(
+    source_id: str,
+    documents: list[dict[str, Any]],
+    pages: list[dict[str, Any]],
+    parts: list[dict[str, Any]],
+    page_to_part: dict[str, str],
+) -> tuple[list[dict[str, Any]], dict[str, str]]:
+    """Use the visible L3 section-divider layout for stable major sections."""
+    if source_id != "HHS4185-L3-SOFT-TISSUE-2026":
+        return parts, page_to_part
+    document = documents[0]
+    page_by_number = {page["pdf_page"]: page for page in pages}
+    override_parts: list[dict[str, Any]] = []
+    override_page_to_part: dict[str, str] = {}
+    for index, (title, start_page, end_page) in enumerate(L3_PART_SPECS, 1):
+        part_id = f"{document['document_id']}-PART{index:02d}"
+        part_pages = [page_by_number[number] for number in range(start_page, end_page + 1)]
+        override_parts.append({
+            "unit_id": part_id,
+            "level": "part",
+            "document_id": document["document_id"],
+            "document_title": document["title"],
+            "title": title,
+            "slide_start": start_page,
+            "slide_end": end_page,
+            "pdf_page_start": start_page,
+            "pdf_page_end": end_page,
+            "source_page_ids": [page["source_page_id"] for page in part_pages],
+            "status": STATUS,
+            "verification_status": STATUS,
+        })
+        for page in part_pages:
+            override_page_to_part[page["source_page_id"]] = part_id
+    return override_parts, override_page_to_part
 
 
 def write_json(path: Path, value: Any) -> None:
@@ -139,8 +213,8 @@ def english_line_records(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return records
 
 
-def english_useful_slide_lines(page: dict[str, Any]) -> list[dict[str, Any]]:
-    """Filter the already English-only derived lines without touching raw lines."""
+def english_title_slide_lines(page: dict[str, Any]) -> list[dict[str, Any]]:
+    """Filter English lines for title detection before visual text removal."""
     filtered: list[dict[str, Any]] = []
     for line in page.get("reading_order_lines", []):
         text = course_builder.clean_text(line.get("text", ""))
@@ -148,6 +222,8 @@ def english_useful_slide_lines(page: dict[str, Any]) -> list[dict[str, Any]]:
         if not text or lowered in {"ive", "healthandlifesciences", "allrightsreserved"}:
             continue
         if re.fullmatch(r"\d{1,3}", text):
+            continue
+        if re.search(r"\b\d{1,2}/\d{1,2}/\d{2,4}\b", text):
             continue
         if "higherdiplomainrehabilitationservices" in lowered:
             continue
@@ -157,6 +233,32 @@ def english_useful_slide_lines(page: dict[str, Any]) -> list[dict[str, Any]]:
             continue
         filtered.append(line)
     return filtered
+
+
+def line_is_visual_text(line: dict[str, Any], page: dict[str, Any]) -> bool:
+    """Exclude embedded text located inside a detected non-table visual."""
+    line_bbox = line.get("bbox_points") or [0, 0, 0, 0]
+    visual_labels = set(course_builder.NON_TABLE_LABELS) | {"image", "table"}
+    for box in page.get("layout_boxes", []):
+        label = str(box.get("label") or "").casefold()
+        if not box.get("is_visual_candidate") or label not in visual_labels:
+            continue
+        bbox = box.get("bbox_points") or [0, 0, 0, 0]
+        horizontal_overlap = max(0.0, min(line_bbox[2], bbox[2]) - max(line_bbox[0], bbox[0]))
+        line_width = max(1.0, line_bbox[2] - line_bbox[0])
+        vertical_overlap = max(0.0, min(line_bbox[3], bbox[3]) - max(line_bbox[1], bbox[1]))
+        line_height = max(1.0, line_bbox[3] - line_bbox[1])
+        if horizontal_overlap / line_width >= 0.35 and vertical_overlap / line_height >= 0.35:
+            return True
+        near_below = 0 <= line_bbox[1] - bbox[3] <= 28
+        if near_below and horizontal_overlap / line_width >= 0.35:
+            return True
+    return False
+
+
+def english_useful_slide_lines(page: dict[str, Any]) -> list[dict[str, Any]]:
+    """Return English body lines while keeping all visual interiors raw-only."""
+    return [line for line in english_title_slide_lines(page) if not line_is_visual_text(line, page)]
 
 
 def sanitize_table(table: dict[str, Any]) -> None:
@@ -180,14 +282,97 @@ def sanitize_table(table: dict[str, Any]) -> None:
     table["language_policy"] = "english_only_derived_cells; raw_page_text_preserved_separately"
 
 
+def clamp_visual_locations(visuals: list[dict[str, Any]], pages: list[dict[str, Any]]) -> None:
+    """Keep published visual coordinates inside the corresponding slide."""
+    dimensions = {page["source_page_id"]: (float(page["width_points"]), float(page["height_points"])) for page in pages}
+    for visual in visuals:
+        location = visual.get("location") or {}
+        bbox = list(location.get("bbox_points") or [0, 0, 0, 0])
+        width, height = dimensions[visual["source_page_id"]]
+        clamped = [
+            max(0.0, min(width, float(bbox[0]))),
+            max(0.0, min(height, float(bbox[1]))),
+            max(0.0, min(width, float(bbox[2]))),
+            max(0.0, min(height, float(bbox[3]))),
+        ]
+        if clamped != bbox:
+            location["raw_bbox_points"] = bbox
+            location["location_note"] = "Published coordinates clamped to the slide bounds; raw detector coordinates retained separately."
+        location["bbox_points"] = [round(value, 3) for value in clamped]
+        visual["location"] = location
+
+
+def visual_locations_in_bounds(visuals: list[dict[str, Any]], pages: list[dict[str, Any]]) -> bool:
+    dimensions = {page["source_page_id"]: (float(page["width_points"]), float(page["height_points"])) for page in pages}
+    for visual in visuals:
+        bbox = visual.get("location", {}).get("bbox_points") or []
+        width, height = dimensions.get(visual.get("source_page_id"), (0, 0))
+        if len(bbox) != 4 or not (0 <= bbox[0] <= bbox[2] <= width and 0 <= bbox[1] <= bbox[3] <= height):
+            return False
+    return True
+
+
 def apply_visual_table_review(source_id: str, tables: list[dict[str, Any]]) -> None:
     """Add source-page-reviewed logical layouts for detected workshop tables."""
-    if source_id != "HHS4185-WS1-EQUIPMENT-2026":
+    if source_id not in {"HHS4185-WS1-EQUIPMENT-2026", "HHS4185-L3-SOFT-TISSUE-2026"}:
         return
     for table in tables:
         page = table.get("pdf_page")
         content = table.setdefault("content", {})
-        if page == 11:
+        if source_id == "HHS4185-L3-SOFT-TISSUE-2026" and page == 16:
+            columns = [
+                "Tissue and grades of injury", "0–3 d", "4–14 d", "3–4 wk", "5–7 wk",
+                "2–3 mo", "3–6 mo", "6–12 mo", ">1 year",
+            ]
+            rows = [
+                {"row_index": 1, "row_role": "data", "cells": [{"column": columns[0], "text": "Skin"}], "shaded_range": {"start": "4–14 d", "end": "6–12 mo"}},
+                {"row_index": 2, "row_role": "data", "cells": [{"column": columns[0], "text": "SQ"}], "shaded_range": {"start": "4–14 d", "end": "5–7 wk"}},
+                {"row_index": 3, "row_role": "data", "cells": [{"column": columns[0], "text": "Fascia"}], "shaded_range": {"start": "3–4 wk", "end": "5–7 wk"}},
+                {"row_index": 4, "row_role": "group", "cells": [{"column": columns[0], "text": "Muscle"}]},
+                {"row_index": 5, "row_role": "data", "cells": [{"column": columns[0], "text": "DOMS (exercise induced)"}], "shaded_range": {"start": "0–3 d", "end": "0–3 d"}},
+                {"row_index": 6, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 1"}], "shaded_range": {"start": "0–3 d", "end": "5–7 wk"}},
+                {"row_index": 7, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 2"}], "shaded_range": {"start": "3–4 wk", "end": "3–6 mo"}},
+                {"row_index": 8, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 3"}], "shaded_range": {"start": "5–7 wk", "end": "6–12 mo"}},
+                {"row_index": 9, "row_role": "group", "cells": [{"column": columns[0], "text": "Tendon"}]},
+                {"row_index": 10, "row_role": "data", "cells": [{"column": columns[0], "text": "Acute"}], "shaded_range": {"start": "3–4 wk", "end": "5–7 wk"}},
+                {"row_index": 11, "row_role": "data", "cells": [{"column": columns[0], "text": "Subacute"}], "shaded_range": {"start": "2–3 mo", "end": "6–12 mo"}},
+                {"row_index": 12, "row_role": "data", "cells": [{"column": columns[0], "text": "Chronic"}], "shaded_range": {"start": "3–6 mo", "end": ">1 year"}},
+                {"row_index": 13, "row_role": "data", "cells": [{"column": columns[0], "text": "Rupture/surgical repair"}], "shaded_range": {"start": "3–6 mo", "end": ">1 year"}},
+                {"row_index": 14, "row_role": "group", "cells": [{"column": columns[0], "text": "Ligament (extra-articular)"}]},
+                {"row_index": 15, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 1"}], "shaded_range": {"start": "4–14 d", "end": "5–7 wk"}},
+                {"row_index": 16, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 2"}], "shaded_range": {"start": "3–4 wk", "end": "6–12 mo"}},
+                {"row_index": 17, "row_role": "data", "cells": [{"column": columns[0], "text": "Grade 3"}], "shaded_range": {"start": "5–7 wk", "end": "6–12 mo"}},
+                {"row_index": 18, "row_role": "data", "cells": [{"column": columns[0], "text": "Intra-articular"}], "annotations": [{"column": ">1 year", "text": "Unlikely to fully heal"}]},
+                {"row_index": 19, "row_role": "data", "cells": [{"column": columns[0], "text": "Bone"}], "shaded_range": {"start": "5–7 wk", "end": "2–3 mo"}},
+            ]
+            for row in rows:
+                row_text = " | ".join(cell["text"] for cell in row.get("cells", []))
+                if row.get("shaded_range"):
+                    span = row["shaded_range"]
+                    row_text += f" | shaded healing range: {span['start']} through {span['end']}"
+                for annotation in row.get("annotations", []):
+                    row_text += f" | {annotation['column']}: {annotation['text']}"
+                row["text"] = row_text
+            table["name"] = "TABLE 2 - Approximate rates of tissue healing"
+            table["reconstruction_status"] = "visual_reviewed_logical_english_layer"
+            table["visual_language"] = "en"
+            table["reconstruction_method"] = "visual-reviewed-English-table-image-with-timeline-ranges-and-footnotes"
+            table["reconstruction_note"] = "The source table is a raster visual. Shaded bars are represented as explicit start/end time ranges, and the source wording is retained without converting the chart into prose."
+            footnotes = [
+                "Abbreviations: DOMS, delayed onset muscle soreness; SQ, subcutaneous.",
+                "Expected time frame for tissue healing after injury. Rate of healing is influenced by the degree of tissue damage (Grade), particularly with muscle, tendon, and ligament injury.",
+                "Muscle: Grade 1, mild damage (<5% of fibers), minimal loss of strength and function; Grade 2, moderate fiber damage, loss of strength and function; Grade 3, complete rupture of muscle/muscle-tendon and loss of function.",
+                "Ligament: Grade 1, stretching, little/no tear, no joint instability; Grade 2, partial tear, mild instability; Grade 3, complete rupture, loss of function.",
+                "The shaded cells correspond to the range of healing time for the specific tissue/injury indicated in the left column. Healing time varies based on degree of tissue injury.",
+            ]
+            table["logical_layout"] = {"columns": columns, "rows": rows, "footnotes": footnotes}
+            content["logical_columns"] = columns
+            content["logical_rows"] = rows
+            content["rows"] = rows
+            content["text"] = "\n".join(row["text"] for row in rows)
+            content["footnotes"] = footnotes
+            table["language_policy"] = "english_only_visual_reviewed_table; raw_bilingual_page_text_preserved_separately"
+        elif source_id == "HHS4185-WS1-EQUIPMENT-2026" and page == 11:
             # The source image is a Chinese-only blood-pressure categories
             # chart.  Do not translate or invent an English reconstruction;
             # preserve its location and make the limitation explicit.
@@ -202,7 +387,7 @@ def apply_visual_table_review(source_id: str, tables: list[dict[str, Any]]) -> N
             content["text"] = ""
             content["rows"] = []
             table["reconstruction_method"] = "visual-review-language-policy-boundary"
-        elif page == 22:
+        elif source_id == "HHS4185-WS1-EQUIPMENT-2026" and page == 22:
             logical_columns = [
                 "Walking Aids",
                 "Support & stability from walking aids",
@@ -291,7 +476,7 @@ This source package was created by `tools/register_source.py` and processed by
 
 - Source ID: `{source_id}`
 - Course: `HHS4185 - Common Rehabilitation Conditions`
-- Source type: `tutorial/workshop PDF`
+- Source type: `{config.get('source_type', 'course PDF')}`
 - Raw source: `00 Source/{config['raw_file']}`
 - Verification: `{STATUS}`
 
@@ -318,6 +503,7 @@ Validation counts: `{json.dumps(validation.get('counts', {}), ensure_ascii=False
 def build(args: argparse.Namespace) -> dict[str, Any]:
     source_id = args.source_id
     config = SOURCE_CONFIGS[source_id]
+    ensure_additional_documents()
     package_root, raw_path = source_paths(source_id)
     if not package_root.is_dir() or not raw_path.is_file():
         raise SystemExit(f"source package or copied raw PDF is missing: {package_root}")
@@ -373,11 +559,34 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
         page["reading_order_text"] = "\n".join(line["text"] for line in page["reading_order_lines"] if line.get("text"))
     # Downstream structure, captions, titles, and summaries must use the
     # English derived layer; the raw bilingual page layer remains untouched.
-    course_builder.useful_slide_lines = english_useful_slide_lines
+    course_builder.useful_slide_lines = english_title_slide_lines
     for page in pages:
         page["title_candidate"] = course_builder.slide_title(page)
-    parts, page_to_part = course_builder.build_parts(documents, pages)
+    for page in pages:
+        page["reading_order_lines"] = english_useful_slide_lines(page)
+        page["reading_order_text"] = "\n".join(line["text"] for line in page["reading_order_lines"] if line.get("text"))
+    course_builder.useful_slide_lines = english_useful_slide_lines
+    part_pages = []
+    for page in pages:
+        part_page = dict(page)
+        title = course_builder.clean_text(str(page.get("title_candidate", "")))
+        compact_title = re.sub(r"\s+", "", title).casefold()
+        visual_area = 0.0
+        for box in page.get("layout_boxes", []):
+            if not box.get("is_visual_candidate"):
+                continue
+            bbox = box.get("bbox_points") or [0, 0, 0, 0]
+            visual_area = max(visual_area, max(0.0, float(bbox[2]) - float(bbox[0])) * max(0.0, float(bbox[3]) - float(bbox[1])))
+        page_area = float(page.get("width_points", 0)) * float(page.get("height_points", 0))
+        image_only = page.get("pdf_page") != 1 and page_area > 0 and visual_area / page_area >= 0.70 and len(page.get("reading_order_lines", [])) <= 8
+        noisy_title = compact_title.startswith(("http://", "https://", "www.")) or compact_title in {"sick"} or compact_title.startswith("metrosportsphysiotherapy")
+        if image_only or noisy_title:
+            part_page["title_candidate"] = ""
+        part_pages.append(part_page)
+    parts, page_to_part = course_builder.build_parts(documents, part_pages)
+    parts, page_to_part = apply_l3_structure_overrides(source_id, documents, pages, parts, page_to_part)
     visuals, tables = course_builder.page_visuals(pages)
+    clamp_visual_locations(visuals, pages)
     for visual in visuals:
         visual["name"] = english_derived_text(str(visual.get("name", ""))) or visual.get("name")
         if visual.get("caption"):
@@ -390,6 +599,8 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
         table = table_by_id.get(visual.get("table_id"))
         if not table:
             continue
+        visual["name"] = table.get("name") or visual.get("name")
+        visual["caption"] = table.get("name") or visual.get("caption")
         reconstruction_status = table.get("reconstruction_status", "coordinate_capture_only")
         available = reconstruction_status == "visual_reviewed_logical_english_layer"
         visual["table_reconstruction_available"] = available
@@ -449,6 +660,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
     indexes["validation"]["checks"]["source_package_id_present"] = True
     indexes["validation"]["checks"]["raw_pdf_exists"] = raw_path.is_file()
     indexes["validation"]["checks"]["raw_hash_matches_registered_source"] = True
+    indexes["validation"]["checks"]["visual_locations_within_page_bounds"] = visual_locations_in_bounds(visuals, pages)
     indexes["validation"]["counts"]["documents"] = len(documents)
     indexes["validation"]["counts"]["pages"] = len(pages)
     indexes["validation"]["counts"]["passages"] = len(indexes["passage_lines"])

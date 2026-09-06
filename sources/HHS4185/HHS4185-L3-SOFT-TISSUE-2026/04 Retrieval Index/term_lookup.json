@@ -1,0 +1,5104 @@
+{
+  "schema_version": "llm-wiki.term-lookup-index.v1-course",
+  "record_type": "term_lookup_index",
+  "book_id": "HHS4185",
+  "source_priority": "course_materials",
+  "terms": {
+    "achillestendon": {
+      "display_forms": [
+        "Achilles Tendon"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000008"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000062",
+        "HHS4185-O-00000063",
+        "HHS4185-O-00000064",
+        "HHS4185-O-00000065",
+        "HHS4185-O-00000066"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "achillestendoninjury": {
+      "display_forms": [
+        "Achilles Tendon Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000009"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000067",
+        "HHS4185-O-00000068",
+        "HHS4185-O-00000069",
+        "HHS4185-O-00000070"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "achillestendoninjuryachillestendon": {
+      "display_forms": [
+        "Achilles Tendon Injury Achilles tendon"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000010"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000071"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "achillestendonrupturephysiotherapy": {
+      "display_forms": [
+        "Achilles Tendon Rupture Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000193"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000401"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "achillestendonrupturephysiotherapymanagement": {
+      "display_forms": [
+        "Achilles Tendon Rupture Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000194"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000402"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "activities": {
+      "display_forms": [
+        "activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000195"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000403",
+        "HHS4185-O-00000404",
+        "HHS4185-O-00000405"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "activity": {
+      "display_forms": [
+        "activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000195"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000403",
+        "HHS4185-O-00000404",
+        "HHS4185-O-00000405"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "acuteinflammationrednessjointswellingwarmthpain": {
+      "display_forms": [
+        "Acute inflammation Redness jointswelling warmth pain",
+        "Acuteinflammation Redness joint swelling warmth pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000261"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000500",
+        "HHS4185-O-00000501",
+        "HHS4185-O-00000502",
+        "HHS4185-O-00000503"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ankle": {
+      "display_forms": [
+        "Ankle",
+        "ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000001"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000001",
+        "HHS4185-O-00000002",
+        "HHS4185-O-00000003",
+        "HHS4185-O-00000004",
+        "HHS4185-O-00000005",
+        "HHS4185-O-00000006"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ankleinversionplantarflexionatfllateralankle": {
+      "display_forms": [
+        "ankle inversion plantarflexion ATFL Lateral Ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000011"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000072"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "anklejointinversioninjury": {
+      "display_forms": [
+        "ankle joint Inversion injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000012"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000073"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "archmanualtherapy": {
+      "display_forms": [
+        "arch Manual Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000169"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000344"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "arealimitsswellingbruisingimmediatepain": {
+      "display_forms": [
+        "area limits swelling bruising Immediate pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000262"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000504"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "arteries": {
+      "display_forms": [
+        "arteries"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "artery": {
+      "display_forms": [
+        "artery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000002"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000007"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "arthritis": {
+      "display_forms": [
+        "arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000013"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000074",
+        "HHS4185-O-00000075",
+        "HHS4185-O-00000076"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "assistedpassivemusclestrengthspecialtest": {
+      "display_forms": [
+        "assisted passive Muscle strength Special test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000196"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000406"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "assistedpassivemusclestrengthspecialtests": {
+      "display_forms": [
+        "assisted passive Muscle strength Special tests"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000196"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000406"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "atfl": {
+      "display_forms": [
+        "ATFL"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000110"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000245"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "atrophy": {
+      "display_forms": [
+        "atrophy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000014"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000077"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "avoidingactivities": {
+      "display_forms": [
+        "avoiding activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000197"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000407"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "avoidingactivity": {
+      "display_forms": [
+        "avoiding activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000197"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000407"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "beddyt7xiyeo4": {
+      "display_forms": [
+        "be/ddyT7XIyeo4"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000111"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000246"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "bev3zgonl8qqm": {
+      "display_forms": [
+        "be/V3ZGonL8QqM"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000112"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000247"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "blood": {
+      "display_forms": [
+        "Blood",
+        "blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000139"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000292",
+        "HHS4185-O-00000293",
+        "HHS4185-O-00000294",
+        "HHS4185-O-00000295",
+        "HHS4185-O-00000296",
+        "HHS4185-O-00000297",
+        "HHS4185-O-00000298",
+        "HHS4185-O-00000299"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "bmi": {
+      "display_forms": [
+        "BMI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000113"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000248"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "bonesperiosteumblood": {
+      "display_forms": [
+        "bones periosteum Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000140"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000300"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "brokenblood": {
+      "display_forms": [
+        "broken blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000141"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000301"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "cahealthtopicstr5915": {
+      "display_forms": [
+        "ca/health-topics/tr5915"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000114"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000249"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "carpaltunnelsyndrome": {
+      "display_forms": [
+        "Carpal Tunnel Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000015"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000078",
+        "HHS4185-O-00000079",
+        "HHS4185-O-00000080"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "causessyc20355603": {
+      "display_forms": [
+        "causes/syc-20355603"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000115"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000250"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "chronicpain": {
+      "display_forms": [
+        "chronic pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000263"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000505"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "combasicscience9016ligament": {
+      "display_forms": [
+        "com/basic-science/9016/ligament"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000116"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000251"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "combasicscience9016ligaments": {
+      "display_forms": [
+        "com/basic-science/9016/ligaments"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000116"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000251"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "comhealthrepetitivestraininjurypreventionnhscarpeltunnelsyndrome": {
+      "display_forms": [
+        "com/health/repetitive-strain-injury prevention NHS Carpel Tunnel Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000016"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000081"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "conditionscarpaltunnelsyndrome": {
+      "display_forms": [
+        "conditions/carpal-tunnel-syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000017"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000082"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "conditionsdiabetesrheumatoidarthritis": {
+      "display_forms": [
+        "conditions-diabetes rheumatoid arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000018"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000083"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "conditionsdiabetesrheumatoidarthritiscarpaltunnelsyndrome": {
+      "display_forms": [
+        "conditions-diabetes rheumatoid arthritis Carpal tunnel syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000019"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000084"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "conservativetreatment": {
+      "display_forms": [
+        "conservative treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000170"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000345",
+        "HHS4185-O-00000346"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "conservativetreatmentsfailankle": {
+      "display_forms": [
+        "conservative treatments fail Ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000171"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000347"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "constrictsblood": {
+      "display_forms": [
+        "Constricts blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000142"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000302"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "constrictsbloodvesselsreduceblood": {
+      "display_forms": [
+        "Constricts blood vessels reduce blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000143"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000303"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "contusionphysiotherapymanagementpoliceearlyrehabilitation": {
+      "display_forms": [
+        "Contusion Physiotherapy Management POLICE Early rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000198"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000408"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "cts": {
+      "display_forms": [
+        "CTS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000117"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000252"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ctsphysiotherapy": {
+      "display_forms": [
+        "CTS Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000199"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000409"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ctsphysiotherapymanagement": {
+      "display_forms": [
+        "CTS Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000200"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000410"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ctsphysiotherapymanagementstretchingexerciseswrist": {
+      "display_forms": [
+        "CTS Physiotherapy Management Stretching Exercises Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000201"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000411"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "cufftendinitisnecktensionnecksyndrome": {
+      "display_forms": [
+        "Cuff Tendinitis Neck Tension Neck Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000020"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000085"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "cutoffblood": {
+      "display_forms": [
+        "cut off blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000144"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000304"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "damagehaemorrhageseriousinternalbleedingischaemia": {
+      "display_forms": [
+        "damage Haemorrhage serious internal bleeding Ischaemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "damagehaemorrhageseriousinternalbleedingischemia": {
+      "display_forms": [
+        "damage Haemorrhage serious internal bleeding ischemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "damagehemorrhageseriousinternalbleedingischemia": {
+      "display_forms": [
+        "damage hemorrhage serious internal bleeding Ischemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000021"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000086"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "decreasemusclestrengthimpairedwalkinggait": {
+      "display_forms": [
+        "Decrease muscle strength Impaired walking gait"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000202"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000412"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "denseconnecttissuesheathblood": {
+      "display_forms": [
+        "dense connect tissue sheath Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000145"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000305"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "detectmyositis": {
+      "display_forms": [
+        "detect myositis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000022"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000087"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "dgradeshadedhealingrange": {
+      "display_forms": [
+        "d Grade shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000203"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000413"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "diabete": {
+      "display_forms": [
+        "Diabete",
+        "diabete"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "diabetes": {
+      "display_forms": [
+        "Diabetes",
+        "diabetes"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000023"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000088",
+        "HHS4185-O-00000089"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "diagnosis": {
+      "display_forms": [
+        "Diagnosis",
+        "diagnosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000024"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000090",
+        "HHS4185-O-00000091",
+        "HHS4185-O-00000092",
+        "HHS4185-O-00000093",
+        "HHS4185-O-00000094"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "discomfortpain": {
+      "display_forms": [
+        "discomfort pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000264"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000506"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "doms": {
+      "display_forms": [
+        "DOMS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000118"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000253"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "domsexerciseinducedshadedhealingrange": {
+      "display_forms": [
+        "DOMS exercise induced shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000204"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000414"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "dorsiflexiondecreasemusclestrengthimpairedwalking": {
+      "display_forms": [
+        "dorsiflexion Decrease muscle strength Impaired walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000205"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000415"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "earlyphasestrengtheningexercise": {
+      "display_forms": [
+        "early phase Strengthening exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000172"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000348"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "elbowcrutchesmobilizationexercise": {
+      "display_forms": [
+        "elbow crutches Mobilization exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000173"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000349"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "epicondylitis": {
+      "display_forms": [
+        "epicondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000025"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000095"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "etcinvestigativetestsnerveconductivetest": {
+      "display_forms": [
+        "etc Investigative tests Nerve Conductive Test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000146"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000306"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "excessrange": {
+      "display_forms": [
+        "excess range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000206"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000416"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "exercise": {
+      "display_forms": [
+        "exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000174"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000350",
+        "HHS4185-O-00000351",
+        "HHS4185-O-00000352",
+        "HHS4185-O-00000353",
+        "HHS4185-O-00000354",
+        "HHS4185-O-00000355"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "exerciseacuteinflammation": {
+      "display_forms": [
+        "exercise Acute inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000175"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000356"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "fasciitis": {
+      "display_forms": [
+        "Fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000026"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000096",
+        "HHS4185-O-00000097",
+        "HHS4185-O-00000098",
+        "HHS4185-O-00000099",
+        "HHS4185-O-00000100"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "fatigue": {
+      "display_forms": [
+        "fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000265"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000507"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "fitwalking": {
+      "display_forms": [
+        "fit Walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000207"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000417"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "footnearheelpain": {
+      "display_forms": [
+        "foot near heel Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000266"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000508"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "footrolledinwardankle": {
+      "display_forms": [
+        "foot rolled inward ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000027"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000101"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "fullyhealboneshadedhealingrange": {
+      "display_forms": [
+        "fully heal Bone shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000208"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000418"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "function": {
+      "display_forms": [
+        "function"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000209"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000419"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "functional": {
+      "display_forms": [
+        "Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000210"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000420",
+        "HHS4185-O-00000421",
+        "HHS4185-O-00000422",
+        "HHS4185-O-00000423"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "gait": {
+      "display_forms": [
+        "gait"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000211"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000424"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "golferselbowshouldersrotatorcufftendinitis": {
+      "display_forms": [
+        "Golfer’s Elbow Shoulders Rotator Cuff Tendinitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000028"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000102"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "haematoma": {
+      "display_forms": [
+        "haematoma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000103"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "haemorrhage": {
+      "display_forms": [
+        "Haemorrhage"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000104"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "halffingersmusclesweakness": {
+      "display_forms": [
+        "half fingers Muscles weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000267"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000509"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "hdes6w76oow": {
+      "display_forms": [
+        "hdes6W76OOw"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000119"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000254"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "heelpain": {
+      "display_forms": [
+        "heel pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000268"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000510"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "hematoma": {
+      "display_forms": [
+        "hematoma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000029"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000103"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "hemorrhage": {
+      "display_forms": [
+        "hemorrhage"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000030"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000104"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "highfootarchrepetitiveimpactactivities": {
+      "display_forms": [
+        "high foot arch Repetitive impact activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000212"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000425"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "highfootarchrepetitiveimpactactivity": {
+      "display_forms": [
+        "high foot arch Repetitive impact activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000212"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000425"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "hoursmobilizationexercise": {
+      "display_forms": [
+        "hours Mobilization exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000176"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000357"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "iii": {
+      "display_forms": [
+        "III"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000120"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000255",
+        "HHS4185-O-00000256"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "imaging": {
+      "display_forms": [
+        "Imaging",
+        "imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000147"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000307",
+        "HHS4185-O-00000308",
+        "HHS4185-O-00000309",
+        "HHS4185-O-00000310",
+        "HHS4185-O-00000311"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "improveblood": {
+      "display_forms": [
+        "improve blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000148"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000312"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "improvebloodcirculationicetherapy": {
+      "display_forms": [
+        "improve blood circulation Ice Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000149"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000313"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "improveflexibilitywrist": {
+      "display_forms": [
+        "improve flexibility Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000031"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000105"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "improverange": {
+      "display_forms": [
+        "improve range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000213"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000426"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "incompletehealingchronicinflammation": {
+      "display_forms": [
+        "incomplete healing Chronic inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000032"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000106"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "increasepassivedorsiflexiondecreasemusclestrength": {
+      "display_forms": [
+        "Increase passive dorsiflexion Decrease muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000214"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000427"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "inflammation": {
+      "display_forms": [
+        "Inflammation",
+        "inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000192"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000386",
+        "HHS4185-O-00000387",
+        "HHS4185-O-00000388",
+        "HHS4185-O-00000389",
+        "HHS4185-O-00000390",
+        "HHS4185-O-00000391",
+        "HHS4185-O-00000392",
+        "HHS4185-O-00000393",
+        "HHS4185-O-00000394",
+        "HHS4185-O-00000395",
+        "HHS4185-O-00000396",
+        "HHS4185-O-00000397",
+        "HHS4185-O-00000398",
+        "HHS4185-O-00000399",
+        "HHS4185-O-00000400"
+      ],
+      "categories": [
+        "pathophysiology"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "inflammatoryphasefunctional": {
+      "display_forms": [
+        "inflammatory phase Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000215"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000428"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injuredmuscle": {
+      "display_forms": [
+        "injured muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000033"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000107"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injury": {
+      "display_forms": [
+        "Injury",
+        "injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000034"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000108",
+        "HHS4185-O-00000109",
+        "HHS4185-O-00000110",
+        "HHS4185-O-00000111",
+        "HHS4185-O-00000112",
+        "HHS4185-O-00000113",
+        "HHS4185-O-00000114",
+        "HHS4185-O-00000115",
+        "HHS4185-O-00000116",
+        "HHS4185-O-00000117",
+        "HHS4185-O-00000118",
+        "HHS4185-O-00000119",
+        "HHS4185-O-00000120",
+        "HHS4185-O-00000121",
+        "HHS4185-O-00000122",
+        "HHS4185-O-00000123",
+        "HHS4185-O-00000124",
+        "HHS4185-O-00000125",
+        "HHS4185-O-00000126"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injuryareaankle": {
+      "display_forms": [
+        "injury area Ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000035"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000127"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injuryareaankleknee": {
+      "display_forms": [
+        "injury area Ankle Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000036"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000128"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injuryareaanklekneewrist": {
+      "display_forms": [
+        "injury area Ankle Knee Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000037"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000129"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "injuryinjury": {
+      "display_forms": [
+        "injury Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000038"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000130"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "inversionplantarflexionatfllateralanklesprain": {
+      "display_forms": [
+        "inversion plantarflexion ATFL Lateral Ankle Sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000039"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000131"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "investigativetestsnerveconductivetestnerve": {
+      "display_forms": [
+        "Investigative tests Nerve Conductive Test nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000150"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000314"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ischaemia": {
+      "display_forms": [
+        "Ischaemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000132"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ischemia": {
+      "display_forms": [
+        "Ischemia",
+        "ischemia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000040"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000132"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ive": {
+      "display_forms": [
+        "IVE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000121"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000257"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "j83gkojkjmc": {
+      "display_forms": [
+        "j83gkOJkJMc"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000122"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000258"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "jointmovementsmuscle": {
+      "display_forms": [
+        "joint movements Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000041"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000133"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "jointmovementsmusclehaematoma": {
+      "display_forms": [
+        "joint movements Muscle haematoma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000134"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "jointmovementsmusclehematoma": {
+      "display_forms": [
+        "joint movements Muscle hematoma"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000042"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000134"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "knee": {
+      "display_forms": [
+        "Knee"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000003"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000008"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralankle": {
+      "display_forms": [
+        "Lateral Ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000043"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000135",
+        "HHS4185-O-00000136",
+        "HHS4185-O-00000137",
+        "HHS4185-O-00000138",
+        "HHS4185-O-00000139"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralanklesprain": {
+      "display_forms": [
+        "Lateral Ankle Sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000044"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000140",
+        "HHS4185-O-00000141",
+        "HHS4185-O-00000142",
+        "HHS4185-O-00000143",
+        "HHS4185-O-00000144"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralanklesprainankle": {
+      "display_forms": [
+        "Lateral Ankle Sprain Ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000045"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000145"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralanklesprainphysiotherapy": {
+      "display_forms": [
+        "Lateral Ankle Sprain Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000216"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000429"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralanklesprainphysiotherapymanagement": {
+      "display_forms": [
+        "Lateral Ankle Sprain Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000217"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000430"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lateralanklesprainsignssymptomspain": {
+      "display_forms": [
+        "Lateral Ankle Sprain Signs symptoms Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000269"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000511"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "leastpartialpwbweight": {
+      "display_forms": [
+        "least partial PWB weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000270"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000512"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "life": {
+      "display_forms": [
+        "LIFE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000123"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000259"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ligamentextraarticulargradeshadedhealingrange": {
+      "display_forms": [
+        "Ligament extra-articular Grade shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000218"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000431"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ligamentsprain": {
+      "display_forms": [
+        "Ligament Sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000046"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000146",
+        "HHS4185-O-00000147",
+        "HHS4185-O-00000148"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ligamentspraininjury": {
+      "display_forms": [
+        "Ligament Sprain Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000047"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000149"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ljve16w56mi": {
+      "display_forms": [
+        "LjVe16W56mI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000124"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000260"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lowloadingtendonitis": {
+      "display_forms": [
+        "low loading Tendonitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000048"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000150"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "lowloadingtendonitisinflammation": {
+      "display_forms": [
+        "low loading Tendonitis Inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000049"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000151"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "managediabete": {
+      "display_forms": [
+        "Manage diabete"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000152"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "managediabetes": {
+      "display_forms": [
+        "Manage diabetes"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000050"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000152"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "management": {
+      "display_forms": [
+        "Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000177"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000358",
+        "HHS4185-O-00000359",
+        "HHS4185-O-00000360",
+        "HHS4185-O-00000361",
+        "HHS4185-O-00000362",
+        "HHS4185-O-00000363",
+        "HHS4185-O-00000364",
+        "HHS4185-O-00000365",
+        "HHS4185-O-00000366"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "managementdrugtreatment": {
+      "display_forms": [
+        "Management Drug treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000178"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000367",
+        "HHS4185-O-00000368"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mediannerve": {
+      "display_forms": [
+        "Median Nerve",
+        "median nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000051"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000153",
+        "HHS4185-O-00000154",
+        "HHS4185-O-00000155",
+        "HHS4185-O-00000156",
+        "HHS4185-O-00000157"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mediannervediabete": {
+      "display_forms": [
+        "median nerve Diabete"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000158"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mediannervediabetes": {
+      "display_forms": [
+        "median nerve Diabetes"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000052"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000158"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mediannerveultrasound": {
+      "display_forms": [
+        "median nerve Ultrasound"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000151"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000315"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mediannerveultrasoundimaging": {
+      "display_forms": [
+        "median nerve Ultrasound imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000152"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000316"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "metrosportsphysiotherapy": {
+      "display_forms": [
+        "Metro Sports Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000219"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000432"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mildinstabilitygradeiiiseveresprain": {
+      "display_forms": [
+        "mild instability Grade III Severe sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000053"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000159"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mochronicshadedhealingrange": {
+      "display_forms": [
+        "mo Chronic shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000220"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000433"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mogradeshadedhealingrange": {
+      "display_forms": [
+        "mo Grade shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000221"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000434"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mosqshadedhealingrange": {
+      "display_forms": [
+        "mo SQ shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000222"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000435"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "motendon": {
+      "display_forms": [
+        "mo Tendon"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000054"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000160"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "motendonacuteshadedhealingrange": {
+      "display_forms": [
+        "mo Tendon Acute shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000223"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000436"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "motionactiveassistedpassivemuscle": {
+      "display_forms": [
+        "motion active assisted passive Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000055"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000161"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "motionactiveassistedpassivemusclestrength": {
+      "display_forms": [
+        "motion active assisted passive Muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000224"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000437"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "motionicetherapy": {
+      "display_forms": [
+        "motion Ice Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000179"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000369"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "movementrange": {
+      "display_forms": [
+        "movement Range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000225"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000438",
+        "HHS4185-O-00000439",
+        "HHS4185-O-00000440"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "movementsmusclehaematomacomplicationscompartmentsyndrome": {
+      "display_forms": [
+        "movements Muscle haematoma Complications Compartment syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000162"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "movementsmusclehematomacomplicationscompartmentsyndrome": {
+      "display_forms": [
+        "movements Muscle hematoma Complications Compartment syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000056"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000162"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mri": {
+      "display_forms": [
+        "MRI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000125"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000261"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "mteeqygukxmrom5fwqvencmaf": {
+      "display_forms": [
+        "mTeEQyGuKxMROm5FWqVenCMAF"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000126"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000262"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "muscle": {
+      "display_forms": [
+        "Muscle",
+        "muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000004"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000009",
+        "HHS4185-O-00000010",
+        "HHS4185-O-00000011",
+        "HHS4185-O-00000012",
+        "HHS4185-O-00000013",
+        "HHS4185-O-00000014",
+        "HHS4185-O-00000015",
+        "HHS4185-O-00000016",
+        "HHS4185-O-00000017",
+        "HHS4185-O-00000018",
+        "HHS4185-O-00000019",
+        "HHS4185-O-00000020",
+        "HHS4185-O-00000021",
+        "HHS4185-O-00000022",
+        "HHS4185-O-00000023",
+        "HHS4185-O-00000024",
+        "HHS4185-O-00000025",
+        "HHS4185-O-00000026",
+        "HHS4185-O-00000027",
+        "HHS4185-O-00000028",
+        "HHS4185-O-00000029",
+        "HHS4185-O-00000030",
+        "HHS4185-O-00000031",
+        "HHS4185-O-00000032",
+        "HHS4185-O-00000033",
+        "HHS4185-O-00000034",
+        "HHS4185-O-00000035"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclecompartmentfasciaintensepain": {
+      "display_forms": [
+        "muscle compartment fascia Intense pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000271"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000513"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclecontusionphysiotherapy": {
+      "display_forms": [
+        "Muscle Contusion Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000226"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000441"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclecontusionphysiotherapymanagement": {
+      "display_forms": [
+        "Muscle Contusion Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000227"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000442"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclefunction": {
+      "display_forms": [
+        "muscle function"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000228"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000443"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclehaematomacomplicationscompartmentsyndromemyositis": {
+      "display_forms": [
+        "Muscle haematoma Complications Compartment syndrome Myositis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000163"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclehematomacomplicationscompartmentsyndromemyositis": {
+      "display_forms": [
+        "Muscle hematoma Complications Compartment syndrome Myositis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000057"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000163"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclescausingmuscle": {
+      "display_forms": [
+        "muscles causing muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000058"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000164"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclesoncepainsubsidesmanualtherapy": {
+      "display_forms": [
+        "muscles once pain subsides Manual Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000180"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000370"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclespasmjointsofttissuestiffnesspain": {
+      "display_forms": [
+        "Muscle spasm/Joint Soft tissue stiffness pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000272"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000514"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclestraininjury": {
+      "display_forms": [
+        "Muscle Strain Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000059"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000165"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclestrength": {
+      "display_forms": [
+        "muscle strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000229"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000444",
+        "HHS4185-O-00000445",
+        "HHS4185-O-00000446"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musclestrengthproprioceptiontrainingfunctional": {
+      "display_forms": [
+        "muscle strength Proprioception training Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000230"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000447"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "muscleweakness": {
+      "display_forms": [
+        "muscle weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000273"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000515",
+        "HHS4185-O-00000516",
+        "HHS4185-O-00000517"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "muscleweaknessbucklingimaging": {
+      "display_forms": [
+        "muscle weakness buckling Imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000153"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000317",
+        "HHS4185-O-00000318",
+        "HHS4185-O-00000319"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "muscleweaknessbucklingimagingtest": {
+      "display_forms": [
+        "muscle weakness buckling Imaging test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000154"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000320",
+        "HHS4185-O-00000321",
+        "HHS4185-O-00000322"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "muscleweaknessbucklingimagingtestxray": {
+      "display_forms": [
+        "muscle weakness buckling Imaging test X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000155"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000323",
+        "HHS4185-O-00000324",
+        "HHS4185-O-00000325"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "musculotendinousjunctionosseotendinousjunctionfunctionstransfer": {
+      "display_forms": [
+        "musculotendinous junction osseotendinous junction Functions Transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000231"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000448"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "myositis": {
+      "display_forms": [
+        "Myositis",
+        "myositis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000060"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000166",
+        "HHS4185-O-00000167"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "necksyndromebacklowbackpain": {
+      "display_forms": [
+        "Neck Syndrome Back Low back pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000274"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000518"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "nerve": {
+      "display_forms": [
+        "Nerve",
+        "nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000005"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000036",
+        "HHS4185-O-00000037",
+        "HHS4185-O-00000038",
+        "HHS4185-O-00000039",
+        "HHS4185-O-00000040",
+        "HHS4185-O-00000041"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "nerveultrasoundimagingmagneticresonanceimaging": {
+      "display_forms": [
+        "nerve Ultrasound imaging Magnetic Resonance Imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000156"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000326"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "nhs": {
+      "display_forms": [
+        "NHS"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000127"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000263",
+        "HHS4185-O-00000264"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "nsaidsinflammation": {
+      "display_forms": [
+        "NSAIDs inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000061"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000168"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "nsaidsnsaidsnonopioidanalgesicssurgicaltreatment": {
+      "display_forms": [
+        "NSAIDs NSAIDs non-opioid analgesics Surgical treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000181"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000371"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "occupational": {
+      "display_forms": [
+        "occupational"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000232"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000449"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "oncefullpainfreeromachievedfunctional": {
+      "display_forms": [
+        "once full pain-free ROM achieved Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000233"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000450"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orgendiseasesconditionscarpaltunnelsyndromemayocliniccarpeltunnelsyndrome": {
+      "display_forms": [
+        "org/en/diseases conditions/carpal-tunnel-syndrome Mayoclinic Carpel Tunnel Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000062"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000169"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orghealthbody21787skeletalmuscle": {
+      "display_forms": [
+        "org/health/body/21787-skeletal-muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000128"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000265"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orghealthbody23251fascia": {
+      "display_forms": [
+        "org/health/body/23251-fascia"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000129"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000266"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orthopaedicsofttissueproblemsacutesprain": {
+      "display_forms": [
+        "Orthopaedic Soft Tissue Problems Acute Sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000063"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000170"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orthopedicsurgeonscarpeltunnelsyndrome": {
+      "display_forms": [
+        "Orthopedic Surgeons Carpel Tunnel Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000064"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000171"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "orthopedicsurgeonsplantarfasciitis": {
+      "display_forms": [
+        "Orthopedic Surgeons Plantar Fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000065"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000172"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "pain": {
+      "display_forms": [
+        "Pain",
+        "pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000275"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000519",
+        "HHS4185-O-00000520",
+        "HHS4185-O-00000521",
+        "HHS4185-O-00000522",
+        "HHS4185-O-00000523",
+        "HHS4185-O-00000524",
+        "HHS4185-O-00000525",
+        "HHS4185-O-00000526",
+        "HHS4185-O-00000527",
+        "HHS4185-O-00000528",
+        "HHS4185-O-00000529",
+        "HHS4185-O-00000530",
+        "HHS4185-O-00000531",
+        "HHS4185-O-00000532",
+        "HHS4185-O-00000533",
+        "HHS4185-O-00000534",
+        "HHS4185-O-00000535",
+        "HHS4185-O-00000536",
+        "HHS4185-O-00000537",
+        "HHS4185-O-00000538",
+        "HHS4185-O-00000539",
+        "HHS4185-O-00000540"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "painaffectingmusclestendonsligamentsnerve": {
+      "display_forms": [
+        "pain Affecting muscles tendons ligaments nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000276"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000541"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "palpationswellingdecreasedrange": {
+      "display_forms": [
+        "palpation Swelling Decreased range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000234"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000451"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "phalensphalentestetcinvestigativetest": {
+      "display_forms": [
+        "Phalen’s Phalen Test etc Investigative test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000157"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000327"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "phalensphalentestetcinvestigativetests": {
+      "display_forms": [
+        "Phalen’s Phalen Test etc Investigative tests"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000157"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000327"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "phalentestetcinvestigativetestsnerve": {
+      "display_forms": [
+        "Phalen Test etc Investigative tests Nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000158"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000328"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "phasejointinstabilitysevereligamentsprain": {
+      "display_forms": [
+        "phase Joint instability Severe ligament sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000066"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000173"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "physiotherapy": {
+      "display_forms": [
+        "Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000235"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000452",
+        "HHS4185-O-00000453",
+        "HHS4185-O-00000454",
+        "HHS4185-O-00000455",
+        "HHS4185-O-00000456",
+        "HHS4185-O-00000457",
+        "HHS4185-O-00000458",
+        "HHS4185-O-00000459"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarfasciitis": {
+      "display_forms": [
+        "Plantar Fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000067"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000174",
+        "HHS4185-O-00000175",
+        "HHS4185-O-00000176",
+        "HHS4185-O-00000177"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarfasciitishttpswwwnhsukconditionsplantarfasciitis": {
+      "display_forms": [
+        "Plantar Fasciitis https www nhs uk/conditions/plantar-fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000068"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000178"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarfasciitispain": {
+      "display_forms": [
+        "Plantar Fasciitis Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000277"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000542"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarfasciitisphysiotherapy": {
+      "display_forms": [
+        "Plantar Fasciitis Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000236"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000460"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarfasciitisphysiotherapymanagement": {
+      "display_forms": [
+        "Plantar Fasciitis Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000237"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000461"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "plantarflexionincreasepassivedorsiflexiondecreasemuscle": {
+      "display_forms": [
+        "plantarflexion Increase passive dorsiflexion Decrease muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000069"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000179"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "police": {
+      "display_forms": [
+        "POLICE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000130"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000267",
+        "HHS4185-O-00000268",
+        "HHS4185-O-00000269",
+        "HHS4185-O-00000270",
+        "HHS4185-O-00000271",
+        "HHS4185-O-00000272",
+        "HHS4185-O-00000273",
+        "HHS4185-O-00000274",
+        "HHS4185-O-00000275"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "properprotectiongentlemanualtechniquesexercise": {
+      "display_forms": [
+        "proper protection Gentle manual techniques exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000182"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000372"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "pwb": {
+      "display_forms": [
+        "PWB"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000131"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000276"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "pwbweightbearingpwbmobilizationexercise": {
+      "display_forms": [
+        "PWB weight bearing PWB Mobilization exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000183"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000373"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "range": {
+      "display_forms": [
+        "Range",
+        "range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000238"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000462",
+        "HHS4185-O-00000463",
+        "HHS4185-O-00000464",
+        "HHS4185-O-00000465",
+        "HHS4185-O-00000466",
+        "HHS4185-O-00000467",
+        "HHS4185-O-00000468",
+        "HHS4185-O-00000469"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "recreationalphysicalactivities": {
+      "display_forms": [
+        "recreational physical activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000239"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000470"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "recreationalphysicalactivity": {
+      "display_forms": [
+        "recreational physical activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000239"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000470"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rednessjointswellingwarmthpainrange": {
+      "display_forms": [
+        "Redness joint swelling warmth pain Range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000240"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000471"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rednessswellingincreaselocaltemperaturepain": {
+      "display_forms": [
+        "redness swelling increase local temperature pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000278"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000543"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reduceacuteinflammation": {
+      "display_forms": [
+        "reduce acute inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000070"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000180"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reduceacuteinflammationpain": {
+      "display_forms": [
+        "reduce acute inflammation pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000279"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000544"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reduceinflammation": {
+      "display_forms": [
+        "reduce inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000071"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000181",
+        "HHS4185-O-00000182",
+        "HHS4185-O-00000183",
+        "HHS4185-O-00000184"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reduceinflammationsurgery": {
+      "display_forms": [
+        "reduce inflammation Surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000184"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000374"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reducemuscle": {
+      "display_forms": [
+        "reduce muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000072"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000185"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "reducestiffnessmanualtherapy": {
+      "display_forms": [
+        "reduce stiffness Manual Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000185"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000375"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "referencenhsplantarfasciitis": {
+      "display_forms": [
+        "Reference NHS Plantar Fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000073"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000186"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "referencenhsrepetitivestraininjury": {
+      "display_forms": [
+        "Reference NHS Repetitive Strain Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000074"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000187"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rehabilitation": {
+      "display_forms": [
+        "rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000241"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000472",
+        "HHS4185-O-00000473",
+        "HHS4185-O-00000474"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "relieveobjectiveexaminationacuteinflammation": {
+      "display_forms": [
+        "relieve Objectiveexamination Acute inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000075"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000188",
+        "HHS4185-O-00000189",
+        "HHS4185-O-00000190"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "relievepain": {
+      "display_forms": [
+        "relieve pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000280"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000545",
+        "HHS4185-O-00000546"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "repetitivestraininjury": {
+      "display_forms": [
+        "Repetitive Strain Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000076"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000191",
+        "HHS4185-O-00000192",
+        "HHS4185-O-00000193"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "repetitivestressinjury": {
+      "display_forms": [
+        "Repetitive Stress Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000077"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000194"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "resistfatigue": {
+      "display_forms": [
+        "resist fatigue"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000281"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000547"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "restingpain": {
+      "display_forms": [
+        "resting pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000282"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000548"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rheumatoidarthritis": {
+      "display_forms": [
+        "rheumatoid arthritis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000078"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000195"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rheumatoidarthritiscarpaltunnelsyndromesurgery": {
+      "display_forms": [
+        "rheumatoid arthritis Carpal tunnel syndrome surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000186"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000376"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rice": {
+      "display_forms": [
+        "RICE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000132"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000277"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rom": {
+      "display_forms": [
+        "ROM"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000133"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000278",
+        "HHS4185-O-00000279",
+        "HHS4185-O-00000280",
+        "HHS4185-O-00000281",
+        "HHS4185-O-00000282"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "romstrengtheningexercise": {
+      "display_forms": [
+        "ROM Strengthening exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000187"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000377",
+        "HHS4185-O-00000378"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rsi": {
+      "display_forms": [
+        "RSI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000134"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000283",
+        "HHS4185-O-00000284",
+        "HHS4185-O-00000285",
+        "HHS4185-O-00000286",
+        "HHS4185-O-00000287"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "rsifingersthumbstriggerfingerwrist": {
+      "display_forms": [
+        "RSI Fingers thumbs Trigger finger Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000079"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000196"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "science": {
+      "display_forms": [
+        "SCIENCE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000135"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000288"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "sciences": {
+      "display_forms": [
+        "SCIENCES"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000135"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000288"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "severityswellingskinbruisingweakness": {
+      "display_forms": [
+        "severity Swelling Skin bruising Weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000283"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000549"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "shootingpain": {
+      "display_forms": [
+        "shooting pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000284"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000550"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "shorttermnsaidsradiographicimaging": {
+      "display_forms": [
+        "short-term NSAIDs Radiographic imaging"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000159"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000329"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "skinshadedhealingrange": {
+      "display_forms": [
+        "Skin shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000242"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000475"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissueinjuriesblood": {
+      "display_forms": [
+        "soft tissue injuries Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000160"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000330"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissueinjury": {
+      "display_forms": [
+        "Soft Tissue Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000080"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000197"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissueinjuryinjury": {
+      "display_forms": [
+        "Soft Tissue Injury Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000081"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000198"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissuesgradualmuscle": {
+      "display_forms": [
+        "soft tissues Gradual muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000082"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000199"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissuesgradualmuscleinflammation": {
+      "display_forms": [
+        "soft tissues Gradual muscle Inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000083"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000200"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "softtissuesgradualmuscleinflammationweakness": {
+      "display_forms": [
+        "soft tissues Gradual muscle Inflammation weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000285"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000551"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "sorenesspain": {
+      "display_forms": [
+        "Soreness pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000286"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000552"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "sportsnonsurgicalapproachfunctional": {
+      "display_forms": [
+        "sports Non-surgical approach Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000243"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000476"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "sportsnonsurgicalapproachfunctionalrehabilitation": {
+      "display_forms": [
+        "sports Non-surgical approach Functional rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000244"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000477"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "sprain": {
+      "display_forms": [
+        "Sprain",
+        "sprain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000084"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000201",
+        "HHS4185-O-00000202",
+        "HHS4185-O-00000203",
+        "HHS4185-O-00000204",
+        "HHS4185-O-00000205",
+        "HHS4185-O-00000206",
+        "HHS4185-O-00000207",
+        "HHS4185-O-00000208",
+        "HHS4185-O-00000209",
+        "HHS4185-O-00000210"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "stiffnessthrobbingtinglingnumbnessmuscleweakness": {
+      "display_forms": [
+        "Stiffness Throbbing Tingling numbness Muscle weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000287"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000553"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "strength": {
+      "display_forms": [
+        "strength"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000245"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000478",
+        "HHS4185-O-00000479",
+        "HHS4185-O-00000480",
+        "HHS4185-O-00000481",
+        "HHS4185-O-00000482",
+        "HHS4185-O-00000483"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "strengthacutesignificantpain": {
+      "display_forms": [
+        "strength Acute significant pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000246"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000484"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "strengthfullactivepassiverompain": {
+      "display_forms": [
+        "strength full active passive ROM Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000247"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000485"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "strongesttendon": {
+      "display_forms": [
+        "strongest tendon"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000085"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000211"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "suddenlypopsstraightacuteinflammation": {
+      "display_forms": [
+        "suddenly pops straight acute inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000086"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000212"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "surgery": {
+      "display_forms": [
+        "Surgery",
+        "surgery"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000188"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000379",
+        "HHS4185-O-00000380"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "swellingcompartmentsyndrome": {
+      "display_forms": [
+        "swelling Compartment syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000087"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000213"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "swellingstiffnessthrobbingtinglingnumbnessmuscle": {
+      "display_forms": [
+        "Swelling Stiffness Throbbing Tingling numbness Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000088"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000214"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "syndrome": {
+      "display_forms": [
+        "Syndrome",
+        "syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000089"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000215",
+        "HHS4185-O-00000216",
+        "HHS4185-O-00000217",
+        "HHS4185-O-00000218",
+        "HHS4185-O-00000219",
+        "HHS4185-O-00000220",
+        "HHS4185-O-00000221",
+        "HHS4185-O-00000222"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "syndromehttpsorthoinfoaaosorgendiseasesconditionscarpaltunnelsyndrome": {
+      "display_forms": [
+        "Syndrome https orthoinfo aaos org/en/diseases conditions/carpal-tunnel-syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000090"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000223"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "talocruraljointankle": {
+      "display_forms": [
+        "talocrural joint ankle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000091"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000224"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendinitis": {
+      "display_forms": [
+        "Tendinitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000092"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000225",
+        "HHS4185-O-00000226"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendon": {
+      "display_forms": [
+        "Tendon",
+        "tendon"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000006"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000042",
+        "HHS4185-O-00000043",
+        "HHS4185-O-00000044",
+        "HHS4185-O-00000045",
+        "HHS4185-O-00000046",
+        "HHS4185-O-00000047",
+        "HHS4185-O-00000048",
+        "HHS4185-O-00000049",
+        "HHS4185-O-00000050",
+        "HHS4185-O-00000051",
+        "HHS4185-O-00000052",
+        "HHS4185-O-00000053",
+        "HHS4185-O-00000054"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonfibreschronicmuscle": {
+      "display_forms": [
+        "tendon fibres Chronic muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000093"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000227"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonfibreschronicmusclestrainsmuscle": {
+      "display_forms": [
+        "tendon fibres Chronic muscle strains Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000094"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000228"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendoninjurysignssymptomssharppain": {
+      "display_forms": [
+        "Tendon Injury Signs symptoms Sharp pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000288"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000554"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonitis": {
+      "display_forms": [
+        "Tendonitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000095"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000229"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonmuscle": {
+      "display_forms": [
+        "Tendon Muscle",
+        "tendon muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000096"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000230",
+        "HHS4185-O-00000231"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonrupturephysiotherapymanagementearlyrehabilitation": {
+      "display_forms": [
+        "Tendon Rupture Physiotherapy Management Early rehabilitation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000248"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000486"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonsproximaldistalblood": {
+      "display_forms": [
+        "tendons proximal distal Blood"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000161"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000331"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tendonstendinitis": {
+      "display_forms": [
+        "Tendons Tendinitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000097"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000232"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tenniselbowlateralepicondylitis": {
+      "display_forms": [
+        "Tennis elbow Lateral epicondylitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000098"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000233"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tenniselbowphysiotherapy": {
+      "display_forms": [
+        "Tennis Elbow Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000249"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000487"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tenniselbowphysiotherapymanagement": {
+      "display_forms": [
+        "Tennis Elbow Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000250"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000488"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "test": {
+      "display_forms": [
+        "Test",
+        "test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000162",
+        "HHS4185-C-0000163"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000332",
+        "HHS4185-O-00000333",
+        "HHS4185-O-00000334",
+        "HHS4185-O-00000335",
+        "HHS4185-O-00000336"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tests": {
+      "display_forms": [
+        "tests"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000163"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000336"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "teststinelssignphalensphalentest": {
+      "display_forms": [
+        "tests Tinel’s sign Phalen’s Phalen Test"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000164"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000337"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "thenareminencewrist": {
+      "display_forms": [
+        "thenar eminence Wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000099"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000234"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "thenareminencewristpain": {
+      "display_forms": [
+        "thenar eminence Wrist pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000289"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000555"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "therapy": {
+      "display_forms": [
+        "Therapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000189"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000381",
+        "HHS4185-O-00000382",
+        "HHS4185-O-00000383"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "three": {
+      "display_forms": [
+        "THREE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000136"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000289"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "throbbingtinglingnumbnessmuscleweaknessmuscle": {
+      "display_forms": [
+        "Throbbing Tingling numbness Muscle weakness Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000290"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000556"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "timeearlydiagnosis": {
+      "display_forms": [
+        "time early diagnosis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000100"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000235"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "timeearlydiagnosistreatment": {
+      "display_forms": [
+        "time early diagnosis treatment"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000190"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000384"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tissueinjuriesbloodvesselsdamagehaemorrhage": {
+      "display_forms": [
+        "tissue injuries Blood vessels damage Haemorrhage"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000165"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000338"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tissueinjuriesbloodvesselsdamagehemorrhage": {
+      "display_forms": [
+        "tissue injuries Blood vessels damage hemorrhage"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000165"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000338"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tissuesgradualmuscleinflammationweaknessmuscle": {
+      "display_forms": [
+        "tissues Gradual muscle Inflammation weakness Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000291"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000557"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "topmediannerve": {
+      "display_forms": [
+        "top Median Nerve"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000101"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000236"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "transfer": {
+      "display_forms": [
+        "Transfer"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000251"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000489"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "traumaticinjury": {
+      "display_forms": [
+        "traumatic injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000102"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000237"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "triggerfingerinflammation": {
+      "display_forms": [
+        "Trigger Finger Inflammation"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000103"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000238"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "triggerfingerphysiotherapy": {
+      "display_forms": [
+        "trigger finger Physiotherapy"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000252"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000490"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "triggerfingerphysiotherapymanagement": {
+      "display_forms": [
+        "trigger finger Physiotherapy Management"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000253"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000491"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "triggerfingerwristcarpaltunnelsyndrome": {
+      "display_forms": [
+        "Trigger finger Wrist Carpal Tunnel Syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000104"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000239"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "tunnelsyndromehttpswwwnhsukconditionscarpaltunnelsyndrome": {
+      "display_forms": [
+        "Tunnel Syndrome https www nhs uk/conditions/carpal-tunnel-syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000105"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000240"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "typicallyweekslaterproprioceptiontrainingfunctional": {
+      "display_forms": [
+        "typically weeks later Proprioception training Functional"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000254"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000492"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ude": {
+      "display_forms": [
+        "UDE"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000137"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000290"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ukconditionscarpaltunnelsyndrome": {
+      "display_forms": [
+        "uk/conditions/carpal-tunnel-syndrome"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000106"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000241"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ukconditionsplantarfasciitis": {
+      "display_forms": [
+        "uk/conditions/plantar-fasciitis"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000107"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000242"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ultrasound": {
+      "display_forms": [
+        "Ultrasound"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000166"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000339"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ultrasoundimagingmagneticresonanceimagingmri": {
+      "display_forms": [
+        "Ultrasound imaging Magnetic Resonance Imaging MRI"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000167"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000340"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "unevensurfacesportactivities": {
+      "display_forms": [
+        "uneven surface Sport activities"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000255"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000493"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "unevensurfacesportactivity": {
+      "display_forms": [
+        "uneven surface Sport activity"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000255"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000493"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "walkgreaterpain": {
+      "display_forms": [
+        "walk Greater pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000292"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000558"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "walking": {
+      "display_forms": [
+        "Walking",
+        "walking"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000256"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000494",
+        "HHS4185-O-00000495"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "weakness": {
+      "display_forms": [
+        "Weakness",
+        "weakness"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000293"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000559",
+        "HHS4185-O-00000560",
+        "HHS4185-O-00000561",
+        "HHS4185-O-00000562",
+        "HHS4185-O-00000563",
+        "HHS4185-O-00000564",
+        "HHS4185-O-00000565"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "weight": {
+      "display_forms": [
+        "weight"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000294"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000566",
+        "HHS4185-O-00000567"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wkfasciashadedhealingrange": {
+      "display_forms": [
+        "wk Fascia shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000257"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000496"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wkgradeshadedhealingrange": {
+      "display_forms": [
+        "wk Grade shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000258"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000497"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wkmuscle": {
+      "display_forms": [
+        "wk Muscle"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000108"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000243"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wkmuscledomsexercise": {
+      "display_forms": [
+        "wk Muscle DOMS exercise"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000191"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000385"
+      ],
+      "categories": [
+        "management_treatment"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wksubacuteshadedhealingrange": {
+      "display_forms": [
+        "wk Subacute shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000259"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000498"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wrist": {
+      "display_forms": [
+        "Wrist",
+        "wrist"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000007"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000055",
+        "HHS4185-O-00000056",
+        "HHS4185-O-00000057",
+        "HHS4185-O-00000058",
+        "HHS4185-O-00000059",
+        "HHS4185-O-00000060",
+        "HHS4185-O-00000061"
+      ],
+      "categories": [
+        "anatomy"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wristmusclesoncepain": {
+      "display_forms": [
+        "wrist muscles once pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000295"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000568"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wristsignssymptomspain": {
+      "display_forms": [
+        "wrist Signs Symptoms Pain"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000296"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000569"
+      ],
+      "categories": [
+        "symptoms_signs"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "wwwnhsukconditionsrepetitivestraininjuryrsirepetitivestraininjury": {
+      "display_forms": [
+        "www nhs uk/conditions/repetitive-strain-injury-rsi Repetitive Strain Injury"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000109"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000244"
+      ],
+      "categories": [
+        "conditions"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "xray": {
+      "display_forms": [
+        "X-ray"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000168"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000341",
+        "HHS4185-O-00000342",
+        "HHS4185-O-00000343"
+      ],
+      "categories": [
+        "investigations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "yearrupturesurgicalrepairshadedhealingrange": {
+      "display_forms": [
+        "year Rupture/surgical repair shaded healing range"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000260"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000499"
+      ],
+      "categories": [
+        "rehabilitation"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ymsve4hecx": {
+      "display_forms": [
+        "yMsVe4HECx"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000138"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000291"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    "ymsve4hecxs": {
+      "display_forms": [
+        "yMsVe4HECxs"
+      ],
+      "concept_ids": [
+        "HHS4185-C-0000138"
+      ],
+      "occurrence_ids": [
+        "HHS4185-O-00000291"
+      ],
+      "categories": [
+        "definitions_abbreviations"
+      ],
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    }
+  },
+  "counts": {
+    "terms": 319,
+    "concepts_referenced": 296,
+    "occurrences_referenced": 569
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+}

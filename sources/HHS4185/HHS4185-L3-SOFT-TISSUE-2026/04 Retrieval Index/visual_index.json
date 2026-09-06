@@ -1,0 +1,2760 @@
+{
+  "schema_version": "vtc-hhs4185.visual-retrieval-index.v1",
+  "record_type": "visual_retrieval_index",
+  "book_id": "HHS4185",
+  "policy": {
+    "tables": "full reconstructed contents",
+    "non_tables": "metadata, name, location, and page only"
+  },
+  "visuals": [
+    {
+      "visual_id": "HHS4185-L3-VIS-P0001-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0001",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L3: Orthopaedic – Soft Tissue Problems: Acute",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.0,
+          0.0,
+          720.0,
+          540.0
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0001",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0001",
+        "HHS4185-L3-PART01",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Lecture cover",
+          "L3: Orthopaedic – Soft Tissue Problems: Acute"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0001-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0001",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L3: Orthopaedic – Soft Tissue Problems: Acute",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          245.64,
+          0.0,
+          720.0,
+          27.66
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object",
+        "raw_bbox_points": [
+          245.64,
+          -1.079,
+          720.9,
+          27.66
+        ],
+        "location_note": "Published coordinates clamped to the slide bounds; raw detector coordinates retained separately."
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0001",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0001",
+        "HHS4185-L3-PART01",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Lecture cover",
+          "L3: Orthopaedic – Soft Tissue Problems: Acute"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0001-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0001",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 1,
+      "slide_number": 1,
+      "visual_type": "image",
+      "name": "Visual associated with: L3: Orthopaedic – Soft Tissue Problems: Acute",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          474.72,
+          11.161,
+          624.06,
+          42.78
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0001",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 1,
+        "page_number_type": "slide_number",
+        "slide_number": 1,
+        "pdf_page": 1,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 1 (PDF p. 1)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0001",
+        "HHS4185-L3-PART01",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Lecture cover",
+          "L3: Orthopaedic – Soft Tissue Problems: Acute"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0005-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0005",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 5,
+      "slide_number": 5,
+      "visual_type": "image",
+      "name": "Visual associated with: Ligament Basics – Science Explained:",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          1.667,
+          93.844,
+          720.0,
+          497.936
+        ],
+        "bbox_px": [
+          3.4730136394500732,
+          195.5074920654297,
+          1500,
+          1037.3673095703125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0005",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 5,
+        "page_number_type": "slide_number",
+        "slide_number": 5,
+        "pdf_page": 5,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 5 (PDF p. 5)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0005",
+        "HHS4185-L3-PART02",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Soft Tissues Overview",
+          "Ligament Basics – Science Explained:"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0007-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0007",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 7,
+      "slide_number": 7,
+      "visual_type": "image",
+      "name": "Visual associated with: The Basic Science of Tendons & Tendinitis:",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          6.992,
+          93.212,
+          714.736,
+          492.764
+        ],
+        "bbox_px": [
+          14.56734561920166,
+          194.19102478027344,
+          1489.0323486328125,
+          1026.5911865234375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0007",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 7,
+        "page_number_type": "slide_number",
+        "slide_number": 7,
+        "pdf_page": 7,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 7 (PDF p. 7)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0007",
+        "HHS4185-L3-PART02",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Soft Tissues Overview",
+          "The Basic Science of Tendons & Tendinitis:"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0009-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0009",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 9,
+      "slide_number": 9,
+      "visual_type": "image",
+      "name": "Visual associated with: Muscle Basics: What Athletes Need to Know About the Muscular System:",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          2.319,
+          93.571,
+          710.034,
+          498.071
+        ],
+        "bbox_px": [
+          4.830389976501465,
+          194.93922424316406,
+          1479.238037109375,
+          1037.64697265625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0009",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 9,
+        "page_number_type": "slide_number",
+        "slide_number": 9,
+        "pdf_page": 9,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 9 (PDF p. 9)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0009",
+        "HHS4185-L3-PART02",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Soft Tissues Overview",
+          "Muscle Basics: What Athletes Need to Know About the Muscular System:"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0015-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0015",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 15,
+      "slide_number": 15,
+      "visual_type": "image",
+      "name": "Visual associated with: Phases of Soft Tissue Healing",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          29.767,
+          101.558,
+          690.169,
+          535.377
+        ],
+        "bbox_px": [
+          62.013790130615234,
+          211.57830810546875,
+          1437.8529052734375,
+          1115.3695068359375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0015",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 15,
+        "page_number_type": "slide_number",
+        "slide_number": 15,
+        "pdf_page": 15,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 15 (PDF p. 15)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0015",
+        "HHS4185-L3-PART03",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Soft Tissue Injuries",
+          "Phases of Soft Tissue Healing"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0016-C0002",
+      "table_id": "HHS4185-L3-TBL-P0016-C01",
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0016",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 16,
+      "slide_number": 16,
+      "visual_type": "table",
+      "name": "TABLE 2 - Approximate rates of tissue healing",
+      "caption": "TABLE 2 - Approximate rates of tissue healing",
+      "location": {
+        "bbox_points": [
+          31.838,
+          61.68,
+          687.519,
+          454.36
+        ],
+        "bbox_px": [
+          66.33004760742188,
+          128.4994354248047,
+          1432.3321533203125,
+          946.5827026367188
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "full_table_reconstruction",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "table_reconstruction_available": true,
+      "table_reconstruction_status": "visual_reviewed_logical_english_layer",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0016",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 16,
+        "page_number_type": "slide_number",
+        "slide_number": 16,
+        "pdf_page": 16,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 16 (PDF p. 16)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0016",
+        "HHS4185-L3-PART03",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Soft Tissue Injuries",
+          "https://theprehabguys.com/tissue-healing-timelines/"
+        ]
+      ],
+      "table_reconstruction_source": "../../02 Text and Tables/tables_reconstructed_generated.json",
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0027-C0004",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0027",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: Ligament Sprain Injury Grading",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          252.194,
+          390.117,
+          356.538,
+          495.424
+        ],
+        "bbox_px": [
+          525.4039916992188,
+          812.744140625,
+          742.7877197265625,
+          1032.133544921875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0027",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0027",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Ligament Sprain Injury Grading"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0027-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0027",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: Ligament Sprain Injury Grading",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          366.332,
+          390.769,
+          471.017,
+          495.298
+        ],
+        "bbox_px": [
+          763.1911010742188,
+          814.1011352539062,
+          981.2852783203125,
+          1031.8714599609375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0027",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0027",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Ligament Sprain Injury Grading"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0027-C0012",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0027",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: Ligament Sprain Injury Grading",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          479.995,
+          389.879,
+          586.988,
+          495.356
+        ],
+        "bbox_px": [
+          999.9893188476562,
+          812.2474365234375,
+          1222.890869140625,
+          1031.9910888671875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0027",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0027",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Ligament Sprain Injury Grading"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0027-C0013",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0027",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 27,
+      "slide_number": 27,
+      "visual_type": "image",
+      "name": "Visual associated with: Ligament Sprain Injury Grading",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          135.958,
+          389.65,
+          242.986,
+          495.995
+        ],
+        "bbox_px": [
+          283.2454833984375,
+          811.7702026367188,
+          506.2217102050781,
+          1033.323486328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0027",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 27,
+        "page_number_type": "slide_number",
+        "slide_number": 27,
+        "pdf_page": 27,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 27 (PDF p. 27)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0027",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Ligament Sprain Injury Grading"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0028-C0006",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0028",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 28,
+      "slide_number": 28,
+      "visual_type": "image",
+      "name": "Visual associated with: Lateral Ankle Sprain",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          1.303,
+          382.348,
+          716.857,
+          536.246
+        ],
+        "bbox_px": [
+          2.7146637439727783,
+          796.5584716796875,
+          1493.4530029296875,
+          1117.1788330078125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0028",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 28,
+        "page_number_type": "slide_number",
+        "slide_number": 28,
+        "pdf_page": 28,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 28 (PDF p. 28)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0028",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Lateral Ankle Sprain"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0030-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0030",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 30,
+      "slide_number": 30,
+      "visual_type": "image",
+      "name": "Visual associated with: h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = y M s Ve 4 H E C x s",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.21,
+          93.272,
+          719.546,
+          498.868
+        ],
+        "bbox_px": [
+          0.4374682903289795,
+          194.31564331054688,
+          1499.0535888671875,
+          1039.307861328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0030",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 30,
+        "page_number_type": "slide_number",
+        "slide_number": 30,
+        "pdf_page": 30,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 30 (PDF p. 30)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0030",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = y M s Ve 4 H E C x s"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0032-C0012",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0032",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 32,
+      "slide_number": 32,
+      "visual_type": "image",
+      "name": "Visual associated with: Diagnosis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          458.428,
+          438.394,
+          620.854,
+          539.857
+        ],
+        "bbox_px": [
+          955.0579833984375,
+          913.3200073242188,
+          1293.445556640625,
+          1124.7030029296875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0032",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 32,
+        "page_number_type": "slide_number",
+        "slide_number": 32,
+        "pdf_page": 32,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 32 (PDF p. 32)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0032",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Diagnosis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0034-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0034",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 34,
+      "slide_number": 34,
+      "visual_type": "image",
+      "name": "Visual associated with: Lateral Ankle Sprain",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          82.772,
+          319.01,
+          323.144,
+          501.282
+        ],
+        "bbox_px": [
+          172.44212341308594,
+          664.6050415039062,
+          673.2172241210938,
+          1044.3369140625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0034",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 34,
+        "page_number_type": "slide_number",
+        "slide_number": 34,
+        "pdf_page": 34,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 34 (PDF p. 34)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0034",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Lateral Ankle Sprain"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0034-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0034",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 34,
+      "slide_number": 34,
+      "visual_type": "image",
+      "name": "Visual associated with: Lateral Ankle Sprain",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          410.047,
+          318.895,
+          636.799,
+          501.017
+        ],
+        "bbox_px": [
+          854.2643432617188,
+          664.3638916015625,
+          1326.663818359375,
+          1043.7845458984375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0034",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 34,
+        "page_number_type": "slide_number",
+        "slide_number": 34,
+        "pdf_page": 34,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 34 (PDF p. 34)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0034",
+        "HHS4185-L3-PART04",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Ligament Sprain",
+          "Lateral Ankle Sprain"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0035-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0035",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 35,
+      "slide_number": 35,
+      "visual_type": "image",
+      "name": "Visual associated with: Tendon / Muscle Strain",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          86.64,
+          190.56,
+          635.7,
+          269.82
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0035",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 35,
+        "page_number_type": "slide_number",
+        "slide_number": 35,
+        "pdf_page": 35,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 35 (PDF p. 35)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0035",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Tendon / Muscle Strain"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0037-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0037",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 37,
+      "slide_number": 37,
+      "visual_type": "image",
+      "name": "Visual associated with: Muscle Strain Injury Grading",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          471.18,
+          407.088,
+          691.575,
+          536.411
+        ],
+        "bbox_px": [
+          981.6241455078125,
+          848.0991821289062,
+          1440.78125,
+          1117.5220947265625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0037",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 37,
+        "page_number_type": "slide_number",
+        "slide_number": 37,
+        "pdf_page": 37,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 37 (PDF p. 37)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0037",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Muscle Strain Injury Grading"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0038-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0038",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          86.143,
+          386.727,
+          305.113,
+          531.992
+        ],
+        "bbox_px": [
+          179.46437072753906,
+          805.6815795898438,
+          635.653076171875,
+          1108.31689453125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0038",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0038",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0038-C0014",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0038",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 38,
+      "slide_number": 38,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          577.311,
+          332.375,
+          708.298,
+          520.479
+        ],
+        "bbox_px": [
+          1202.7315673828125,
+          692.447021484375,
+          1475.62109375,
+          1084.3304443359375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0038",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 38,
+        "page_number_type": "slide_number",
+        "slide_number": 38,
+        "pdf_page": 38,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 38 (PDF p. 38)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0038",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0040-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0040",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 40,
+      "slide_number": 40,
+      "visual_type": "image",
+      "name": "Visual associated with: Sick",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          2.721,
+          91.939,
+          715.47,
+          498.633
+        ],
+        "bbox_px": [
+          5.66934061050415,
+          191.53855895996094,
+          1490.5625,
+          1038.8193359375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0040",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 40,
+        "page_number_type": "slide_number",
+        "slide_number": 40,
+        "pdf_page": 40,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 40 (PDF p. 40)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0040",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Sick"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0042-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0042",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 42,
+      "slide_number": 42,
+      "visual_type": "image",
+      "name": "Visual associated with: Diagnosis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          458.44,
+          438.425,
+          620.847,
+          539.836
+        ],
+        "bbox_px": [
+          955.0831298828125,
+          913.3859252929688,
+          1293.43212890625,
+          1124.6583251953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0042",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 42,
+        "page_number_type": "slide_number",
+        "slide_number": 42,
+        "pdf_page": 42,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 42 (PDF p. 42)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0042",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Diagnosis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0043-C0013",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0043",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          550.024,
+          375.793,
+          719.892,
+          539.376
+        ],
+        "bbox_px": [
+          1145.8831787109375,
+          782.9020385742188,
+          1499.775634765625,
+          1123.69921875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0043",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0043",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0043-C0018",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0043",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          439.498,
+          379.928,
+          525.41,
+          534.312
+        ],
+        "bbox_px": [
+          915.6203002929688,
+          791.5172119140625,
+          1094.6046142578125,
+          1113.1505126953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0043",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0043",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0043-C0020",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0043",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 43,
+      "slide_number": 43,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          353.351,
+          379.734,
+          430.951,
+          534.363
+        ],
+        "bbox_px": [
+          736.1470947265625,
+          791.1128540039062,
+          897.8147583007812,
+          1113.256103515625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0043",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 43,
+        "page_number_type": "slide_number",
+        "slide_number": 43,
+        "pdf_page": 43,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 43 (PDF p. 43)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0043",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0044-C0007",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0044",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 44,
+      "slide_number": 44,
+      "visual_type": "image",
+      "name": "Visual associated with: Achilles Tendon Rupture",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          423.982,
+          396.284,
+          623.885,
+          526.083
+        ],
+        "bbox_px": [
+          883.2965698242188,
+          825.5924682617188,
+          1299.7608642578125,
+          1096.0054931640625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0044",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 44,
+        "page_number_type": "slide_number",
+        "slide_number": 44,
+        "pdf_page": 44,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 44 (PDF p. 44)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0044",
+        "HHS4185-L3-PART05",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tendon / Muscle Strain",
+          "Achilles Tendon Rupture"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0045-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0045",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 45,
+      "slide_number": 45,
+      "visual_type": "image",
+      "name": "Visual associated with: Muscle Contusion",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          151.56,
+          190.56,
+          570.66,
+          269.82
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0045",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 45,
+        "page_number_type": "slide_number",
+        "slide_number": 45,
+        "pdf_page": 45,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 45 (PDF p. 45)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0045",
+        "HHS4185-L3-PART06",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Muscle Contusion",
+          "Muscle Contusion"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0048-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0048",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 48,
+      "slide_number": 48,
+      "visual_type": "image",
+      "name": "Visual associated with: Metro Sports Physiotherapy -",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.69,
+          93.654,
+          719.439,
+          499.607
+        ],
+        "bbox_px": [
+          1.4380663633346558,
+          195.1132049560547,
+          1498.8321533203125,
+          1040.8470458984375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0048",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 48,
+        "page_number_type": "slide_number",
+        "slide_number": 48,
+        "pdf_page": 48,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 48 (PDF p. 48)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0048",
+        "HHS4185-L3-PART06",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Muscle Contusion",
+          "Metro Sports Physiotherapy -"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0049-C0011",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0049",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 49,
+      "slide_number": 49,
+      "visual_type": "image",
+      "name": "Visual associated with: Diagnosis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          458.443,
+          438.438,
+          620.861,
+          539.821
+        ],
+        "bbox_px": [
+          955.089111328125,
+          913.4134521484375,
+          1293.46142578125,
+          1124.626953125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0049",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 49,
+        "page_number_type": "slide_number",
+        "slide_number": 49,
+        "pdf_page": 49,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 49 (PDF p. 49)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0049",
+        "HHS4185-L3-PART06",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Muscle Contusion",
+          "Diagnosis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0053-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0053",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 53,
+      "slide_number": 53,
+      "visual_type": "image",
+      "name": "Visual associated with: Repetitive Strain Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          114.48,
+          184.44,
+          619.86,
+          263.94
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0053",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 53,
+        "page_number_type": "slide_number",
+        "slide_number": 53,
+        "pdf_page": 53,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 53 (PDF p. 53)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0053",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "Repetitive Strain Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0053-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0053",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 53,
+      "slide_number": 53,
+      "visual_type": "image",
+      "name": "Visual associated with: Repetitive Strain Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          289.92,
+          223.32,
+          432.42,
+          302.82
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0053",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 53,
+        "page_number_type": "slide_number",
+        "slide_number": 53,
+        "pdf_page": 53,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 53 (PDF p. 53)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0053",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "Repetitive Strain Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0053-C0003",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0053",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 53,
+      "slide_number": 53,
+      "visual_type": "image",
+      "name": "Visual associated with: Repetitive Strain Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          241.92,
+          262.08,
+          480.42,
+          341.58
+        ],
+        "bbox_px": null,
+        "coordinate_origin": "top-left",
+        "location_source": "mutool-trace-embedded-image-object"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0053",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 53,
+        "page_number_type": "slide_number",
+        "slide_number": 53,
+        "pdf_page": 53,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 53 (PDF p. 53)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0053",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "Repetitive Strain Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0055-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0055",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 55,
+      "slide_number": 55,
+      "visual_type": "chart",
+      "name": "Visual associated with: Vicious cycle of Repetitive Strain Injury",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          13.056,
+          2.378,
+          646.259,
+          506.207
+        ],
+        "bbox_px": [
+          27.19916343688965,
+          4.954677104949951,
+          1346.37255859375,
+          1054.5985107421875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0055",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 55,
+        "page_number_type": "slide_number",
+        "slide_number": 55,
+        "pdf_page": 55,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 55 (PDF p. 55)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0055",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "Vicious cycle of Repetitive Strain Injury"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0057-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0057",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 57,
+      "slide_number": 57,
+      "visual_type": "image",
+      "name": "Visual associated with: h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = G Wc O e E K - 6 z 4",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.195,
+          96.659,
+          719.851,
+          503.059
+        ],
+        "bbox_px": [
+          0.4068911075592041,
+          201.37246704101562,
+          1499.6900634765625,
+          1048.0401611328125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0057",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 57,
+        "page_number_type": "slide_number",
+        "slide_number": 57,
+        "pdf_page": 57,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 57 (PDF p. 57)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0057",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = G Wc O e E K - 6 z 4"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0058-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0058",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 58,
+      "slide_number": 58,
+      "visual_type": "image",
+      "name": "Visual associated with: h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = l O j G e Yd u Ys 0",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          0.354,
+          111.212,
+          719.841,
+          517.432
+        ],
+        "bbox_px": [
+          0.7369369268417358,
+          231.69146728515625,
+          1499.6695556640625,
+          1077.9832763671875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0058",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 58,
+        "page_number_type": "slide_number",
+        "slide_number": 58,
+        "pdf_page": 58,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 58 (PDF p. 58)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0058",
+        "HHS4185-L3-PART07",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Repetitive Strain Injury",
+          "h t t p s: / / w w w.y o u t u b e. c o m / w a t c h? v = l O j G e Yd u Ys 0"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0061-C0006",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0061",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 61,
+      "slide_number": 61,
+      "visual_type": "image",
+      "name": "Visual associated with: Carpal Tunnel Syndrome",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          397.262,
+          359.145,
+          695.328,
+          527.694
+        ],
+        "bbox_px": [
+          827.6289672851562,
+          748.2186279296875,
+          1448.5994873046875,
+          1099.36181640625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0061",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 61,
+        "page_number_type": "slide_number",
+        "slide_number": 61,
+        "pdf_page": 61,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 61 (PDF p. 61)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0061",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Carpal Tunnel Syndrome"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0062-C0000",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0062",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 62,
+      "slide_number": 62,
+      "visual_type": "image",
+      "name": "Visual associated with: Median Nerve",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          455.12,
+          365.754,
+          603.366,
+          537.722
+        ],
+        "bbox_px": [
+          948.1669921875,
+          761.988037109375,
+          1257.011474609375,
+          1120.2550048828125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0062",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 62,
+        "page_number_type": "slide_number",
+        "slide_number": 62,
+        "pdf_page": 62,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 62 (PDF p. 62)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0062",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Median Nerve"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0062-C0001",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0062",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 62,
+      "slide_number": 62,
+      "visual_type": "image",
+      "name": "Visual associated with: Median Nerve",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          65.333,
+          371.793,
+          304.798,
+          531.056
+        ],
+        "bbox_px": [
+          136.1100311279297,
+          774.568603515625,
+          634.9962768554688,
+          1106.3662109375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0062",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 62,
+        "page_number_type": "slide_number",
+        "slide_number": 62,
+        "pdf_page": 62,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 62 (PDF p. 62)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0062",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Median Nerve"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0063-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0063",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 63,
+      "slide_number": 63,
+      "visual_type": "image",
+      "name": "Visual associated with: Carpal Tunnel Syndrome",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          390.358,
+          361.353,
+          688.602,
+          530.47
+        ],
+        "bbox_px": [
+          813.2459716796875,
+          752.818603515625,
+          1434.5882568359375,
+          1105.1453857421875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0063",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 63,
+        "page_number_type": "slide_number",
+        "slide_number": 63,
+        "pdf_page": 63,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 63 (PDF p. 63)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0063",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Carpal Tunnel Syndrome"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0065-C0024",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0065",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 65,
+      "slide_number": 65,
+      "visual_type": "image",
+      "name": "Visual associated with: Diagnosis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          480.932,
+          480.807,
+          705.997,
+          540.0
+        ],
+        "bbox_px": [
+          1001.9425048828125,
+          1001.6814575195312,
+          1470.82763671875,
+          1125
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0065",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 65,
+        "page_number_type": "slide_number",
+        "slide_number": 65,
+        "pdf_page": 65,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 65 (PDF p. 65)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0065",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Diagnosis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0066-C0014",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0066",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 66,
+      "slide_number": 66,
+      "visual_type": "image",
+      "name": "Visual associated with: Management of CTS",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          561.986,
+          397.166,
+          706.939,
+          539.906
+        ],
+        "bbox_px": [
+          1170.8050537109375,
+          827.4284057617188,
+          1472.7886962890625,
+          1124.804931640625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0066",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 66,
+        "page_number_type": "slide_number",
+        "slide_number": 66,
+        "pdf_page": 66,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 66 (PDF p. 66)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0066",
+        "HHS4185-L3-PART08",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Carpal Tunnel Syndrome",
+          "Management of CTS"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0067-C0002",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0067",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 67,
+      "slide_number": 67,
+      "visual_type": "image",
+      "name": "Visual associated with: Trigger Finger",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          437.807,
+          271.932,
+          649.749,
+          488.892
+        ],
+        "bbox_px": [
+          912.0979614257812,
+          566.5239868164062,
+          1353.643798828125,
+          1018.525146484375
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0067",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 67,
+        "page_number_type": "slide_number",
+        "slide_number": 67,
+        "pdf_page": 67,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 67 (PDF p. 67)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0067",
+        "HHS4185-L3-PART09",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Trigger Finger",
+          "Trigger Finger"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0067-C0005",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0067",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 67,
+      "slide_number": 67,
+      "visual_type": "image",
+      "name": "Visual associated with: Trigger Finger",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          67.345,
+          364.818,
+          391.569,
+          457.063
+        ],
+        "bbox_px": [
+          140.3027801513672,
+          760.0382690429688,
+          815.769287109375,
+          952.2145385742188
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0067",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 67,
+        "page_number_type": "slide_number",
+        "slide_number": 67,
+        "pdf_page": 67,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 67 (PDF p. 67)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0067",
+        "HHS4185-L3-PART09",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Trigger Finger",
+          "Trigger Finger"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0071-C0009",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0071",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 71,
+      "slide_number": 71,
+      "visual_type": "image",
+      "name": "Visual associated with: Tennis elbow / Lateral epicondylitis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          399.875,
+          285.597,
+          687.681,
+          461.484
+        ],
+        "bbox_px": [
+          833.072021484375,
+          594.9927368164062,
+          1432.6678466796875,
+          961.424072265625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0071",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 71,
+        "page_number_type": "slide_number",
+        "slide_number": 71,
+        "pdf_page": 71,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 71 (PDF p. 71)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0071",
+        "HHS4185-L3-PART10",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Tennis elbow / Lateral epicondylitis",
+          "Tennis elbow / Lateral epicondylitis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0073-C0007",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0073",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 73,
+      "slide_number": 73,
+      "visual_type": "image",
+      "name": "Visual associated with: Plantar Fasciitis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          450.853,
+          319.781,
+          692.544,
+          513.327
+        ],
+        "bbox_px": [
+          939.2772216796875,
+          666.2106323242188,
+          1442.799072265625,
+          1069.430419921875
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0073",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 73,
+        "page_number_type": "slide_number",
+        "slide_number": 73,
+        "pdf_page": 73,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 73 (PDF p. 73)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0073",
+        "HHS4185-L3-PART11",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Plantar Fasciitis",
+          "Plantar Fasciitis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    },
+    {
+      "visual_id": "HHS4185-L3-VIS-P0075-C0008",
+      "table_id": null,
+      "document_id": "HHS4185-L3",
+      "source_page_id": "HHS4185-L3-P0075",
+      "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+      "pdf_page": 75,
+      "slide_number": 75,
+      "visual_type": "image",
+      "name": "Visual associated with: Signs & Symptoms of Plantar Fasciitis",
+      "caption": null,
+      "location": {
+        "bbox_points": [
+          432.562,
+          345.715,
+          623.883,
+          492.674
+        ],
+        "bbox_px": [
+          901.1714477539062,
+          720.2388305664062,
+          1299.7559814453125,
+          1026.4039306640625
+        ],
+        "coordinate_origin": "top-left",
+        "location_source": "paddle-layout-detection"
+      },
+      "policy": "metadata_only",
+      "status": "generated_not_verified",
+      "verification_status": "generated_not_verified",
+      "page_reference": {
+        "source_page_id": "HHS4185-L3-P0075",
+        "document_id": "HHS4185-L3",
+        "document_title": "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+        "source_file": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf",
+        "page_number": 75,
+        "page_number_type": "slide_number",
+        "slide_number": 75,
+        "pdf_page": 75,
+        "formatted": "HHS4185J_L3_軟組織問題_Soft tissue injuries.pdf, slide 75 (PDF p. 75)"
+      },
+      "section_ids": [
+        "HHS4185-L3-P0075",
+        "HHS4185-L3-PART11",
+        "HHS4185-L3",
+        "HHS4185-COURSE"
+      ],
+      "section_paths": [
+        [
+          "HHS4185 - Common Rehabilitation Conditions",
+          "Lecture 3 - Orthopaedic Soft Tissue Problems: Acute Sprain and Repetitive Stress Injury",
+          "Plantar Fasciitis",
+          "Signs & Symptoms of Plantar Fasciitis"
+        ]
+      ],
+      "table_reconstruction_available": false,
+      "table_reconstruction_source": null,
+      "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+    }
+  ],
+  "counts": {
+    "visuals": 47,
+    "tables": 1,
+    "non_tables": 46
+  },
+  "status": "generated_not_verified",
+  "verification_status": "generated_not_verified",
+  "source_id": "HHS4185-L3-SOFT-TISSUE-2026"
+}
