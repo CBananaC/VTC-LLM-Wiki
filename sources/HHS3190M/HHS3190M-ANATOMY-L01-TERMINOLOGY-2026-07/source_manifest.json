@@ -19,6 +19,16 @@
         "copy_status": "copied"
       }
     ],
+    "source_aliases": [
+      {
+        "file_name": "(1) Terminology for anatomy.pdf",
+        "original_path": "../Physiology & Anatomy/(2) Lectures/Anatomy/(1) Terminology for anatomy.pdf",
+        "size_bytes": 568184,
+        "sha256": "sha256:839fcb12ec60a51c8ca68699b9fd39b9d8a2c3fa2b78c72c2b2674c5c02caceb",
+        "relation": "byte_identical_alias_of_canonical_source",
+        "processed": false
+      }
+    ],
     "source_urls": [],
     "copy_source": true
   },
@@ -33,7 +43,7 @@
   "verification_status": "generated_not_verified",
   "status": "processed_generated_layers",
   "claims_index": "not_created",
-  "notes": "Canonical SHA-256-deduplicated anatomy terminology PDF; duplicate 16 is not processed.",
+  "notes": "Canonical SHA-256-deduplicated anatomy terminology PDF; the current Anatomy folder path is recorded as a byte-identical source alias and is not processed a second time.",
   "next_step": "Manually review representative slides, bullet nesting, visual bounding boxes, page references, and any table candidates before changing verification status.",
   "processing": {
     "workflow": "register -> inspect -> embedded text and PaddleOCR OCR/layout -> English slide blocks -> visual inventory -> table detection/reconstruction -> slide/part/document/course summaries and keywords -> retrieval index",
