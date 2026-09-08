@@ -25,3 +25,5 @@ reading-order passage.
 All generated records remain `generated_not_verified` until source-page review.
 
 Validation counts: `{"concepts": 296, "documents": 1, "occurrences": 569, "pages": 81, "parts": 12, "passages": 81, "tables": 1, "terms": 319, "visuals": 47}`
+
+The current course-folder file `../Rehabilitation Conditions/(2) Lectures/(3) Soft tissue injuries.pdf` is a byte-identical SHA-256 alias of the canonical source already stored in this package. It was not copied or processed a second time; see `source_manifest.json` and `source_registry.json` for the alias record.
