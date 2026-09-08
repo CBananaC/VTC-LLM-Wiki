@@ -180,8 +180,8 @@ CONFIGS: dict[str, dict[str, object]] = {
         ],
     },
     "HHS3190M-ANATOMY-L01-TERMINOLOGY-2026-07": {
-        "filename": "15 - J L1 Terminology for anatomy.pdf",
-        "relative": "02 Lectures/15 - J L1 Terminology for anatomy.pdf",
+        "filename": "(1) Terminology for anatomy.pdf",
+        "relative": "(2) Lectures/Anatomy/(1) Terminology for anatomy.pdf",
         "stem": "hhs3190m_anatomy_l01",
         "lecture_number": 1,
         "title": "Anatomy L1 - Terminology for Anatomy (July 2026)",
