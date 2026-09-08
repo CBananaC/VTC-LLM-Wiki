@@ -950,6 +950,16 @@
           "copy_status": "copied"
         }
       ],
+      "source_aliases": [
+        {
+          "file_name": "(1) Terminology for anatomy.pdf",
+          "original_path": "../Physiology & Anatomy/(2) Lectures/Anatomy/(1) Terminology for anatomy.pdf",
+          "size_bytes": 568184,
+          "sha256": "sha256:839fcb12ec60a51c8ca68699b9fd39b9d8a2c3fa2b78c72c2b2674c5c02caceb",
+          "relation": "byte_identical_alias_of_canonical_source",
+          "processed": false
+        }
+      ],
       "source_urls": [],
       "verification_status": "generated_not_verified",
       "claims_index": "not_created",
