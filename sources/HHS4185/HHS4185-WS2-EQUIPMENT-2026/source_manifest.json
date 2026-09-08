@@ -19,6 +19,16 @@
         "copy_status": "copied"
       }
     ],
+    "source_aliases": [
+      {
+        "file_name": "(3) Rehabilitation equipment 2.pdf",
+        "original_path": "../Rehabilitation Conditions/(3) Workshops/(3) Rehabilitation equipment 2.pdf",
+        "size_bytes": 885017,
+        "sha256": "sha256:a5a57d4cb76dfc884666cf5285694bbdd48e1aba040a3f6fcc755e09dc3fb511",
+        "relation": "byte_identical_alias_of_canonical_source",
+        "processed": false
+      }
+    ],
     "source_urls": [],
     "copy_source": true
   },
@@ -33,7 +43,7 @@
   "verification_status": "generated_not_verified",
   "status": "generated_not_verified",
   "claims_index": "not_created",
-  "notes": "Bilingual AY2627 workshop deck. Retain bilingual raw source; derive English-only reading-order text, preserved point form, visual locations, tables, summaries, and retrieval records.",
+  "notes": "Bilingual AY2627 workshop deck. Retain bilingual raw source; derive English-only reading-order text, preserved point form, visual locations, tables, summaries, and retrieval records. The current (3) Workshops path is recorded as a byte-identical source alias and is not processed a second time.",
   "next_step": "Manually check representative source pages, exact quotations, visual locations, and table reconstructions before promoting any generated record to verified.",
   "processed_at_hkt": "2026-09-06T11:52:45+08:00",
   "generated_files": {

@@ -60,3 +60,5 @@ clean text, keywords, summaries, visual records, and retrieval results remain
 `generated_not_verified` until manual source-page review.
 
 Validation counts: `{"concepts": 89, "documents": 1, "occurrences": 156, "pages": 27, "parts": 6, "passages": 27, "tables": 0, "terms": 91, "visuals": 13}`
+
+The current course-folder file `../Rehabilitation Conditions/(3) Workshops/(3) Rehabilitation equipment 2.pdf` is a byte-identical SHA-256 alias of the canonical source already stored in this package. It was not copied or processed a second time; see `source_manifest.json` and `source_registry.json` for the alias record.
