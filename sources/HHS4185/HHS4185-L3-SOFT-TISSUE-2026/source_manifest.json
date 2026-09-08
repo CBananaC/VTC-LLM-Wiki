@@ -19,6 +19,16 @@
         "copy_status": "copied"
       }
     ],
+    "source_aliases": [
+      {
+        "file_name": "(3) Soft tissue injuries.pdf",
+        "original_path": "../Rehabilitation Conditions/(2) Lectures/(3) Soft tissue injuries.pdf",
+        "size_bytes": 5010371,
+        "sha256": "sha256:71ca6df10ef59affc1196c74f4ac2eccc313debdcffecd7f7e37ec10502ff618",
+        "relation": "byte_identical_alias_of_canonical_source",
+        "processed": false
+      }
+    ],
     "source_urls": [],
     "copy_source": true
   },
@@ -33,7 +43,7 @@
   "verification_status": "generated_not_verified",
   "status": "generated_not_verified",
   "claims_index": "not_created",
-  "notes": "Bilingual lecture deck; retain the raw bilingual PDF and build English-only derived reading-order, analysis, and retrieval layers.",
+  "notes": "Bilingual lecture deck; retain the raw bilingual PDF and build English-only derived reading-order, analysis, and retrieval layers. The current (2) Lectures path is recorded as a byte-identical source alias and is not processed a second time.",
   "next_step": "Manually check representative source pages, exact quotations, visual locations, and table reconstructions before promoting any generated record to verified.",
   "processed_at_hkt": "2026-09-06T12:08:16+08:00",
   "generated_files": {
